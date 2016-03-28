@@ -1,0 +1,6 @@
+apply plugin: 'checkstyle'
+
+checkstyle {
+    configFile = new File(rootDir, 'checkstyle.xml')
+    toolVersion = '6.7'
+}

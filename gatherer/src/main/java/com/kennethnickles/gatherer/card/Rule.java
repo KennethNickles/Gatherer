@@ -22,7 +22,11 @@ public class Rule implements Parcelable {
 
     Builder mState;
 
-    Rule(Builder builder) {
+    Rule() {
+        // Postman
+    }
+
+    private Rule(Builder builder) {
         this.mState = builder;
     }
 
@@ -64,6 +68,7 @@ public class Rule implements Parcelable {
         String mRuleText;
 
         Builder() {
+            // Postman
         }
 
         public Builder withManaSymbols(@NonNull ArrayList<Symbol> symbols) {

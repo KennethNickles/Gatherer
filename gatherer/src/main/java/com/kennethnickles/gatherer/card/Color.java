@@ -9,12 +9,12 @@ import java.util.Set;
  */
 public enum Color {
 
-    BLACK("B"),
-    BLUE("U"),
-    GREEN("G"),
-    RED("R"),
-    WHITE("W"),
-    COLORLESS("C");
+    black("B"),
+    blue("U"),
+    green("G"),
+    red("R"),
+    white("W"),
+    colorless("C");
 
     private final String mName;
 

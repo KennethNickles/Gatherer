@@ -1,6 +1,7 @@
 package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+
 import com.google.common.base.Strings;
 import com.kennethnickles.gatherer.util.EnumUtils;
 
@@ -10,22 +11,25 @@ import com.kennethnickles.gatherer.util.EnumUtils;
  */
 public enum Format {
 
-    // TODO: Remove name
-    BLOCK("Block"),
-    STANDARD("Standard"),
-    MODERN("Modern"),
-    COMMANDER("Commander"),
-    LEGACY("Legacy"),
-    VINTAGE("Vintage"),
-    BOOSTER_DRAFT("Booster Draft"),
-    SEALED_DECK("Sealed Deck"),
-    TWO_HEADED_GIANT("Two-Headed Giant"),
-    TEAM_UNIFIED_CONSTRUCT("Team Unified Construct"),
-    TEAM_LIMITED("Team Limited"),
-    TEAM_BOOSTER_DRAFT("Team Booster Draft"),
-    TEAM_SEALED_DRAFT("Team Sealed Draft");
+    block(),
+    standard(),
+    modern(),
+    commander(),
+    legacy(),
+    vintage(),
+    booster_draft("booster draft"),
+    sealed_deck("sealed deck"),
+    two_headed_giant("two-headed giant"),
+    team_unified_construct("team unified construct"),
+    team_limited("team limited"),
+    team_booster_draft("team booster draft"),
+    team_sealed_draft("team sealed draft");
 
     private final String mName;
+
+    Format() {
+        this.mName = name();
+    }
 
     Format(String name) {
         this.mName = name;

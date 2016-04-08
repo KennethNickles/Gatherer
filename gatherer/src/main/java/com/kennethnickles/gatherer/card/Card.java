@@ -6,7 +6,16 @@ import android.support.annotation.NonNull;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 import com.google.common.primitives.Chars;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonDeserializationContext;
+import com.google.gson.JsonDeserializer;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParseException;
+import com.google.gson.JsonPrimitive;
+import com.kennethnickles.gatherer.util.GsonUtils;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
 
@@ -14,7 +23,9 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * @author kenneth.nickles
@@ -24,8 +35,6 @@ import java.util.List;
 public class Card implements Parcelable {
 
     public static final Creator<Card> CREATOR = Postman.getCreator(Card.class);
-
-    private static final String GATHERER_URL = "http://gatherer.wizards.com/";
 
     protected Builder mState;
 
@@ -37,28 +46,44 @@ public class Card implements Parcelable {
         this.mState = builder;
     }
 
+    public void setState(Builder state) {
+        this.mState = state;
+    }
+
     public String getName() {
         return mState.mName;
+    }
+
+    public String getId() {
+        return mState.mId;
+    }
+
+    public String getUrl() {
+        return mState.mUrl;
+    }
+
+    public String getStoreUrl() {
+        return mState.mStoreUrl;
     }
 
     public List<Rule> getRules() {
         return mState.mRules;
     }
 
+    public List<Supertype> getSupertypes() {
+        return mState.mSupertypes;
+    }
+
     public List<Type> getTypes() {
         return mState.mTypes;
     }
 
-    public List<String> getSubtypes() {
+    public List<Subtype> getSubtypes() {
         return mState.mSubtypes;
     }
 
-    public String getExpansion() {
-        return mState.mExpansion;
-    }
-
-    public Format getFormat() {
-        return mState.mFormat;
+    public Map<Format, Boolean> getFormats() {
+        return mState.mFormats;
     }
 
     public List<Symbol> getSymbols() {
@@ -77,53 +102,42 @@ public class Card implements Parcelable {
         return mState.mToughness;
     }
 
-    public String getFlavorText() {
-        return mState.mFlavorText;
-    }
-
-    public String getMark() {
-        return mState.mMark;
-    }
-
-    public String getArtist() {
-        return mState.mArtist;
-    }
-
-    public String getBlock() {
-        return mState.mBlock;
-    }
-
-    public Rarity getRarity() {
-        return mState.mRarity;
-    }
-
-    public String getArtUrl() {
-        return mState.mArtUrl;
+    public List<Edition> getEditions() {
+        return mState.mEditions;
     }
 
     public static Card parse(@NonNull Element element) {
         Preconditions.checkArgument(element != null, "Element");
         return new Builder().withName(parseName(element))
+                            .withId(parseId(element))
+                            .withUrl(parseUrl(element))
+                            .withStoreUrl(parseStoreUrl(element))
                             .withRules(parseRules(element))
-                            .withExpansion(parseExpansion(element))
-                            .withFormat(parseFormat(element))
+                            .withFormat(parseFormat(element), true)
                             .withTypes(parseTypes(element))
                             .withSubtypes(parseSubtypes(element))
                             .withSymbols(parseManaSymbols(element))
                             .withConvertedManaCost(parseConvertedManaCost(element))
                             .withPower(parsePower(element))
                             .withToughness(parseToughness(element))
-                            .withFlavorText(parseFlavorText(element))
-                            .withMark(parseMark(element))
-                            .withArtist(parseArtist(element))
-                            .withBlock(parseBlock(element))
-                            .withRarity(parseRarity(element))
-                            .withArtUrl(parseArtUrl(element))
+                            .withEdition(parseEdition(element))
                             .build();
     }
 
     private static String parseName(Element element) {
         return element.getElementsByClass("cardTitle").first().getElementsByTag("a").text();
+    }
+
+    private static String parseId(Element element) {
+        return null;
+    }
+
+    private static String parseUrl(Element element) {
+        return null;
+    }
+
+    private static String parseStoreUrl(Element element) {
+        return null;
     }
 
     private static ArrayList<Rule> parseRules(Element element) {
@@ -137,7 +151,7 @@ public class Card implements Parcelable {
                 symbols.add(Symbol.from(alt));
             }
             rules.add(Rule.builder()
-                          .withManaSymbols(symbols)
+                          .withSymbols(symbols)
                           .withConvertedManaCost(0)
                           .withRuleText(ruleElement.text())
                           .build());
@@ -252,6 +266,10 @@ public class Card implements Parcelable {
         return -1;
     }
 
+    private static Edition parseEdition(Element element) {
+        return null;
+    }
+
     private static String parseFlavorText(Element element) {
         return null;
     }
@@ -280,10 +298,10 @@ public class Card implements Parcelable {
     }
 
     private static String parseArtUrl(Element element) {
-        return GATHERER_URL + element.getElementsByTag("img")
-                                     .first()
-                                     .attr("src")
-                                     .replace("../", "");
+        return "" + element.getElementsByTag("img")
+                           .first()
+                           .attr("src")
+                           .replace("../", "");
     }
 
     @Override
@@ -301,48 +319,91 @@ public class Card implements Parcelable {
 
         public static final Creator<Builder> CREATOR = Postman.getCreator(Builder.class);
 
-        ArrayList<Symbol> mSymbols = Lists.newArrayList();
-        ArrayList<Type> mTypes = Lists.newArrayList();
-        ArrayList<String> mSubtypes = Lists.newArrayList();
-        ArrayList<Rule> mRules = Lists.newArrayList();
         String mName;
-        String mExpansion;
-        Format mFormat;
+        String mId;
+        String mUrl;
+        String mStoreUrl;
+        ArrayList<Supertype> mSupertypes = Lists.newArrayList();
+        ArrayList<Type> mTypes = Lists.newArrayList();
+        ArrayList<Subtype> mSubtypes = Lists.newArrayList();
         int mConvertedManaCost;
+        ArrayList<Symbol> mSymbols = Lists.newArrayList();
+        ArrayList<Rule> mRules = Lists.newArrayList();
         int mPower;
         int mToughness;
-        String mFlavorText;
-        String mMark;
-        String mArtist;
-        String mBlock;
-        Rarity mRarity;
-        String mArtUrl;
+        HashMap<Format, Boolean> mFormats = Maps.newHashMap();
+        ArrayList<Edition> mEditions = Lists.newArrayList();
 
         protected Builder() {
         }
 
         @NonNull
-        public B withName(String name) {
+        public B withName(@NonNull String name) {
             this.mName = name;
             return getThis();
         }
 
-        public B withRule(ArrayList<Symbol> symbols, int convertedManaCost, String ruleText) {
+        @NonNull
+        public B withId(@NonNull String id) {
+            this.mId = id;
+            return getThis();
+        }
+
+        @NonNull
+        public B withUrl(@NonNull String url) {
+            this.mUrl = url;
+            return getThis();
+        }
+
+        @NonNull
+        public B withStoreUrl(@NonNull String storeUrl) {
+            this.mStoreUrl = storeUrl;
+            return getThis();
+        }
+
+        public B withRule(@NonNull ArrayList<Symbol> symbols,
+                          int convertedManaCost,
+                          @NonNull String ruleText) {
             this.mRules.add(Rule.builder()
-                                .withManaSymbols(symbols)
+                                .withSymbols(symbols)
                                 .withConvertedManaCost(convertedManaCost)
                                 .withRuleText(ruleText)
                                 .build());
             return getThis();
         }
 
-        public B withRules(ArrayList<Rule> rules) {
-            this.mRules = rules;
+        public B withSupertypes(ArrayList<Supertype> supertypes) {
+            this.mSupertypes = supertypes;
             return getThis();
         }
 
-        public B withExpansion(String expansion) {
-            this.mExpansion = expansion;
+        public B withSupertypes(JsonArray jsonArray) {
+            if (jsonArray == null) {
+                return getThis();
+            }
+            for (JsonElement jsonElement : jsonArray) {
+                withSupertype(jsonElement.getAsString());
+            }
+            return getThis();
+        }
+
+        public B withSupertype(String supertype) {
+            this.mSupertypes.add(Supertype.from(supertype));
+            return getThis();
+        }
+
+        public B withSupertype(Supertype supertype) {
+            this.mSupertypes.add(supertype);
+            return getThis();
+        }
+
+        public B withTypes(JsonArray jsonArray) {
+            if (jsonArray == null) {
+                return getThis();
+            }
+            for (JsonElement jsonElement : jsonArray) {
+                withType(jsonElement.getAsString());
+            }
             return getThis();
         }
 
@@ -351,18 +412,96 @@ public class Card implements Parcelable {
             return getThis();
         }
 
-        public B withSubtypes(ArrayList<String> subtypes) {
+        public B withType(String type) {
+            this.mTypes.add(Type.from(type));
+            return getThis();
+        }
+
+        public B withType(Type type) {
+            this.mTypes.add(type);
+            return getThis();
+        }
+
+        public B withSubtypes(ArrayList<Subtype> subtypes) {
             this.mSubtypes = subtypes;
             return getThis();
         }
 
-        public B withFormat(String format) {
-            this.mFormat = Format.from(format);
+        public B withSubtypes(JsonArray jsonArray) {
+            if (jsonArray == null) {
+                return getThis();
+            }
+            for (JsonElement jsonElement : jsonArray) {
+                withSubtype(jsonElement.getAsString());
+            }
             return getThis();
         }
 
-        public B withFormat(Format format) {
-            this.mFormat = format;
+        public B withSubtype(String type) {
+            this.mSubtypes.add(Subtype.from(type));
+            return getThis();
+        }
+
+        public B withSubtype(Subtype subtype) {
+            this.mSubtypes.add(subtype);
+            return getThis();
+        }
+
+        public B withFormats(HashMap<Format, Boolean> formats) {
+            this.mFormats = formats;
+            return getThis();
+        }
+
+        public B withFormats(JsonObject jsonObject) {
+            if (jsonObject == null) {
+                return getThis();
+            }
+            if (jsonObject.has("block")) {
+                withFormat(Format.block, true);
+            }
+            if (jsonObject.has("standard")) {
+                withFormat(Format.standard, true);
+            }
+            if (jsonObject.has("modern")) {
+                withFormat(Format.modern, true);
+            }
+            if (jsonObject.has("commander")) {
+                withFormat(Format.commander, true);
+            }
+            if (jsonObject.has("legacy")) {
+                withFormat(Format.legacy, true);
+            }
+            if (jsonObject.has("booster_draft")) {
+                withFormat(Format.booster_draft, true);
+            }
+            if (jsonObject.has("sealed_deck")) {
+                withFormat(Format.sealed_deck, true);
+            }
+            if (jsonObject.has("two_headed_giant")) {
+                withFormat(Format.two_headed_giant, true);
+            }
+            if (jsonObject.has("team_unified_construct")) {
+                withFormat(Format.team_unified_construct, true);
+            }
+            if (jsonObject.has("team_limited")) {
+                withFormat(Format.team_limited, true);
+            }
+            if (jsonObject.has("team_booster_draft")) {
+                withFormat(Format.team_booster_draft, true);
+            }
+            if (jsonObject.has("team_sealed_draft")) {
+                withFormat(Format.team_sealed_draft, true);
+            }
+            return getThis();
+        }
+
+        public B withFormat(String format, boolean isValid) {
+            this.mFormats.put(Format.from(format), isValid);
+            return getThis();
+        }
+
+        public B withFormat(Format format, boolean isValid) {
+            this.mFormats.put(format, isValid);
             return getThis();
         }
 
@@ -371,8 +510,36 @@ public class Card implements Parcelable {
             return getThis();
         }
 
+        public B withSymbols(String symbol) {
+            this.mSymbols.add(Symbol.from(symbol));
+            return getThis();
+        }
+
+        public B withSymbol(Symbol symbol) {
+            this.mSymbols.add(symbol);
+            return getThis();
+        }
+
+        public B withRules(ArrayList<Rule> rules) {
+            this.mRules = rules;
+            return getThis();
+        }
+
+        public B withRule(@NonNull Rule rule) {
+            this.mRules.add(rule);
+            return getThis();
+        }
+
         public B withConvertedManaCost(int convertedManaCost) {
             this.mConvertedManaCost = convertedManaCost;
+            return getThis();
+        }
+
+        public B withConvertedManaCost(JsonPrimitive jsonPrimitive) {
+            if (jsonPrimitive == null) {
+                return getThis();
+            }
+            this.mConvertedManaCost = jsonPrimitive.getAsInt();
             return getThis();
         }
 
@@ -381,43 +548,34 @@ public class Card implements Parcelable {
             return getThis();
         }
 
+        public B withPower(JsonPrimitive jsonPrimitive) {
+            if (jsonPrimitive == null) {
+                return getThis();
+            }
+            this.mPower = jsonPrimitive.getAsInt();
+            return getThis();
+        }
+
         public B withToughness(int toughness) {
             this.mToughness = toughness;
             return getThis();
         }
 
-        public B withFlavorText(String flavorText) {
-            this.mFlavorText = flavorText;
+        public B withToughness(JsonPrimitive jsonPrimitive) {
+            if (jsonPrimitive == null) {
+                return getThis();
+            }
+            this.mToughness = jsonPrimitive.getAsInt();
             return getThis();
         }
 
-        public B withMark(String mark) {
-            this.mMark = mark;
+        public B withEditions(@NonNull ArrayList<Edition> editions) {
+            this.mEditions = editions;
             return getThis();
         }
 
-        public B withArtist(String artist) {
-            this.mArtist = artist;
-            return getThis();
-        }
-
-        public B withBlock(String block) {
-            this.mBlock = block;
-            return getThis();
-        }
-
-        public B withRarity(Rarity rarity) {
-            this.mRarity = rarity;
-            return getThis();
-        }
-
-        public B withRarity(String rarity) {
-            this.mRarity = Rarity.from(rarity);
-            return getThis();
-        }
-
-        public B withArtUrl(String artUrl) {
-            this.mArtUrl = artUrl;
+        public B withEdition(@NonNull Edition edition) {
+            this.mEditions.add(edition);
             return getThis();
         }
 
@@ -444,6 +602,66 @@ public class Card implements Parcelable {
         @Override
         public void writeToParcel(Parcel dest, int flags) {
             Postman.writeToParcel(this, dest);
+        }
+    }
+
+    public static class Deserializer implements JsonDeserializer<Card> {
+
+        @Override
+        public Card deserialize(JsonElement json,
+                                java.lang.reflect.Type typeOfT,
+                                JsonDeserializationContext context) throws JsonParseException {
+            final Builder builder = new Builder();
+            final JsonObject jsonObject = json.getAsJsonObject();
+            if (GsonUtils.isNonNull(jsonObject.get("name"))) {
+                builder.withName(jsonObject.get("name").getAsString());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("id"))) {
+                builder.withId(jsonObject.get("id").getAsString());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("url"))) {
+                builder.withUrl(jsonObject.get("url").getAsString());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("store_url"))) {
+                builder.withStoreUrl(jsonObject.get("store_url").getAsString());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("supertypes"))) {
+                builder.withSupertypes(jsonObject.get("supertypes").getAsJsonArray());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("types"))) {
+                builder.withTypes(jsonObject.get("types").getAsJsonArray());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("subtypes"))) {
+                builder.withSubtypes(jsonObject.get("subtypes").getAsJsonArray());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("cmc"))) {
+                builder.withConvertedManaCost(jsonObject.get("cmc").getAsInt());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("cost"))) {
+                builder.withSymbols(new Symbol.CostSymbolDeserializer().deserialize(json,
+                                                                                    typeOfT,
+                                                                                    context));
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("power"))) {
+                builder.withPower(jsonObject.get("power").getAsInt());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("toughness"))) {
+                builder.withToughness(jsonObject.get("toughness").getAsInt());
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("formats"))) {
+                builder.withFormats(json.getAsJsonObject().getAsJsonObject("formats"));
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("text"))) {
+                builder.withRules(new Rule.Deserializer().deserialize(json,
+                                                                      typeOfT,
+                                                                      context));
+            }
+            if (GsonUtils.isNonNull(jsonObject.get("editions"))) {
+                builder.withEditions(new Edition.Deserializer().deserialize(json,
+                                                                            typeOfT,
+                                                                            context));
+            }
+            return builder.build();
         }
     }
 }

@@ -1,11 +1,19 @@
 package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+
 import com.google.common.base.Strings;
 import com.google.common.collect.Lists;
+import com.google.gson.JsonDeserializationContext;
+import com.google.gson.JsonDeserializer;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParseException;
 import com.kennethnickles.gatherer.util.EnumUtils;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * @author kenneth.nickles
@@ -13,44 +21,55 @@ import java.util.List;
  */
 public enum Symbol {
 
-    BLACK("Black"),
-    BLUE("Blue"),
-    GREEN("Green"),
-    RED("Red"),
-    WHITE("White"),
-    COLORLESS("Colorless"),
-    VARIABLE_COLORLESS("Variable Colorless"),
-    WHITE_OR_BLACK("White or Black"),
-    TAP("Tap"),
-    ONE("1"),
-    TWO("2"),
-    THREE("3"),
-    FOUR("4"),
-    FIVE("5"),
-    SIX("6"),
-    SEVEN("7"),
-    EIGHT("8"),
-    NINE("9"),
-    TEN("10"),
-    ELEVEN("11"),
-    TWELVE("12"),
-    THIRTEEN("13"),
-    FOURTEEN("14"),
-    FIFTEEN("15"),
-    SIXTEEN("16"),
-    SEVENTEEN("17"),
-    EIGHTEEN("18"),
-    NINETEEN("19"),
-    TWENTY("20");
+    black("B"),
+    blue("U"),
+    green("G"),
+    red("R"),
+    white("White", "W"),
+    colorless("Colorless", "C"),
+    variable_colorless("Variable Colorless", "X"),
+    white_or_back("White or Black"),
+    tap("Tap"),
+    one("1"),
+    two("2"),
+    three("3"),
+    four("4"),
+    five("5"),
+    six("6"),
+    seven("7"),
+    eight("8"),
+    nine("9"),
+    ten("10"),
+    eleven("11"),
+    twelve("12"),
+    thirteen("13"),
+    fourteen("14"),
+    fifteen("15"),
+    sixteen("16"),
+    seventeen("17"),
+    eighteen("18"),
+    nineteen("19"),
+    twenty("20");
 
     String mName;
+    String mSymbol;
 
-    Symbol(String name) {
+    Symbol(String symbol) {
+        this.mName = symbol;
+        this.mSymbol = symbol;
+    }
+
+    Symbol(String name, String symbol) {
         this.mName = name;
+        this.mSymbol = symbol;
     }
 
     public String getName() {
         return mName;
+    }
+
+    public String getSymbol() {
+        return mSymbol;
     }
 
     @Nullable
@@ -60,6 +79,9 @@ public enum Symbol {
         }
         for (Symbol symbol : values()) {
             if (EnumUtils.sanitize(symbol.getName()).equals(EnumUtils.sanitize(lookup))) {
+                return symbol;
+            }
+            if (EnumUtils.sanitize(symbol.getSymbol()).equals(EnumUtils.sanitize(lookup))) {
                 return symbol;
             }
         }
@@ -76,5 +98,50 @@ public enum Symbol {
             symbols.add(from(lookup));
         }
         return symbols;
+    }
+
+    public static class CostSymbolDeserializer implements JsonDeserializer<ArrayList<Symbol>> {
+
+        @Override
+        public ArrayList<Symbol> deserialize(JsonElement json,
+                                             java.lang.reflect.Type typeOfT,
+                                             JsonDeserializationContext context)
+                throws JsonParseException {
+            final ArrayList<Symbol> symbols = Lists.newArrayList();
+            final String text = json.getAsJsonObject().get("cost").getAsString();
+            final String regex = "\\{(.*?)\\}";
+            final Pattern pattern = Pattern.compile(regex);
+            final Matcher matcher = pattern.matcher(text);
+            while (matcher.find()) {
+                symbols.add(Symbol.from(text.substring(matcher.start(), matcher.end())));
+            }
+            return symbols;
+        }
+    }
+
+    public static class RuleSymbolDeserializer implements JsonDeserializer<ArrayList<Symbol>> {
+
+        final int mLineNumber;
+
+        public RuleSymbolDeserializer(int lineNumber) {
+            this.mLineNumber = lineNumber;
+        }
+
+        @Override
+        public ArrayList<Symbol> deserialize(JsonElement json,
+                                             java.lang.reflect.Type typeOfT,
+                                             JsonDeserializationContext context)
+                throws JsonParseException {
+            final ArrayList<Symbol> symbols = Lists.newArrayList();
+            final String text = json.getAsJsonObject().get("text").getAsString();
+            final String regex = "\\{(.*?)\\}";
+            final Pattern pattern = Pattern.compile(regex);
+            final String line = text.split("\n")[mLineNumber];
+            final Matcher matcher = pattern.matcher(line);
+            while (matcher.find()) {
+                symbols.add(Symbol.from(line.substring(matcher.start(), matcher.end())));
+            }
+            return symbols;
+        }
     }
 }

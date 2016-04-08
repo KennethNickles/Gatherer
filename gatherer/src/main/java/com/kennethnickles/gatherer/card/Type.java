@@ -1,6 +1,7 @@
 package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+
 import com.google.common.base.Strings;
 import com.google.common.collect.Lists;
 import com.kennethnickles.gatherer.util.EnumUtils;
@@ -13,34 +14,19 @@ import java.util.List;
  */
 public enum Type {
 
-    ARTIFACT("Artifact"),
-    BASIC("Basic"),
-    CONSPIRACY("Conspiracy"),
-    CREATURE("Creature"),
-    ENCHANTMENT("Enchantment"),
-    INSTANT("Instant"),
-    LAND("Land"),
-    LEGENDARY("Legendary"),
-    ONGOING("Ongoing"),
-    PHENOMENON("Phenomenon"),
-    PLANE("Plane"),
-    PLANESWALKER("Planeswalker"),
-    SCHEME("Scheme"),
-    SNOW("Snow"),
-    SORCERY("Sorcery"),
-    TRIBAL("Tribal"),
-    VANGUARD("Vanguard"),
-    WORLD("World");
-
-    String mName;
-
-    Type(String name) {
-        this.mName = name;
-    }
-
-    public String getName() {
-        return mName;
-    }
+    artifact,
+    conspiracy,
+    creature,
+    enchantment,
+    instant,
+    land,
+    phenomenon,
+    plane,
+    planeswalker,
+    scheme,
+    sorcery,
+    tribal,
+    vanguard;
 
     @Nullable
     public static Type from(String lookup) {
@@ -48,7 +34,7 @@ public enum Type {
             return null;
         }
         for (Type type : values()) {
-            if (EnumUtils.sanitize(type.getName()).equals(EnumUtils.sanitize(lookup))) {
+            if (EnumUtils.sanitize(type.name()).equals(EnumUtils.sanitize(lookup))) {
                 return type;
             }
         }

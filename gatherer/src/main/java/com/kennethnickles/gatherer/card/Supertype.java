@@ -1,6 +1,7 @@
 package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+
 import com.google.common.base.Strings;
 import com.google.common.collect.Lists;
 import com.kennethnickles.gatherer.util.EnumUtils;
@@ -9,34 +10,35 @@ import java.util.List;
 
 /**
  * @author kenneth.nickles
- * @since 2015-06-28.
+ * @since 2016-04-04.
  */
-public enum Rarity {
+public enum Supertype {
 
-    common,
-    uncommon,
-    mythic,
-    rare;
+    basic,
+    legendary,
+    ongoing,
+    snow,
+    world;
 
     @Nullable
-    public static Rarity from(String lookup) {
+    public static Supertype from(String lookup) {
         if (Strings.isNullOrEmpty(lookup)) {
             return null;
         }
-        for (Rarity rarity : values()) {
-            if (EnumUtils.sanitize(rarity.name()).equals(EnumUtils.sanitize(lookup))) {
-                return rarity;
+        for (Supertype supertype : values()) {
+            if (EnumUtils.sanitize(supertype.name()).equals(EnumUtils.sanitize(lookup))) {
+                return supertype;
             }
         }
         return null;
     }
 
     @Nullable
-    public static List<Rarity> from(List<String> lookups) {
+    public static List<Supertype> from(List<String> lookups) {
         if (lookups == null || lookups.isEmpty()) {
             return Lists.newArrayList();
         }
-        final List<Rarity> types = Lists.newArrayList();
+        final List<Supertype> types = Lists.newArrayList();
         for (String lookup : lookups) {
             types.add(from(lookup));
         }

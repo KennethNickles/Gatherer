@@ -4,6 +4,7 @@ import android.support.annotation.NonNull;
 
 import com.google.common.base.Preconditions;
 import com.kennethnickles.gatherer.card.Card;
+import com.kennethnickles.gatherer.parser.HtmlScraperFactory;
 import com.kennethnickles.gatherer.server.GathererRequest;
 
 import java.util.List;
@@ -19,7 +20,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 public class Gatherer {
 
-    // TODO: For redundancy we should still try to hit the gatherer on failure
+    /**
+     * Hits DeckBrew Api
+     */
     public static void cards(@NonNull GathererRequest request, Callback<List<Card>> callback) {
         Preconditions.checkArgument(request != null, "GathererRequest");
         final Retrofit retrofit = new Retrofit.Builder()
@@ -32,6 +35,9 @@ public class Gatherer {
         cards.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void card(@NonNull String id, Callback<Card> callback) {
         Preconditions.checkArgument(id != null, "id");
         final Retrofit retrofit = new Retrofit.Builder()
@@ -44,6 +50,9 @@ public class Gatherer {
         card.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void typeahead(@NonNull String query, Callback<List<Card>> callback) {
         Preconditions.checkArgument(query != null, "query");
         final Retrofit retrofit = new Retrofit.Builder()
@@ -57,6 +66,9 @@ public class Gatherer {
 
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void sets(Callback<List<String>> callback) {
         final Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://deckbrew.com/api/")
@@ -68,6 +80,9 @@ public class Gatherer {
         sets.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void types(Callback<List<String>> callback) {
         final Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://deckbrew.com/api/")
@@ -79,6 +94,9 @@ public class Gatherer {
         types.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void supertypes(Callback<List<String>> callback) {
         final Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://deckbrew.com/api/")
@@ -90,6 +108,9 @@ public class Gatherer {
         supertypes.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void subtypes(Callback<List<String>> callback) {
         final Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://deckbrew.com/api/")
@@ -101,6 +122,9 @@ public class Gatherer {
         subtypes.enqueue(callback);
     }
 
+    /**
+     * Hits DeckBrew Api
+     */
     public static void colors(Callback<List<String>> callback) {
         final Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://deckbrew.com/api/")
@@ -110,5 +134,57 @@ public class Gatherer {
         final DeckBrewService service = retrofit.create(DeckBrewService.class);
         final Call<List<String>> colors = service.colors();
         colors.enqueue(callback);
+    }
+
+    /**
+     * Hits Gatherer Scraper
+     */
+    public static void simple(@NonNull GathererRequest request, Callback<List<Card>> callback) {
+        final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
+                                                        .addConverterFactory(HtmlScraperFactory
+                                                                                     .create())
+                                                        .build();
+        final GathererService service = retrofit.create(GathererService.class);
+        final Call<List<Card>> cards = service.simple(request.getParams());
+        cards.enqueue(callback);
+    }
+
+    /**
+     * Hits Gatherer Scraper
+     */
+    public static void advanced(@NonNull GathererRequest request, Callback<List<Card>> callback) {
+        final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
+                                                        .addConverterFactory(HtmlScraperFactory
+                                                                                     .create())
+                                                        .build();
+        final GathererService service = retrofit.create(GathererService.class);
+        final Call<List<Card>> cards = service.advanced("advanced", request.getParams());
+        cards.enqueue(callback);
+    }
+
+    /**
+     * Hits Gatherer Scraper
+     */
+    public static void detail(@NonNull String multiverseId, Callback<Card> callback) {
+        final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
+                                                        .addConverterFactory(HtmlScraperFactory
+                                                                                     .create())
+                                                        .build();
+        final GathererService service = retrofit.create(GathererService.class);
+        final Call<Card> card = service.detail(multiverseId);
+        card.enqueue(callback);
+    }
+
+    /**
+     * Hits Gatherer Scraper
+     */
+    public static void random(Callback<Card> callback) {
+        final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
+                                                        .addConverterFactory(HtmlScraperFactory
+                                                                                     .create())
+                                                        .build();
+        final GathererService service = retrofit.create(GathererService.class);
+        final Call<Card> card = service.random("random");
+        card.enqueue(callback);
     }
 }

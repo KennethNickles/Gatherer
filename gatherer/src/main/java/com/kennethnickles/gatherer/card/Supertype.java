@@ -2,9 +2,9 @@ package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
 
-import com.google.common.base.Strings;
-import com.google.common.collect.Lists;
-import com.kennethnickles.gatherer.util.EnumUtils;
+import com.kennethnickles.gatherer.util.Enums;
+import com.kennethnickles.gatherer.util.Lists;
+import com.kennethnickles.gatherer.util.Strings;
 
 import java.util.List;
 
@@ -26,7 +26,7 @@ public enum Supertype {
             return null;
         }
         for (Supertype supertype : values()) {
-            if (EnumUtils.sanitize(supertype.name()).equals(EnumUtils.sanitize(lookup))) {
+            if (Enums.sanitize(supertype.name()).equals(Enums.sanitize(lookup))) {
                 return supertype;
             }
         }

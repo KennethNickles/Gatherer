@@ -2,10 +2,12 @@ package com.kennethnickles.gatherer;
 
 import android.support.annotation.NonNull;
 
-import com.google.common.base.Preconditions;
 import com.kennethnickles.gatherer.card.Card;
 import com.kennethnickles.gatherer.parser.HtmlScraperFactory;
+import com.kennethnickles.gatherer.server.DeckBrewService;
 import com.kennethnickles.gatherer.server.GathererRequest;
+import com.kennethnickles.gatherer.server.GathererService;
+import com.kennethnickles.gatherer.util.Preconditions;
 
 import java.util.List;
 

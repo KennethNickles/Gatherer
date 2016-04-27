@@ -4,8 +4,6 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
-import com.google.common.base.Preconditions;
-import com.google.common.collect.Lists;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
@@ -13,6 +11,8 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 import com.kennethnickles.gatherer.util.GsonUtils;
+import com.kennethnickles.gatherer.util.Lists;
+import com.kennethnickles.gatherer.util.Preconditions;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
 
@@ -27,7 +27,7 @@ public class Edition implements Parcelable {
 
     public static final Creator<Edition> CREATOR = Postman.getCreator(Edition.class);
 
-    private Builder mState;
+    Builder mState;
 
     private Edition(Builder builder) {
         this.mState = builder;

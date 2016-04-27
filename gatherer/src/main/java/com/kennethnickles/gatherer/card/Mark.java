@@ -1,8 +1,9 @@
 package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
-import com.google.common.base.Strings;
-import com.kennethnickles.gatherer.util.EnumUtils;
+
+import com.kennethnickles.gatherer.util.Enums;
+import com.kennethnickles.gatherer.util.Strings;
 
 /**
  * @author kenneth.nickles
@@ -24,7 +25,7 @@ public enum Mark {
             return null;
         }
         for (Mark mark : values()) {
-            if (EnumUtils.sanitize(mark.name()).equals(EnumUtils.sanitize(lookup))) {
+            if (Enums.sanitize(mark.name()).equals(Enums.sanitize(lookup))) {
                 return mark;
             }
         }

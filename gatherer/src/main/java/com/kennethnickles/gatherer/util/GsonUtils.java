@@ -1,7 +1,6 @@
 package com.kennethnickles.gatherer.util;
 
 import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
 
 /**
  * @author kenneth.nickles

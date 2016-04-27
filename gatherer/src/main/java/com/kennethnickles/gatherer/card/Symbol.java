@@ -2,13 +2,13 @@ package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
 
-import com.google.common.base.Strings;
-import com.google.common.collect.Lists;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParseException;
-import com.kennethnickles.gatherer.util.EnumUtils;
+import com.kennethnickles.gatherer.util.Enums;
+import com.kennethnickles.gatherer.util.Lists;
+import com.kennethnickles.gatherer.util.Strings;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -78,10 +78,10 @@ public enum Symbol {
             return null;
         }
         for (Symbol symbol : values()) {
-            if (EnumUtils.sanitize(symbol.getName()).equals(EnumUtils.sanitize(lookup))) {
+            if (Enums.sanitize(symbol.getName()).equals(Enums.sanitize(lookup))) {
                 return symbol;
             }
-            if (EnumUtils.sanitize(symbol.getSymbol()).equals(EnumUtils.sanitize(lookup))) {
+            if (Enums.sanitize(symbol.getSymbol()).equals(Enums.sanitize(lookup))) {
                 return symbol;
             }
         }

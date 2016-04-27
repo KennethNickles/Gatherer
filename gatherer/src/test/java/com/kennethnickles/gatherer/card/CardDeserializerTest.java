@@ -16,7 +16,7 @@ import java.util.Map;
  * @author kenneth.nickles
  * @since 2016-04-04.
  */
-public class CardTest {
+public class CardDeserializerTest {
 
     @Test
     public void card() throws Exception {

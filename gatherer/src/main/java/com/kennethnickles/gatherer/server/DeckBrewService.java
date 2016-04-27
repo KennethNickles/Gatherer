@@ -1,4 +1,4 @@
-package com.kennethnickles.gatherer;
+package com.kennethnickles.gatherer.server;
 
 import com.kennethnickles.gatherer.card.Card;
 

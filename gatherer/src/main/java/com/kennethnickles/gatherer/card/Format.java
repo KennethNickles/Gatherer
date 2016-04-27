@@ -2,8 +2,8 @@ package com.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
 
-import com.google.common.base.Strings;
-import com.kennethnickles.gatherer.util.EnumUtils;
+import com.kennethnickles.gatherer.util.Enums;
+import com.kennethnickles.gatherer.util.Strings;
 
 /**
  * @author kenneth.nickles
@@ -45,7 +45,7 @@ public enum Format {
             return null;
         }
         for (Format format : values()) {
-            if (EnumUtils.sanitize(format.name()).equals(EnumUtils.sanitize(lookup))) {
+            if (Enums.sanitize(format.name()).equals(Enums.sanitize(lookup))) {
                 return format;
             }
         }

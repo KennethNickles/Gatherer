@@ -4,11 +4,11 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
-import com.google.common.collect.Lists;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParseException;
+import com.kennethnickles.gatherer.util.Lists;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
 

@@ -16,14 +16,14 @@ import java.util.Map;
  * @author kenneth.nickles
  * @since 2016-04-04.
  */
-public class CardDeserializerTest {
+public class JsonCardDeserializerTest {
 
     @Test
     public void card() throws Exception {
         final InputStream inputStream = getResourceAsStream("card.json", this);
         final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
         final GsonBuilder builder = new GsonBuilder();
-        final Card.Deserializer ds = new Card.Deserializer();
+        final Card.JsonCardDeserializer ds = new Card.JsonCardDeserializer();
         builder.registerTypeAdapter(Card.class, ds);
         final Gson gson = builder.create();
         final Card card = gson.fromJson(jsonReader, Card.class);

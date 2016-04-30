@@ -3,7 +3,6 @@ package com.kennethnickles.gatherer;
 import android.support.annotation.NonNull;
 
 import com.kennethnickles.gatherer.card.Card;
-import com.kennethnickles.gatherer.parser.HtmlScraperFactory;
 import com.kennethnickles.gatherer.server.DeckBrewService;
 import com.kennethnickles.gatherer.server.GathererRequest;
 import com.kennethnickles.gatherer.server.GathererService;
@@ -139,12 +138,10 @@ public class Gatherer {
     }
 
     /**
-     * Hits Gatherer Scraper
+     * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
     public static void simple(@NonNull GathererRequest request, Callback<List<Card>> callback) {
         final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
-                                                        .addConverterFactory(HtmlScraperFactory
-                                                                                     .create())
                                                         .build();
         final GathererService service = retrofit.create(GathererService.class);
         final Call<List<Card>> cards = service.simple(request.getParams());
@@ -152,12 +149,10 @@ public class Gatherer {
     }
 
     /**
-     * Hits Gatherer Scraper
+     * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
     public static void advanced(@NonNull GathererRequest request, Callback<List<Card>> callback) {
         final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
-                                                        .addConverterFactory(HtmlScraperFactory
-                                                                                     .create())
                                                         .build();
         final GathererService service = retrofit.create(GathererService.class);
         final Call<List<Card>> cards = service.advanced("advanced", request.getParams());
@@ -165,12 +160,10 @@ public class Gatherer {
     }
 
     /**
-     * Hits Gatherer Scraper
+     * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
     public static void detail(@NonNull String multiverseId, Callback<Card> callback) {
         final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
-                                                        .addConverterFactory(HtmlScraperFactory
-                                                                                     .create())
                                                         .build();
         final GathererService service = retrofit.create(GathererService.class);
         final Call<Card> card = service.detail(multiverseId);
@@ -178,12 +171,10 @@ public class Gatherer {
     }
 
     /**
-     * Hits Gatherer Scraper
+     * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
     public static void random(Callback<Card> callback) {
         final Retrofit retrofit = new Retrofit.Builder().baseUrl("http://gatherer.wizards.com/")
-                                                        .addConverterFactory(HtmlScraperFactory
-                                                                                     .create())
                                                         .build();
         final GathererService service = retrofit.create(GathererService.class);
         final Call<Card> card = service.random("random");

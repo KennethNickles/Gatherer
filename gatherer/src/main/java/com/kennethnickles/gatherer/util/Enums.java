@@ -7,6 +7,11 @@ package com.kennethnickles.gatherer.util;
 public class Enums {
 
     public static String sanitize(String name) {
-        return name.toUpperCase().replace(" ", "_").replace("-", "_").replace("'", "");
+        return name.toUpperCase()
+                   .replace(" ", "_")
+                   .replace("-", "_")
+                   .replace("'", "")
+                   .replace("{", "")
+                   .replace("}", "");
     }
 }

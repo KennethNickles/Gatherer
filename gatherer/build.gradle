@@ -69,7 +69,7 @@ publishing {
             artifactId 'gatherer'
             version '1.0'
             artifact(sourceJar)
-            artifact("$buildDir/outputs/aar/release.aar")
+            artifact("$buildDir/outputs/aar/gatherer-release.aar")
         }
     }
 }

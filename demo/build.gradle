@@ -31,6 +31,7 @@ android {
 
 dependencies {
     compile "com.android.support:appcompat-v7:$android_support_version"
+    compile "com.android.support:design:$android_support_version"
     compile "com.github.bumptech.glide:glide:$glide_version"
     compile "com.jakewharton:butterknife:$butterknife_version"
     kapt "com.jakewharton:butterknife-compiler:$butterknife_version"
@@ -40,11 +41,5 @@ dependencies {
     compile "io.reactivex:rxkotlin:$rx_kotlin_version"
     compile project(':gatherer')
 
-    debugCompile "com.squareup.leakcanary:leakcanary-android:$canary_version"
-
-    releaseCompile "com.squareup.leakcanary:leakcanary-android-no-op:$canary_version"
-
-    testCompile "com.squareup.leakcanary:leakcanary-android-no-op:$canary_version"
     testCompile "junit:junit:$junit_version"
-    compile 'com.android.support:design:23.4.0'
 }

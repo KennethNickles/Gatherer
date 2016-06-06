@@ -3,19 +3,14 @@ package com.github.kennethnickles.gatherer.card;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
-
-import com.google.gson.JsonDeserializationContext;
-import com.google.gson.JsonDeserializer;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParseException;
-
+import android.support.annotation.Nullable;
 import com.github.kennethnickles.gatherer.util.Lists;
-
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
-
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * @author kenneth.nickles
@@ -64,6 +59,22 @@ public class Rule implements Parcelable {
         Postman.writeToParcel(this, dest);
     }
 
+    @Nullable
+    public static Rule from(String lookup) {
+        if (lookup == null || lookup.isEmpty()) {
+            return null;
+        }
+        final Builder builder = builder().withRuleText(lookup);
+        final String regex = "\\{(.*?)\\}";
+        final Pattern pattern = Pattern.compile(regex);
+        final Matcher matcher = pattern.matcher(lookup);
+        while (matcher.find()) {
+            builder.withSymbol(lookup.substring(matcher.start(), matcher.end()));
+        }
+        builder.withConvertedManaCost(builder.mSymbols);
+        return builder.build();
+    }
+
     @Parceled
     public static class Builder implements Parcelable {
 
@@ -92,6 +103,15 @@ public class Rule implements Parcelable {
             return this;
         }
 
+        public Builder withConvertedManaCost(@NonNull List<Symbol> symbols) {
+            int cmc = 0;
+            for (Symbol symbol : symbols) {
+                cmc += symbol.getCmc();
+            }
+            this.mConvertedManaCost = cmc;
+            return this;
+        }
+
         public Builder withRuleText(@NonNull String ruleText) {
             this.mRuleText = ruleText;
             return this;
@@ -109,40 +129,6 @@ public class Rule implements Parcelable {
         @Override
         public void writeToParcel(Parcel dest, int flags) {
             Postman.writeToParcel(this, dest);
-        }
-    }
-
-
-    public static class Deserializer implements JsonDeserializer<ArrayList<Rule>> {
-
-        @Override
-        public ArrayList<Rule> deserialize(JsonElement json,
-                                           java.lang.reflect.Type typeOfT,
-                                           JsonDeserializationContext context)
-                throws JsonParseException {
-            /**
-             *     "text": "When you cast Kozilek, the Great Distortion, if you have fewer than
-             *     seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a
-             *     card with converted mana cost X: Counter target spell with converted mana cost
-             *     X.",
-             *
-             *     "text": "Tap an untapped Cephalid you control: Tap target permanent
-             *     .\n{U}{U}{U}: Tap all creatures without flying.",
-             */
-            final String text = json.getAsJsonObject().get("text").getAsString();
-            final ArrayList<Rule> rules = Lists.newArrayList();
-            final String[] lines = text.split("\n");
-            for (int i = 0; i < lines.length; i++) {
-                final String line = lines[i];
-                final Builder builder = new Builder();
-                builder.withSymbols(new Symbol.RuleSymbolDeserializer(i).deserialize(json,
-                                                                                     typeOfT,
-                                                                                     context));
-                builder.withConvertedManaCost(builder.mSymbols.size());
-                builder.withRuleText(line);
-                rules.add(builder.build());
-            }
-            return rules;
         }
     }
 }

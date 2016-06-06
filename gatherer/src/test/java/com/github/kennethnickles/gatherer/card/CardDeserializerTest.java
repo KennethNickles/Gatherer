@@ -3,28 +3,34 @@ package com.github.kennethnickles.gatherer.card;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.stream.JsonReader;
-
-import org.junit.Assert;
-import org.junit.Test;
-
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.List;
 import java.util.Map;
+import org.junit.Assert;
+import org.junit.Test;
 
 /**
  * @author kenneth.nickles
  * @since 2016-04-04.
  */
-public class JsonCardDeserializerTest {
+public class CardDeserializerTest {
 
     @Test
     public void card() throws Exception {
         final InputStream inputStream = getResourceAsStream("card.json", this);
         final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
         final GsonBuilder builder = new GsonBuilder();
-        final Card.JsonCardDeserializer ds = new Card.JsonCardDeserializer();
-        builder.registerTypeAdapter(Card.class, ds);
+
+        final Card.Deserializer cardDeserializer = new Card.Deserializer();
+        builder.registerTypeAdapter(Card.class, cardDeserializer);
+        final Rules.Deserializer rulesDeserializer = new Rules.Deserializer();
+        builder.registerTypeAdapter(Rules.class, rulesDeserializer);
+        final Symbols.Deserializer symbolsDeserializer = new Symbols.Deserializer();
+        builder.registerTypeAdapter(Symbols.class, symbolsDeserializer);
+        final Edition.Deserializer editionDeserializer = new Edition.Deserializer();
+        builder.registerTypeAdapter(Edition.class, editionDeserializer);
+
         final Gson gson = builder.create();
         final Card card = gson.fromJson(jsonReader, Card.class);
         Assert.assertNotNull(card);
@@ -32,9 +38,8 @@ public class JsonCardDeserializerTest {
         Assert.assertEquals("About Face", card.getName());
         Assert.assertEquals("about-face", card.getId());
         Assert.assertEquals("https://api.deckbrew.com/mtg/cards/about-face", card.getUrl());
-        Assert.assertEquals(
-                "http://store.tcgplayer.com/magic/urzas-legacy/about-face?partner=DECKBREW",
-                card.getStoreUrl());
+        Assert.assertEquals("http://store.tcgplayer.com/magic/urzas-legacy/about-face?partner=DECKBREW",
+                            card.getStoreUrl());
         Assert.assertEquals(1, card.getConvertedManaCost());
         Assert.assertEquals(1, card.getEditions().size());
         Assert.assertEquals(0, card.getPower());
@@ -46,12 +51,10 @@ public class JsonCardDeserializerTest {
         Assert.assertEquals("https://api.deckbrew.com/mtg/sets/ULG", edition.getSetUrl());
         Assert.assertEquals("Melissa A. Benson", edition.getArtist());
         Assert.assertEquals("The overconfident are the most vulnerable.", edition.getFlavorText());
-        Assert.assertEquals("https://image.deckbrew.com/mtg/multiverseid/12414.jpg",
-                            edition.getImageUrl());
+        Assert.assertEquals("https://image.deckbrew.com/mtg/multiverseid/12414.jpg", edition.getImageUrl());
         Assert.assertEquals("normal", edition.getLayout());
-        Assert.assertEquals(
-                "http://store.tcgplayer.com/magic/urzas-legacy/about-face?partner=DECKBREW",
-                edition.getStoreUrl());
+        Assert.assertEquals("http://store.tcgplayer.com/magic/urzas-legacy/about-face?partner=DECKBREW",
+                            edition.getStoreUrl());
         Assert.assertEquals(12414, edition.getMultiverseId());
         Assert.assertEquals(73, edition.getNumber());
 
@@ -73,13 +76,12 @@ public class JsonCardDeserializerTest {
         Assert.assertEquals(Subtype.zombie, subtypes.get(0));
         Assert.assertEquals(Subtype.horror, subtypes.get(1));
 
-        final List<Rule> rules = card.getRules();
+        final Rules rules = card.getRules();
         Assert.assertEquals(2, rules.size());
         final Rule rule0 = rules.get(0);
         Assert.assertEquals(0, rule0.getSymbols().size());
         Assert.assertEquals(0, rule0.getConvertedManaCost());
-        Assert.assertEquals("Tap an untapped Cephalid you control: Tap target permanent.",
-                            rule0.getRuleText());
+        Assert.assertEquals("Tap an untapped Cephalid you control: Tap target permanent.", rule0.getRuleText());
         final Rule rule1 = rules.get(1);
         Assert.assertEquals(3, rule1.getSymbols().size());
         Assert.assertEquals(3, rule1.getConvertedManaCost());

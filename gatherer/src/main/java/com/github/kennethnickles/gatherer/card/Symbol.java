@@ -1,20 +1,10 @@
 package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
-
-import com.google.gson.JsonDeserializationContext;
-import com.google.gson.JsonDeserializer;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParseException;
-
+import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
-import com.github.kennethnickles.gatherer.util.Enums;
-
-import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * @author kenneth.nickles
@@ -29,7 +19,21 @@ public enum Symbol {
     white("White", "W"),
     colorless("Colorless", "C"),
     variable_colorless("Variable Colorless", "X"),
-    white_or_back("White or Black"),
+    black_or_red("Black or Red", "B/R"),
+    black_or_green("Black or Green", "B/G"),
+    blue_or_black("Blue or Black", "U/B"),
+    blue_or_red("Blue or Red", "U/R"),
+    green_or_white("Green or White", "G/W"),
+    green_or_blue("Green or Blue", "G/U"),
+    red_or_green("Red or Green", "R/G"),
+    red_or_white("Red or White", "R/W"),
+    white_or_blue("White or Blue", "W/U"),
+    white_or_black("White or Black", "W/B"),
+    two_or_black("Two or Black", "2/B"),
+    two_or_blue("Two or Blue", "2/U"),
+    two_or_green("Two or Green", "2/G"),
+    two_or_red("Two or Red", "2/R"),
+    two_or_white("Two or White", "2/W"),
     tap("Tap"),
     one("1"),
     two("2"),
@@ -73,6 +77,41 @@ public enum Symbol {
         return mSymbol;
     }
 
+    public int getCmc() {
+        switch (this) {
+            case black:
+            case blue:
+            case green:
+            case red:
+            case white:
+            case colorless:
+            case black_or_green:
+            case black_or_red:
+            case blue_or_black:
+            case blue_or_red:
+            case green_or_blue:
+            case green_or_white:
+            case red_or_green:
+            case red_or_white:
+            case white_or_blue:
+            case white_or_black:
+                return 1;
+            case variable_colorless:
+                return 0;
+            case tap:
+                return 0;
+            case two_or_black:
+            case two_or_blue:
+            case two_or_green:
+            case two_or_red:
+            case two_or_white:
+                return 2;
+            default:
+                return Integer.valueOf(mSymbol);
+
+        }
+    }
+
     @Nullable
     public static Symbol from(String lookup) {
         if (Strings.isNullOrEmpty(lookup)) {
@@ -99,50 +138,5 @@ public enum Symbol {
             symbols.add(from(lookup));
         }
         return symbols;
-    }
-
-    public static class CostSymbolDeserializer implements JsonDeserializer<ArrayList<Symbol>> {
-
-        @Override
-        public ArrayList<Symbol> deserialize(JsonElement json,
-                                             java.lang.reflect.Type typeOfT,
-                                             JsonDeserializationContext context)
-                throws JsonParseException {
-            final ArrayList<Symbol> symbols = Lists.newArrayList();
-            final String text = json.getAsJsonObject().get("cost").getAsString();
-            final String regex = "\\{(.*?)\\}";
-            final Pattern pattern = Pattern.compile(regex);
-            final Matcher matcher = pattern.matcher(text);
-            while (matcher.find()) {
-                symbols.add(Symbol.from(text.substring(matcher.start(), matcher.end())));
-            }
-            return symbols;
-        }
-    }
-
-    public static class RuleSymbolDeserializer implements JsonDeserializer<ArrayList<Symbol>> {
-
-        final int mLineNumber;
-
-        public RuleSymbolDeserializer(int lineNumber) {
-            this.mLineNumber = lineNumber;
-        }
-
-        @Override
-        public ArrayList<Symbol> deserialize(JsonElement json,
-                                             java.lang.reflect.Type typeOfT,
-                                             JsonDeserializationContext context)
-                throws JsonParseException {
-            final ArrayList<Symbol> symbols = Lists.newArrayList();
-            final String text = json.getAsJsonObject().get("text").getAsString();
-            final String regex = "\\{(.*?)\\}";
-            final Pattern pattern = Pattern.compile(regex);
-            final String line = text.split("\n")[mLineNumber];
-            final Matcher matcher = pattern.matcher(line);
-            while (matcher.find()) {
-                symbols.add(Symbol.from(line.substring(matcher.start(), matcher.end())));
-            }
-            return symbols;
-        }
     }
 }

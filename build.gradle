@@ -1,28 +1,34 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
+    ext.kotlin_version = '1.0.2'
     project.ext {
         android_projects = [':gatherer:gatherer']
     }
     configure(android_projects) {
         repositories {
             mavenCentral()
-            maven { url 'https://maven.fabric.io/public' }
             jcenter()
         }
         dependencies {
             classpath "com.android.tools.build:gradle:$android_plugin_version"
-            classpath 'com.jakewharton.sdkmanager:gradle-plugin:0.12.0'
-            classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
-            classpath 'io.fabric.tools:gradle:1.20.0'
+            classpath "com.jakewharton.sdkmanager:gradle-plugin:$sdk_manager_version"
+            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+            classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+            classpath "com.neenbedankt.gradle.plugins:android-apt:$android_apt_version"
         }
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
 
 allprojects {
     repositories {
         mavenCentral()
-        maven { url 'http://download.crashlytics.com/maven' }
     }
 }
 

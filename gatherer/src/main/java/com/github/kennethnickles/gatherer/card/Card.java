@@ -3,7 +3,12 @@ package com.github.kennethnickles.gatherer.card;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
-
+import android.support.annotation.Nullable;
+import com.github.kennethnickles.gatherer.util.Chars;
+import com.github.kennethnickles.gatherer.util.GsonUtils;
+import com.github.kennethnickles.gatherer.util.Lists;
+import com.github.kennethnickles.gatherer.util.Maps;
+import com.github.kennethnickles.gatherer.util.Preconditions;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
@@ -11,23 +16,14 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 import com.google.gson.JsonPrimitive;
-
-import com.github.kennethnickles.gatherer.util.Chars;
-import com.github.kennethnickles.gatherer.util.GsonUtils;
-import com.github.kennethnickles.gatherer.util.Lists;
-import com.github.kennethnickles.gatherer.util.Maps;
-import com.github.kennethnickles.gatherer.util.Preconditions;
-
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
-
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 /**
  * @author kenneth.nickles
@@ -68,7 +64,7 @@ public class Card implements Parcelable {
         return mState.mStoreUrl;
     }
 
-    public List<Rule> getRules() {
+    public Rules getRules() {
         return mState.mRules;
     }
 
@@ -88,7 +84,7 @@ public class Card implements Parcelable {
         return mState.mFormats;
     }
 
-    public List<Symbol> getSymbols() {
+    public Symbols getSymbols() {
         return mState.mSymbols;
     }
 
@@ -131,8 +127,8 @@ public class Card implements Parcelable {
         ArrayList<Type> mTypes = Lists.newArrayList();
         ArrayList<Subtype> mSubtypes = Lists.newArrayList();
         int mConvertedManaCost;
-        ArrayList<Symbol> mSymbols = Lists.newArrayList();
-        ArrayList<Rule> mRules = Lists.newArrayList();
+        Symbols mSymbols;
+        Rules mRules;
         int mPower;
         int mToughness;
         HashMap<Format, Boolean> mFormats = Maps.newHashMap();
@@ -165,9 +161,7 @@ public class Card implements Parcelable {
             return getThis();
         }
 
-        public B withRule(@NonNull ArrayList<Symbol> symbols,
-                          int convertedManaCost,
-                          @NonNull String ruleText) {
+        public B withRule(@NonNull ArrayList<Symbol> symbols, int convertedManaCost, @NonNull String ruleText) {
             this.mRules.add(Rule.builder()
                                 .withSymbols(symbols)
                                 .withConvertedManaCost(convertedManaCost)
@@ -251,12 +245,12 @@ public class Card implements Parcelable {
             return getThis();
         }
 
-        public B withFormats(HashMap<Format, Boolean> formats) {
+        public B withFormat(HashMap<Format, Boolean> formats) {
             this.mFormats = formats;
             return getThis();
         }
 
-        public B withFormats(JsonObject jsonObject) {
+        public B withFormat(@Nullable JsonObject jsonObject) {
             if (jsonObject == null) {
                 return getThis();
             }
@@ -310,11 +304,18 @@ public class Card implements Parcelable {
         }
 
         public B withSymbols(ArrayList<Symbol> symbols) {
+            this.mSymbols.addAll(symbols);
+            return getThis();
+        }
+
+        public B withSymbols(Symbols symbols) {
+            Preconditions.checkArgument(symbols != null, "Symbols");
             this.mSymbols = symbols;
             return getThis();
         }
 
-        public B withSymbols(String symbol) {
+        public B withSymbol(String symbol) {
+            Preconditions.checkArgument(symbol != null, "Symbol");
             this.mSymbols.add(Symbol.from(symbol));
             return getThis();
         }
@@ -325,11 +326,19 @@ public class Card implements Parcelable {
         }
 
         public B withRules(ArrayList<Rule> rules) {
+            Preconditions.checkArgument(rules != null, "Rules");
+            this.mRules.addAll(rules);
+            return getThis();
+        }
+
+        public B withRules(@NonNull Rules rules) {
+            Preconditions.checkArgument(rules != null, "Rules");
             this.mRules = rules;
             return getThis();
         }
 
         public B withRule(@NonNull Rule rule) {
+            Preconditions.checkArgument(rule != null, "Rule");
             this.mRules.add(rule);
             return getThis();
         }
@@ -409,12 +418,11 @@ public class Card implements Parcelable {
         }
     }
 
-    public static class JsonCardDeserializer implements JsonDeserializer<Card> {
+    public static class Deserializer implements JsonDeserializer<Card> {
 
         @Override
-        public Card deserialize(JsonElement json,
-                                java.lang.reflect.Type typeOfT,
-                                JsonDeserializationContext context) throws JsonParseException {
+        public Card deserialize(JsonElement json, java.lang.reflect.Type typeOfT, JsonDeserializationContext context)
+                throws JsonParseException {
             final Builder builder = new Builder();
             final JsonObject jsonObject = json.getAsJsonObject();
             if (GsonUtils.isNonNull(jsonObject.get("name"))) {
@@ -442,9 +450,7 @@ public class Card implements Parcelable {
                 builder.withConvertedManaCost(jsonObject.get("cmc").getAsInt());
             }
             if (GsonUtils.isNonNull(jsonObject.get("cost"))) {
-                builder.withSymbols(new Symbol.CostSymbolDeserializer().deserialize(json,
-                                                                                    typeOfT,
-                                                                                    context));
+                builder.withSymbols((Symbols) context.deserialize(jsonObject.get("cost"), Symbols.class));
             }
             if (GsonUtils.isNonNull(jsonObject.get("power"))) {
                 builder.withPower(jsonObject.get("power").getAsInt());
@@ -453,17 +459,17 @@ public class Card implements Parcelable {
                 builder.withToughness(jsonObject.get("toughness").getAsInt());
             }
             if (GsonUtils.isNonNull(jsonObject.get("formats"))) {
-                builder.withFormats(json.getAsJsonObject().getAsJsonObject("formats"));
+                for (Format format : Format.values()) {
+                    builder.withFormat(jsonObject.get("formats").getAsJsonObject());
+                }
             }
             if (GsonUtils.isNonNull(jsonObject.get("text"))) {
-                builder.withRules(new Rule.Deserializer().deserialize(json,
-                                                                      typeOfT,
-                                                                      context));
+                builder.withRules((Rules) context.deserialize(jsonObject.get("text"), Rules.class));
             }
             if (GsonUtils.isNonNull(jsonObject.get("editions"))) {
-                builder.withEditions(new Edition.Deserializer().deserialize(json,
-                                                                            typeOfT,
-                                                                            context));
+                for (JsonElement edition : jsonObject.getAsJsonArray("editions")) {
+                    builder.withEdition((Edition) context.deserialize(edition, Edition.class));
+                }
             }
             return builder.build();
         }
@@ -555,8 +561,7 @@ public class Card implements Parcelable {
 
         private static ArrayList<String> parseSubtypes(Element element) {
             final String subtypeString = element.getElementsByClass("typeLine").first().text();
-            final String[] subtypeStrings =
-                    subtypeString.substring(0, subtypeString.length()).split(" ");
+            final String[] subtypeStrings = subtypeString.substring(0, subtypeString.length()).split(" ");
             final ArrayList<String> subtypes = Lists.newArrayList();
             boolean isHyphenFound = false;
             for (String subtype : subtypeStrings) {
@@ -594,8 +599,7 @@ public class Card implements Parcelable {
         }
 
         private static ArrayList<Symbol> parseManaSymbols(Element element) {
-            final Elements images =
-                    element.getElementsByClass("manaCost").first().getElementsByTag("img");
+            final Elements images = element.getElementsByClass("manaCost").first().getElementsByTag("img");
             final ArrayList<Symbol> symbols = Lists.newArrayList();
             for (Element image : images) {
                 symbols.add(Symbol.from(image.attr("alt")));
@@ -604,8 +608,7 @@ public class Card implements Parcelable {
         }
 
         private static int parseConvertedManaCost(Element element) {
-            final String convertedManaCost =
-                    element.getElementsByClass("convertedManaCost").first().text();
+            final String convertedManaCost = element.getElementsByClass("convertedManaCost").first().text();
             return Integer.valueOf(convertedManaCost);
         }
 
@@ -663,10 +666,7 @@ public class Card implements Parcelable {
         }
 
         private static String parseArtUrl(Element element) {
-            return "" + element.getElementsByTag("img")
-                               .first()
-                               .attr("src")
-                               .replace("../", "");
+            return "" + element.getElementsByTag("img").first().attr("src").replace("../", "");
         }
     }
 }

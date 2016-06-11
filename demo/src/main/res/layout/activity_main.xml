@@ -6,7 +6,7 @@
     android:fitsSystemWindows="true"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
-    tools:context="com.github.kennethnickles.gatherer.demo.MainActivity">
+    tools:context="com.github.kennethnickles.gatherer.demo.GathererActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_height="wrap_content"

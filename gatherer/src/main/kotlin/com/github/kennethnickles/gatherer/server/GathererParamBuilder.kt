@@ -11,7 +11,7 @@ class GathererParamBuilder : ParamBuilder {
 
     override fun getParams(request: GathererRequest): Map<String, String> {
         val map: MutableMap<String, String> = HashMap()
-        for (entry in request.params) {
+        for (entry in request.getParams()) {
             if (ParamConstants.NAME_KEY.equals(entry.key)) {
                 map[entry.key] = getNameParam(request.areNamesExclusive(), entry.value)
             } else if (ParamConstants.TYPE_KEY.equals(entry)) {

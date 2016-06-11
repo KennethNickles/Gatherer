@@ -13,25 +13,36 @@ import android.view.ViewGroup
 import android.widget.TextView
 import butterknife.BindView
 import butterknife.ButterKnife
+import com.github.kennethnickles.gatherer.DeckBrewClient
 import com.github.kennethnickles.gatherer.Gatherer
+import com.github.kennethnickles.gatherer.GathererClient
 import com.github.kennethnickles.gatherer.card.Card
 import com.github.kennethnickles.gatherer.card.Color
+import com.github.kennethnickles.gatherer.demo.dagger.FragmentComponent
+import com.github.kennethnickles.gatherer.demo.dagger.FragmentModule
 import com.github.kennethnickles.gatherer.server.GathererRequest
 import com.github.kennethnickles.gatherer.util.Lists
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import rx.Observer
 import java.util.ArrayList
+import javax.inject.Inject
 
 /**
  * A placeholder fragment containing a simple view.
  */
-class MainActivityFragment : Fragment(), CardSelectionListener {
+class GathererFragment : Fragment(), CardSelectionListener {
 
     companion object {
-        val TAG: String = MainActivityFragment::class.java.simpleName
+        val TAG: String = GathererFragment::class.java.simpleName
         val CARD_LIST_KEY: String = "card_list_key"
     }
+
+    @Inject
+    lateinit var mDeckBrewClient: DeckBrewClient
+    @Inject
+    lateinit var mGathererClient: GathererClient
 
     @BindView(R.id.view_progress_loading)
     lateinit var mProgressLoadingView: ContentLoadingProgressBar;
@@ -39,6 +50,8 @@ class MainActivityFragment : Fragment(), CardSelectionListener {
     lateinit var mTextViewError: TextView
     @BindView(R.id.recycler_view_cards)
     lateinit var mRecyclerView: RecyclerView
+
+    private var fragmentComponent: FragmentComponent? = null
 
     private var mCards: ArrayList<Card>? = null
     private var mCardAdapter: CardAdapter? = null
@@ -59,6 +72,8 @@ class MainActivityFragment : Fragment(), CardSelectionListener {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
+        injectSelf()
+
         val layoutManager: RecyclerView.LayoutManager = LinearLayoutManager(context)
         mRecyclerView.layoutManager = layoutManager
 
@@ -69,13 +84,27 @@ class MainActivityFragment : Fragment(), CardSelectionListener {
         mProgressLoadingView.show();
 
         val request: GathererRequest = GathererRequest.builder().withColor(Color.blue).build();
+        mDeckBrewClient.cards(request).subscribe(object : Observer<List<Card>> {
+            override fun onNext(cards: List<Card>?) {
+                mCards!!.clear();
+                mCards!!.addAll(cards!!);
+                mCardAdapter!!.addCards(cards!!)
+                mProgressLoadingView.hide()
+            }
+
+            override fun onCompleted() {
+                throw UnsupportedOperationException()
+            }
+
+            override fun onError(e: Throwable?) {
+                throw UnsupportedOperationException()
+            }
+
+        })
         Gatherer.cards(request, object : Callback<List<Card>> {
 
             override fun onResponse(call: Call<List<Card>>, response: Response<List<Card>>) {
-                mCards!!.clear();
-                mCards!!.addAll(response.body());
-                mCardAdapter!!.addCards(response.body())
-                mProgressLoadingView.hide()
+
             }
 
             override fun onFailure(call: Call<List<Card>>, t: Throwable) {
@@ -83,6 +112,17 @@ class MainActivityFragment : Fragment(), CardSelectionListener {
                 mTextViewError.visibility = View.VISIBLE
             }
         })
+    }
+
+    open fun injectSelf() {
+        getFragmentComponent().injectGathererFragment(this)
+    }
+
+    fun getFragmentComponent(): FragmentComponent {
+        if (fragmentComponent == null) {
+            fragmentComponent = (activity as GathererActivity).getActivityComponent().plus(FragmentModule(this))
+        }
+        return fragmentComponent!!
     }
 
     override fun onSaveInstanceState(outState: Bundle?) {

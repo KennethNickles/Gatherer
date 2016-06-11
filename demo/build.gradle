@@ -1,8 +1,18 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
+apply plugin: 'com.neenbedankt.android-apt'
 
-repositories {
-    mavenCentral()
+buildscript {
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        // other classpath definitions here
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
 }
 
 android {
@@ -33,6 +43,8 @@ dependencies {
     compile "com.android.support:appcompat-v7:$android_support_version"
     compile "com.android.support:design:$android_support_version"
     compile "com.github.bumptech.glide:glide:$glide_version"
+    compile "com.google.dagger:dagger:$dagger_version"
+    kapt "com.google.dagger:dagger-compiler:$dagger_version"
     compile "com.jakewharton:butterknife:$butterknife_version"
     kapt "com.jakewharton:butterknife-compiler:$butterknife_version"
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
@@ -40,6 +52,8 @@ dependencies {
     compile "io.reactivex:rxandroid:$rx_version"
     compile "io.reactivex:rxkotlin:$rx_kotlin_version"
     compile project(':gatherer')
+
+    provided 'org.glassfish:javax.annotation:10.0-b28'
 
     testCompile "junit:junit:$junit_version"
 }

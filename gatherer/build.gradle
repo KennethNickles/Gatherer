@@ -48,8 +48,6 @@ dependencies {
     compile "com.android.support:support-annotations:$android_support_version"
     compile "com.android.support:support-v4:$android_support_version"
     compile "com.google.code.gson:gson:$gson_version"
-    compile "com.squareup.dagger:dagger:$dagger_version"
-    apt "com.squareup.dagger:dagger-compiler:$dagger_version"
     compile "com.squareup.okhttp:okhttp-urlconnection:$okhttp_urlconnection_version"
     compile "com.squareup.okhttp:okhttp:$okhttp_version"
     compile "com.squareup.retrofit2:adapter-rxjava:$retrofit_version"

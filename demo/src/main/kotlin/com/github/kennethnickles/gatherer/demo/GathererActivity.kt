@@ -13,26 +13,49 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import com.github.kennethnickles.gatherer.demo.dagger.ActivityComponent
+import com.github.kennethnickles.gatherer.demo.dagger.ActivityModule
+import com.github.kennethnickles.gatherer.demo.dagger.ApplicationComponent
 
-class MainActivity : AppCompatActivity() {
+class GathererActivity : AppCompatActivity() {
 
     companion object {
         @JvmField
-        val TAG: String = MainActivity::class.java.simpleName
+        val TAG: String = GathererActivity::class.java.simpleName
     }
+
+    private var activityComponent: ActivityComponent? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_main)
+
         val toolbar = findViewById(R.id.toolbar) as Toolbar
         setSupportActionBar(toolbar)
+
+        injectSelf()
 
         val fab = findViewById(R.id.fab) as FloatingActionButton
         fab.setOnClickListener(View.OnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show()
         })
-        handleIntent(intent);
+        handleIntent(intent)
+    }
+
+    open fun injectSelf() {
+        getActivityComponent().injectGathererActivity(this)
+    }
+
+    fun getActivityComponent(): ActivityComponent {
+        if (activityComponent == null) {
+            activityComponent = getApplicationComponent().plus(ActivityModule(this))
+        }
+        return activityComponent!!
+    }
+
+    fun getApplicationComponent(): ApplicationComponent {
+        return (application as GathererApp).applicationComponent
     }
 
     override fun onNewIntent(intent: Intent?) {

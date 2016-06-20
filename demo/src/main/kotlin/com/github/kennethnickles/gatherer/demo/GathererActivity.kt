@@ -106,9 +106,7 @@ class GathererActivity : AppCompatActivity(), CardSelectionListener {
 
     override fun onCardSelected(card: Card) {
         Log.d(TAG, "onCardSelected: " + card.name)
-        if (searchAction!!.isActionViewExpanded || searchAction!!.isVisible) {
-            searchAction!!.collapseActionView();
-        }
+        searchAction!!.collapseActionView();
     }
 
     private fun handleIntent(intent: Intent) {

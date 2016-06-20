@@ -54,7 +54,7 @@ public class Symbols implements Parcelable {
         SYMBOL_MAP.put("2/G", Symbol.TWO_OR_GREEN);
         SYMBOL_MAP.put("2/R", Symbol.TWO_OR_RED);
         SYMBOL_MAP.put("2/W", Symbol.TWO_OR_WHITE);
-        SYMBOL_MAP.put("Tap", Symbol.TAP);
+        SYMBOL_MAP.put("T", Symbol.TAP);
         SYMBOL_MAP.put("1", Symbol.ONE);
         SYMBOL_MAP.put("2", Symbol.TWO);
         SYMBOL_MAP.put("3", Symbol.THREE);

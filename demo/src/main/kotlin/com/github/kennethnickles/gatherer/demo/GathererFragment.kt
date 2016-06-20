@@ -136,23 +136,4 @@ class GathererFragment : Fragment(), CardSelectionListener {
                 .setAction(R.string.details, { Log.d(TAG, card.name) })
                 .show();
     }
-
-    fun onSearchClick() {
-        Log.d(TAG, "onSearchClick")
-    }
-
-    fun onSearchClose(): Boolean {
-        Log.d(TAG, "onSearchClose")
-        return false
-    }
-
-    fun onSearch(query: String?): Boolean {
-        Log.d(TAG, "onQueryTextSubmit")
-        return false
-    }
-
-    fun onSearchTextChange(newText: String?): Boolean {
-        Log.d(TAG, "onQueryTextChange")
-        return false
-    }
 }

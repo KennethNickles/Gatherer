@@ -5,14 +5,15 @@ import com.github.kennethnickles.gatherer.server.DeckBrewService
 import com.github.kennethnickles.gatherer.server.GathererRequest
 import com.github.kennethnickles.gatherer.util.CardGsonFactory
 import retrofit2.Retrofit
+import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 import rx.Observable
+import rx.android.schedulers.AndroidSchedulers
+import rx.schedulers.Schedulers
 
 /**
  * @author kenneth.nickles
  * @since 2016-06-06.
- *
- * TODO: Wrap in rx
  */
 class DeckBrewClient {
 
@@ -23,40 +24,59 @@ class DeckBrewClient {
     private val mService: DeckBrewService
 
     constructor() {
-        val mRetrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/")
-                .addConverterFactory(GsonConverterFactory.create(CardGsonFactory().createCardGson())).build()
-        mService = mRetrofit.create(DeckBrewService::class.java)
+        val retrofit = Retrofit.Builder()
+                .baseUrl("https://api.deckbrew.com/")
+                .addConverterFactory(GsonConverterFactory.create(CardGsonFactory().createCardGson()))
+                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
+                .build()
+        mService = retrofit.create(DeckBrewService::class.java)
     }
 
     fun cards(request: GathererRequest): Observable<List<Card>> {
-        throw UnsupportedOperationException()
+        return mService.cards(request.getDeckBrewParams())
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun card(id: String): Observable<Card> {
-        throw UnsupportedOperationException()
+        return mService.card(id)
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun typeahead(query: String): Observable<List<Card>>? {
-        throw UnsupportedOperationException()
+        return mService.typeahead(query)
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun sets(): Observable<List<String>> {
-        throw UnsupportedOperationException()
+        return mService.sets()
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun types(): Observable<List<String>> {
-        throw UnsupportedOperationException()
+        return mService.types()
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun supertypes(): Observable<List<String>> {
-        throw UnsupportedOperationException()
+        return mService.supertypes()
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun subtypes(): Observable<List<String>> {
-        throw UnsupportedOperationException()
+        return mService.subtypes()
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
     fun colors(): Observable<List<String>> {
-        throw UnsupportedOperationException()
+        return mService.colors()
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 }

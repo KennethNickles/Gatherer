@@ -20,4 +20,28 @@ public class GsonUtils {
         }
         return true;
     }
+
+    public static boolean isNonEmpty(JsonElement jsonElement) {
+        if (jsonElement == null) {
+            return false;
+        }
+        if (jsonElement.getAsString() == null || jsonElement.getAsString().isEmpty()) {
+            return false;
+        }
+        return true;
+    }
+
+    public static boolean isNonNegativeInt(JsonElement jsonElement) {
+        if (jsonElement == null) {
+            return false;
+        }
+        if (jsonElement.getAsString() != null && jsonElement.getAsString().isEmpty()) {
+            // JsonPrimitives don't handle empty strings as numbers very well
+            return false;
+        }
+        if (jsonElement.getAsNumber() == null || jsonElement.getAsNumber().intValue() < 0) {
+            return false;
+        }
+        return true;
+    }
 }

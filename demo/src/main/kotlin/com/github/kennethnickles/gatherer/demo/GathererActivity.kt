@@ -4,20 +4,18 @@ import android.app.SearchManager
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.design.widget.FloatingActionButton
-import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.SearchView
 import android.support.v7.widget.Toolbar
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
+import com.github.kennethnickles.gatherer.card.Card
 import com.github.kennethnickles.gatherer.demo.dagger.ActivityComponent
 import com.github.kennethnickles.gatherer.demo.dagger.ActivityModule
 import com.github.kennethnickles.gatherer.demo.dagger.ApplicationComponent
 
-class GathererActivity : AppCompatActivity() {
+class GathererActivity : AppCompatActivity(), CardSelectionListener {
 
     companion object {
         @JvmField
@@ -25,6 +23,8 @@ class GathererActivity : AppCompatActivity() {
     }
 
     private var activityComponent: ActivityComponent? = null
+
+    private var searchAction: MenuItem? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -36,10 +36,6 @@ class GathererActivity : AppCompatActivity() {
 
         injectSelf()
 
-        val fab = findViewById(R.id.fab) as FloatingActionButton
-        fab.setOnClickListener(View.OnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG).setAction("Action", null).show()
-        })
         handleIntent(intent)
     }
 
@@ -61,23 +57,43 @@ class GathererActivity : AppCompatActivity() {
     override fun onNewIntent(intent: Intent?) {
         super.onNewIntent(intent)
 
-        handleIntent(intent!!);
+        handleIntent(intent!!)
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
-        val searchAction: MenuItem = menu!!.findItem(R.id.action_search)
-        val searchView = SearchView(this);
+        searchAction = menu!!.findItem(R.id.action_search)
+        val searchView: SearchView = layoutInflater.inflate(R.layout.view_search, null, false) as SearchView
         searchView.queryHint = getString(R.string.search_hint)
-        searchAction.actionView = searchView
+        searchAction!!.actionView = searchView
         val searchManager: SearchManager = getSystemService(Context.SEARCH_SERVICE) as SearchManager
         searchView.setSearchableInfo(searchManager.getSearchableInfo(componentName));
+        searchView.setOnSearchClickListener {
+            onSearchClick()
+        }
+        searchView.setOnCloseListener {
+            onSearchClose()
+        }
+        searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query: String?): Boolean {
+                return onSearch(query)
+            }
+
+            override fun onQueryTextChange(newText: String?): Boolean {
+                return onSearchTextChange(newText)
+            }
+        })
         return super.onCreateOptionsMenu(menu)
     }
 
     override fun onPrepareOptionsMenu(menu: Menu?): Boolean {
-        // If the nav drawer is open, hide action items related to the content view
-        menu!!.findItem(R.id.action_search).isVisible = true
+        if (searchAction!!.isActionViewExpanded) {
+            menu!!.findItem(R.id.action_close).isVisible = true
+            menu!!.findItem(R.id.action_search).isVisible = false
+        } else {
+            menu!!.findItem(R.id.action_close).isVisible = false
+            menu!!.findItem(R.id.action_search).isVisible = true
+        }
         return super.onPrepareOptionsMenu(menu)
     }
 
@@ -88,11 +104,37 @@ class GathererActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 
+    override fun onCardSelected(card: Card) {
+        Log.d(TAG, "onCardSelected: " + card.name)
+        if (searchAction!!.isActionViewExpanded || searchAction!!.isVisible) {
+            searchAction!!.collapseActionView();
+        }
+    }
+
     private fun handleIntent(intent: Intent) {
         if (Intent.ACTION_SEARCH.equals(intent.action)) {
             val query = intent.getStringExtra(SearchManager.QUERY);
             Log.d(TAG, "Search Query for: " + query)
             //use the query to search your data somehow
         }
+    }
+
+    private fun onSearchClick() {
+        Log.d(TAG, "onSearchClick")
+    }
+
+    private fun onSearchClose(): Boolean {
+        Log.d(TAG, "onSearchClose")
+        return false
+    }
+
+    private fun onSearch(query: String?): Boolean {
+        Log.d(TAG, "onSearch: " + query)
+        return false
+    }
+
+    private fun onSearchTextChange(newText: String?): Boolean {
+        Log.d(TAG, "onSearch: " + newText)
+        return false
     }
 }

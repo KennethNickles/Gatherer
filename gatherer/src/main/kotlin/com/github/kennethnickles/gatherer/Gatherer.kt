@@ -6,11 +6,9 @@ import com.github.kennethnickles.gatherer.server.GathererRequest
 import com.github.kennethnickles.gatherer.server.GathererService
 import com.github.kennethnickles.gatherer.util.CardGsonFactory
 import com.github.kennethnickles.gatherer.util.Preconditions
-import com.google.gson.Gson
-import retrofit2.Call
-import retrofit2.Callback
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import rx.Observer
 
 /**
  * @author kenneth.nickles
@@ -24,162 +22,132 @@ object Gatherer {
     /**
      * Hits DeckBrew Api
      */
-    fun cards(request: GathererRequest, callback: Callback<List<Card>>) {
+    fun cards(request: GathererRequest, observer: Observer<List<Card>>) {
         Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-        val service = retrofit.create(DeckBrewService::class.java)
-        val cards = service.cards(request.getDeckBrewParams())
-        cards.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).cards(request.getDeckBrewParams()).subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun card(id: String, callback: Callback<Card>) {
+    fun card(id: String, observer: Observer<Card>) {
         Preconditions.checkArgument(id != null, "id")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val card = service.card(id)
-        card.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).card(id).subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun typeahead(query: String, callback: Callback<List<Card>>?) {
+    fun typeahead(query: String, observer: Observer<List<Card>>?) {
         Preconditions.checkArgument(query != null, "query")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val typeaheads = service.typeahead(query)
-        typeaheads.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).typeahead(query).subscribe(observer)
 
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun sets(callback: Callback<List<String>>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun sets(observer: Observer<List<String>>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val sets = service.sets()
-        sets.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).sets().subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun types(callback: Callback<List<String>>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun types(observer: Observer<List<String>>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val types = service.types()
-        types.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).types().subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun supertypes(callback: Callback<List<String>>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun supertypes(observer: Observer<List<String>>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val supertypes = service.supertypes()
-        supertypes.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).supertypes().subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun subtypes(callback: Callback<List<String>>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun subtypes(observer: Observer<List<String>>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val subtypes = service.subtypes()
-        subtypes.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).subtypes().subscribe(observer)
     }
 
     /**
      * Hits DeckBrew Api
      */
-    fun colors(callback: Callback<List<String>>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun colors(observer: Observer<List<String>>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-
-        val service = retrofit.create(DeckBrewService::class.java)
-        val colors = service.colors()
-        colors.enqueue(callback)
+        retrofit.create(DeckBrewService::class.java).colors().subscribe(observer)
     }
 
     /**
      * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
-    fun simple(request: GathererRequest, callback: Callback<List<Card>>) {
+    fun simple(request: GathererRequest, observer: Observer<List<Card>>) {
         Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        val service = retrofit.create(GathererService::class.java)
-        val cards = service.simple(request.getGathererParams())
-        cards.enqueue(callback)
+        retrofit.create(GathererService::class.java).simple(request.getGathererParams()).subscribe(observer)
     }
 
     /**
      * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
-    fun advanced(request: GathererRequest, callback: Callback<List<Card>>) {
+    fun advanced(request: GathererRequest, observer: Observer<List<Card>>) {
         Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        val service = retrofit.create(GathererService::class.java)
-        val cards = service.advanced("advanced", request.getGathererParams())
-        cards.enqueue(callback)
+        retrofit.create(GathererService::class.java).advanced("advanced", request.getGathererParams()).subscribe(
+                observer)
     }
 
     /**
      * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
-    fun detail(multiverseId: String, callback: Callback<Card>) {
+    fun detail(multiverseId: String, observer: Observer<Card>) {
         Preconditions.checkArgument(multiverseId != null, "multiverseId")
-        Preconditions.checkArgument(callback != null, "callback")
+        Preconditions.checkArgument(observer != null, "observer")
         val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        val service = retrofit.create(GathererService::class.java)
-        val card = service.detail(multiverseId)
-        card.enqueue(callback)
+        retrofit.create(GathererService::class.java).detail(multiverseId).subscribe(observer)
     }
 
     /**
      * Hits Gatherer Scraper TODO: HtmlScraperFactory
      */
-    fun random(callback: Callback<Card>) {
-        Preconditions.checkArgument(callback != null, "callback")
+    fun random(observer: Observer<Card>) {
+        Preconditions.checkArgument(observer != null, "observer")
         val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        val service = retrofit.create(GathererService::class.java)
-        val card = service.random("random")
-        card.enqueue(callback)
+        retrofit.create(GathererService::class.java).random("random").subscribe(observer)
     }
 }

@@ -121,7 +121,11 @@ public class Rules implements Parcelable {
             final String[] lines = text.split("\n");
             final Builder builder = new Builder();
             for (int i = 0; i < lines.length; i++) {
-                builder.withRule(Rule.from(lines[i]));
+                final Rule rule  =Rule.from(lines[i]);
+                if(rule == null) {
+                    continue;
+                }
+                builder.withRule(rule);
             }
             return new Rules(builder);
         }

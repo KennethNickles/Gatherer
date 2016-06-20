@@ -18,12 +18,13 @@ import com.google.gson.JsonParseException;
 import com.google.gson.JsonPrimitive;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
 /**
  * @author kenneth.nickles
@@ -42,10 +43,6 @@ public class Card implements Parcelable {
 
     protected Card(Builder builder) {
         this.mState = builder;
-    }
-
-    public void setState(Builder state) {
-        this.mState = state;
     }
 
     public String getName() {
@@ -92,11 +89,11 @@ public class Card implements Parcelable {
         return mState.mConvertedManaCost;
     }
 
-    public int getPower() {
+    public String getPower() {
         return mState.mPower;
     }
 
-    public int getToughness() {
+    public String getToughness() {
         return mState.mToughness;
     }
 
@@ -129,8 +126,8 @@ public class Card implements Parcelable {
         int mConvertedManaCost;
         Symbols mSymbols;
         Rules mRules;
-        int mPower;
-        int mToughness;
+        String mPower; // *
+        String mToughness; // *
         HashMap<Format, Boolean> mFormats = Maps.newHashMap();
         ArrayList<Edition> mEditions = Lists.newArrayList();
 
@@ -255,40 +252,43 @@ public class Card implements Parcelable {
                 return getThis();
             }
             if (jsonObject.has("block")) {
-                withFormat(Format.block, true);
+                withFormat(Format.BLOCK, true);
             }
             if (jsonObject.has("standard")) {
-                withFormat(Format.standard, true);
+                withFormat(Format.STANDARD, true);
             }
             if (jsonObject.has("modern")) {
-                withFormat(Format.modern, true);
+                withFormat(Format.MODERN, true);
             }
             if (jsonObject.has("commander")) {
-                withFormat(Format.commander, true);
+                withFormat(Format.COMMANDER, true);
             }
             if (jsonObject.has("legacy")) {
-                withFormat(Format.legacy, true);
+                withFormat(Format.LEGACY, true);
+            }
+            if (jsonObject.has("vintage")) {
+                withFormat(Format.VINTAGE, true);
             }
             if (jsonObject.has("booster_draft")) {
-                withFormat(Format.booster_draft, true);
+                withFormat(Format.BOOSTER_DRAFT, true);
             }
             if (jsonObject.has("sealed_deck")) {
-                withFormat(Format.sealed_deck, true);
+                withFormat(Format.SEALED_DECK, true);
             }
             if (jsonObject.has("two_headed_giant")) {
-                withFormat(Format.two_headed_giant, true);
+                withFormat(Format.TWO_HEADED_GIANT, true);
             }
             if (jsonObject.has("team_unified_construct")) {
-                withFormat(Format.team_unified_construct, true);
+                withFormat(Format.TEAM_UNIFIED_CONSTRUCT, true);
             }
             if (jsonObject.has("team_limited")) {
-                withFormat(Format.team_limited, true);
+                withFormat(Format.TEAM_LIMITED, true);
             }
             if (jsonObject.has("team_booster_draft")) {
-                withFormat(Format.team_booster_draft, true);
+                withFormat(Format.TEAM_BOOSTER_DRAFT, true);
             }
             if (jsonObject.has("team_sealed_draft")) {
-                withFormat(Format.team_sealed_draft, true);
+                withFormat(Format.TEAM_SEALED_DRAFT, true);
             }
             return getThis();
         }
@@ -316,7 +316,8 @@ public class Card implements Parcelable {
 
         public B withSymbol(String symbol) {
             Preconditions.checkArgument(symbol != null, "Symbol");
-            this.mSymbols.add(Symbol.from(symbol));
+            final Symbol mana = Symbol.from(symbol);
+            this.mSymbols.add(mana);
             return getThis();
         }
 
@@ -356,29 +357,13 @@ public class Card implements Parcelable {
             return getThis();
         }
 
-        public B withPower(int power) {
+        public B withPower(String power) {
             this.mPower = power;
             return getThis();
         }
 
-        public B withPower(JsonPrimitive jsonPrimitive) {
-            if (jsonPrimitive == null) {
-                return getThis();
-            }
-            this.mPower = jsonPrimitive.getAsInt();
-            return getThis();
-        }
-
-        public B withToughness(int toughness) {
+        public B withToughness(String toughness) {
             this.mToughness = toughness;
-            return getThis();
-        }
-
-        public B withToughness(JsonPrimitive jsonPrimitive) {
-            if (jsonPrimitive == null) {
-                return getThis();
-            }
-            this.mToughness = jsonPrimitive.getAsInt();
             return getThis();
         }
 
@@ -431,10 +416,10 @@ public class Card implements Parcelable {
             if (GsonUtils.isNonNull(jsonObject.get("id"))) {
                 builder.withId(jsonObject.get("id").getAsString());
             }
-            if (GsonUtils.isNonNull(jsonObject.get("url"))) {
+            if (GsonUtils.isNonEmpty(jsonObject.get("url"))) {
                 builder.withUrl(jsonObject.get("url").getAsString());
             }
-            if (GsonUtils.isNonNull(jsonObject.get("store_url"))) {
+            if (GsonUtils.isNonEmpty(jsonObject.get("store_url"))) {
                 builder.withStoreUrl(jsonObject.get("store_url").getAsString());
             }
             if (GsonUtils.isNonNull(jsonObject.get("supertypes"))) {
@@ -452,11 +437,11 @@ public class Card implements Parcelable {
             if (GsonUtils.isNonNull(jsonObject.get("cost"))) {
                 builder.withSymbols((Symbols) context.deserialize(jsonObject.get("cost"), Symbols.class));
             }
-            if (GsonUtils.isNonNull(jsonObject.get("power"))) {
-                builder.withPower(jsonObject.get("power").getAsInt());
+            if (GsonUtils.isNonEmpty(jsonObject.get("power"))) {
+                builder.withPower(jsonObject.get("power").getAsString());
             }
-            if (GsonUtils.isNonNull(jsonObject.get("toughness"))) {
-                builder.withToughness(jsonObject.get("toughness").getAsInt());
+            if (GsonUtils.isNonEmpty(jsonObject.get("toughness"))) {
+                builder.withToughness(jsonObject.get("toughness").getAsString());
             }
             if (GsonUtils.isNonNull(jsonObject.get("formats"))) {
                 for (Format format : Format.values()) {
@@ -612,26 +597,28 @@ public class Card implements Parcelable {
             return Integer.valueOf(convertedManaCost);
         }
 
-        private static int parsePower(Element element) {
+        private static String parsePower(Element element) {
             final String typeString = element.getElementsByClass("typeLine").first().text();
             final String[] typesStrings = typeString.substring(0, typeString.length()).split(" ");
             for (String type : typesStrings) {
                 if (isPowerToughness(type)) {
-                    return Integer.valueOf(Character.toString(type.charAt(1)));
+                    // Fix this, power and toughness can contain an asterix
+                    return "";
                 }
             }
-            return -1;
+            return "";
         }
 
-        private static int parseToughness(Element element) {
+        private static String parseToughness(Element element) {
             final String typeString = element.getElementsByClass("typeLine").first().text();
             final String[] typesStrings = typeString.substring(0, typeString.length()).split(" ");
             for (String type : typesStrings) {
                 if (isPowerToughness(type)) {
-                    return Integer.valueOf(Character.toString(type.charAt(3)));
+                    // Fix this, power and toughness can contain an asterix
+                    return "";
                 }
             }
-            return -1;
+            return "";
         }
 
         private static Edition parseEdition(Element element) {

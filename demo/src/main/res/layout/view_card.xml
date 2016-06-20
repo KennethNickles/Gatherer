@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     android:background="@null">
 
-    <com.kennethnickles.mox.glide.CrossfadeViewTarget
+    <com.github.kennethnickles.gatherer.demo.glide.CrossfadeViewTarget
         android:id="@+id/view_card"
         android:layout_width="@dimen/card_image_width_medium"
         android:layout_height="@dimen/card_image_height_medium"

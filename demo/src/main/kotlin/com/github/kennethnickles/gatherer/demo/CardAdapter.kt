@@ -6,13 +6,13 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import butterknife.BindView
 import butterknife.ButterKnife
 import butterknife.OnClick
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.github.kennethnickles.gatherer.card.Card
+import com.github.kennethnickles.gatherer.demo.glide.CrossfadeViewTarget
 import com.github.kennethnickles.gatherer.util.Preconditions
 
 /**
@@ -64,7 +64,7 @@ class CardAdapter(context: Context, cards: MutableList<Card>,
     class CardViewHolder(formatView: View) : RecyclerView.ViewHolder(formatView), Bindable<Card> {
 
         @BindView(R.id.view_card)
-        lateinit var mViewCard: ImageView
+        lateinit var mViewTarget: CrossfadeViewTarget
 
         private var mCardSelectionListener: CardSelectionListener? = null
         private var mCard: Card? = null
@@ -75,8 +75,8 @@ class CardAdapter(context: Context, cards: MutableList<Card>,
 
         override fun bind(card: Card) {
             mCard = Preconditions.checkNotNull(card, "Card")
-            Glide.with(mViewCard!!.context).load(mCard!!.url).asBitmap().diskCacheStrategy(
-                    DiskCacheStrategy.SOURCE).placeholder(R.drawable.card_back_180dp).into(mViewCard)
+            Glide.with(mViewTarget!!.context).load(mCard!!.editions[0].imageUrl).asBitmap().diskCacheStrategy(
+                    DiskCacheStrategy.RESULT).placeholder(R.drawable.card_back_180dp).into(mViewTarget)
         }
 
         override fun unbind() {
@@ -88,7 +88,7 @@ class CardAdapter(context: Context, cards: MutableList<Card>,
         }
 
         @OnClick(R.id.view_card)
-        internal fun onClick() {
+        fun onClick() {
             Preconditions.checkState(mCard != null, "Card never bound, launch failed")
             mCardSelectionListener!!.onCardSelected(mCard!!)
         }

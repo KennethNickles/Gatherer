@@ -1,9 +1,11 @@
 package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
+
 import java.util.List;
 
 /**
@@ -12,99 +14,99 @@ import java.util.List;
  */
 public enum Symbol {
 
-    black("B"),
-    blue("U"),
-    green("G"),
-    red("R"),
-    white("White", "W"),
-    colorless("Colorless", "C"),
-    variable_colorless("Variable Colorless", "X"),
-    black_or_red("Black or Red", "B/R"),
-    black_or_green("Black or Green", "B/G"),
-    blue_or_black("Blue or Black", "U/B"),
-    blue_or_red("Blue or Red", "U/R"),
-    green_or_white("Green or White", "G/W"),
-    green_or_blue("Green or Blue", "G/U"),
-    red_or_green("Red or Green", "R/G"),
-    red_or_white("Red or White", "R/W"),
-    white_or_blue("White or Blue", "W/U"),
-    white_or_black("White or Black", "W/B"),
-    two_or_black("Two or Black", "2/B"),
-    two_or_blue("Two or Blue", "2/U"),
-    two_or_green("Two or Green", "2/G"),
-    two_or_red("Two or Red", "2/R"),
-    two_or_white("Two or White", "2/W"),
-    tap("Tap"),
-    one("1"),
-    two("2"),
-    three("3"),
-    four("4"),
-    five("5"),
-    six("6"),
-    seven("7"),
-    eight("8"),
-    nine("9"),
-    ten("10"),
-    eleven("11"),
-    twelve("12"),
-    thirteen("13"),
-    fourteen("14"),
-    fifteen("15"),
-    sixteen("16"),
-    seventeen("17"),
-    eighteen("18"),
-    nineteen("19"),
-    twenty("20");
+    BLACK("BLACK", "B"),
+    BLUE("BLUE", "U"),
+    GREEN("GREEN", "G"),
+    RED("RED", "R"),
+    WHITE("WHITE", "W"),
+    COLORLESS("COLORLESS", "C"),
+    VARIABLE_COLORLESS("VARIABLE COLORLESS", "X"),
+    BLACK_OR_RED("BLACK OR RED", "B/R"),
+    BLACK_OR_GREEN("BLACK OR GREEN", "B/G"),
+    BLUE_OR_BLACK("BLUE OR BLACK", "U/B"),
+    BLUE_OR_RED("BLUE OR RED", "U/R"),
+    GREEN_OR_WHITE("GREEN OR WHITE", "G/W"),
+    GREEN_OR_BLUE("GREEN OR BLUE", "G/U"),
+    RED_OR_GREEN("RED OR GREEN", "R/G"),
+    RED_OR_WHITE("RED OR WHITE", "R/W"),
+    WHITE_OR_BLUE("WHITE OR BLUE", "W/U"),
+    WHITE_OR_BLACK("WHITE OR BLACK", "W/B"),
+    TWO_OR_BLACK("TWO OR BLACK", "2/B"),
+    TWO_OR_BLUE("TWO OR BLUE", "2/U"),
+    TWO_OR_GREEN("TWO OR GREEN", "2/G"),
+    TWO_OR_RED("TWO OR RED", "2/R"),
+    TWO_OR_WHITE("TWO OR WHITE", "2/W"),
+    TAP("TAP"),
+    ONE("1"),
+    TWO("2"),
+    THREE("3"),
+    FOUR("4"),
+    FIVE("5"),
+    SIX("6"),
+    SEVEN("7"),
+    EIGHT("8"),
+    NINE("9"),
+    TEN("10"),
+    ELEVEN("11"),
+    TWELVE("12"),
+    THIRTEEN("13"),
+    FOURTEEN("14"),
+    FIFTEEN("15"),
+    SIXTEEN("16"),
+    SEVENTEEN("17"),
+    EIGHTEEN("18"),
+    NINETEEN("19"),
+    TWENTY("20");
 
-    String mName;
     String mSymbol;
+    String mName;
 
     Symbol(String symbol) {
-        this.mName = symbol;
         this.mSymbol = symbol;
+        this.mName = name();
     }
 
-    Symbol(String name, String symbol) {
+    Symbol(String symbol, String name) {
+        this.mSymbol = symbol;
         this.mName = name;
-        this.mSymbol = symbol;
-    }
-
-    public String getName() {
-        return mName;
     }
 
     public String getSymbol() {
         return mSymbol;
     }
 
+    public String getName() {
+        return mName;
+    }
+
     public int getCmc() {
         switch (this) {
-            case black:
-            case blue:
-            case green:
-            case red:
-            case white:
-            case colorless:
-            case black_or_green:
-            case black_or_red:
-            case blue_or_black:
-            case blue_or_red:
-            case green_or_blue:
-            case green_or_white:
-            case red_or_green:
-            case red_or_white:
-            case white_or_blue:
-            case white_or_black:
+            case BLACK:
+            case BLUE:
+            case GREEN:
+            case RED:
+            case WHITE:
+            case COLORLESS:
+            case BLACK_OR_GREEN:
+            case BLACK_OR_RED:
+            case BLUE_OR_BLACK:
+            case BLUE_OR_RED:
+            case GREEN_OR_BLUE:
+            case GREEN_OR_WHITE:
+            case RED_OR_GREEN:
+            case RED_OR_WHITE:
+            case WHITE_OR_BLUE:
+            case WHITE_OR_BLACK:
                 return 1;
-            case variable_colorless:
+            case VARIABLE_COLORLESS:
                 return 0;
-            case tap:
+            case TAP:
                 return 0;
-            case two_or_black:
-            case two_or_blue:
-            case two_or_green:
-            case two_or_red:
-            case two_or_white:
+            case TWO_OR_BLACK:
+            case TWO_OR_BLUE:
+            case TWO_OR_GREEN:
+            case TWO_OR_RED:
+            case TWO_OR_WHITE:
                 return 2;
             default:
                 return Integer.valueOf(mSymbol);
@@ -117,15 +119,17 @@ public enum Symbol {
         if (Strings.isNullOrEmpty(lookup)) {
             return null;
         }
-        for (Symbol symbol : values()) {
-            if (Enums.sanitize(symbol.getName()).equals(Enums.sanitize(lookup))) {
-                return symbol;
-            }
-            if (Enums.sanitize(symbol.getSymbol()).equals(Enums.sanitize(lookup))) {
-                return symbol;
-            }
+        final String sanitized = Enums.sanitize(lookup);
+        if (sanitized == null || sanitized.isEmpty()) {
+            return null;
         }
-        return null;
+        // TODO: Add Name support for lookups
+        final Symbol symbol = Symbols.SYMBOL_MAP.get(sanitized);
+        if (symbol == null) {
+            Log.d("Symbol", "Missing Symbol: " + lookup);
+            return null;
+        }
+        return symbol;
     }
 
     @Nullable

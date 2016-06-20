@@ -4,7 +4,6 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
 import com.github.kennethnickles.gatherer.util.GsonUtils;
-import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Preconditions;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
@@ -13,7 +12,6 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
-import java.util.ArrayList;
 
 /**
  * @author kenneth.nickles
@@ -58,7 +56,7 @@ public class Edition implements Parcelable {
         return mState.mFlavorText;
     }
 
-    public int getNumber() {
+    public String getNumber() {
         return mState.mNumber;
     }
 
@@ -99,7 +97,7 @@ public class Edition implements Parcelable {
         String mArtist;
         int mMulitverseId;
         String mFlavorText;
-        int mNumber;
+        String mNumber;
         String mLayout;
         String mImageUrl;
         String mSetUrl;
@@ -142,7 +140,7 @@ public class Edition implements Parcelable {
         }
 
         @NonNull
-        public Builder withNumber(int number) {
+        public Builder withNumber(@NonNull String number) {
             this.mNumber = number;
             return this;
         }
@@ -212,8 +210,8 @@ public class Edition implements Parcelable {
             if (GsonUtils.isNonNull(jsonObject.get("flavor"))) {
                 builder.withFlavorText(jsonObject.get("flavor").getAsString());
             }
-            if (GsonUtils.isNonNull(jsonObject.get("number"))) {
-                builder.withNumber(jsonObject.get("number").getAsInt());
+            if (GsonUtils.isNonEmpty(jsonObject.get("number"))) {
+                builder.withNumber(jsonObject.get("number").getAsString());
             }
             if (GsonUtils.isNonNull(jsonObject.get("layout"))) {
                 builder.withLayout(jsonObject.get("layout").getAsString());

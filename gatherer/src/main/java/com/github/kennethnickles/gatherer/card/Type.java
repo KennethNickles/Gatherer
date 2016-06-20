@@ -1,7 +1,7 @@
 package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
-
+import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
@@ -14,19 +14,19 @@ import java.util.List;
  */
 public enum Type {
 
-    artifact,
-    conspiracy,
-    creature,
-    enchantment,
-    instant,
-    land,
-    phenomenon,
-    plane,
-    planeswalker,
-    scheme,
-    sorcery,
-    tribal,
-    vanguard;
+    ARTIFACT,
+    CONSPIRACY,
+    CREATURE,
+    ENCHANTMENT,
+    INSTANT,
+    LAND,
+    PHENOMENON,
+    PLANE,
+    PLANESWALKER,
+    SCHEME,
+    SORCERY,
+    TRIBAL,
+    VANGUARD;
 
     @Nullable
     public static Type from(String lookup) {
@@ -34,10 +34,11 @@ public enum Type {
             return null;
         }
         for (Type type : values()) {
-            if (Enums.sanitize(type.name()).equals(Enums.sanitize(lookup))) {
+            if (type.name().equals(Enums.sanitize(lookup))) {
                 return type;
             }
         }
+        Log.d("Type", "Missing Type: " + lookup);
         return null;
     }
 

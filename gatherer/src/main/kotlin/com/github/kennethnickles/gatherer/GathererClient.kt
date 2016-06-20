@@ -3,9 +3,10 @@ package com.github.kennethnickles.gatherer
 import com.github.kennethnickles.gatherer.card.Card
 import com.github.kennethnickles.gatherer.server.GathererRequest
 import com.github.kennethnickles.gatherer.server.GathererService
-import retrofit2.Call
 import retrofit2.Retrofit
 import rx.Observable
+import rx.android.schedulers.AndroidSchedulers
+import rx.schedulers.Schedulers
 
 /**
  * @author kenneth.nickles
@@ -26,18 +27,26 @@ class GathererClient {
     }
 
     fun simple(request: GathererRequest): Observable<List<Card>> {
-        throw UnsupportedOperationException()
+        return mService.simple(request.getDeckBrewParams())
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
-    fun advanced(action: String?, request: GathererRequest): Observable<List<Card>> {
-        throw UnsupportedOperationException()
+    fun advanced(action: String, request: GathererRequest): Observable<List<Card>> {
+        return mService.advanced(action, request.getGathererParams())
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
-    fun detail(id: String?): Observable<Card> {
-        throw UnsupportedOperationException()
+    fun detail(id: String): Observable<Card> {
+        return mService.detail(id)
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 
-    fun random(action: String?): Observable<Card> {
-        throw UnsupportedOperationException()
+    fun random(action: String): Observable<Card> {
+        return mService.random(action)
+                .subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
     }
 }

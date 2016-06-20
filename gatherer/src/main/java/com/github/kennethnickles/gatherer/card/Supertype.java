@@ -2,6 +2,7 @@ package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
 
+import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Strings;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
@@ -14,11 +15,11 @@ import java.util.List;
  */
 public enum Supertype {
 
-    basic,
-    legendary,
-    ongoing,
-    snow,
-    world;
+    BASIC,
+    LEGENDARY,
+    ONGOING,
+    SNOW,
+    WORLD;
 
     @Nullable
     public static Supertype from(String lookup) {
@@ -30,6 +31,7 @@ public enum Supertype {
                 return supertype;
             }
         }
+        Log.d("Supertype", "Missing Supertype: " + lookup);
         return null;
     }
 

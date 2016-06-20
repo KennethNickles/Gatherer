@@ -11,19 +11,19 @@ import com.github.kennethnickles.gatherer.util.Enums;
  */
 public enum Format {
 
-    block(),
-    standard(),
-    modern(),
-    commander(),
-    legacy(),
-    vintage(),
-    booster_draft("booster draft"),
-    sealed_deck("sealed deck"),
-    two_headed_giant("two-headed giant"),
-    team_unified_construct("team unified construct"),
-    team_limited("team limited"),
-    team_booster_draft("team booster draft"),
-    team_sealed_draft("team sealed draft");
+    BLOCK(),
+    STANDARD(),
+    MODERN(),
+    COMMANDER(),
+    LEGACY(),
+    VINTAGE(),
+    BOOSTER_DRAFT("booster draft"),
+    SEALED_DECK("sealed deck"),
+    TWO_HEADED_GIANT("two-headed giant"),
+    TEAM_UNIFIED_CONSTRUCT("team unified construct"),
+    TEAM_LIMITED("team limited"),
+    TEAM_BOOSTER_DRAFT("team booster draft"),
+    TEAM_SEALED_DRAFT("team sealed draft");
 
     private final String mName;
 
@@ -45,7 +45,7 @@ public enum Format {
             return null;
         }
         for (Format format : values()) {
-            if (Enums.sanitize(format.name()).equals(Enums.sanitize(lookup))) {
+            if (format.getName().equals(Enums.sanitize(lookup))) {
                 return format;
             }
         }

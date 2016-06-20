@@ -1,5 +1,6 @@
 package com.github.kennethnickles.gatherer.demo
 
+import android.content.Context
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.v4.app.Fragment
@@ -14,7 +15,6 @@ import android.widget.TextView
 import butterknife.BindView
 import butterknife.ButterKnife
 import com.github.kennethnickles.gatherer.DeckBrewClient
-import com.github.kennethnickles.gatherer.Gatherer
 import com.github.kennethnickles.gatherer.GathererClient
 import com.github.kennethnickles.gatherer.card.Card
 import com.github.kennethnickles.gatherer.card.Color
@@ -22,9 +22,6 @@ import com.github.kennethnickles.gatherer.demo.dagger.FragmentComponent
 import com.github.kennethnickles.gatherer.demo.dagger.FragmentModule
 import com.github.kennethnickles.gatherer.server.GathererRequest
 import com.github.kennethnickles.gatherer.util.Lists
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
 import rx.Observer
 import java.util.ArrayList
 import javax.inject.Inject
@@ -51,10 +48,22 @@ class GathererFragment : Fragment(), CardSelectionListener {
     @BindView(R.id.recycler_view_cards)
     lateinit var mRecyclerView: RecyclerView
 
-    private var fragmentComponent: FragmentComponent? = null
-
+    private var mFragmentComponent: FragmentComponent? = null
     private var mCards: ArrayList<Card>? = null
     private var mCardAdapter: CardAdapter? = null
+    private var mCardSelectionListener: CardSelectionListener? = null
+
+    override fun onAttach(context: Context?) {
+        super.onAttach(context)
+
+        mCardSelectionListener = context as CardSelectionListener
+    }
+
+    override fun onDetach() {
+        super.onDetach()
+
+        mCardSelectionListener = null
+    }
 
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
@@ -79,11 +88,11 @@ class GathererFragment : Fragment(), CardSelectionListener {
 
         mCards = Lists.newArrayList();
         mCardAdapter = CardAdapter(context, mCards!!, this)
-        mRecyclerView.adapter = mCardAdapter;
+        mRecyclerView.adapter = mCardAdapter
 
         mProgressLoadingView.show();
 
-        val request: GathererRequest = GathererRequest.builder().withColor(Color.blue).build();
+        val request: GathererRequest = GathererRequest.builder().withColor(Color.BLUE).build();
         mDeckBrewClient.cards(request).subscribe(object : Observer<List<Card>> {
             override fun onNext(cards: List<Card>?) {
                 mCards!!.clear();
@@ -93,36 +102,26 @@ class GathererFragment : Fragment(), CardSelectionListener {
             }
 
             override fun onCompleted() {
-                throw UnsupportedOperationException()
             }
 
             override fun onError(e: Throwable?) {
-                throw UnsupportedOperationException()
-            }
-
-        })
-        Gatherer.cards(request, object : Callback<List<Card>> {
-
-            override fun onResponse(call: Call<List<Card>>, response: Response<List<Card>>) {
-
-            }
-
-            override fun onFailure(call: Call<List<Card>>, t: Throwable) {
+                Log.e(TAG, Log.getStackTraceString(e))
                 mProgressLoadingView.hide()
+                mTextViewError.text = Log.getStackTraceString(e)
                 mTextViewError.visibility = View.VISIBLE
             }
         })
     }
 
-    open fun injectSelf() {
+    fun injectSelf() {
         getFragmentComponent().injectGathererFragment(this)
     }
 
     fun getFragmentComponent(): FragmentComponent {
-        if (fragmentComponent == null) {
-            fragmentComponent = (activity as GathererActivity).getActivityComponent().plus(FragmentModule(this))
+        if (mFragmentComponent == null) {
+            mFragmentComponent = (activity as GathererActivity).getActivityComponent().plus(FragmentModule(this))
         }
-        return fragmentComponent!!
+        return mFragmentComponent!!
     }
 
     override fun onSaveInstanceState(outState: Bundle?) {
@@ -131,8 +130,29 @@ class GathererFragment : Fragment(), CardSelectionListener {
     }
 
     override fun onCardSelected(card: Card) {
+        Log.d(TAG, "onCardSelected: " + card.name)
+        mCardSelectionListener!!.onCardSelected(card)
         Snackbar.make(view!!, card.name, Snackbar.LENGTH_LONG)
                 .setAction(R.string.details, { Log.d(TAG, card.name) })
                 .show();
+    }
+
+    fun onSearchClick() {
+        Log.d(TAG, "onSearchClick")
+    }
+
+    fun onSearchClose(): Boolean {
+        Log.d(TAG, "onSearchClose")
+        return false
+    }
+
+    fun onSearch(query: String?): Boolean {
+        Log.d(TAG, "onQueryTextSubmit")
+        return false
+    }
+
+    fun onSearchTextChange(newText: String?): Boolean {
+        Log.d(TAG, "onQueryTextChange")
+        return false
     }
 }

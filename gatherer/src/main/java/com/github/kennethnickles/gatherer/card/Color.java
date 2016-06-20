@@ -1,5 +1,7 @@
 package com.github.kennethnickles.gatherer.card;
 
+import android.util.Log;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -9,17 +11,23 @@ import java.util.Set;
  */
 public enum Color {
 
-    black("B"),
-    blue("U"),
-    green("G"),
-    red("R"),
-    white("W"),
-    colorless("C");
+    BLACK("BLACK", "B"),
+    BLUE("BLUE", "U"),
+    GREEN("GREEN", "G"),
+    RED("RED", "R"),
+    WHITE("WHITE", "W"),
+    COLORLESS("COLORLESS", "C");
 
+    private final String mSymbol;
     private final String mName;
 
-    Color(String name) {
+    Color(String symbol, String name) {
+        this.mSymbol = symbol;
         this.mName = name;
+    }
+
+    public String getSymbol() {
+        return mSymbol;
     }
 
     public String getName() {
@@ -28,10 +36,14 @@ public enum Color {
 
     public static Color from(String lookup) {
         for (Color color : values()) {
-            if (color.toString().equals(lookup)) {
+            if(color.getSymbol().equals(lookup)) {
+                return color;
+            }
+            if (color.getName().equals(lookup)) {
                 return color;
             }
         }
+        Log.d("Color", "Missing Color: " + lookup);
         return null;
     }
 

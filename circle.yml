@@ -12,4 +12,4 @@ dependencies:
 
 test:
   override:
-    - ./gradlew build check
+    - ./gradlew build check -PdisablePreDex

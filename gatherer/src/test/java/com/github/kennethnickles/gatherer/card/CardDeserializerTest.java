@@ -89,6 +89,7 @@ public class CardDeserializerTest {
         final Gson gson = new CardGsonFactory().createCardGson();
         final Card[] cards = gson.fromJson(jsonReader, Card[].class);
         Assert.assertNotNull(cards);
+        Assert.assertEquals(100, cards.length);
     }
 
     private static InputStream getResourceAsStream(String fileName, Object source) {

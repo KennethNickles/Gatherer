@@ -51,13 +51,10 @@ dependencies {
     kapt "com.google.dagger:dagger-compiler:$dagger_version"
     compile "com.jakewharton:butterknife:$butterknife_version"
     kapt "com.jakewharton:butterknife-compiler:$butterknife_version"
-    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile "com.squareup.retrofit2:retrofit:$retrofit_version"
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile "io.reactivex:rxandroid:$rx_version"
-    compile "io.reactivex:rxkotlin:$rx_kotlin_version"
     compile project(':gatherer')
 
     provided 'org.glassfish:javax.annotation:10.0-b28'
-
-    testCompile "junit:junit:$junit_version"
 }

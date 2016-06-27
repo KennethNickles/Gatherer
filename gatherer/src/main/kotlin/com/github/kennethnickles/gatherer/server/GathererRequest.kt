@@ -2,8 +2,8 @@ package com.github.kennethnickles.gatherer.server
 
 import com.github.kennethnickles.gatherer.card.Color
 import com.github.kennethnickles.gatherer.card.Type
+import java.util.ArrayList
 import java.util.HashMap
-import java.util.HashSet
 
 /**
  * @author kenneth.nickles
@@ -11,41 +11,7 @@ import java.util.HashSet
  *
  * TODO: Parameter differences need to be tested such as "Odyssey" and "odyssey"
  */
-class GathererRequest private constructor(builder: Builder) {
-
-    private val mState: Builder = builder
-
-    fun areNamesExclusive(): Boolean {
-        return mState.mAreNamesExclusive
-    }
-
-    fun areTypesExclusive(): Boolean {
-        return mState.mAreTypesExclusive
-    }
-
-    fun areSupertypesExclusive(): Boolean {
-        return mState.mAreSupertypesExclusive
-    }
-
-    fun areSubtypesExclusive(): Boolean {
-        return mState.mAreSubtypesExclusive
-    }
-
-    fun areColorsExclusive(): Boolean {
-        return mState.mAreColorsExclusive
-    }
-
-    fun getParams(): Map<String, Set<String>> {
-        return mState.mParams
-    }
-
-    fun getDeckBrewParams(): Map<String, String> {
-        return DeckBrewParamBuilder().getParams(this)
-    }
-
-    fun getGathererParams(): Map<String, String> {
-        return GathererParamBuilder().getParams(this)
-    }
+data class GathererRequest private constructor(val builder: Builder) {
 
     companion object {
 
@@ -55,104 +21,147 @@ class GathererRequest private constructor(builder: Builder) {
         }
     }
 
+    private val mState: Builder = builder
+
+    fun getParams(): Map<String, List<String>> {
+        return mState.mParams
+    }
+
+    fun getNames(): List<String> {
+        if (!mState.mParams.containsKey(ParamConstants.NAME_KEY)) {
+            return emptyList()
+        }
+        return mState.mParams[ParamConstants.NAME_KEY] as List<String>
+    }
+
+    fun getSupertypes(): List<String> {
+        if (!mState.mParams.containsKey(ParamConstants.SUPERTYPE_KEY)) {
+            return emptyList()
+        }
+        return mState.mParams[ParamConstants.SUPERTYPE_KEY] as List<String>
+    }
+
+    fun getTypes(): List<String> {
+        if (!mState.mParams.containsKey(ParamConstants.TYPE_KEY)) {
+            return emptyList()
+        }
+        return mState.mParams[ParamConstants.TYPE_KEY] as List<String>
+    }
+
+    fun getSubtypes(): List<String> {
+        if (!mState.mParams.containsKey(ParamConstants.SUBTYPE_KEY)) {
+            return emptyList()
+        }
+        return mState.mParams[ParamConstants.SUBTYPE_KEY] as List<String>
+    }
+
+    fun getColors(): List<String> {
+        if (!mState.mParams.containsKey(ParamConstants.COLOR_KEY)) {
+            return emptyList()
+        }
+        return mState.mParams[ParamConstants.COLOR_KEY] as List<String>
+    }
+
     class Builder constructor() {
 
-        val mParams: MutableMap<String, MutableSet<String>> = HashMap()
-        var mAreNamesExclusive: Boolean = false
-        var mAreTypesExclusive: Boolean = false
-        var mAreSupertypesExclusive: Boolean = false
-        var mAreSubtypesExclusive: Boolean = false
-        var mAreColorsExclusive: Boolean = false
+        val mParams: MutableMap<String, MutableList<String>> = HashMap()
 
         fun withName(name: String): Builder {
             if (!mParams.containsKey(ParamConstants.NAME_KEY)) {
-                mParams.put(ParamConstants.NAME_KEY, HashSet<String>())
+                mParams.put(ParamConstants.NAME_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.NAME_KEY]!!.add(name)
+            this.mParams[ParamConstants.NAME_KEY]!!.add(name.toLowerCase())
             return this
         }
 
         fun withRule(rule: String): Builder {
             if (!mParams.containsKey(ParamConstants.RULES_KEY)) {
-                mParams.put(ParamConstants.RULES_KEY, HashSet<String>())
+                mParams.put(ParamConstants.RULES_KEY, ArrayList<String>())
             }
-            mParams[ParamConstants.RULES_KEY]!!.add(rule)
+            mParams[ParamConstants.RULES_KEY]!!.add(rule.toLowerCase())
             return this
         }
 
         fun withExpansion(expansion: String): Builder {
             if (!mParams.containsKey(ParamConstants.EXPANSION_KEY)) {
-                mParams.put(ParamConstants.EXPANSION_KEY, HashSet<String>())
+                mParams.put(ParamConstants.EXPANSION_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.EXPANSION_KEY]!!.add(expansion)
+            this.mParams[ParamConstants.EXPANSION_KEY]!!.add(expansion.toLowerCase())
             return this
         }
 
         fun withFormat(format: String): Builder {
             if (!mParams.containsKey(ParamConstants.FORMAT_KEY)) {
-                mParams.put(ParamConstants.FORMAT_KEY, HashSet<String>())
+                mParams.put(ParamConstants.FORMAT_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.FORMAT_KEY]!!.add(format)
+            this.mParams[ParamConstants.FORMAT_KEY]!!.add(format.toLowerCase())
             return this
         }
 
         fun withColor(color: String): Builder {
             if (!mParams.containsKey(ParamConstants.COLOR_KEY)) {
-                mParams.put(ParamConstants.COLOR_KEY, HashSet<String>())
+                mParams.put(ParamConstants.COLOR_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.COLOR_KEY]!!.add(color)
+            this.mParams[ParamConstants.COLOR_KEY]!!.add(color.toLowerCase())
             return this
         }
 
         fun withColor(color: Color): Builder {
             if (!mParams.containsKey(ParamConstants.COLOR_KEY)) {
-                mParams.put(ParamConstants.COLOR_KEY, HashSet<String>())
+                mParams.put(ParamConstants.COLOR_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.COLOR_KEY]!!.add(color.getName())
+            this.mParams[ParamConstants.COLOR_KEY]!!.add(color.getName().toLowerCase())
             return this
         }
 
         fun withColors(colors: Set<Color>): Builder {
             if (!mParams.containsKey(ParamConstants.COLOR_KEY)) {
-                mParams.put(ParamConstants.COLOR_KEY, HashSet<String>())
+                mParams.put(ParamConstants.COLOR_KEY, ArrayList<String>())
             }
             for (color in colors) {
-                this.mParams[ParamConstants.COLOR_KEY]!!.add(color.getName())
+                this.mParams[ParamConstants.COLOR_KEY]!!.add(color.getName().toLowerCase())
             }
-            return this
-        }
-
-        fun areColorsExclusive(areColorsExclusive: Boolean): Builder {
-            this.mAreColorsExclusive = areColorsExclusive
             return this
         }
 
         fun withType(type: String): Builder {
             if (!mParams.containsKey(ParamConstants.TYPE_KEY)) {
-                mParams.put(ParamConstants.TYPE_KEY, HashSet<String>())
+                mParams.put(ParamConstants.TYPE_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.TYPE_KEY]!!.add(type)
+            this.mParams[ParamConstants.TYPE_KEY]!!.add(type.toLowerCase())
             return this
         }
 
         fun withType(type: Type): Builder {
             if (!mParams.containsKey(ParamConstants.TYPE_KEY)) {
-                mParams.put(ParamConstants.TYPE_KEY, HashSet<String>())
+                mParams.put(ParamConstants.TYPE_KEY, ArrayList<String>())
             }
-            this.mParams[ParamConstants.TYPE_KEY]!!.add(type.name)
+            this.mParams[ParamConstants.TYPE_KEY]!!.add(type.getName().toLowerCase())
             return this
         }
 
         fun withSubtype(subtype: String): Builder {
             if (!mParams.containsKey(ParamConstants.SUBTYPE_KEY)) {
-                mParams.put(ParamConstants.SUBTYPE_KEY, HashSet<String>())
+                mParams.put(ParamConstants.SUBTYPE_KEY, ArrayList<String>())
             }
-            mParams[ParamConstants.SUBTYPE_KEY]!!.add(subtype)
+            mParams[ParamConstants.SUBTYPE_KEY]!!.add(subtype.toLowerCase())
             return this
         }
 
         fun build(): GathererRequest {
             return GathererRequest(this)
+        }
+
+        override fun toString(): String {
+            val builder = StringBuilder()
+            for (entry in mParams) {
+                builder.append(entry.key).append(" -> ")
+                for (value in entry.value) {
+                    builder.append(value).append(", ")
+                }
+                builder.delete(builder.length - 2, builder.length - 1)
+            }
+            return builder.toString()
         }
     }
 }

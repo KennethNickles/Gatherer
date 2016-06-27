@@ -11,11 +11,11 @@ class ParamConstants {
         @JvmField
         val PARAM_ADD = "+"
         @JvmField
-        val PARAM_OR = "|"
+        val PARAM_OR = '|'
         @JvmField
         val PARAM_ASSIGN = "="
         @JvmField
-        val PARAM_AND = "&"
+        val PARAM_AND = '&'
         @JvmField
         val PARAM_FORMAT = "[%s]"
         @JvmField

@@ -3,13 +3,7 @@ package com.github.kennethnickles.gatherer.card;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
-import com.github.kennethnickles.gatherer.util.GsonUtils;
 import com.github.kennethnickles.gatherer.util.Preconditions;
-import com.google.gson.JsonDeserializationContext;
-import com.google.gson.JsonDeserializer;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParseException;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
 
@@ -86,6 +80,11 @@ public class Edition implements Parcelable {
         Postman.writeToParcel(this, dest);
     }
 
+    @NonNull
+    public static Builder builder() {
+        return new Builder();
+    }
+
     @Parceled
     public static class Builder implements Parcelable {
 
@@ -102,6 +101,10 @@ public class Edition implements Parcelable {
         String mImageUrl;
         String mSetUrl;
         String mStoreUrl;
+
+        Builder() {
+            // Postman
+        }
 
         @NonNull
         public Builder withSet(@NonNull String set) {
@@ -182,50 +185,6 @@ public class Edition implements Parcelable {
         @Override
         public void writeToParcel(Parcel dest, int flags) {
             Postman.writeToParcel(this, dest);
-        }
-    }
-
-    public static class Deserializer implements JsonDeserializer<Edition> {
-
-        @Override
-        public Edition deserialize(JsonElement json, java.lang.reflect.Type typeOfT, JsonDeserializationContext context)
-                throws JsonParseException {
-            final Builder builder = new Builder();
-            final JsonObject jsonObject = json.getAsJsonObject();
-            if (GsonUtils.isNonNull(jsonObject.get("set"))) {
-                builder.withSet(jsonObject.get("set").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("set_id"))) {
-                builder.withSetId(jsonObject.get("set_id").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("rarity"))) {
-                builder.withRarity(jsonObject.get("rarity").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("artist"))) {
-                builder.withArtist(jsonObject.get("artist").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("multiverse_id"))) {
-                builder.withMultiverseId(jsonObject.get("multiverse_id").getAsInt());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("flavor"))) {
-                builder.withFlavorText(jsonObject.get("flavor").getAsString());
-            }
-            if (GsonUtils.isNonEmpty(jsonObject.get("number"))) {
-                builder.withNumber(jsonObject.get("number").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("layout"))) {
-                builder.withLayout(jsonObject.get("layout").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("image_url"))) {
-                builder.withImageUrl(jsonObject.get("image_url").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("set_url"))) {
-                builder.withSetUrl(jsonObject.get("set_url").getAsString());
-            }
-            if (GsonUtils.isNonNull(jsonObject.get("store_url"))) {
-                builder.withStoreUrl(jsonObject.get("store_url").getAsString());
-            }
-            return builder.build();
         }
     }
 }

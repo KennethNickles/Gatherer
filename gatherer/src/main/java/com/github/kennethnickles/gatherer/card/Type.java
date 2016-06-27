@@ -28,13 +28,17 @@ public enum Type {
     TRIBAL,
     VANGUARD;
 
+    public String getName() {
+        return name();
+    }
+
     @Nullable
-    public static Type from(String lookup) {
+    public static Type from(@Nullable String lookup) {
         if (Strings.isNullOrEmpty(lookup)) {
             return null;
         }
         for (Type type : values()) {
-            if (type.name().equals(Enums.sanitize(lookup))) {
+            if (type.getName().equals(Enums.sanitize(lookup))) {
                 return type;
             }
         }

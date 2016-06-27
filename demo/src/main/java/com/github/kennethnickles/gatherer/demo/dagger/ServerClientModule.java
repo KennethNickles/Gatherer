@@ -1,7 +1,6 @@
 package com.github.kennethnickles.gatherer.demo.dagger;
 
 import com.github.kennethnickles.gatherer.DeckBrewClient;
-import com.github.kennethnickles.gatherer.GathererClient;
 import dagger.Module;
 import dagger.Provides;
 
@@ -18,11 +17,5 @@ public class ServerClientModule {
     @Singleton
     public DeckBrewClient provideDeckBrewClient() {
         return new DeckBrewClient();
-    }
-
-    @Provides
-    @Singleton
-    public GathererClient provideGathererClient() {
-        return new GathererClient();
     }
 }

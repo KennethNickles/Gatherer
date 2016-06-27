@@ -75,7 +75,7 @@ class CardAdapter(context: Context, cards: MutableList<Card>,
 
         override fun bind(card: Card) {
             mCard = Preconditions.checkNotNull(card, "Card")
-            Glide.with(mViewTarget!!.context).load(mCard!!.editions[0].imageUrl).asBitmap().diskCacheStrategy(
+            Glide.with(mViewTarget!!.context).load(scanForUrl(card)).asBitmap().diskCacheStrategy(
                     DiskCacheStrategy.RESULT).placeholder(R.drawable.card_back_180dp).into(mViewTarget)
         }
 
@@ -91,6 +91,15 @@ class CardAdapter(context: Context, cards: MutableList<Card>,
         fun onClick() {
             Preconditions.checkState(mCard != null, "Card never bound, launch failed")
             mCardSelectionListener!!.onCardSelected(mCard!!)
+        }
+
+        private fun scanForUrl(card: Card): String? {
+            for (edition in card.editions) {
+                if (edition.imageUrl != null && edition.imageUrl != "https://image.deckbrew.com/mtg/multiverseid/0.jpg") {
+                    return edition.imageUrl
+                }
+            }
+            return null
         }
     }
 }

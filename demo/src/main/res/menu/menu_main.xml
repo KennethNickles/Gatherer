@@ -4,13 +4,6 @@
     tools:context="com.github.kennethnickles.gatherer.demo.GathererActivity">
 
     <item
-        android:id="@+id/action_close"
-        android:actionViewClass="android.support.v7.widget.SearchView"
-        android:icon="@drawable/ic_close_white_24dp"
-        android:title="@string/action_close"
-        app:showAsAction="never" />
-
-    <item
         android:id="@+id/action_search"
         android:actionViewClass="android.support.v7.widget.SearchView"
         android:icon="@drawable/ic_search_white_24dp"
@@ -18,8 +11,27 @@
         app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:id="@+id/action_supertypes"
+        android:title="@string/action_supertypes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_types"
+        android:title="@string/action_types"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_subtypes"
+        android:title="@string/action_subtypes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_colors"
+        android:title="@string/action_colors"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sets"
+        android:title="@string/action_sets"
         app:showAsAction="never" />
 </menu>

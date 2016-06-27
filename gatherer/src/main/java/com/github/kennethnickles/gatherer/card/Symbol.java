@@ -13,7 +13,6 @@ import java.util.List;
  * @since 2015-07-18.
  */
 public enum Symbol {
-
     BLACK("BLACK", "B"),
     BLUE("BLUE", "U"),
     GREEN("GREEN", "G"),
@@ -37,6 +36,7 @@ public enum Symbol {
     TWO_OR_RED("TWO OR RED", "2/R"),
     TWO_OR_WHITE("TWO OR WHITE", "2/W"),
     TAP("TAP"),
+    ZERO("0"),
     ONE("1"),
     TWO("2"),
     THREE("3"),
@@ -56,7 +56,13 @@ public enum Symbol {
     SEVENTEEN("17"),
     EIGHTEEN("18"),
     NINETEEN("19"),
-    TWENTY("20");
+    TWENTY("20"),
+    SNOW("SNOW", "S"),
+    PHYREXIAN_BLACK("B/P"),
+    PHYREXIAN_BLUE("U/P"),
+    PHYREXIAN_GREEN("G/P"),
+    PHYREXIAN_RED("R/P"),
+    PHYREXIAN_WHITE("W/P");
 
     String mSymbol;
     String mName;
@@ -97,6 +103,12 @@ public enum Symbol {
             case RED_OR_WHITE:
             case WHITE_OR_BLUE:
             case WHITE_OR_BLACK:
+            case SNOW:
+            case PHYREXIAN_BLACK:
+            case PHYREXIAN_BLUE:
+            case PHYREXIAN_GREEN:
+            case PHYREXIAN_RED:
+            case PHYREXIAN_WHITE:
                 return 1;
             case VARIABLE_COLORLESS:
                 return 0;

@@ -3,16 +3,11 @@ package com.github.kennethnickles.gatherer.card;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Preconditions;
-import com.google.gson.JsonDeserializationContext;
-import com.google.gson.JsonDeserializer;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParseException;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -63,6 +58,11 @@ public class Rules implements Parcelable {
         return this.mState.mRules.get(index);
     }
 
+    @NonNull
+    public static Builder builder() {
+        return new Builder();
+    }
+
     @Parceled
     public static class Builder implements Parcelable {
 
@@ -100,34 +100,6 @@ public class Rules implements Parcelable {
         @Override
         public void writeToParcel(Parcel dest, int flags) {
             Postman.writeToParcel(this, dest);
-        }
-    }
-
-    public static class Deserializer implements JsonDeserializer<Rules> {
-
-        @Override
-        public Rules deserialize(JsonElement json, java.lang.reflect.Type typeOfT, JsonDeserializationContext context)
-                throws JsonParseException {
-            /**
-             *     "text": "When you cast Kozilek, the Great Distortion, if you have fewer than
-             *     seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a
-             *     card with converted mana cost X: Counter target spell with converted mana cost
-             *     X.",
-             *
-             *     "text": "Tap an untapped Cephalid you control: Tap target permanent
-             *     .\n{U}{U}{U}: Tap all creatures without flying.",
-             */
-            final String text = json.getAsString();
-            final String[] lines = text.split("\n");
-            final Builder builder = new Builder();
-            for (int i = 0; i < lines.length; i++) {
-                final Rule rule  =Rule.from(lines[i]);
-                if(rule == null) {
-                    continue;
-                }
-                builder.withRule(rule);
-            }
-            return new Rules(builder);
         }
     }
 }

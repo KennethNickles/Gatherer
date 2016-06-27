@@ -1,6 +1,7 @@
 package com.github.kennethnickles.gatherer.demo.dagger;
 
-import com.github.kennethnickles.gatherer.demo.GathererFragment;
+import com.github.kennethnickles.gatherer.demo.GathererItemFragment;
+import com.github.kennethnickles.gatherer.demo.GathererSearchFragment;
 import com.github.kennethnickles.gatherer.demo.dagger.scope.FragmentScope;
 import dagger.Subcomponent;
 
@@ -12,5 +13,7 @@ import dagger.Subcomponent;
 @Subcomponent(modules = FragmentModule.class)
 public interface FragmentComponent {
 
-    void injectGathererFragment(GathererFragment fragment);
+    void injectGathererSearchFragment(GathererSearchFragment fragment);
+
+    void injectGathererItemFragment(GathererItemFragment fragment);
 }

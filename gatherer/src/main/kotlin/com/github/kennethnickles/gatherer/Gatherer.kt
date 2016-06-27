@@ -1,9 +1,9 @@
 package com.github.kennethnickles.gatherer
 
 import com.github.kennethnickles.gatherer.card.Card
+import com.github.kennethnickles.gatherer.card.Set
 import com.github.kennethnickles.gatherer.server.DeckBrewService
 import com.github.kennethnickles.gatherer.server.GathererRequest
-import com.github.kennethnickles.gatherer.server.GathererService
 import com.github.kennethnickles.gatherer.util.CardGsonFactory
 import com.github.kennethnickles.gatherer.util.Preconditions
 import retrofit2.Retrofit
@@ -28,7 +28,11 @@ object Gatherer {
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).cards(request.getDeckBrewParams()).subscribe(observer)
+        retrofit.create(DeckBrewService::class.java).cards(request.getNames(),
+                                                           request.getSupertypes(),
+                                                           request.getTypes(),
+                                                           request.getSubtypes(),
+                                                           request.getColors()).subscribe(observer)
     }
 
     /**
@@ -59,7 +63,7 @@ object Gatherer {
     /**
      * Hits DeckBrew Api
      */
-    fun sets(observer: Observer<List<String>>) {
+    fun sets(observer: Observer<List<Set>>) {
         Preconditions.checkArgument(observer != null, "observer")
         val gson = CardGsonFactory().createCardGson()
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
@@ -109,45 +113,5 @@ object Gatherer {
         val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
                 GsonConverterFactory.create(gson)).build()
         retrofit.create(DeckBrewService::class.java).colors().subscribe(observer)
-    }
-
-    /**
-     * Hits Gatherer Scraper TODO: HtmlScraperFactory
-     */
-    fun simple(request: GathererRequest, observer: Observer<List<Card>>) {
-        Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(observer != null, "observer")
-        val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        retrofit.create(GathererService::class.java).simple(request.getGathererParams()).subscribe(observer)
-    }
-
-    /**
-     * Hits Gatherer Scraper TODO: HtmlScraperFactory
-     */
-    fun advanced(request: GathererRequest, observer: Observer<List<Card>>) {
-        Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(observer != null, "observer")
-        val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        retrofit.create(GathererService::class.java).advanced("advanced", request.getGathererParams()).subscribe(
-                observer)
-    }
-
-    /**
-     * Hits Gatherer Scraper TODO: HtmlScraperFactory
-     */
-    fun detail(multiverseId: String, observer: Observer<Card>) {
-        Preconditions.checkArgument(multiverseId != null, "multiverseId")
-        Preconditions.checkArgument(observer != null, "observer")
-        val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        retrofit.create(GathererService::class.java).detail(multiverseId).subscribe(observer)
-    }
-
-    /**
-     * Hits Gatherer Scraper TODO: HtmlScraperFactory
-     */
-    fun random(observer: Observer<Card>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val retrofit = Retrofit.Builder().baseUrl("http://gatherer.wizards.com/").build()
-        retrofit.create(GathererService::class.java).random("random").subscribe(observer)
     }
 }

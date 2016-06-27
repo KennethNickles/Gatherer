@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Gatherer Demo</string>
-    <string name="activity_name">Deckbrew Search</string>
+    <string name="app_name">Gatherer</string>
+    <string name="activity_name">Gatherer</string>
 
     <!-- Actions -->
     <string name="action_menu">Menu</string>
@@ -10,6 +10,12 @@
     <string name="action_cancel">Cancel</string>
     <string name="action_close">Close</string>
     <string name="action_done">Done</string>
+
+    <string name="action_supertypes">Supertypes</string>
+    <string name="action_types">Types</string>
+    <string name="action_subtypes">Subtypes</string>
+    <string name="action_colors">Colors</string>
+    <string name="action_sets">Sets</string>
 
     <!-- Search -->
     <string name="search_hint">Search a for a card</string>

@@ -6,10 +6,6 @@ import android.support.annotation.NonNull;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Preconditions;
-import com.google.gson.JsonDeserializationContext;
-import com.google.gson.JsonDeserializer;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParseException;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
 
@@ -17,8 +13,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * @author kenneth.nickles
@@ -55,6 +49,7 @@ public class Symbols implements Parcelable {
         SYMBOL_MAP.put("2/R", Symbol.TWO_OR_RED);
         SYMBOL_MAP.put("2/W", Symbol.TWO_OR_WHITE);
         SYMBOL_MAP.put("T", Symbol.TAP);
+        SYMBOL_MAP.put("0", Symbol.ZERO);
         SYMBOL_MAP.put("1", Symbol.ONE);
         SYMBOL_MAP.put("2", Symbol.TWO);
         SYMBOL_MAP.put("3", Symbol.THREE);
@@ -75,6 +70,12 @@ public class Symbols implements Parcelable {
         SYMBOL_MAP.put("18", Symbol.EIGHTEEN);
         SYMBOL_MAP.put("19", Symbol.NINETEEN);
         SYMBOL_MAP.put("20", Symbol.TWENTY);
+        SYMBOL_MAP.put("S", Symbol.SNOW);
+        SYMBOL_MAP.put("B/P", Symbol.PHYREXIAN_BLACK);
+        SYMBOL_MAP.put("U/P", Symbol.PHYREXIAN_BLUE);
+        SYMBOL_MAP.put("G/P", Symbol.PHYREXIAN_GREEN);
+        SYMBOL_MAP.put("R/P", Symbol.PHYREXIAN_RED);
+        SYMBOL_MAP.put("W/P", Symbol.PHYREXIAN_WHITE);
 
         Enums.assertFullMappingValues(Symbol.class, SYMBOL_MAP);
     }
@@ -117,6 +118,11 @@ public class Symbols implements Parcelable {
         return this.mState.mSymbols.get(index);
     }
 
+    @NonNull
+    public static Builder builder() {
+        return new Builder();
+    }
+
     @Parceled
     public static class Builder implements Parcelable {
 
@@ -154,36 +160,6 @@ public class Symbols implements Parcelable {
         @Override
         public void writeToParcel(Parcel dest, int flags) {
             Postman.writeToParcel(this, dest);
-        }
-    }
-
-    public static class Deserializer implements JsonDeserializer<Symbols> {
-
-        @Override
-        public Symbols deserialize(JsonElement json, java.lang.reflect.Type typeOfT, JsonDeserializationContext context)
-                throws JsonParseException {
-            /**
-             *     "text": "When you cast Kozilek, the Great Distortion, if you have fewer than
-             *     seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a
-             *     card with converted mana cost X: Counter target spell with converted mana cost
-             *     X.",
-             *
-             *     "text": "Tap an untapped Cephalid you control: Tap target permanent
-             *     .\n{U}{U}{U}: Tap all creatures without flying.",
-             */
-            final String regex = "\\{(.*?)\\}";
-            final Pattern pattern = Pattern.compile(regex);
-            final String colors = json.getAsString();
-            final Matcher matcher = pattern.matcher(colors);
-            final Builder builder = new Builder();
-            while (matcher.find()) {
-                final Symbol mana = Symbol.from(colors.substring(matcher.start(), matcher.end()));
-                if (mana == null) {
-                    continue;
-                }
-                builder.withSymbol(mana);
-            }
-            return new Symbols(builder);
         }
     }
 }

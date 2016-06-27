@@ -1,6 +1,7 @@
 package com.github.kennethnickles.gatherer.demo.dagger;
 
-import com.github.kennethnickles.gatherer.demo.GathererFragment;
+import com.github.kennethnickles.gatherer.demo.GathererItemFragment;
+import com.github.kennethnickles.gatherer.demo.GathererSearchFragment;
 import com.github.kennethnickles.gatherer.demo.dagger.scope.FragmentScope;
 import dagger.Module;
 
@@ -12,6 +13,9 @@ import dagger.Module;
 @FragmentScope
 public class FragmentModule {
 
-    public FragmentModule(GathererFragment gathererFragment) {
+    public FragmentModule(GathererSearchFragment gathererSearchFragment) {
+    }
+
+    public FragmentModule(GathererItemFragment gathererItemFragment) {
     }
 }

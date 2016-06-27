@@ -13,4 +13,4 @@ dependencies:
 
 test:
   override:
-    - ./gradlew build check --debug
+    - ./gradlew build check

@@ -13,6 +13,6 @@ dependencies:
 
 test:
   override:
-    - ./gradlew :gatherer:gatherer build check
-    - ./gradlew :gatherer:gatherer test
-    - ./gradlew :gatherer:demo build check
+    - ./gradlew :gatherer: build check
+    - ./gradlew :gatherer: test
+    - ./gradlew :demo: build check

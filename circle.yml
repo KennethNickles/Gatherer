@@ -13,4 +13,6 @@ dependencies:
 
 test:
   override:
-    - ./gradlew build check -PdisablePreDex
+    - ./gradlew :gatherer:gatherer build check
+    - ./gradlew :gatherer:gatherer test
+    - ./gradlew :gatherer:demo build check

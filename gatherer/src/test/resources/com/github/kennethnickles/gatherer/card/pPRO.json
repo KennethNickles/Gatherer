@@ -1,0 +1,543 @@
+[
+  {
+	"name": "Ajani Goldmane",
+	"id": "ajani-goldmane",
+	"url": "https://api.deckbrew.com/mtg/cards/ajani-goldmane",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ajani-goldmane",
+	"types": [
+	  "planeswalker"
+	],
+	"subtypes": [
+	  "ajani"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{W}{W}",
+	"text": "+1: You gain 2 life.\n−1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.\n−6: Put a white Avatar creature token onto the battlefield. It has \"This creature's power and toughness are each equal to your life total.\"",
+	"loyalty": 4,
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 191239,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191239",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191239.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/ajani-goldmane?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191239"
+	  },
+	  {
+		"set": "Pro Tour",
+		"set_id": "pPRO",
+		"rarity": "special",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+		"store_url": "http://store.tcgplayer.com/magic/pro-tour/ajani-goldmane?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 140233,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=140233",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/140233.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/ajani-goldmane?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/140233"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 205957,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205957",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205957.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ajani-goldmane?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205957"
+	  }
+	]
+  },
+  {
+	"name": "Avatar of Woe",
+	"id": "avatar-of-woe",
+	"url": "https://api.deckbrew.com/mtg/cards/avatar-of-woe",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=avatar-of-woe",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "avatar"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 8,
+	"cost": "{6}{B}{B}",
+	"text": "If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",
+	"power": "6",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Premium Deck Series: Graveborn",
+		"set_id": "PD3",
+		"rarity": "rare",
+		"artist": "rk post",
+		"multiverse_id": 270448,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=270448",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/270448.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PD3",
+		"store_url": "http://store.tcgplayer.com/magic/premium-deck-series-graveborn/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/270448"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "rare",
+		"artist": "rk post",
+		"multiverse_id": 247520,
+		"number": "73",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247520",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247520.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247520"
+	  },
+	  {
+		"set": "Prophecy",
+		"set_id": "PCY",
+		"rarity": "rare",
+		"artist": "rk post",
+		"multiverse_id": 24621,
+		"number": "56",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=24621",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/24621.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+		"store_url": "http://store.tcgplayer.com/magic/prophecy/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/24621"
+	  },
+	  {
+		"set": "Pro Tour",
+		"set_id": "pPRO",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 0,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+		"store_url": "http://store.tcgplayer.com/magic/pro-tour/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "rare",
+		"artist": "rk post",
+		"multiverse_id": 220562,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220562",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220562.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220562"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 108929,
+		"number": "37",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108929",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108929.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/avatar-of-woe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108929"
+	  }
+	]
+  },
+  {
+	"name": "Eternal Dragon",
+	"id": "eternal-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/eternal-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=eternal-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon",
+	  "spirit"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 7,
+	"cost": "{5}{W}{W}",
+	"text": "Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scourge",
+		"set_id": "SCG",
+		"rarity": "rare",
+		"artist": "Justin Sweet",
+		"multiverse_id": 44398,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=44398",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/44398.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+		"store_url": "http://store.tcgplayer.com/magic/scourge/eternal-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/44398"
+	  },
+	  {
+		"set": "Pro Tour",
+		"set_id": "pPRO",
+		"rarity": "special",
+		"artist": "Adam Rex",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+		"store_url": "http://store.tcgplayer.com/magic/pro-tour/eternal-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Adam Rex",
+		"multiverse_id": 382926,
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382926",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382926.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/eternal-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382926"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "rare",
+		"artist": "Adam Rex",
+		"multiverse_id": 376323,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376323",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376323.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/eternal-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376323"
+	  }
+	]
+  },
+  {
+	"name": "Mirari's Wake",
+	"id": "miraris-wake",
+	"url": "https://api.deckbrew.com/mtg/cards/miraris-wake",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=miraris-wake",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 5,
+	"cost": "{3}{G}{W}",
+	"text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander's Arsenal",
+		"set_id": "CM1",
+		"rarity": "rare",
+		"artist": "Volkan Baga",
+		"multiverse_id": 338455,
+		"flavor": "Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=338455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/338455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+		"store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/miraris-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/338455"
+	  },
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "mythic",
+		"artist": "Volkan Baga",
+		"multiverse_id": 382308,
+		"flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+		"number": "189",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382308",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382308.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/miraris-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382308"
+	  },
+	  {
+		"set": "Judgment",
+		"set_id": "JUD",
+		"rarity": "rare",
+		"artist": "David Martin",
+		"multiverse_id": 35057,
+		"flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=35057",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/35057.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+		"store_url": "http://store.tcgplayer.com/magic/judgment/miraris-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/35057"
+	  },
+	  {
+		"set": "Pro Tour",
+		"set_id": "pPRO",
+		"rarity": "special",
+		"artist": "Volkan Baga",
+		"multiverse_id": 0,
+		"flavor": "Even after a false god tore magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+		"store_url": "http://store.tcgplayer.com/magic/pro-tour/miraris-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Treva, the Renewer",
+	"id": "treva-the-renewer",
+	"url": "https://api.deckbrew.com/mtg/cards/treva-the-renewer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=treva-the-renewer",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "blue",
+	  "green",
+	  "white"
+	],
+	"cmc": 6,
+	"cost": "{3}{G}{W}{U}",
+	"text": "Flying\nWhenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Pro Tour",
+		"set_id": "pPRO",
+		"rarity": "special",
+		"artist": "Jean-Sébastien Rossbach",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+		"store_url": "http://store.tcgplayer.com/magic/pro-tour/treva-the-renewer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "rare",
+		"artist": "Ciruelo",
+		"multiverse_id": 23210,
+		"number": "280",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=23210",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/23210.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/treva-the-renewer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/23210"
+	  },
+	  {
+		"set": "Duel Decks: Phyrexia vs. the Coalition",
+		"set_id": "DDE",
+		"rarity": "rare",
+		"artist": "Ciruelo",
+		"multiverse_id": 209121,
+		"number": "49",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=209121",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/209121.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/treva-the-renewer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/209121"
+	  }
+	]
+  }
+]

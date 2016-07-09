@@ -1,0 +1,3371 @@
+[
+  {
+	"name": "Aegis Angel",
+	"id": "aegis-angel",
+	"url": "https://api.deckbrew.com/mtg/cards/aegis-angel",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=aegis-angel",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "angel"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 6,
+	"cost": "{4}{W}{W}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 383160,
+		"number": "270",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383160",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383160.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/aegis-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383160"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 401452,
+		"number": "273",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401452",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401452.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/aegis-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401452"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 413367,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413367",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413367.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/aegis-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413367"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 220086,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220086",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220086.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/aegis-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220086"
+	  }
+	]
+  },
+  {
+	"name": "Air Servant",
+	"id": "air-servant",
+	"url": "https://api.deckbrew.com/mtg/cards/air-servant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=air-servant",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 5,
+	"cost": "{4}{U}",
+	"text": "Flying\n{2}{U}: Tap target creature with flying.",
+	"power": "4",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 205070,
+		"flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205070",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205070.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/air-servant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205070"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 370688,
+		"flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/air-servant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370688"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 397847,
+		"flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+		"number": "40",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397847",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397847.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/air-servant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397847"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 413370,
+		"flavor": "Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413370",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413370.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/air-servant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413370"
+	  },
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 382210,
+		"flavor": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\"\n—Jestus Dreya, Of Elements and Eternity",
+		"number": "90",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382210",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382210.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/air-servant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382210"
+	  }
+	]
+  },
+  {
+	"name": "Borderland Marauder",
+	"id": "borderland-marauder",
+	"url": "https://api.deckbrew.com/mtg/cards/borderland-marauder",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=borderland-marauder",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "warrior"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn.",
+	"power": "1",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 413662,
+		"flavor": "Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids.",
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413662",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413662.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/borderland-marauder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413662"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "common",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 383195,
+		"flavor": "Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids.",
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383195",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383195.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/borderland-marauder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383195"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 413377,
+		"flavor": "Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413377",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413377.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/borderland-marauder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413377"
+	  }
+	]
+  },
+  {
+	"name": "Cone of Flame",
+	"id": "cone-of-flame",
+	"url": "https://api.deckbrew.com/mtg/cards/cone-of-flame",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cone-of-flame",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{3}{R}{R}",
+	"text": "Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 205266,
+		"number": "52",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205266",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205266.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205266"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 383213,
+		"number": "137",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383213",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383213.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383213"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 393824,
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393824",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393824.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393824"
+	  },
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 243492,
+		"number": "75",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243492",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243492.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243492"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 413378,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413378",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413378.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413378"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 130535,
+		"number": "194",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130535",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130535.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130535"
+	  },
+	  {
+		"set": "Weatherlight",
+		"set_id": "WTH",
+		"rarity": "uncommon",
+		"artist": "Ron Spencer",
+		"multiverse_id": 4541,
+		"flavor": "\"Mine is not the warmth of compassion.\"\n—Ertai, wizard adept",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4541",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4541.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+		"store_url": "http://store.tcgplayer.com/magic/weatherlight/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4541"
+	  },
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "uncommon",
+		"artist": "Chippy",
+		"multiverse_id": 189225,
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189225",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189225.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/cone-of-flame?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189225"
+	  }
+	]
+  },
+  {
+	"name": "Disperse",
+	"id": "disperse",
+	"url": "https://api.deckbrew.com/mtg/cards/disperse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=disperse",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Return target nonland permanent to its owner's hand.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scars of Mirrodin",
+		"set_id": "SOM",
+		"watermark": "Mirran",
+		"rarity": "common",
+		"artist": "Adrian Smith",
+		"multiverse_id": 212242,
+		"flavor": "Most casualties of the power struggle between vedalken and Neurok didn't die on the field of battle; they merely disappeared.",
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=212242",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/212242.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+		"store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/disperse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/212242"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "common",
+		"artist": "Steve Ellis",
+		"multiverse_id": 370818,
+		"flavor": "Gryffid found his way home and resumed life as best he could, constantly hiding his newfound fear of clouds.",
+		"number": "51",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370818",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370818.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/disperse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370818"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "common",
+		"artist": "Ryan Yee",
+		"multiverse_id": 398528,
+		"flavor": "It's pointless to hold on when you have nothing to hold on with.",
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=398528",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/398528.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/disperse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/398528"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "Ryan Yee",
+		"multiverse_id": 413371,
+		"flavor": "It's pointless to hold on when you have nothing to hold on with.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413371",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413371.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/disperse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413371"
+	  },
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "common",
+		"artist": "Steve Ellis",
+		"multiverse_id": 152727,
+		"flavor": "Gryffid scowled at the sky. A perfect day for the hunt tainted by clouds. He wished them gone. High above, the clouds looked down, scowled, and made a wish of their own.",
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=152727",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/152727.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/disperse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/152727"
+	  }
+	]
+  },
+  {
+	"name": "Incremental Growth",
+	"id": "incremental-growth",
+	"url": "https://api.deckbrew.com/mtg/cards/incremental-growth",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=incremental-growth",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 5,
+	"cost": "{3}{G}{G}",
+	"text": "Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "uncommon",
+		"artist": "Chuck Lukacs",
+		"multiverse_id": 370541,
+		"flavor": "\"Tie a mouse under a bridge, and your cabbages will triple in size.\"\n—Kithkin superstition",
+		"number": "149",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370541",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370541.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/incremental-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370541"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "uncommon",
+		"artist": "Clint Cearley",
+		"multiverse_id": 386564,
+		"flavor": "The bonds of family cross the boundaries of race.",
+		"number": "138",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386564",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386564.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/incremental-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386564"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "uncommon",
+		"artist": "Chuck Lukacs",
+		"multiverse_id": 146777,
+		"flavor": "\"Tie a mouse under a bridge, and your cabbages will triple in size.\"\n—Kithkin superstition",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146777",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146777.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/incremental-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146777"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Chuck Lukacs",
+		"multiverse_id": 413380,
+		"flavor": "\"Tie a mouse under a bridge, and your cabbages will triple in size.\"\n—Kithkin superstition",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413380",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413380.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/incremental-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413380"
+	  }
+	]
+  },
+  {
+	"name": "Marked by Honor",
+	"id": "marked-by-honor",
+	"url": "https://api.deckbrew.com/mtg/cards/marked-by-honor",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=marked-by-honor",
+	"types": [
+	  "enchantment"
+	],
+	"subtypes": [
+	  "aura"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{3}{W}",
+	"text": "Enchant creature\nEnchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "common",
+		"artist": "David Palumbo",
+		"multiverse_id": 383303,
+		"flavor": "Stand your post for duty. Stand your ground for honor.",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383303",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383303.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/marked-by-honor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383303"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "David Palumbo",
+		"multiverse_id": 413368,
+		"flavor": "Stand your post for duty. Stand your ground for honor.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413368",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413368.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/marked-by-honor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413368"
+	  }
+	]
+  },
+  {
+	"name": "Mind Rot",
+	"id": "mind-rot",
+	"url": "https://api.deckbrew.com/mtg/cards/mind-rot",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mind-rot",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{2}{B}",
+	"text": "Target player discards two cards.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 190555,
+		"flavor": "\"The beauty of mental attacks is that your victims never remember them.\"\n—Volrath",
+		"number": "105",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190555",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190555.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190555"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 205010,
+		"flavor": "Not every thought is a good one.",
+		"number": "105",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205010",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205010.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205010"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Adam Rex",
+		"multiverse_id": 15828,
+		"flavor": "What wizards fear most is losing their minds.",
+		"number": "147",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15828",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15828.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15828"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 370711,
+		"flavor": "\"What a pity. You should have written it down.\"\n—Liliana Vess",
+		"number": "106",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370711"
+	  },
+	  {
+		"set": "Portal Second Age",
+		"set_id": "PO2",
+		"rarity": "common",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 6562,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=6562",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/6562.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+		"store_url": "http://store.tcgplayer.com/magic/portal-second-age/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/6562"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 383312,
+		"flavor": "\"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok",
+		"number": "104",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383312",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383312.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383312"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 401460,
+		"flavor": "\"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401460",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401460.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401460"
+	  },
+	  {
+		"set": "Dragons of Tarkir",
+		"set_id": "DTK",
+		"rarity": "common",
+		"artist": "Clint Cearley",
+		"multiverse_id": 394623,
+		"flavor": "\"The Ojutai are my favorite victims. They have so much knowledge to lose.\"\n—Asmala, Silumgar sorcerer",
+		"number": "110",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394623",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394623.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394623"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 260980,
+		"flavor": "\"What a pity. You should have written it down.\"\n—Liliana Vess",
+		"number": "100",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=260980",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/260980.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/260980"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 0,
+		"flavor": "\"The beauty of mental attacks is that your victims never remember them.\"\n—Volrath",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 413373,
+		"flavor": "\"It saddens me to lose a source of inspiration. This one seemed especially promising.\"\n—Ashiok",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413373",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413373.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413373"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 234561,
+		"flavor": "Not every thought is a good one.",
+		"number": "101",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=234561",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/234561.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/234561"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"rarity": "common",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 265408,
+		"flavor": "With no memories left to compare to his present situation, Andalum was finally content.",
+		"number": "70",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=265408",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/265408.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/265408"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 20378,
+		"number": "83",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20378",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20378.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20378"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 129645,
+		"flavor": "\"The beauty of mental attacks is that your victims never remember them.\"\n—Volrath",
+		"number": "159",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129645",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129645.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129645"
+	  },
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 4230,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4230",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4230.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4230"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 83170,
+		"flavor": "\"The beauty of mental attacks is that your victims never remember them.\"\n—Volrath",
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83170",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83170.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83170"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Steve Luke",
+		"multiverse_id": 45302,
+		"flavor": "What wizards fear most is losing their minds.",
+		"number": "144",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45302",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45302.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/mind-rot?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45302"
+	  }
+	]
+  },
+  {
+	"name": "Nightmare",
+	"id": "nightmare",
+	"url": "https://api.deckbrew.com/mtg/cards/nightmare",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=nightmare",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "horse",
+	  "nightmare"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{5}{B}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+	"power": "*",
+	"toughness": "*",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 191319,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "107",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191319",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191319.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191319"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 74,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=74",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/74.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/74"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 15394,
+		"flavor": "As the poisoned land spreads, so does the nightmare's rage and terrifying strength.",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15394",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15394.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15394"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 369,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=369",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/369.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/369"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 671,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=671",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/671.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/671"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 15826,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "150",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15826",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15826.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15826"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 370689,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "108",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370689",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370689.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370689"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 383168,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "276",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383168",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383168.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383168"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 401461,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "282",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401461",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401461.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401461"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 2117,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2117",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2117.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2117"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 3867,
+		"flavor": "The nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3867",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3867.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3867"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 413374,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413374",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413374.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413374"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1170,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1170",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1170.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1170"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "The Nightmare arises from its lair in the swamps. As the poisoned land spreads, so does the Nightmare's rage and terrifying strength.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 129659,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "164",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129659",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129659.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129659"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 83186,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "150",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83186",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83186.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83186"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 45331,
+		"flavor": "The thunder of its hooves beats dreams into despair.",
+		"number": "150",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45331",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45331.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/nightmare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45331"
+	  }
+	]
+  },
+  {
+	"name": "Oakenform",
+	"id": "oakenform",
+	"url": "https://api.deckbrew.com/mtg/cards/oakenform",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oakenform",
+	"types": [
+	  "enchantment"
+	],
+	"subtypes": [
+	  "aura"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "Enchant creature\nEnchanted creature gets +3/+3.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 189922,
+		"flavor": "\"When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?\"\n—Dionus, elvish archdruid",
+		"number": "197",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189922",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189922.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/oakenform?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189922"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 413381,
+		"flavor": "\"When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?\"\n—Dionus, elvish archdruid",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413381",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413381.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/oakenform?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413381"
+	  }
+	]
+  },
+  {
+	"name": "Sengir Vampire",
+	"id": "sengir-vampire",
+	"url": "https://api.deckbrew.com/mtg/cards/sengir-vampire",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sengir-vampire",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "vampire"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 5,
+	"cost": "{3}{B}{B}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Sorin vs. Tibalt",
+		"set_id": "DDK",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 368525,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=368525",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/368525.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDK",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-sorin-vs-tibalt/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/368525"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 83,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 378,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=378",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/378.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/378"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 680,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=680",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/680.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/680"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 370724,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "113",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370724",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370724.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370724"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "uncommon",
+		"artist": "Jeff Easley",
+		"multiverse_id": 26607,
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26607",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26607.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26607"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 383170,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "277",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383170",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383170.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383170"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 401462,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "283",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401462",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401462.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401462"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 2127,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2127",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2127.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2127"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 413375,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413375",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413375.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413375"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 244253,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "107",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244253",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244253.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244253"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 1179,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1179",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1179.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1179"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 21169,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21169",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21169.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21169"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 129724,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "176",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129724",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129724.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129724"
+	  },
+	  {
+		"set": "Torment",
+		"set_id": "TOR",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 35086,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "80",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=35086",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/35086.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+		"store_url": "http://store.tcgplayer.com/magic/torment/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/35086"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 84688,
+		"flavor": "Empires rise and fall, but evil is eternal.",
+		"number": "161",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=84688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/84688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/84688"
+	  },
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 220960,
+		"number": "96",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220960",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220960.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/sengir-vampire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220960"
+	  }
+	]
+  },
+  {
+	"name": "Serra Angel",
+	"id": "serra-angel",
+	"url": "https://api.deckbrew.com/mtg/cards/serra-angel",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=serra-angel",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "angel"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 5,
+	"cost": "{3}{W}{W}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 413570,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413570"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 193767,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193767",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193767.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193767"
+	  },
+	  {
+		"set": "From the Vault: Angels",
+		"set_id": "V15",
+		"rarity": "mythic",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 401641,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401641",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401641.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401641"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 205234,
+		"flavor": "Perfect justice in service of a perfect will.",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205234",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205234.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205234"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 270,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=270",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/270.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/270"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 247326,
+		"flavor": "Perfect justice in service of a perfect will.",
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247326",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247326.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247326"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 566,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=566",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/566.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/566"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 868,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=868",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/868.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/868"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 25555,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25555",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25555.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25555"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 370602,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370602",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370602.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370602"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 383171,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "273",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383171",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383171.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383171"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 401455,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "276",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401455"
+	  },
+	  {
+		"set": "Wizards of the Coast Online Store",
+		"set_id": "pWOS",
+		"rarity": "special",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pWOS",
+		"store_url": "http://store.tcgplayer.com/magic/wizards-of-the-coast-online-store/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 2365,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2365",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2365.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2365"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 270376,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=270376",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/270376.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/270376"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 413369,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413369",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413369.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413369"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 220176,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220176",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220176.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220176"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 1366,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1366",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1366.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1366"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 129726,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129726",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129726.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129726"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 83254,
+		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83254",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83254.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83254"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Divine vs. Demonic",
+		"set_id": "DD3_DVD",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 394051,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394051",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394051.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394051"
+	  },
+	  {
+		"set": "Duel Decks: Divine vs. Demonic",
+		"set_id": "DDC",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 196999,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=196999",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/196999.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/196999"
+	  },
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 202561,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202561",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202561.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202561"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 45212,
+		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45212",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45212.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45212"
+	  }
+	]
+  },
+  {
+	"name": "Shivan Dragon",
+	"id": "shivan-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/shivan-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shivan-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{R}{R}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 191320,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191320",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191320.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191320"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 222,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=222",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/222.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/222"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 517,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=517",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/517.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/517"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 819,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=819",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/819.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/819"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 25688,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "218",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25688"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 370825,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370825",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370825.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370825"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 26622,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26622",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26622.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26622"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 383172,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383172",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383172.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383172"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 401464,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "285",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401464"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Justin Sweet",
+		"multiverse_id": 178025,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178025",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178025.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178025"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 2303,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2303",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2303.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2303"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 4088,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4088"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "53",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 413379,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413379",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413379.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413379"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1318,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1318",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1318.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1318"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 129730,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "230",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129730",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129730.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129730"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 83259,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83259",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83259.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83259"
+	  },
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 228264,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=228264",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/228264.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/228264"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 45388,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45388",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45388.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45388"
+	  }
+	]
+  },
+  {
+	"name": "Soul of the Harvest",
+	"id": "soul-of-the-harvest",
+	"url": "https://api.deckbrew.com/mtg/cards/soul-of-the-harvest",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=soul-of-the-harvest",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 6,
+	"cost": "{4}{G}{G}",
+	"text": "Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Avacyn Restored",
+		"set_id": "AVR",
+		"rarity": "rare",
+		"artist": "Eytan Zana",
+		"multiverse_id": 240179,
+		"flavor": "It's there when a seed sprouts, when gourds ripen on the vines, and when the reapers cut the grains under the Harvest Moon.",
+		"number": "195",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=240179",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/240179.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/soul-of-the-harvest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/240179"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Eytan Zana",
+		"multiverse_id": 413382,
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413382",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413382.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/soul-of-the-harvest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413382"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "Eytan Zana",
+		"multiverse_id": 389684,
+		"flavor": "It's there when a seed sprouts, when gourds ripen on the vines, and when the reapers cut the grains under the Harvest Moon.",
+		"number": "215",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389684",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389684.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/soul-of-the-harvest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389684"
+	  }
+	]
+  },
+  {
+	"name": "Sphinx of Magosi",
+	"id": "sphinx-of-magosi",
+	"url": "https://api.deckbrew.com/mtg/cards/sphinx-of-magosi",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sphinx-of-magosi",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "sphinx"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 6,
+	"cost": "{3}{U}{U}{U}",
+	"text": "Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Rise of the Eldrazi",
+		"set_id": "ROE",
+		"rarity": "rare",
+		"artist": "James Ryman",
+		"multiverse_id": 198169,
+		"flavor": "\"A riddle is nothing more than a trap for small minds, baited with the promise of understanding.\"",
+		"number": "89",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=198169",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/198169.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+		"store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/sphinx-of-magosi?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/198169"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "James Ryman",
+		"multiverse_id": 413372,
+		"flavor": "\"A riddle is nothing more than a trap for small minds, baited with the promise of understanding.\"",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413372",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413372.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/sphinx-of-magosi?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413372"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "James Ryman",
+		"multiverse_id": 389687,
+		"flavor": "\"A riddle is nothing more than a trap for small minds, baited with the promise of understanding.\"",
+		"number": "127",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389687",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389687.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/sphinx-of-magosi?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389687"
+	  }
+	]
+  },
+  {
+	"name": "Walking Corpse",
+	"id": "walking-corpse",
+	"url": "https://api.deckbrew.com/mtg/cards/walking-corpse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=walking-corpse",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 383174,
+		"flavor": "\"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia",
+		"number": "278",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383174",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383174.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/walking-corpse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383174"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 243210,
+		"flavor": "\"Is it hopeless? When wave upon wave of our dead return as mindless flesh-eaters to claw upon Thraben's walls? We're too busy cutting them down to indulge ourselves in such philosophical foppery.\"\n—Mikaeus, the Lunarch",
+		"number": "126",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243210",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243210.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/walking-corpse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243210"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 260987,
+		"flavor": "\"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia",
+		"number": "116",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=260987",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/260987.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/walking-corpse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/260987"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 413376,
+		"flavor": "\"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413376",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413376.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/walking-corpse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413376"
+	  }
+	]
+  }
+]

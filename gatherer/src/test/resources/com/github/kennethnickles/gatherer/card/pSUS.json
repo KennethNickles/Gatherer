@@ -1,0 +1,3703 @@
+[
+  {
+	"name": "City of Brass",
+	"id": "city-of-brass",
+	"url": "https://api.deckbrew.com/mtg/cards/city-of-brass",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=city-of-brass",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 220963,
+		"number": "243",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220963",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220963.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220963"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 14732,
+		"number": "321",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14732",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14732.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14732"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Mark Tedin",
+		"multiverse_id": 0,
+		"flavor": "\"Enter this palace-gate and ask the news Of greatness fallen into dust and clay.\"\n—The Arabian Nights, trans. Burton",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Event Deck 2014",
+		"set_id": "MD1",
+		"rarity": "rare",
+		"artist": "Jung Park",
+		"multiverse_id": 382181,
+		"flavor": "\"There is much to learn here, but few can endure the ringing of the spires.\"\n—Nulakam the Archivist",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382181",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382181.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MD1",
+		"store_url": "http://store.tcgplayer.com/magic/magic-modern-event-deck/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382181"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "uncommon",
+		"artist": "Mark Tedin",
+		"multiverse_id": 985,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=985",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/985.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/985"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Ron Walotsky",
+		"multiverse_id": 11205,
+		"number": "327",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11205",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11205.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11205"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "Jung Park",
+		"multiverse_id": 370490,
+		"flavor": "\"There is much to learn here, but few can endure the ringing of the spires.\"\n—Nulakam the Archivist",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370490",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370490.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370490"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Ron Walotsky",
+		"multiverse_id": 45496,
+		"number": "322",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45496",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45496.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45496"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 4178,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4178",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4178.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4178"
+	  },
+	  {
+		"set": "Chronicles",
+		"set_id": "CHR",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 2886,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2886",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2886.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+		"store_url": "http://store.tcgplayer.com/magic/chronicles/city-of-brass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2886"
+	  }
+	]
+  },
+  {
+	"name": "Crusade",
+	"id": "crusade",
+	"url": "https://api.deckbrew.com/mtg/cards/crusade",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=crusade",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{W}{W}",
+	"text": "White creatures get +1/+1.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 14503,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14503",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14503.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14503"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 543,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=543",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/543.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/543"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 1341,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1341",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1341.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1341"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Elspeth vs. Tezzeret",
+		"set_id": "DDF",
+		"rarity": "rare",
+		"artist": "Howard Lyon",
+		"multiverse_id": 218582,
+		"flavor": "\"Finally, I understand. Home isn't where you rest. It's what you fight for.\"\n—Elspeth Tirel",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=218582",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/218582.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/218582"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 247,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 845,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=845",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/845.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/845"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 159818,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159818",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159818.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159818"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 2335,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2335",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2335.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2335"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 4119,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4119",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4119.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/crusade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4119"
+	  }
+	]
+  },
+  {
+	"name": "Elvish Champion",
+	"id": "elvish-champion",
+	"url": "https://api.deckbrew.com/mtg/cards/elvish-champion",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=elvish-champion",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{G}{G}",
+	"text": "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 0,
+		"flavor": "\"We've endured your slights to Gaea with the grace of tolerance. Now behold the grace of our ferocity.\"",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 0,
+		"flavor": "\"We've endured your slights to Gaea with the grace of tolerance. Now behold the grace of our ferocity.\"",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 0,
+		"flavor": "\"We've endured your slights to Gaea with the grace of tolerance. Now behold the grace of our ferocity.\"",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 0,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Elvish hymn",
+		"number": "60",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Paolo Parente",
+		"multiverse_id": 11582,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Elvish hymn",
+		"number": "240",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11582",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11582.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11582"
+	  },
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 26445,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Skyshroud hymn",
+		"number": "186",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26445",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26445.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26445"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 129534,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Elvish hymn",
+		"number": "261",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129534",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129534.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129534"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 83069,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Elvish hymn",
+		"number": "238",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83069",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83069.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83069"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 45442,
+		"flavor": "\"For what are leaves but countless blades\nTo fight a countless foe on high.\"\n—Elvish hymn",
+		"number": "241",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45442",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45442.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/elvish-champion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45442"
+	  }
+	]
+  },
+  {
+	"name": "Elvish Lyrist",
+	"id": "elvish-lyrist",
+	"url": "https://api.deckbrew.com/mtg/cards/elvish-lyrist",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=elvish-lyrist",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "uncommon",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 21188,
+		"flavor": "Bring the spear of ancient briar;\nBring the torch to light the pyre.\nBring the one who trod our ground;\nBring the spade to dig his mound.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21188",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21188.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/elvish-lyrist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21188"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 0,
+		"flavor": "\"Make me thy lyre, even as the forest is: What if my leaves are falling like its own!\" - Percy Bysshe Shelley, \"Ode to the West Wind\"",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/elvish-lyrist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "common",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 5774,
+		"flavor": "Bring the spear of ancient briar;\nBring the torch to light the pyre.\nBring the one who trod our ground;\nBring the spade to dig his mound.",
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5774",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5774.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/elvish-lyrist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5774"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "uncommon",
+		"artist": "Michael Koelsch",
+		"multiverse_id": 11482,
+		"flavor": "To an elf, magic and music are the same.",
+		"number": "241",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11482",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11482.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/elvish-lyrist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11482"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "uncommon",
+		"artist": "Michael Koelsch",
+		"multiverse_id": 45421,
+		"flavor": "Each pluck of the strings breaks the hold of the unnatural on the world.",
+		"number": "242",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45421",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45421.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/elvish-lyrist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45421"
+	  }
+	]
+  },
+  {
+	"name": "Giant Growth",
+	"id": "giant-growth",
+	"url": "https://api.deckbrew.com/mtg/cards/giant-growth",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=giant-growth",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "Target creature gets +3/+3 until end of turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 202528,
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202528",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202528.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202528"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Masters Edition III",
+		"set_id": "ME3",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 201266,
+		"number": "121",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201266",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201266.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201266"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 21194,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21194",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21194.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21194"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "common",
+		"artist": "L. A. Williams",
+		"multiverse_id": 184692,
+		"flavor": "\"Here in Fyndhorn, the goddess Freyalise is generous to her children.\"\n—Kolbjörn, elder druid of the Juniper Order",
+		"number": "167",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184692",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184692.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184692"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 14683,
+		"number": "233",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14683",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14683.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14683"
+	  },
+	  {
+		"set": "Duel Decks: Elves vs. Goblins",
+		"set_id": "EVG",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 159037,
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159037",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159037.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159037"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 0,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 448,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=448",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/448.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/448"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 370788,
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370788",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370788.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370788"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 1248,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1248",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1248.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1248"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Elves vs. Goblins",
+		"set_id": "DD3_EVG",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 393959,
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393959",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393959.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393959"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "common",
+		"artist": "L. A. Williams",
+		"multiverse_id": 0,
+		"flavor": "\"Here in Fyndhorn, the goddess Freyalise is generous to her children.\"\n—Kolbjörn, Elder Druid of the Juniper Order",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 189879,
+		"number": "184",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189879",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189879.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189879"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 0,
+		"number": "66",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Starter 2000",
+		"set_id": "S00",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 25502,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25502",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25502.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S00",
+		"store_url": "http://store.tcgplayer.com/magic/starter-2000/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25502"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 26649,
+		"number": "57",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26649",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26649.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26649"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 11301,
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11301",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11301.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11301"
+	  },
+	  {
+		"set": "Magic Player Rewards",
+		"set_id": "pMPR",
+		"rarity": "special",
+		"artist": "Joel Thomas",
+		"multiverse_id": 0,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+		"store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Garruk vs. Liliana",
+		"set_id": "DDD",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 201839,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201839",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201839.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201839"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 129568,
+		"number": "266",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129568",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129568.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129568"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 205224,
+		"number": "178",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205224",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205224.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205224"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Garruk vs. Liliana",
+		"set_id": "DD3_GVL",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 393898,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393898",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393898.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_GVL",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-garruk-vs-liliana/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393898"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Jim Murray",
+		"multiverse_id": 83103,
+		"number": "243",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83103",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83103.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83103"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "common",
+		"artist": "L. A. Williams",
+		"multiverse_id": 2570,
+		"flavor": "\"Here in Fyndhorn, the goddess Freyalise is generous to her children.\"\n—Kolbjörn, Elder Druid of the Juniper Order",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2570"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 45414,
+		"number": "254",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45414",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45414.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45414"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"rarity": "common",
+		"artist": "Noah Bradley",
+		"multiverse_id": 289213,
+		"flavor": "\"The prohibition of unnecessary tossing of the citizenry by giants shall also extend to spontaneous giants.\"\n—Isperia's Edict, provision VII.789.2",
+		"number": "125",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=289213",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/289213.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/289213"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 153,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 750,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=750",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/750.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/750"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 2215,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2215",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2215.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2215"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 3982,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3982",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3982.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/giant-growth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3982"
+	  }
+	]
+  },
+  {
+	"name": "Glorious Anthem",
+	"id": "glorious-anthem",
+	"url": "https://api.deckbrew.com/mtg/cards/glorious-anthem",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=glorious-anthem",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{W}",
+	"text": "Creatures you control get +1/+1.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 0,
+		"flavor": "Once heard, the battle song of an angel becomes part of the listener forever.",
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 0,
+		"flavor": "Once heard, the battle song of an angel becomes part of the listener forever.",
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 0,
+		"flavor": "The songs of angels are perceived not as words in the ears but as stirrings in the soul.",
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 5835,
+		"flavor": "Once heard, the battle song of an angel becomes part of the listener forever.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5835",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5835.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5835"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 26843,
+		"flavor": "\"North and South meet and angels sing.\nVoices resound with a righteous ring.\"\n—\"The Ballad of the Paladins\"",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26843",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26843.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26843"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 129572,
+		"flavor": "Once heard, the battle song of an angel becomes part of the listener forever.",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129572",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129572.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129572"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 83106,
+		"flavor": "Each victory adds a new verse.",
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83106",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83106.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83106"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 45218,
+		"flavor": "Each victory adds a new verse.",
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45218",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45218.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/glorious-anthem?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45218"
+	  }
+	]
+  },
+  {
+	"name": "Lord of Atlantis",
+	"id": "lord-of-atlantis",
+	"url": "https://api.deckbrew.com/mtg/cards/lord-of-atlantis",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lord-of-atlantis",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "merfolk"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{U}{U}",
+	"text": "Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 14551,
+		"flavor": "A master of tactics, the lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "79",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14551",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14551.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14551"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 405,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1206,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1206",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1206.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1206"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 11387,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "83",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11387",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11387.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11387"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 110,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=110",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/110.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/110"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 707,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=707",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/707.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/707"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 2165,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2165",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2165.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2165"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 3921,
+		"flavor": "\"‘We have no legs,' the warrior spat, ‘for we have finished running.'\"\n—Vodalian folktale",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3921",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3921.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3921"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 106642,
+		"flavor": "A master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106642",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106642.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/lord-of-atlantis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/106642"
+	  }
+	]
+  },
+  {
+	"name": "Mad Auntie",
+	"id": "mad-auntie",
+	"url": "https://api.deckbrew.com/mtg/cards/mad-auntie",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mad-auntie",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "shaman"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{2}{B}",
+	"text": "Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 0,
+		"flavor": "One part cunning, one part wise, and many, many parts demented.",
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/mad-auntie?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "rare",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 139708,
+		"flavor": "One part cunning, one part wise, and many, many parts demented.",
+		"number": "123",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=139708",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/139708.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/mad-auntie?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/139708"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "uncommon",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 370496,
+		"flavor": "One part cunning, one part wise, and many, many parts demented.",
+		"number": "90",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370496",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370496.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/mad-auntie?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370496"
+	  }
+	]
+  },
+  {
+	"name": "Royal Assassin",
+	"id": "royal-assassin",
+	"url": "https://api.deckbrew.com/mtg/cards/royal-assassin",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=royal-assassin",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "assassin",
+	  "human"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{1}{B}{B}",
+	"text": "{T}: Destroy target tapped creature.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 236464,
+		"flavor": "An assassin is a king's most trusted courier, ensuring his messages are heard by even the most unwilling recipients.",
+		"number": "105",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=236464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/236464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/236464"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 0,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 0,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force..",
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 374,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=374",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/374.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/374"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 1175,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1175",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1175.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1175"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 0,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 191318,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "110",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191318",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191318.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191318"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 129708,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129708",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129708.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129708"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 205233,
+		"flavor": "An assassin is a king's most trusted courier, ensuring his messages are heard by even the most unwilling recipients.",
+		"number": "116",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205233",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205233.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205233"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 83235,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "159",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83235",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83235.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83235"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 45323,
+		"flavor": "Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "159",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45323",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45323.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45323"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 79,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=79",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/79.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/79"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 0,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 676,
+		"flavor": "Trained in the arts of stealth, the royal assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=676",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/676.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/676"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Tom Wänerstrand",
+		"multiverse_id": 2124,
+		"flavor": "Trained in the arts of stealth, the Royal Assassins choose their victims carefully, relying on timing and precision rather than brute force.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2124",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2124.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/royal-assassin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2124"
+	  }
+	]
+  },
+  {
+	"name": "Sakura-Tribe Elder",
+	"id": "sakura-tribe-elder",
+	"url": "https://api.deckbrew.com/mtg/cards/sakura-tribe-elder",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sakura-tribe-elder",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "shaman",
+	  "snake"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{1}{G}",
+	"text": "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 405363,
+		"flavor": "There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.",
+		"number": "200",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405363",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405363.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405363"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 247176,
+		"flavor": "Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.",
+		"number": "169",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247176",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247176.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247176"
+	  },
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 382351,
+		"flavor": "Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.",
+		"number": "177",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382351",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382351.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382351"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 0,
+		"flavor": "There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become part of the forest after death.",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 0,
+		"flavor": "There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become part of the forest after death.",
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 0,
+		"flavor": "There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become part of the forest after death.",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Ted Galaday",
+		"multiverse_id": 0,
+		"flavor": "Slain orochi warriors were buried with a tree sapling so they would become part of the forest after death.",
+		"number": "115",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 50510,
+		"flavor": "There were no tombstones in orochi territory. Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.",
+		"number": "239",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=50510",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/50510.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/50510"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 220582,
+		"flavor": "Slain orochi warriors were buried with a tree sapling so they would become a part of the forest after death.",
+		"number": "68",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220582",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220582.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220582"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "common",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 376478,
+		"flavor": "Slain warriors were buried with a tree sapling, so they would become a part of the forest after death.",
+		"number": "168",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376478",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376478.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/sakura-tribe-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376478"
+	  }
+	]
+  },
+  {
+	"name": "Serra Avatar",
+	"id": "serra-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/serra-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=serra-avatar",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "avatar"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 7,
+	"cost": "{4}{W}{W}{W}",
+	"text": "Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.",
+	"power": "*",
+	"toughness": "*",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Media Inserts",
+		"set_id": "pMEI",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+		"store_url": "http://store.tcgplayer.com/magic/media-inserts/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Dermot Power",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "rare",
+		"artist": "Dermot Power",
+		"multiverse_id": 5713,
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5713",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5713.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5713"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "mythic",
+		"artist": "Dermot Power",
+		"multiverse_id": 259706,
+		"flavor": "\"Serra isn't dead. She lives on through me.\"",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=259706",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/259706.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/259706"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "mythic",
+		"artist": "Dermot Power",
+		"multiverse_id": 376495,
+		"flavor": "\"Serra isn't dead. She lives on through me.\"",
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376495",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376495.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376495"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "mythic",
+		"artist": "Dermot Power",
+		"multiverse_id": 389667,
+		"flavor": "\"Serra isn't dead. She lives on through me.\"",
+		"number": "87",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389667",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389667.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/serra-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389667"
+	  }
+	]
+  },
+  {
+	"name": "Shard Phoenix",
+	"id": "shard-phoenix",
+	"url": "https://api.deckbrew.com/mtg/cards/shard-phoenix",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shard-phoenix",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "phoenix"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{4}{R}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 0,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 0,
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 0,
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "mythic",
+		"artist": "Paolo Parente",
+		"multiverse_id": 397414,
+		"number": "158",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397414",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397414.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397414"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Paolo Parente",
+		"multiverse_id": 83410,
+		"number": "217",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83410",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83410.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83410"
+	  },
+	  {
+		"set": "Stronghold",
+		"set_id": "STH",
+		"rarity": "rare",
+		"artist": "Paolo Parente",
+		"multiverse_id": 5155,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5155",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5155.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/STH",
+		"store_url": "http://store.tcgplayer.com/magic/stronghold/shard-phoenix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5155"
+	  }
+	]
+  },
+  {
+	"name": "Slith Firewalker",
+	"id": "slith-firewalker",
+	"url": "https://api.deckbrew.com/mtg/cards/slith-firewalker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=slith-firewalker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "slith"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{R}{R}",
+	"text": "Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "uncommon",
+		"artist": "Justin Sweet",
+		"multiverse_id": 189222,
+		"flavor": "The slith incubate in the Great Furnace's heat, emerging on Mirrodin's surface only when the four suns have aligned overhead.",
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189222",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189222.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/slith-firewalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189222"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Justin Sweet",
+		"multiverse_id": 0,
+		"flavor": "The Sligh incubate in the Great Furnace’s heat, emerging on Mirrodin’s surface only when the four suns have aligned overhead.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/slith-firewalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Justin Sweet",
+		"multiverse_id": 0,
+		"flavor": "The Sligh incubate in the Great Furnace's heat, emerging on Mirrodin's surface only when the four suns have aligned overhead.",
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/slith-firewalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Mirrodin",
+		"set_id": "MRD",
+		"rarity": "uncommon",
+		"artist": "Justin Sweet",
+		"multiverse_id": 46102,
+		"flavor": "The slith incubate in the Great Furnace's heat, emerging on Mirrodin's surface only when the four suns have aligned overhead.",
+		"number": "107",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=46102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/46102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin/slith-firewalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/46102"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "uncommon",
+		"artist": "Justin Sweet",
+		"multiverse_id": 393870,
+		"flavor": "The slith incubate in the Great Furnace's heat, emerging on Mirrodin's surface only when the four suns have aligned overhead.",
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393870",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393870.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/slith-firewalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393870"
+	  }
+	]
+  },
+  {
+	"name": "Soltari Priest",
+	"id": "soltari-priest",
+	"url": "https://api.deckbrew.com/mtg/cards/soltari-priest",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=soltari-priest",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "cleric",
+	  "soltari"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{W}{W}",
+	"text": "Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Dany Orizio",
+		"multiverse_id": 0,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Dany Orizio",
+		"multiverse_id": 0,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Dany Orizio",
+		"multiverse_id": 0,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "uncommon",
+		"artist": "Janet Aulisio",
+		"multiverse_id": 4904,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4904",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4904.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4904"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Janet Aulisio",
+		"multiverse_id": 0,
+		"flavor": "\"Fire is the test of gold; adversity of strong men.\" - Seneca, \"On Providence,\" trans. Basara",
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "uncommon",
+		"artist": "Janet Aulisio",
+		"multiverse_id": 397657,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397657",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397657.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397657"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Janet Aulisio",
+		"multiverse_id": 108856,
+		"flavor": "\"In Rath,\" the priest said, \"there is even greater need for prayer.\"",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108856",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108856.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/soltari-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108856"
+	  }
+	]
+  },
+  {
+	"name": "Thran Quarry",
+	"id": "thran-quarry",
+	"url": "https://api.deckbrew.com/mtg/cards/thran-quarry",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=thran-quarry",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Michael Sutfin",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/thran-quarry?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "rare",
+		"artist": "Michael Sutfin",
+		"multiverse_id": 8828,
+		"number": "329",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=8828",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/8828.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/thran-quarry?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/8828"
+	  }
+	]
+  },
+  {
+	"name": "Two-Headed Dragon",
+	"id": "two-headed-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/two-headed-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=two-headed-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{R}{R}",
+	"text": "Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nTwo-Headed Dragon can block an additional creature each combat.\n{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Sam Wood",
+		"multiverse_id": 0,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 178027,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178027",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178027.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178027"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 45389,
+		"number": "229",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45389",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45389.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45389"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 220472,
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220472",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220472.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220472"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 19711,
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19711"
+	  }
+	]
+  },
+  {
+	"name": "Volcanic Hammer",
+	"id": "volcanic-hammer",
+	"url": "https://api.deckbrew.com/mtg/cards/volcanic-hammer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=volcanic-hammer",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Volcanic Hammer deals 3 damage to target creature or player.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 4366,
+		"flavor": "Cast the weight as though it were a die, to see a rival's fate.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4366",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4366.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4366"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Christopher Rush",
+		"multiverse_id": 0,
+		"flavor": "Cast the weight as though it were a die, to see a rival's fate.",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Ben Thompson",
+		"multiverse_id": 30171,
+		"flavor": "Fire finds its form in the heat of the forge.",
+		"number": "226",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=30171",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/30171.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/30171"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Ben Thompson",
+		"multiverse_id": 83327,
+		"flavor": "Fire finds its form in the heat of the forge.",
+		"number": "226",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83327",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83327.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83327"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Ben Thompson",
+		"multiverse_id": 45356,
+		"flavor": "Fire finds its form in the heat of the forge.",
+		"number": "231",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45356",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45356.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45356"
+	  },
+	  {
+		"set": "Portal Second Age",
+		"set_id": "PO2",
+		"rarity": "common",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 6593,
+		"flavor": "Fire finds its form in the heat of the forge.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=6593",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/6593.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+		"store_url": "http://store.tcgplayer.com/magic/portal-second-age/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/6593"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 20206,
+		"flavor": "Fire finds its form in the heat of the forge.",
+		"number": "123",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20206",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20206.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/volcanic-hammer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20206"
+	  }
+	]
+  },
+  {
+	"name": "Whirling Dervish",
+	"id": "whirling-dervish",
+	"url": "https://api.deckbrew.com/mtg/cards/whirling-dervish",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=whirling-dervish",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "monk"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{G}",
+	"text": "Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Alex Horley-Orlandelli",
+		"multiverse_id": 0,
+		"flavor": "Amid this whirling hurricane of blades, there is no calm eye in which the hapless can find shelter.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Alex Horley-Orlandelli",
+		"multiverse_id": 0,
+		"flavor": "Amid this whirling hurricane of blades, there is no calm eye in which the hapless can find shelter.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Alex Horley-Orlandelli",
+		"multiverse_id": 0,
+		"flavor": "Amid this whirling hurricane of blades, there is no calm eye in which the hapless can find shelter.",
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Rivals Quick Start Set",
+		"set_id": "RQS",
+		"rarity": "special",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RQS",
+		"store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Introductory Two-Player Set",
+		"set_id": "ITP",
+		"rarity": "special",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ITP",
+		"store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 2255,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2255",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2255.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2255"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "uncommon",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 4024,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4024",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4024.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4024"
+	  },
+	  {
+		"set": "Legends",
+		"set_id": "LEG",
+		"rarity": "uncommon",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 1551,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1551",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1551.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+		"store_url": "http://store.tcgplayer.com/magic/legends/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1551"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 109683,
+		"number": "90",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109683",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109683.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/whirling-dervish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/109683"
+	  }
+	]
+  }
+]

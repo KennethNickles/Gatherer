@@ -23,7 +23,8 @@ public enum Format {
     TEAM_UNIFIED_CONSTRUCT("team unified construct"),
     TEAM_LIMITED("team limited"),
     TEAM_BOOSTER_DRAFT("team booster draft"),
-    TEAM_SEALED_DRAFT("team sealed draft");
+    TEAM_SEALED_DRAFT("team sealed draft"),
+    UNKNOWN;
 
     private final String mName;
 
@@ -49,6 +50,6 @@ public enum Format {
                 return format;
             }
         }
-        return null;
+        throw new IllegalStateException(String.format("Missing Format: %s", lookup));
     }
 }

@@ -1,0 +1,836 @@
+[
+  {
+    "name": "Courser of Kruphix",
+    "id": "courser-of-kruphix",
+    "url": "https://api.deckbrew.com/mtg/cards/courser-of-kruphix",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=courser-of-kruphix",
+    "types": [
+      "creature",
+      "enchantment"
+    ],
+    "subtypes": [
+      "centaur"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{G}",
+    "text": "Play with the top card of your library revealed.\nYou may play the top card of your library if it's a land card.\nWhenever a land enters the battlefield under your control, you gain 1 life.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 378491,
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378491",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378491.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/courser-of-kruphix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378491"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Slawomir Maniak",
+        "multiverse_id": 0,
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/courser-of-kruphix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Fated Intervention",
+    "id": "fated-intervention",
+    "url": "https://api.deckbrew.com/mtg/cards/fated-intervention",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fated-intervention",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{2}{G}{G}{G}",
+    "text": "Put two 3/3 green Centaur enchantment creature tokens onto the battlefield. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Born of the Gods",
+        "set_id": "BNG",
+        "rarity": "rare",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 378493,
+        "number": "121",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=378493",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/378493.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+        "store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/fated-intervention?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/378493"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Eric Deschamps",
+        "multiverse_id": 0,
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/fated-intervention?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Font of Fertility",
+    "id": "font-of-fertility",
+    "url": "https://api.deckbrew.com/mtg/cards/font-of-fertility",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=font-of-fertility",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 1,
+    "cost": "{G}",
+    "text": "{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "common",
+        "artist": "Jack Wang",
+        "multiverse_id": 380417,
+        "flavor": "Drink deep, and know the path to the heart of the wilds.",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380417",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380417.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/font-of-fertility?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380417"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Jung Park",
+        "multiverse_id": 0,
+        "flavor": "Drink deep, and know the path to the heart of the wilds.",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/font-of-fertility?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Hero's Downfall",
+    "id": "heros-downfall",
+    "url": "https://api.deckbrew.com/mtg/cards/heros-downfall",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heros-downfall",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 3,
+    "cost": "{1}{B}{B}",
+    "text": "Destroy target creature or planeswalker.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Johannes Voss",
+        "multiverse_id": 0,
+        "flavor": "Destiny exalts a chosen few, but even heroes break.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/heros-downfall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Ryan Pancoast",
+        "multiverse_id": 373575,
+        "flavor": "Destiny exalts a chosen few, but even heroes break.",
+        "number": "90",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373575",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373575.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/heros-downfall?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373575"
+      }
+    ]
+  },
+  {
+    "name": "Hydra Broodmaster",
+    "id": "hydra-broodmaster",
+    "url": "https://api.deckbrew.com/mtg/cards/hydra-broodmaster",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hydra-broodmaster",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "hydra"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 6,
+    "cost": "{4}{G}{G}",
+    "text": "{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Hydra Broodmaster becomes monstrous, put X X/X green Hydra creature tokens onto the battlefield.",
+    "power": "7",
+    "toughness": "7",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Journey into Nyx",
+        "set_id": "JOU",
+        "rarity": "rare",
+        "artist": "Steve Prescott",
+        "multiverse_id": 380438,
+        "number": "128",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380438",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380438.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+        "store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/hydra-broodmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380438"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Vincent Proce",
+        "multiverse_id": 0,
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/hydra-broodmaster?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Necropolis Fiend",
+    "id": "necropolis-fiend",
+    "url": "https://api.deckbrew.com/mtg/cards/necropolis-fiend",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=necropolis-fiend",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "demon"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 9,
+    "cost": "{7}{B}{B}",
+    "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Sultai",
+        "rarity": "rare",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 386618,
+        "number": "82",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386618",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386618.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/necropolis-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386618"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 0,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/necropolis-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Seb McKinnon",
+        "multiverse_id": 0,
+        "number": "113",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/necropolis-fiend?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Prognostic Sphinx",
+    "id": "prognostic-sphinx",
+    "url": "https://api.deckbrew.com/mtg/cards/prognostic-sphinx",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=prognostic-sphinx",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "sphinx"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.\nWhenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+    "power": "3",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Jesper Ejsing",
+        "multiverse_id": 0,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/prognostic-sphinx?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Steve Prescott",
+        "multiverse_id": 373617,
+        "number": "60",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373617",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373617.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/prognostic-sphinx?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373617"
+      }
+    ]
+  },
+  {
+    "name": "Prophet of Kruphix",
+    "id": "prophet-of-kruphix",
+    "url": "https://api.deckbrew.com/mtg/cards/prophet-of-kruphix",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=prophet-of-kruphix",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{U}",
+    "text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature cards as though they had flash.",
+    "power": "2",
+    "toughness": "3",
+    "formats": {
+      "commander": "banned",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Anastasia Ovchinnikova",
+        "multiverse_id": 0,
+        "flavor": "\"Time is fluid as a dance, and truth as fleeting.\"",
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/prophet-of-kruphix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Winona Nelson",
+        "multiverse_id": 373635,
+        "flavor": "\"Time is fluid as a dance, and truth as fleeting.\"",
+        "number": "199",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373635",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373635.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/prophet-of-kruphix?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373635"
+      }
+    ]
+  },
+  {
+    "name": "Reaper of the Wilds",
+    "id": "reaper-of-the-wilds",
+    "url": "https://api.deckbrew.com/mtg/cards/reaper-of-the-wilds",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reaper-of-the-wilds",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "gorgon"
+    ],
+    "colors": [
+      "black",
+      "green"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{G}",
+    "text": "Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{B}: Reaper of the Wilds gains deathtouch until end of turn.\n{1}{G}: Reaper of the Wilds gains hexproof until end of turn.",
+    "power": "4",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Jace vs. Vraska",
+        "set_id": "DDM",
+        "rarity": "rare",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 380224,
+        "number": "63",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=380224",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/380224.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDM",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-vraska/reaper-of-the-wilds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/380224"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Jeff Simpson",
+        "multiverse_id": 0,
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/reaper-of-the-wilds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 373570,
+        "number": "201",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373570",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373570.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/reaper-of-the-wilds?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373570"
+      }
+    ]
+  },
+  {
+    "name": "Sultai Ascendancy",
+    "id": "sultai-ascendancy",
+    "url": "https://api.deckbrew.com/mtg/cards/sultai-ascendancy",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sultai-ascendancy",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{B}{G}{U}",
+    "text": "At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Khans of Tarkir",
+        "set_id": "KTK",
+        "watermark": "Sultai",
+        "rarity": "rare",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 386674,
+        "number": "203",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=386674",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/386674.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+        "store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/sultai-ascendancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/386674"
+      },
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 0,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/sultai-ascendancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Prerelease Events",
+        "set_id": "pPRE",
+        "rarity": "special",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 0,
+        "number": "119",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+        "store_url": "http://store.tcgplayer.com/magic/prerelease-events/sultai-ascendancy?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Temple of Mystery",
+    "id": "temple-of-mystery",
+    "url": "https://api.deckbrew.com/mtg/cards/temple-of-mystery",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-of-mystery",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U} to your mana pool.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Adam Paquette",
+        "multiverse_id": 0,
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/temple-of-mystery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Noah Bradley",
+        "multiverse_id": 373571,
+        "number": "226",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373571",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373571.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/temple-of-mystery?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373571"
+      }
+    ]
+  },
+  {
+    "name": "Whip of Erebos",
+    "id": "whip-of-erebos",
+    "url": "https://api.deckbrew.com/mtg/cards/whip-of-erebos",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=whip-of-erebos",
+    "types": [
+      "artifact",
+      "enchantment"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 4,
+    "cost": "{2}{B}{B}",
+    "text": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Clash Pack",
+        "set_id": "CPK",
+        "rarity": "special",
+        "artist": "Marco Nelor",
+        "multiverse_id": 0,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CPK",
+        "store_url": "http://store.tcgplayer.com/magic/clash-pack/whip-of-erebos?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Theros",
+        "set_id": "THS",
+        "rarity": "rare",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 373709,
+        "number": "110",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373709",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373709.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/THS",
+        "store_url": "http://store.tcgplayer.com/magic/theros/whip-of-erebos?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373709"
+      }
+    ]
+  }
+]

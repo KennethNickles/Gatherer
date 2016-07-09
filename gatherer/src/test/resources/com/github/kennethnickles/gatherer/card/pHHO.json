@@ -1,0 +1,395 @@
+[
+  {
+	"name": "Evil Presents",
+	"id": "evil-presents",
+	"url": "https://api.deckbrew.com/mtg/cards/evil-presents",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/evil-presents?partner=DECKBREW",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 4,
+	"cost": "{2}{B}{B}",
+	"text": "Put a creature card from your hand into play under target opponent's control. That creature attacks each turn if able... and always attacks its controller.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Paul Bonner",
+		"multiverse_id": 0,
+		"flavor": "'Tis better to give than to receive.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/evil-presents?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Fruitcake Elemental",
+	"id": "fruitcake-elemental",
+	"url": "https://api.deckbrew.com/mtg/cards/fruitcake-elemental",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/fruitcake-elemental?partner=DECKBREW",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{G}{G}",
+	"text": "Fruitcake Elemental is indestructible.\nAt the end of your turn, Fruitcake Elemental deals 7 damage to you.\n{3}: Target player gains control of Fruitcake Elemental.",
+	"power": "7",
+	"toughness": "7",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Darrell Riche",
+		"multiverse_id": 0,
+		"flavor": "Experiments intended to create the perfect holiday emissary resulted in a substance harder than darksteel and a fraction as merry.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/fruitcake-elemental?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Gifts Given",
+	"id": "gifts-given",
+	"url": "https://api.deckbrew.com/mtg/cards/gifts-given",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/gifts-given?partner=DECKBREW",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{3}{U}",
+	"text": "Search target opponent's library for four cards with different names and reveal them. That player chooses two of those cards. Put the chosen cards into the player's graveyard and the rest into your hand. Then that player shuffles his or her library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Jason Chan",
+		"multiverse_id": 0,
+		"flavor": "\"Thanks! You shouldn't have.\"",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/gifts-given?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Mishra's Toy Workshop",
+	"id": "mishras-toy-workshop",
+	"url": "https://api.deckbrew.com/mtg/cards/mishras-toy-workshop",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/mishras-toy-workshop?partner=DECKBREW",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C}{C}{C} to your mana pool. Spend this mana only on spells and abilities that put tokens onto the battlefield. Use toys to represent the tokens.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Jung Park",
+		"multiverse_id": 0,
+		"flavor": "Even though Urza tried to apologize, Mishra continued to bear a grudge.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/mishras-toy-workshop?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Naughty",
+	"id": "naughty",
+	"url": "https://api.deckbrew.com/mtg/cards/naughty",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/naughty?partner=DECKBREW",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{1}{B}{B}",
+	"text": "Search another target player's library for a card and put that card into your hand. Then shuffle that player's library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "7a",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/naughty?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Nice",
+	"id": "nice",
+	"url": "https://api.deckbrew.com/mtg/cards/nice",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/nice?partner=DECKBREW",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{W}",
+	"text": "Search your library for a card and put it into another target player's hand. Then shuffle your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "7b",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/nice?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Season's Beatings",
+	"id": "seasons-beatings",
+	"url": "https://api.deckbrew.com/mtg/cards/seasons-beatings",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/seasons-beatings?partner=DECKBREW",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{R}{R}{R}{R}",
+	"text": "Family gathering - Each creature target player controls deals damage equal to its power to another random creature that player controls.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"flavor": "Arriving home, he suddenly longed for the bloodsoaked battlefields behind him.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/seasons-beatings?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Snow Mercy",
+	"id": "snow-mercy",
+	"url": "https://api.deckbrew.com/mtg/cards/snow-mercy",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/snow-mercy?partner=DECKBREW",
+	"types": [
+	  "enchantment"
+	],
+	"supertypes": [
+	  "snow"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{W}{W}",
+	"text": "Whenever a creature deals damage to you, put a globe counter on it.\n{T}, {Q}, {T}, {Q}, {T}: Tap all creatures with globe counters on them.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 0,
+		"flavor": "WARNING: Shake gently. Contents may cause choking, hypothermia, and/or planar invasion.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/snow-mercy?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Stocking Tiger",
+	"id": "stocking-tiger",
+	"url": "https://api.deckbrew.com/mtg/cards/stocking-tiger",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/stocking-tiger?partner=DECKBREW",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "cat",
+	  "construct"
+	],
+	"cmc": 5,
+	"cost": "{5}",
+	"text": "Stocking Tiger enters the battlefield with a sealed Magic booster pack under it.\nWhen Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it in your hand.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 0,
+		"flavor": "Just hope yours isn't full of coal golems.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/stocking-tiger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Yule Ooze",
+	"id": "yule-ooze",
+	"url": "https://api.deckbrew.com/mtg/cards/yule-ooze",
+	"store_url": "http://store.tcgplayer.com/magic/happy-holidays/yule-ooze?partner=DECKBREW",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "ooze"
+	],
+	"colors": [
+	  "green",
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{G}",
+	"text": "At the beginning of your upkeep, destroy another nonland permanent chosen at random, then put a number of +1/+1 counters on Yule Ooze equal to that permanent's converted mana cost.\n{R}{G}, Eat some food: Regenerate Yule Ooze.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Happy Holidays",
+		"set_id": "pHHO",
+		"rarity": "special",
+		"artist": "Steve Prescott",
+		"multiverse_id": 0,
+		"flavor": "It loves having family for dinner.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pHHO",
+		"store_url": "http://store.tcgplayer.com/magic/happy-holidays/yule-ooze?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  }
+]

@@ -1,7 +1,6 @@
 package com.github.kennethnickles.gatherer.server
 
 import com.github.kennethnickles.gatherer.card.Color
-import com.github.kennethnickles.gatherer.card.Subtype
 import com.github.kennethnickles.gatherer.card.Supertype
 import com.github.kennethnickles.gatherer.card.Type
 import java.util.HashMap
@@ -71,7 +70,7 @@ class ParamFactory {
         for (subtype in subtypes) {
             builder.append(ParamConstants.SUBTYPE_KEY)
             builder.append(ParamConstants.PARAM_ASSIGN)
-            builder.append(Subtype.from(subtype)!!.getName().toLowerCase())
+            builder.append(subtype.toLowerCase())
             builder.append(ParamConstants.PARAM_ADD)
         }
         builder.deleteCharAt(builder.length - 1)

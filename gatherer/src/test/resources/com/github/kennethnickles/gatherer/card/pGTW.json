@@ -1,0 +1,3377 @@
+[
+  {
+	"name": "Boggart Ram-Gang",
+	"id": "boggart-ram-gang",
+	"url": "https://api.deckbrew.com/mtg/cards/boggart-ram-gang",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boggart-ram-gang",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "warrior"
+	],
+	"colors": [
+	  "green",
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{R/G}{R/G}{R/G}",
+	"text": "Haste\nWither (This deals damage to creatures in the form of -1/-1 counters.)",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "uncommon",
+		"artist": "Dave Allsop",
+		"multiverse_id": 153970,
+		"flavor": "\"We're going to need a bigger gate.\"\n—Bowen, Barrenton guardcaptain",
+		"number": "203",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153970",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153970.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/boggart-ram-gang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153970"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Lucio Parrillo",
+		"multiverse_id": 0,
+		"flavor": "\"We’re going to need a bigger gate.\" —Bowen, Barrenton guardcaptain",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/boggart-ram-gang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Premium Deck Series: Fire and Lightning",
+		"set_id": "PD2",
+		"rarity": "uncommon",
+		"artist": "Dave Allsop",
+		"multiverse_id": 234723,
+		"flavor": "\"We're going to need a bigger gate.\"\n—Bowen, Barrenton guardcaptain",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=234723",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/234723.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PD2",
+		"store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/boggart-ram-gang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/234723"
+	  }
+	]
+  },
+  {
+	"name": "Boomerang",
+	"id": "boomerang",
+	"url": "https://api.deckbrew.com/mtg/cards/boomerang",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boomerang",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{U}{U}",
+	"text": "Return target permanent to its owner's hand.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition III",
+		"set_id": "ME3",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 201122,
+		"flavor": "\"O! call back yesterday, bid time return.\"\n—William Shakespeare, King Richard the Second",
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201122",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201122.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201122"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Richard Kane Ferguson",
+		"multiverse_id": 14513,
+		"flavor": "A lie always returns; be careful how you catch it.",
+		"number": "58",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14513",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14513.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14513"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "common",
+		"artist": "Arnie Swekel",
+		"multiverse_id": 0,
+		"flavor": "Early Jamuraan hunters devised a weapon that would return to its source. Tolarian Æthermancers developed a spell that skipped the weapon entirely.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 11182,
+		"flavor": "\"Returne from whence ye came. . . .\"\n—Edmund Spenser,\nThe Faerie Queene",
+		"number": "64",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11182",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11182.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11182"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Arnie Swekel",
+		"multiverse_id": 129494,
+		"flavor": "Early Jamuraan hunters devised a weapon that would return to its source. Tolarian Æthermancers developed a spell that skipped the weapon entirely.",
+		"number": "70",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129494",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129494.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129494"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Arnie Swekel",
+		"multiverse_id": 83013,
+		"flavor": "\"Returne from whence ye came. . . .\"\n—Edmund Spenser, The Faerie Queene",
+		"number": "66",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83013",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83013.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83013"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 0,
+		"flavor": "\"Returne from whence ye came...\"\n—Edmund Spenser, The Faerie Queene",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Alan Rabinowitz",
+		"multiverse_id": 45243,
+		"flavor": "\"Returne from whence ye came. . . .\"\n—Edmund Spenser, The Faerie Queene",
+		"number": "63",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45243",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45243.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45243"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "Alan Rabinowitz",
+		"multiverse_id": 3896,
+		"flavor": "\"O! call back yesterday, bid time return.\" —William Shakespeare, King Richard the Second",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3896",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3896.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3896"
+	  },
+	  {
+		"set": "Legends",
+		"set_id": "LEG",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 1474,
+		"flavor": "\"O! call back yesterday, bid time return.\" —William Shakespeare, King Richard the Second",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1474",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1474.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+		"store_url": "http://store.tcgplayer.com/magic/legends/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1474"
+	  },
+	  {
+		"set": "Chronicles",
+		"set_id": "CHR",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 2799,
+		"flavor": "\"O! call back yesterday, bid time return.\" —William Shakespeare, King Richard the Second",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2799",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2799.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+		"store_url": "http://store.tcgplayer.com/magic/chronicles/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2799"
+	  },
+	  {
+		"set": "Mirage",
+		"set_id": "MIR",
+		"rarity": "common",
+		"artist": "Richard Kane Ferguson",
+		"multiverse_id": 3327,
+		"flavor": "A lie always returns; be careful how you catch it.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3327",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3327.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+		"store_url": "http://store.tcgplayer.com/magic/mirage/boomerang?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3327"
+	  }
+	]
+  },
+  {
+	"name": "Calciderm",
+	"id": "calciderm",
+	"url": "https://api.deckbrew.com/mtg/cards/calciderm",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=calciderm",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "beast"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{W}{W}",
+	"text": "Shroud (This creature can't be the target of spells or abilities.)\nVanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planar Chaos",
+		"set_id": "PLC",
+		"rarity": "uncommon",
+		"artist": "Dave Kendall",
+		"multiverse_id": 122360,
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=122360",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/122360.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/calciderm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/122360"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Dave Kendall",
+		"multiverse_id": 413547,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413547",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413547.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/calciderm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413547"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Dave Kendall",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/calciderm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Cenn's Tactician",
+	"id": "cenns-tactician",
+	"url": "https://api.deckbrew.com/mtg/cards/cenns-tactician",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cenns-tactician",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "kithkin",
+	  "soldier"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{W}",
+	"text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "uncommon",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 152878,
+		"flavor": "The choke point was the plan, but devoted camaraderie was always her strategy.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=152878",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/152878.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/cenns-tactician?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/152878"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Steven Belledin",
+		"multiverse_id": 0,
+		"flavor": "\"A well-trained force brings peace... which brings more time for training!\"",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/cenns-tactician?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Dauntless Dourbark",
+	"id": "dauntless-dourbark",
+	"url": "https://api.deckbrew.com/mtg/cards/dauntless-dourbark",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dauntless-dourbark",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "treefolk",
+	  "warrior"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.\nDauntless Dourbark has trample as long as you control another Treefolk.",
+	"power": "*",
+	"toughness": "*",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "rare",
+		"artist": "Jeremy Jarvis",
+		"multiverse_id": 141851,
+		"number": "203",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=141851",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/141851.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/dauntless-dourbark?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/141851"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Jeremy Jarvis",
+		"multiverse_id": 0,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/dauntless-dourbark?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Duergar Hedge-Mage",
+	"id": "duergar-hedge-mage",
+	"url": "https://api.deckbrew.com/mtg/cards/duergar-hedge-mage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=duergar-hedge-mage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dwarf",
+	  "shaman"
+	],
+	"colors": [
+	  "red",
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{2}{R/W}",
+	"text": "When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.\nWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Dave Allsop",
+		"multiverse_id": 247205,
+		"number": "195",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247205",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247205.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/duergar-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247205"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "uncommon",
+		"artist": "Dave Allsop",
+		"multiverse_id": 159068,
+		"number": "137",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159068",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159068.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/duergar-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159068"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Thomas M. Baxa",
+		"multiverse_id": 0,
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/duergar-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "uncommon",
+		"artist": "Dave Allsop",
+		"multiverse_id": 205380,
+		"number": "101",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205380",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205380.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/duergar-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205380"
+	  }
+	]
+  },
+  {
+	"name": "Fiery Temper",
+	"id": "fiery-temper",
+	"url": "https://api.deckbrew.com/mtg/cards/fiery-temper",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fiery-temper",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{1}{R}{R}",
+	"text": "Fiery Temper deals 3 damage to target creature or player.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Torment",
+		"set_id": "TOR",
+		"rarity": "common",
+		"artist": "Greg \u0026 Tim Hildebrandt",
+		"multiverse_id": 32918,
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=32918",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/32918.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+		"store_url": "http://store.tcgplayer.com/magic/torment/fiery-temper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/32918"
+	  },
+	  {
+		"set": "Shadows over Innistrad",
+		"set_id": "SOI",
+		"rarity": "common",
+		"artist": "Johannes Voss",
+		"multiverse_id": 409908,
+		"flavor": "\"Let the flames ignore the sinless.\"",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409908",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409908.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOI",
+		"store_url": "http://store.tcgplayer.com/magic/shadows-over-innistrad/fiery-temper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409908"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Ben Wootten",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/fiery-temper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Greg \u0026 Tim Hildebrandt",
+		"multiverse_id": 108880,
+		"number": "62",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108880",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108880.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/fiery-temper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108880"
+	  }
+	]
+  },
+  {
+	"name": "Gravedigger",
+	"id": "gravedigger",
+	"url": "https://api.deckbrew.com/mtg/cards/gravedigger",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=gravedigger",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 4,
+	"cost": "{3}{B}",
+	"text": "When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "uncommon",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 4223,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4223",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4223.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4223"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 221526,
+		"flavor": "His grim ritual ushers the dead to their new life.",
+		"number": "99",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221526",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221526.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221526"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 247324,
+		"flavor": "Only a thin layer of dirt separates civilization from an undead apocalypse.",
+		"number": "86",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247324",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247324.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247324"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 14575,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "134",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14575",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14575.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14575"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 4665,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4665",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4665.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4665"
+	  },
+	  {
+		"set": "Odyssey",
+		"set_id": "ODY",
+		"rarity": "common",
+		"artist": "Tony Szczudlo",
+		"multiverse_id": 29741,
+		"flavor": "Oddly, no one questioned the Cabal's wisdom in hiring a zombie to work at the cemetery.",
+		"number": "140",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=29741",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/29741.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+		"store_url": "http://store.tcgplayer.com/magic/odyssey/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/29741"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 190570,
+		"flavor": "Oddly, no one questioned the Cabal's wisdom in hiring a zombie to work at the cemetery.",
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190570"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 27253,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=27253",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/27253.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/27253"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "James Bernardin",
+		"multiverse_id": 13025,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=13025",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/13025.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/13025"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 397518,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "106",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397518",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397518.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397518"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 129584,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129584",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129584.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129584"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 207102,
+		"flavor": "Only a thin layer of dirt separates civilization from an undead apocalypse.",
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=207102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/207102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/207102"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 413631,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "89",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413631",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413631.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413631"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 83114,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83114",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83114.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83114"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Tony Szczudlo",
+		"multiverse_id": 0,
+		"flavor": "A full coffin is like a full coffer-both are attractive to thieves.",
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 45293,
+		"flavor": "A full coffin is like a full coffer—both are attractive to thieves.",
+		"number": "138",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45293",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45293.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45293"
+	  },
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "common",
+		"artist": "Dermot Power",
+		"multiverse_id": 205349,
+		"flavor": "Oddly, no one questioned the Cabal's wisdom in hiring a zombie to work at the cemetery.",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205349",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205349.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205349"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "uncommon",
+		"artist": "Dermot Power",
+		"multiverse_id": 20372,
+		"number": "78",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20372",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20372.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20372"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "uncommon",
+		"artist": "Dermot Power",
+		"multiverse_id": 383260,
+		"flavor": "A grave is not always for burial.",
+		"number": "99",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383260",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383260.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/gravedigger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383260"
+	  }
+	]
+  },
+  {
+	"name": "Icatian Javelineers",
+	"id": "icatian-javelineers",
+	"url": "https://api.deckbrew.com/mtg/cards/icatian-javelineers",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=icatian-javelineers",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{W}",
+	"text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "common",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 184695,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184695",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184695.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184695"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 1985,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1985",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1985.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1985"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1986,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1986",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1986.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1986"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Scott Kirschner",
+		"multiverse_id": 1987,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1987",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1987.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1987"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Michael Phillippi",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Elspeth vs. Kiora",
+		"set_id": "DDO",
+		"rarity": "common",
+		"artist": "Michael Phillippi",
+		"multiverse_id": 394374,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394374",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394374.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDO",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394374"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Scott Kirschner",
+		"multiverse_id": 107283,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=107283",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/107283.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/icatian-javelineers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/107283"
+	  }
+	]
+  },
+  {
+	"name": "Lava Axe",
+	"id": "lava-axe",
+	"url": "https://api.deckbrew.com/mtg/cards/lava-axe",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lava-axe",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{4}{R}",
+	"text": "Lava Axe deals 5 damage to target player.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Adrian Smith",
+		"multiverse_id": 4348,
+		"flavor": "Swing your axe as a broom, to sweep away the foe.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4348",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4348.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4348"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 221891,
+		"flavor": "It can chop down a redwood in a single stroke. Your sternum isn't going to fare any better.",
+		"number": "148",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221891",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221891.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221891"
+	  },
+	  {
+		"set": "Urza's Legacy",
+		"set_id": "ULG",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 12947,
+		"flavor": "\"Catch!\"",
+		"number": "84",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12947",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12947.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-legacy/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12947"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 370595,
+		"flavor": "A strict upgrade over the cinder hatchet.",
+		"number": "143",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370595",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370595.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370595"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 191084,
+		"flavor": "\"Catch!\"",
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191084",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191084.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191084"
+	  },
+	  {
+		"set": "Starter 2000",
+		"set_id": "S00",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 25488,
+		"flavor": "Meant to cut through the body and burn straight to the soul.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25488",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25488.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S00",
+		"store_url": "http://store.tcgplayer.com/magic/starter-2000/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25488"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 26643,
+		"flavor": "\"Catch!\"",
+		"number": "40",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26643",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26643.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26643"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Ray Lago",
+		"multiverse_id": 13185,
+		"flavor": "\"Catch!\"",
+		"number": "199",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=13185",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/13185.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/13185"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 129620,
+		"flavor": "\"Catch!\"",
+		"number": "215",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129620",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129620.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129620"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 205117,
+		"flavor": "From the heart of the mountain into the heart of the mage.",
+		"number": "147",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205117",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205117.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205117"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 83145,
+		"flavor": "\"Catch!\"",
+		"number": "200",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83145",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83145.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83145"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Ray Lago",
+		"multiverse_id": 0,
+		"flavor": "\"Catch!\"",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 45362,
+		"flavor": "\"Catch!\"",
+		"number": "197",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45362",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45362.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45362"
+	  },
+	  {
+		"set": "Portal Second Age",
+		"set_id": "PO2",
+		"rarity": "common",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 6591,
+		"flavor": "Meant to cut through the body and burn straight to the soul.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=6591",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/6591.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PO2",
+		"store_url": "http://store.tcgplayer.com/magic/portal-second-age/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/6591"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 20205,
+		"flavor": "Meant to cut through the body and burn straight to the soul.",
+		"number": "111",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20205",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20205.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20205"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 383296,
+		"flavor": "A strict upgrade over the cinder hatchet.",
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383296",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383296.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/lava-axe?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383296"
+	  }
+	]
+  },
+  {
+	"name": "Llanowar Elves",
+	"id": "llanowar-elves",
+	"url": "https://api.deckbrew.com/mtg/cards/llanowar-elves",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=llanowar-elves",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "druid",
+	  "elf"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "{T}: Add {G} to your mana pool.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 221892,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "182",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221892",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221892.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221892"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 21107,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21107",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21107.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21107"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 14668,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "239",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14668",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14668.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14668"
+	  },
+	  {
+		"set": "Duel Decks: Elves vs. Goblins",
+		"set_id": "EVG",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 158112,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=158112",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/158112.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/158112"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 461,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=461",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/461.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/461"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 1260,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1260",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1260.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1260"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Elves vs. Goblins",
+		"set_id": "DD3_EVG",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 393970,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393970",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393970.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393970"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 189878,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "189",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189878",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189878.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189878"
+	  },
+	  {
+		"set": "Starter 2000",
+		"set_id": "S00",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 25508,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25508",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25508.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S00",
+		"store_url": "http://store.tcgplayer.com/magic/starter-2000/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25508"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 27256,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "58",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=27256",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/27256.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/27256"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Jerry Tiritilli",
+		"multiverse_id": 11386,
+		"flavor": "Llanowar covers a million square miles, yet nobody enters the forest without the elves knowing it.",
+		"number": "253",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11386",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11386.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11386"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 129626,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "274",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129626",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129626.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129626"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 205228,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "184",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205228",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205228.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205228"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 413717,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "175",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413717",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413717.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413717"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 83515,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "253",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83515",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83515.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83515"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"flavor": "Whenever the Llanowar elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 166,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=166",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/166.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/166"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 0,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 763,
+		"flavor": "Whenever the Llanowar Elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=763",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/763.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/763"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 2228,
+		"flavor": "Hardened by their life in the haunted Llanowar Forest, these fierce beings are outcasts among elvenkind.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2228",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2228.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2228"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 3996,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3996",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3996.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3996"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "common",
+		"artist": "Kev Walker",
+		"multiverse_id": 389579,
+		"flavor": "One bone broken for every twig snapped underfoot.\n—Llanowar penalty for trespassing",
+		"number": "204",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389579",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389579.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/llanowar-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389579"
+	  }
+	]
+  },
+  {
+	"name": "Mind Stone",
+	"id": "mind-stone",
+	"url": "https://api.deckbrew.com/mtg/cards/mind-stone",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mind-stone",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 2,
+	"cost": "{2}",
+	"text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 405300,
+		"flavor": "\"What is mana but possibility, an idea not yet given form?\"—Jhoira, master artificer",
+		"number": "259",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405300",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405300.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405300"
+	  },
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 189228,
+		"flavor": "\"What is mana but possibility, an idea not yet given form?\"\n—Jhoira, master artificer",
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189228",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189228.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189228"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 393856,
+		"flavor": "\"What is mana but possibility, an idea not yet given form?\"\n—Jhoira, master artificer",
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393856",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393856.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393856"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 135280,
+		"flavor": "\"Not by age but by capacity is wisdom gained.\"\n—Titus Maccius Plautus, Trinummus",
+		"number": "335",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=135280",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/135280.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/135280"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Martina Pilcerova",
+		"multiverse_id": 0,
+		"flavor": "\"Except our own thoughts, there is nothing absolutely in our power.\"\n—Rene Descartes, Discourse on Method",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Weatherlight",
+		"set_id": "WTH",
+		"rarity": "common",
+		"artist": "Adam Rex",
+		"multiverse_id": 4436,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4436",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4436.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WTH",
+		"store_url": "http://store.tcgplayer.com/magic/weatherlight/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4436"
+	  },
+	  {
+		"set": "Duel Decks: Zendikar vs. Eldrazi",
+		"set_id": "DDP",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 401707,
+		"flavor": "What is mana but possibility, an idea not yet given form?",
+		"number": "65",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401707",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401707.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDP",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-zendikar-vs-eldrazi/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401707"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 389596,
+		"flavor": "\"What is mana but possibility, an idea not yet given form?\"\n—Jhoira, master artificer",
+		"number": "250",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389596",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389596.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/mind-stone?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389596"
+	  }
+	]
+  },
+  {
+	"name": "Mogg Fanatic",
+	"id": "mogg-fanatic",
+	"url": "https://api.deckbrew.com/mtg/cards/mogg-fanatic",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mogg-fanatic",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 1,
+	"cost": "{R}",
+	"text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Brom",
+		"multiverse_id": 0,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Elves vs. Goblins",
+		"set_id": "EVG",
+		"rarity": "uncommon",
+		"artist": "Brom",
+		"multiverse_id": 157925,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=157925",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/157925.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/157925"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "Brom",
+		"multiverse_id": 4832,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4832",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4832.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4832"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Elves vs. Goblins",
+		"set_id": "DD3_EVG",
+		"rarity": "uncommon",
+		"artist": "Brom",
+		"multiverse_id": 393972,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393972",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393972.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393972"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Brom",
+		"multiverse_id": 0,
+		"flavor": "\"As if his chest had been a mortar, he burst his hot heart's shell upon it.\"\n—Herman Melville, Moby Dick",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "common",
+		"artist": "Brom",
+		"multiverse_id": 397498,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "144",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397498",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397498.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397498"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "uncommon",
+		"artist": "Brom",
+		"multiverse_id": 134748,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=134748",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/134748.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/134748"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Brom",
+		"multiverse_id": 413680,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "138",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413680",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413680.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413680"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Nils Hamm",
+		"multiverse_id": 0,
+		"flavor": "\"As if his chest had been a mortar, he burst his hot heart's shell upon it.\"\n—Herman Melville, Moby Dick",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Premium Deck Series: Fire and Lightning",
+		"set_id": "PD2",
+		"rarity": "uncommon",
+		"artist": "Brom",
+		"multiverse_id": 234699,
+		"flavor": "\"I got it! I got it! I—\"",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=234699",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/234699.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PD2",
+		"store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/mogg-fanatic?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/234699"
+	  }
+	]
+  },
+  {
+	"name": "Oona's Blackguard",
+	"id": "oonas-blackguard",
+	"url": "https://api.deckbrew.com/mtg/cards/oonas-blackguard",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oonas-blackguard",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "faerie",
+	  "rogue"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Flying\nEach other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 153099,
+		"number": "72",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153099",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153099.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/oonas-blackguard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153099"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Darrell Riche",
+		"multiverse_id": 0,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/oonas-blackguard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Reckless Wurm",
+	"id": "reckless-wurm",
+	"url": "https://api.deckbrew.com/mtg/cards/reckless-wurm",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reckless-wurm",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "wurm"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{3}{R}{R}",
+	"text": "Trample\nMadness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planar Chaos",
+		"set_id": "PLC",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 126818,
+		"flavor": "Bred for battle in the Grand Coliseum, these wurms annihilated whole ecosystems when released into the wild.",
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=126818",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/126818.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/reckless-wurm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/126818"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"flavor": "Bred for battle in the Grand Coliseum, these wurms annihilated whole ecosystems when released into the wild.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/reckless-wurm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Selkie Hedge-Mage",
+	"id": "selkie-hedge-mage",
+	"url": "https://api.deckbrew.com/mtg/cards/selkie-hedge-mage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=selkie-hedge-mage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "merfolk",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G/U}",
+	"text": "When Selkie Hedge-Mage enters the battlefield, if you control two or more Forests, you may gain 3 life.\nWhen Selkie Hedge-Mage enters the battlefield, if you control two or more Islands, you may return target tapped creature to its owner's hand.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "uncommon",
+		"artist": "Larry MacDougall",
+		"multiverse_id": 159067,
+		"number": "158",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159067",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159067.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/selkie-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159067"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Brandon Kitkouski",
+		"multiverse_id": 0,
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/selkie-hedge-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Wilt-Leaf Cavaliers",
+	"id": "wilt-leaf-cavaliers",
+	"url": "https://api.deckbrew.com/mtg/cards/wilt-leaf-cavaliers",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wilt-leaf-cavaliers",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "knight"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{G/W}{G/W}{G/W}",
+	"text": "Vigilance",
+	"power": "3",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 243432,
+		"flavor": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243432",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243432.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/wilt-leaf-cavaliers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243432"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 153962,
+		"flavor": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+		"number": "244",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153962",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153962.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/wilt-leaf-cavaliers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153962"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Steven Belledin",
+		"multiverse_id": 0,
+		"flavor": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/wilt-leaf-cavaliers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Wood Elves",
+	"id": "wood-elves",
+	"url": "https://api.deckbrew.com/mtg/cards/wood-elves",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wood-elves",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "scout"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "rare",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 4327,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4327",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4327.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4327"
+	  },
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 405454,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "212",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405454",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405454.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405454"
+	  },
+	  {
+		"set": "Duel Decks: Elves vs. Goblins",
+		"set_id": "EVG",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 159038,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159038",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159038.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159038"
+	  },
+	  {
+		"set": "Exodus",
+		"set_id": "EXO",
+		"rarity": "common",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 6135,
+		"flavor": "Secure in the embrace of wood, they want no part of Eladamri's war.",
+		"number": "130",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=6135",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/6135.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXO",
+		"store_url": "http://store.tcgplayer.com/magic/exodus/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/6135"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Elves vs. Goblins",
+		"set_id": "DD3_EVG",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 394001,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394001",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394001.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394001"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 13147,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "284",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=13147",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/13147.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/13147"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 83336,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "283",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83336",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83336.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83336"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 0,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 45400,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "289",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45400",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45400.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45400"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "uncommon",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 20224,
+		"number": "153",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20224",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20224.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20224"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "common",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 389752,
+		"flavor": "Every branch a crossroads, every vine a swift steed.",
+		"number": "226",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389752",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389752.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/wood-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389752"
+	  }
+	]
+  },
+  {
+	"name": "Yixlid Jailer",
+	"id": "yixlid-jailer",
+	"url": "https://api.deckbrew.com/mtg/cards/yixlid-jailer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=yixlid-jailer",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "wizard",
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Cards in graveyards lose all abilities.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 130702,
+		"flavor": "\"I have an eternity to know the souls who are bound here, to behold their every facet. But moments from now they will be gagged and masked, and they shall be known by none other.\"",
+		"number": "93",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130702",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130702.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/yixlid-jailer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130702"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Alex Horley-Orlandelli",
+		"multiverse_id": 0,
+		"flavor": "He holds the keys to a tombful of incarcerated secrets.",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/yixlid-jailer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Zoetic Cavern",
+	"id": "zoetic-cavern",
+	"url": "https://api.deckbrew.com/mtg/cards/zoetic-cavern",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zoetic-cavern",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 405458,
+		"flavor": "Nothing lives within it, yet there is life.",
+		"number": "322",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405458",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405458.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/zoetic-cavern?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405458"
+	  },
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 132215,
+		"flavor": "Nothing lives within it, yet there is life.",
+		"number": "180",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=132215",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/132215.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/zoetic-cavern?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/132215"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 247274,
+		"flavor": "Nothing lives within it, yet there is life.",
+		"number": "298",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247274",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247274.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/zoetic-cavern?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247274"
+	  },
+	  {
+		"set": "Gateway",
+		"set_id": "pGTW",
+		"rarity": "special",
+		"artist": "Martina Pilcerova",
+		"multiverse_id": 0,
+		"flavor": "Nothing lives within it, yet there is life.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGTW",
+		"store_url": "http://store.tcgplayer.com/magic/gateway/zoetic-cavern?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 389758,
+		"flavor": "Nothing lives within it, yet there is life.",
+		"number": "317",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389758",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389758.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/zoetic-cavern?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389758"
+	  }
+	]
+  }
+]

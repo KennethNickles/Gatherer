@@ -1,21 +1,21 @@
 package com.github.kennethnickles.gatherer.card.internal
 
 import com.github.kennethnickles.gatherer.card.Rule
-import com.github.kennethnickles.gatherer.card.Rules
 import com.google.gson.JsonDeserializationContext
 import com.google.gson.JsonDeserializer
 import com.google.gson.JsonElement
 import com.google.gson.JsonParseException
+import java.util.ArrayList
 
 /**
  * @author kenneth.nickles
  * @since 2016-06-25.
  */
-class RulesJsonDeserializer : JsonDeserializer<Rules> {
+class RulesJsonDeserializer : JsonDeserializer<ArrayList<Rule>> {
 
     @Throws(JsonParseException::class)
     override fun deserialize(json: JsonElement, typeOfT: java.lang.reflect.Type,
-                             context: JsonDeserializationContext): Rules {
+                             context: JsonDeserializationContext): ArrayList<Rule> {
         /**
          * "text": "When you cast Kozilek, the Great Distortion, if you have fewer than
          * seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a
@@ -27,11 +27,11 @@ class RulesJsonDeserializer : JsonDeserializer<Rules> {
          */
         val text = json.asString
         val lines = text.split("\n".toRegex()).dropLastWhile { it.isEmpty() }.toTypedArray()
-        val builder = Rules.builder()
+        val rules: ArrayList<Rule> = ArrayList()
         for (i in lines.indices) {
             val rule = Rule.from(lines[i]) ?: continue
-            builder.withRule(rule)
+            rules.add(rule)
         }
-        return builder.build();
+        return rules
     }
 }

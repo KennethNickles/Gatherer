@@ -1,0 +1,3912 @@
+[
+  {
+	"name": "Akroma, Angel of Wrath Avatar",
+	"id": "akroma-angel-of-wrath-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/akroma-angel-of-wrath-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/akroma-angel-of-wrath-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature enters the battlefield under your control, it gains two abilities chosen at random from flying, first strike, trample, haste, protection from black, protection from red, and vigilance.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182290,
+		"flavor": "\"Chuck's Virtual Party\" avatar (2003)",
+		"number": "33",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182290",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182290.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/akroma-angel-of-wrath-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182290"
+	  }
+	]
+  },
+  {
+	"name": "Arcanis, the Omnipotent Avatar",
+	"id": "arcanis-the-omnipotent-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/arcanis-the-omnipotent-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/arcanis-the-omnipotent-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}, Return a creature you control with converted mana cost X to its owner's hand: Draw a number of cards chosen at random between 0 and X. X can't be 0.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182263,
+		"flavor": "10E Participation Avatar",
+		"number": "70",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182263",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182263.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/arcanis-the-omnipotent-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182263"
+	  }
+	]
+  },
+  {
+	"name": "Arcbound Overseer Avatar",
+	"id": "arcbound-overseer-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/arcbound-overseer-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/arcbound-overseer-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, you may put a +1/+1 counter on target creature you control.\nAt the beginning of your upkeep, you may put a charge counter on target permanent you control.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182296,
+		"flavor": "DST Prize Avatar",
+		"number": "42",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182296",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182296.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/arcbound-overseer-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182296"
+	  }
+	]
+  },
+  {
+	"name": "Ashling, the Extinguisher Avatar",
+	"id": "ashling-the-extinguisher-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/ashling-the-extinguisher-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/ashling-the-extinguisher-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{5}: Destroy all nonland permanents. Activate this ability only once and only during your turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191134,
+		"flavor": "EVE Prize Avatar",
+		"number": "81",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191134",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191134.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/ashling-the-extinguisher-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191134"
+	  }
+	]
+  },
+  {
+	"name": "Ashling the Pilgrim Avatar",
+	"id": "ashling-the-pilgrim-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/ashling-the-pilgrim-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/ashling-the-pilgrim-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{2}: Ashling the Pilgrim Avatar deals 1 damage to each creature and each player.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182283,
+		"flavor": "LRW Participation Avatar",
+		"number": "73",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182283",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182283.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/ashling-the-pilgrim-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182283"
+	  }
+	]
+  },
+  {
+	"name": "Ashnod",
+	"id": "ashnod",
+	"url": "https://api.deckbrew.com/mtg/cards/ashnod",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/ashnod?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature deals damage to you, destroy it.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 12329,
+		"flavor": "Ashnod served as Mishra's confidante while he led Fallaji weapons development before the Brothers' War. Whereas Mishra works in metals and stone, however, Ashnod works in living flesh. She sees all living things as prototype machines; her \"improvements\" to them make her as feared by allies as by enemies.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12329",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12329.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/ashnod?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12329"
+	  }
+	]
+  },
+  {
+	"name": "Barrin",
+	"id": "barrin",
+	"url": "https://api.deckbrew.com/mtg/cards/barrin",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/barrin?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Sacrifice a permanent: Return target creature to its owner's hand.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Christopher Rush",
+		"multiverse_id": 4957,
+		"flavor": "An old and powerful wizard living on the mysterious isle of Tolaria, Barrin is the teacher who trained the young Ertai. He is also Hanna's father, but for reasons known only to the two of them neither acknowledges the other—or their strained relationship.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4957",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4957.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/barrin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4957"
+	  }
+	]
+  },
+  {
+	"name": "Birds of Paradise Avatar",
+	"id": "birds-of-paradise-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/birds-of-paradise-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=birds-of-paradise-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Lands you control have \"{T}: Add one mana of any color to your mana pool.\"",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182291,
+		"flavor": "Long ago, birds of paradise littered the skies. Thanks to the city's sprawl, most now exist as pets of society's elite.",
+		"number": "8",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182291",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182291.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/birds-of-paradise-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182291"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Marcelo Vignali",
+		"multiverse_id": 214824,
+		"flavor": "Long ago, birds of paradise littered the skies. Thanks to the city's sprawl, most now exist as pets of society's elite.",
+		"number": "107",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214824",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214824.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/birds-of-paradise-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214824"
+	  }
+	]
+  },
+  {
+	"name": "Bosh, Iron Golem Avatar",
+	"id": "bosh-iron-golem-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/bosh-iron-golem-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/bosh-iron-golem-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}, Sacrifice an artifact with converted mana cost X: Bosh, Iron Golem Avatar deals X damage to target creature or player.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182269,
+		"flavor": "MRD Participation Avatar",
+		"number": "39",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182269",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182269.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/bosh-iron-golem-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182269"
+	  }
+	]
+  },
+  {
+	"name": "Braids, Conjurer Adept Avatar",
+	"id": "braids-conjurer-adept-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/braids-conjurer-adept-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/braids-conjurer-adept-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{2}: Each player may put a land card from his or her hand onto the battlefield tapped.\n{3}: Each player may put a noncreature artifact card from his or her hand onto the battlefield.\n{4}: Each player may put a creature card from his or her hand onto the battlefield. Activate this ability only any time you could cast a sorcery.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182272,
+		"flavor": "PLC Participation Avatar",
+		"number": "66",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182272",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182272.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/braids-conjurer-adept-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182272"
+	  }
+	]
+  },
+  {
+	"name": "Chronatog Avatar",
+	"id": "chronatog-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/chronatog-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/chronatog-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You have no maximum hand size.\n{0}: Draw three cards. You skip your next turn. Activate this ability only once each turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182286,
+		"flavor": "VI Prize Avatar",
+		"number": "59",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182286",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182286.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/chronatog-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182286"
+	  }
+	]
+  },
+  {
+	"name": "Crovax",
+	"id": "crovax",
+	"url": "https://api.deckbrew.com/mtg/cards/crovax",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/crovax?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control deals damage to a creature or player, you gain 1 life.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 4958,
+		"flavor": "How does one escape a curse? For Crovax, a wealthy noble, the answer may lie in joining the crew of the Weatherlight as they seek to rescue their abducted captain Sisay.  Secretly, he hopes in his journeys to find Selenia, the angelic being who abandoned him and his family years ago.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4958",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4958.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/crovax?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4958"
+	  }
+	]
+  },
+  {
+	"name": "Dakkon Blackblade Avatar",
+	"id": "dakkon-blackblade-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/dakkon-blackblade-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/dakkon-blackblade-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You may play any colored card from your hand as a copy of a basic land card chosen at random that can produce mana of one of the card's colors.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182273,
+		"flavor": "MED Participation Avatar",
+		"number": "72",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182273",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182273.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/dakkon-blackblade-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182273"
+	  }
+	]
+  },
+  {
+	"name": "Dauntless Escort Avatar",
+	"id": "dauntless-escort-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/dauntless-escort-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/dauntless-escort-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have exalted. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 201898,
+		"flavor": "ARB Participation Avatar",
+		"number": "94",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201898",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201898.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/dauntless-escort-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201898"
+	  }
+	]
+  },
+  {
+	"name": "Diamond Faerie Avatar",
+	"id": "diamond-faerie-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/diamond-faerie-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/diamond-faerie-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{S}: Target creature you control gets +1/+1 until end of turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182274,
+		"flavor": "CSP Participation Avatar",
+		"number": "63",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182274",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182274.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/diamond-faerie-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182274"
+	  }
+	]
+  },
+  {
+	"name": "Eight-and-a-Half-Tails Avatar",
+	"id": "eight-and-a-half-tails-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/eight-and-a-half-tails-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/eight-and-a-half-tails-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{1}: Until end of turn, target permanent you control gains protection from a color chosen at random from colors it doesn't have protection from.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182294,
+		"flavor": "CHK Prize Avatar",
+		"number": "45",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182294",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182294.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/eight-and-a-half-tails-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182294"
+	  }
+	]
+  },
+  {
+	"name": "Eladamri",
+	"id": "eladamri",
+	"url": "https://api.deckbrew.com/mtg/cards/eladamri",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/eladamri?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Mark Zug",
+		"multiverse_id": 12140,
+		"flavor": "Proud, shrewd, and charismatic, Eladamri has a commitment to his people that is absolute. The guerilla war he wages against Volrath has convinced him that the only way to liberate the Skyshroud elves is to lead all Rath's refugees to freedom. So be it.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12140",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12140.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/eladamri?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12140"
+	  }
+	]
+  },
+  {
+	"name": "Eladamri, Lord of Leaves Avatar",
+	"id": "eladamri-lord-of-leaves-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/eladamri-lord-of-leaves-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/eladamri-lord-of-leaves-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of each player's precombat main phase, that player adds {G}{G} to his or her mana pool.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 195137,
+		"flavor": "TE Participation Avatar",
+		"number": "88",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=195137",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/195137.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/eladamri-lord-of-leaves-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/195137"
+	  }
+	]
+  },
+  {
+	"name": "Elvish Champion Avatar",
+	"id": "elvish-champion-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/elvish-champion-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/elvish-champion-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You begin the game with a 1/1 green Elf creature token on the battlefield. It has \"{T}: Add {G} to your mana pool.\"",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182299,
+		"flavor": "8ED Participation Avatar",
+		"number": "37",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182299",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182299.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/elvish-champion-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182299"
+	  }
+	]
+  },
+  {
+	"name": "Enigma Sphinx Avatar",
+	"id": "enigma-sphinx-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/enigma-sphinx-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/enigma-sphinx-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you cast a colored artifact spell for the first time in a turn, search your library for a colored artifact card chosen at random whose converted mana cost is less than that spell's converted mana cost. You may play that card without paying its mana cost. If you don't, put that card on the bottom of your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 201901,
+		"flavor": "ARB Prize Avatar",
+		"number": "95",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201901",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201901.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/enigma-sphinx-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201901"
+	  }
+	]
+  },
+  {
+	"name": "Erhnam Djinn Avatar",
+	"id": "erhnam-djinn-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/erhnam-djinn-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=erhnam-djinn-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you cast a creature spell, put a 1/1 green Saproling creature token onto the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 182259,
+		"flavor": "He provides a safe path to nowhere.",
+		"number": "27",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182259",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182259.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/erhnam-djinn-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182259"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 210148,
+		"flavor": "He provides a safe path to nowhere.",
+		"number": "28",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=210148",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/210148.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/erhnam-djinn-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/210148"
+	  }
+	]
+  },
+  {
+	"name": "Ertai",
+	"id": "ertai",
+	"url": "https://api.deckbrew.com/mtg/cards/ertai",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/ertai?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Randy Gallegos",
+		"multiverse_id": 4959,
+		"flavor": "After serving his apprenticeship under Barrin of Tolaria, Ertai graced the Weatherlight crew with his presence as the ship's \"resident\" wizard. He realizes that few recognize his greatness—but then how could they, when they lack his insight and wisdom?",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4959",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4959.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/ertai?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4959"
+	  }
+	]
+  },
+  {
+	"name": "Etched Oracle Avatar",
+	"id": "etched-oracle-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/etched-oracle-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/etched-oracle-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182298,
+		"flavor": "5DN Participation Avatar",
+		"number": "44",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182298",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182298.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/etched-oracle-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182298"
+	  }
+	]
+  },
+  {
+	"name": "Fallen Angel Avatar",
+	"id": "fallen-angel-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/fallen-angel-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/fallen-angel-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control dies, target opponent loses 1 life and you gain 1 life.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182303,
+		"flavor": "2004 Holiday Event Participation Avatar",
+		"number": "9",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182303",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182303.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/fallen-angel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182303"
+	  }
+	]
+  },
+  {
+	"name": "Figure of Destiny Avatar",
+	"id": "figure-of-destiny-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/figure-of-destiny-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/figure-of-destiny-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}: Put a +1/+1 counter on target creature with fewer than X +1/+1 counters on it.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191136,
+		"flavor": "EVE Participation Avatar",
+		"number": "82",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191136",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191136.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/figure-of-destiny-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191136"
+	  }
+	]
+  },
+  {
+	"name": "Flametongue Kavu Avatar",
+	"id": "flametongue-kavu-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/flametongue-kavu-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/flametongue-kavu-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a nontoken creature enters the battlefield under your control, that creature deals X damage to target creature, where X is a number chosen at random from 0 to 4.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182280,
+		"flavor": "Awarded in celebration of the second birthday of Magic Online",
+		"number": "14",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182280",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182280.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/flametongue-kavu-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182280"
+	  }
+	]
+  },
+  {
+	"name": "Frenetic Efreet Avatar",
+	"id": "frenetic-efreet-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/frenetic-efreet-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/frenetic-efreet-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Each permanent you control has phasing. (It phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nAt the beginning of your end step, flip a coin. If you win the flip, take an extra turn after this one.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182275,
+		"flavor": "MI Prize Avatar",
+		"number": "53",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182275",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182275.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/frenetic-efreet-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182275"
+	  }
+	]
+  },
+  {
+	"name": "Gerrard",
+	"id": "gerrard",
+	"url": "https://api.deckbrew.com/mtg/cards/gerrard",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/gerrard?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your draw step, draw an additional card.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 4960,
+		"flavor": "Soldier. Adventurer. Heir to the Legacy. Gerrard has, over the years, traveled much of Dominaria in search of fortune and glory. Now, after serving nobly in the Benalish army, he has returned to the Weatherlight to serve as captain in Sisay's absence and to take up the battle against the Lord of the Wastes.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4960",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4960.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/gerrard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4960"
+	  }
+	]
+  },
+  {
+	"name": "Gix",
+	"id": "gix",
+	"url": "https://api.deckbrew.com/mtg/cards/gix",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/gix?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: Return target creature card from your graveyard to your hand.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Pete Venters",
+		"multiverse_id": 12330,
+		"flavor": "Through ruthlessness and raw ambition, Gix rose through the Phyrexian regime to the exalted rank of praetor. Even while overseeing many of Phyrexia's most important undertakings, Gix continues his own quest for supremacy . . . for in Phyrexia, the weak become fodder for the strong.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12330",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12330.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/gix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12330"
+	  }
+	]
+  },
+  {
+	"name": "Goblin Warchief Avatar",
+	"id": "goblin-warchief-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/goblin-warchief-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=goblin-warchief-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Attacking creatures you control get +1/+0.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Tim Hildebrandt",
+		"multiverse_id": 182251,
+		"flavor": "They poured from the Skirk Ridge like lava, burning and devouring everything in their path.",
+		"number": "5",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182251",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182251.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/goblin-warchief-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182251"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 210149,
+		"flavor": "They poured from the Skirk Ridge like lava, burning and devouring everything in their path.",
+		"number": "6",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=210149",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/210149.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/goblin-warchief-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/210149"
+	  }
+	]
+  },
+  {
+	"name": "Greven il-Vec",
+	"id": "greven-il-vec",
+	"url": "https://api.deckbrew.com/mtg/cards/greven-il-vec",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/greven-il-vec?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control deals damage to a creature, destroy the other creature. It can't be regenerated.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Mark Tedin",
+		"multiverse_id": 4961,
+		"flavor": "As a ruthless leader for Volrath, Greven il-Vec serves his lord by commanding the flying ship Predator. Greven has attained his powerful rank through a series of underhanded schemes and assassinations, the majority of which were blessed by Volrath himself.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4961",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4961.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/greven-il-vec?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4961"
+	  }
+	]
+  },
+  {
+	"name": "Grinning Demon Avatar",
+	"id": "grinning-demon-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/grinning-demon-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=grinning-demon-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a nontoken creature you control dies, target opponent discards a card.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Mark Zug",
+		"multiverse_id": 182304,
+		"flavor": "It's drawn to the scent of screaming.",
+		"number": "29",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182304",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182304.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/grinning-demon-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182304"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 210150,
+		"flavor": "It's drawn to the scent of screaming.",
+		"number": "30",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=210150",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/210150.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/grinning-demon-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/210150"
+	  }
+	]
+  },
+  {
+	"name": "Haakon, Stromgald Scourge Avatar",
+	"id": "haakon-stromgald-scourge-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/haakon-stromgald-scourge-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/haakon-stromgald-scourge-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Pay 1 life: You may play target creature card in your graveyard this turn.\nWhenever you play a creature card from your graveyard, it becomes a black Zombie Knight.\nIf a Zombie Knight would be put into your graveyard from the battlefield, exile it instead.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182287,
+		"flavor": "CSP Prize Avatar",
+		"number": "62",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182287",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182287.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/haakon-stromgald-scourge-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182287"
+	  }
+	]
+  },
+  {
+	"name": "Hanna",
+	"id": "hanna",
+	"url": "https://api.deckbrew.com/mtg/cards/hanna",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/hanna?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Spells you cast cost {1} less to cast.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Liz Danforth",
+		"multiverse_id": 4962,
+		"flavor": "Educated in Argive and highly knowledgeable in the field of artifacts, this expert navigator of the Weatherlight believes that scholarship does not necessarily lead to understanding. Her diligence in pursuing both is her greatest asset.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4962",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4962.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/hanna?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4962"
+	  }
+	]
+  },
+  {
+	"name": "Heartwood Storyteller Avatar",
+	"id": "heartwood-storyteller-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/heartwood-storyteller-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/heartwood-storyteller-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "The first creature spell you cast each turn costs {1} less to cast.\nThe first noncreature spell each opponent casts each turn costs {1} more to cast.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182257,
+		"flavor": "FUT Prize Avatar",
+		"number": "68",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182257",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182257.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/heartwood-storyteller-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182257"
+	  }
+	]
+  },
+  {
+	"name": "Hell's Caretaker Avatar",
+	"id": "hells-caretaker-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/hells-caretaker-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/hells-caretaker-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182264,
+		"flavor": "9ED Participation Avatar",
+		"number": "51",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182264",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182264.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/hells-caretaker-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182264"
+	  }
+	]
+  },
+  {
+	"name": "Hermit Druid Avatar",
+	"id": "hermit-druid-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/hermit-druid-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/hermit-druid-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, put a land card from your library chosen at random onto the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 201076,
+		"flavor": "ST Prize Avatar",
+		"number": "93",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201076",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201076.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/hermit-druid-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201076"
+	  }
+	]
+  },
+  {
+	"name": "Higure, the Still Wind Avatar",
+	"id": "higure-the-still-wind-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/higure-the-still-wind-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/higure-the-still-wind-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a nontoken creature you control deals combat damage to an opponent, choose a creature card at random from your library, reveal that card, and put it into your hand. Then shuffle your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182270,
+		"flavor": "BOK Participation Avatar",
+		"number": "47",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182270",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182270.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/higure-the-still-wind-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182270"
+	  }
+	]
+  },
+  {
+	"name": "Ink-Eyes, Servant of Oni Avatar",
+	"id": "ink-eyes-servant-of-oni-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/ink-eyes-servant-of-oni-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/ink-eyes-servant-of-oni-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of the game, look at target opponent's hand and choose a nonland card from it. That player discards that card.\n{X}, Pay X life: Put target creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182268,
+		"flavor": "BOK Prize Avatar",
+		"number": "48",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182268",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182268.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/ink-eyes-servant-of-oni-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182268"
+	  }
+	]
+  },
+  {
+	"name": "Jaya Ballard Avatar",
+	"id": "jaya-ballard-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/jaya-ballard-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/jaya-ballard-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}: Jaya Ballard Avatar deals an amount of damage chosen at random from 0 to X to target creature or player. Activate this ability only once each turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182255,
+		"flavor": "TSP Prize Avatar",
+		"number": "64",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182255",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182255.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/jaya-ballard-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182255"
+	  }
+	]
+  },
+  {
+	"name": "Jhoira of the Ghitu Avatar",
+	"id": "jhoira-of-the-ghitu-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/jhoira-of-the-ghitu-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/jhoira-of-the-ghitu-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}, Discard a card: Copy three instant cards chosen at random. You may cast one of the copies without paying its mana cost.\n{3}, Discard a card: Copy three sorcery cards chosen at random. You may cast one of the copies without paying its mana cost. Activate this ability only any time you could cast a sorcery.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182252,
+		"flavor": "FUT Particiption Avatar",
+		"number": "69",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182252",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182252.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/jhoira-of-the-ghitu-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182252"
+	  }
+	]
+  },
+  {
+	"name": "Karn",
+	"id": "karn",
+	"url": "https://api.deckbrew.com/mtg/cards/karn",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/karn?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Each noncreature artifact you control is an artifact creature with power and toughness each equal to its converted mana cost.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 4963,
+		"flavor": "Both part of the Legacy and an individual in his own right, the silver golem Karn is haunted by a single, terrible incident: while serving to protect the young Gerrard, Karn accidentally took the life of another. Wakened from years spent as a statue, the golem has vowed to never kill again as he rejoins Gerrard.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4963",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4963.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/karn?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4963"
+	  }
+	]
+  },
+  {
+	"name": "Karona, False God Avatar",
+	"id": "karona-false-god-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/karona-false-god-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/karona-false-god-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, exchange control of a permanent you control chosen at random and a permanent target opponent controls chosen at random.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182265,
+		"flavor": "SCG Participation Avatar",
+		"number": "34",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182265",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182265.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/karona-false-god-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182265"
+	  }
+	]
+  },
+  {
+	"name": "Kresh the Bloodbraided Avatar",
+	"id": "kresh-the-bloodbraided-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/kresh-the-bloodbraided-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/kresh-the-bloodbraided-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control is devoured, put an X/X green Ooze creature token onto the battlefield, where X is the devoured creature's power.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 193854,
+		"flavor": "ALA Prize Avatar",
+		"number": "87",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193854",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193854.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/kresh-the-bloodbraided-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193854"
+	  }
+	]
+  },
+  {
+	"name": "Loxodon Hierarch Avatar",
+	"id": "loxodon-hierarch-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/loxodon-hierarch-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/loxodon-hierarch-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Sacrifice a permanent: Regenerate target creature you control.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182266,
+		"flavor": "RAV Participation Avatar",
+		"number": "54",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182266",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182266.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/loxodon-hierarch-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182266"
+	  }
+	]
+  },
+  {
+	"name": "Lyna",
+	"id": "lyna",
+	"url": "https://api.deckbrew.com/mtg/cards/lyna",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/lyna?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Adam Rex",
+		"multiverse_id": 12142,
+		"flavor": "One of the few Soltari who can cross the shadow barrier, Lyna serves as an emissary to the outside world. A quick thinker and convincing speaker, she does whatever she can to lead her people out of the shadows and into substance.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12142",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12142.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/lyna?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12142"
+	  }
+	]
+  },
+  {
+	"name": "Lyzolda, the Blood Witch Avatar",
+	"id": "lyzolda-the-blood-witch-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/lyzolda-the-blood-witch-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/lyzolda-the-blood-witch-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Hellbent — As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.\nHellbent — At the beginning of your end step, if you have no cards in hand, each of your opponents discards a card.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182302,
+		"flavor": "DIS Prize Avatar",
+		"number": "60",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182302",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182302.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/lyzolda-the-blood-witch-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182302"
+	  }
+	]
+  },
+  {
+	"name": "Maelstrom Archangel Avatar",
+	"id": "maelstrom-archangel-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/maelstrom-archangel-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/maelstrom-archangel-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At end of combat, for each creature you controlled at the time it dealt combat damage to a player this turn, copy a random card with the same mana cost as that creature. You may pay {3}. If you do, choose one of those copies. If a copy of a permanent card is chosen, you may put a token onto the battlefield that's a copy of that card. If a copy of an instant or sorcery card is chosen, you may cast the copy without paying its mana cost.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 198628,
+		"flavor": "CON Prize Avatar",
+		"number": "91",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=198628",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/198628.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/maelstrom-archangel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/198628"
+	  }
+	]
+  },
+  {
+	"name": "Malfegor Avatar",
+	"id": "malfegor-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/malfegor-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/malfegor-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature enters the battlefield under your control, if it was unearthed, it gets +3/+0.\nWhenever a creature you control is exiled, if it was unearthed, shuffle that card into its owner's library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 198627,
+		"flavor": "CON Participation Avatar",
+		"number": "90",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=198627",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/198627.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/malfegor-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/198627"
+	  }
+	]
+  },
+  {
+	"name": "Maralen of the Mornsong Avatar",
+	"id": "maralen-of-the-mornsong-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/maralen-of-the-mornsong-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/maralen-of-the-mornsong-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of the game, you may pay any amount of life.\nYou can't draw cards.\nAt the beginning of your draw step, look at the top X cards of your library, where X is the amount of life paid with Maralen of the Mornsong Avatar. Put one of them into your hand, then shuffle your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182262,
+		"flavor": "MOR Prize Avatar",
+		"number": "78",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182262",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182262.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/maralen-of-the-mornsong-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182262"
+	  }
+	]
+  },
+  {
+	"name": "Maraxus",
+	"id": "maraxus",
+	"url": "https://api.deckbrew.com/mtg/cards/maraxus",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/maraxus?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control get +1/+0.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 4964,
+		"flavor": "Too chaotic for even the other warlords of Keld, Maraxus has devoted himself to serving as a hired killer for the sinister Volrath. A man fond of his work, he's more than willing to put in those extra hours needed to perfect his craft.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4964",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4964.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/maraxus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4964"
+	  }
+	]
+  },
+  {
+	"name": "Maro Avatar",
+	"id": "maro-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/maro-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/maro-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Tap an untapped creature you control, Discard a card: Target creature you control gets +X/+X until end of turn, where X is the number of cards in your hand.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182297,
+		"flavor": "9ED Prize Avatar",
+		"number": "52",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182297",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182297.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/maro-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182297"
+	  }
+	]
+  },
+  {
+	"name": "Master of the Wild Hunt Avatar",
+	"id": "master-of-the-wild-hunt-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/master-of-the-wild-hunt-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/master-of-the-wild-hunt-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{2}{G}: Put a green creature token onto the battlefield that's a 2/2 Wolf, a 2/3 Antelope with forestwalk, a 3/2 Cat with shroud, or a 4/4 green Rhino with trample, chosen at random.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 205956,
+		"flavor": "M10 Participation Avatar",
+		"number": "96",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205956",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205956.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/master-of-the-wild-hunt-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205956"
+	  }
+	]
+  },
+  {
+	"name": "Mayael the Anima Avatar",
+	"id": "mayael-the-anima-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/mayael-the-anima-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/mayael-the-anima-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, reveal the top card of your library. If it's a creature card with power 5 or greater, put it into your hand. Otherwise, you may put it on the bottom of your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 193853,
+		"flavor": "ALA Participation Avatar",
+		"number": "86",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193853",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193853.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/mayael-the-anima-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193853"
+	  }
+	]
+  },
+  {
+	"name": "Mirri",
+	"id": "mirri",
+	"url": "https://api.deckbrew.com/mtg/cards/mirri",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/mirri?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Richard Kane Ferguson",
+		"multiverse_id": 4965,
+		"flavor": "Mirri and Gerrard have been the best of friends since they trained together under the maro-sorcerer Multani. A fierce and agile warrior, she rejoined Gerrard aboard the Weatherlight as his unofficial first mate shortly after he assumed command of the flying ship.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4965",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4965.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/mirri?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4965"
+	  }
+	]
+  },
+  {
+	"name": "Mirri the Cursed Avatar",
+	"id": "mirri-the-cursed-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/mirri-the-cursed-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/mirri-the-cursed-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have \"{T}: Another target creature gets -1/-1 until end of turn. Put a +1/+1 counter on this creature.\"",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182279,
+		"flavor": "PLC Prize Avatar",
+		"number": "67",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182279",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182279.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/mirri-the-cursed-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182279"
+	  }
+	]
+  },
+  {
+	"name": "Mirror Entity Avatar",
+	"id": "mirror-entity-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/mirror-entity-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/mirror-entity-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}: Choose a creature type. Until end of turn, creatures you control of the chosen type have base power and toughness X/X and gain all creature types.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182284,
+		"flavor": "LRW Prize Avatar",
+		"number": "74",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182284",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182284.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/mirror-entity-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182284"
+	  }
+	]
+  },
+  {
+	"name": "Mishra",
+	"id": "mishra",
+	"url": "https://api.deckbrew.com/mtg/cards/mishra",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/mishra?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "If a creature you control would deal damage, it deals double that damage instead.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 12327,
+		"flavor": "Both complement and antithesis to his older brother Urza, Mishra also mastered the intricacies of artifice. It was Mishra's strength that first gave rise to the massive Phyrexian war engines on Dominaria, and it was his weakness that pushed him, Urza, and Dominaria itself to the point of annihilation.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12327",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12327.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/mishra?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12327"
+	  }
+	]
+  },
+  {
+	"name": "Momir Vig, Simic Visionary Avatar",
+	"id": "momir-vig-simic-visionary-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/momir-vig-simic-visionary-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/momir-vig-simic-visionary-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{X}, Discard a card: Put a token onto the battlefield that's a copy of a creature card with converted mana cost X chosen at random. Activate this ability only any time you could cast a sorcery and only once each turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182271,
+		"flavor": "DIS Participation Avatar",
+		"number": "61",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182271",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182271.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/momir-vig-simic-visionary-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182271"
+	  }
+	]
+  },
+  {
+	"name": "Morinfen Avatar",
+	"id": "morinfen-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/morinfen-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/morinfen-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, you lose 1 life for each permanent you control.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182300,
+		"flavor": "WL Prize Avatar",
+		"number": "76",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182300",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182300.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/morinfen-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182300"
+	  }
+	]
+  },
+  {
+	"name": "Multani",
+	"id": "multani",
+	"url": "https://api.deckbrew.com/mtg/cards/multani",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/multani?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control get +X/+0, where X is the number of cards in your hand.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Brom",
+		"multiverse_id": 12146,
+		"flavor": "In mentoring apprentice mages, the forest spirit Multani teaches each to respect nature while making use of its gifts. Multani taught Gerrard, Mirri, and Rofellos to hone their spellcasting in tandem with more physical disciplines so that both would be improved.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12146",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12146.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/multani?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12146"
+	  }
+	]
+  },
+  {
+	"name": "Murderous Redcap Avatar",
+	"id": "murderous-redcap-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/murderous-redcap-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/murderous-redcap-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature enters the battlefield under your control with a counter on it, you may have it deal damage equal to its power to target creature or player.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191137,
+		"flavor": "SHM Participation Avatar",
+		"number": "80",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191137",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191137.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/murderous-redcap-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191137"
+	  }
+	]
+  },
+  {
+	"name": "Necropotence Avatar",
+	"id": "necropotence-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/necropotence-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/necropotence-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Skip your draw step.\nAt the beginning of your end step, if it's not the first turn of the game, put a death counter on Necropotence Avatar. You draw X cards and you lose X life, where X is the number of death counters on Necropotence Avatar.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191306,
+		"flavor": "ME2 Prize Avatar",
+		"number": "83",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191306",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191306.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/necropotence-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191306"
+	  }
+	]
+  },
+  {
+	"name": "Nekrataal Avatar",
+	"id": "nekrataal-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/nekrataal-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/nekrataal-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creature spells you cast cost {B} less to cast. This effect reduces only the amount of colored mana you pay.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182267,
+		"flavor": "VI Participation Avatar",
+		"number": "58",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182267",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182267.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/nekrataal-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182267"
+	  }
+	]
+  },
+  {
+	"name": "Oni of Wild Places Avatar",
+	"id": "oni-of-wild-places-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/oni-of-wild-places-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/oni-of-wild-places-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have haste.\nAt the beginning of your upkeep, return a creature you control to its owner's hand.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182253,
+		"flavor": "SOK Participation Avatar",
+		"number": "50",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182253",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182253.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/oni-of-wild-places-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182253"
+	  }
+	]
+  },
+  {
+	"name": "Oracle",
+	"id": "oracle",
+	"url": "https://api.deckbrew.com/mtg/cards/oracle",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/oracle?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{0}: Untap target attacking creature you control and remove it from combat.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Dan Frazier",
+		"multiverse_id": 12141,
+		"flavor": "Known simply by her title, Oracle uses her gift of prophecy to aid her people. She believes Gerrard to be the Korvecdal, the one who will unite the people of Rath against Volrath's tyranny. Her only doubt is whether she will be strong enough to guide him to his destiny.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12141",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12141.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/oracle?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12141"
+	  }
+	]
+  },
+  {
+	"name": "Orcish Squatters Avatar",
+	"id": "orcish-squatters-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/orcish-squatters-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/orcish-squatters-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your precombat main phase, add {C} to your mana pool for each land target opponent controls.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191307,
+		"flavor": "ME2 Participation Avatar",
+		"number": "84",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191307",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191307.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/orcish-squatters-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191307"
+	  }
+	]
+  },
+  {
+	"name": "Orim",
+	"id": "orim",
+	"url": "https://api.deckbrew.com/mtg/cards/orim",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/orim?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have reach.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 4966,
+		"flavor": "Trained in the Samite arts, Orim serves as the healer aboard the Weatherlight. She is quick with languages and was educated at the same Argivian university as Hanna. A student by nature, Orim keeps a diary of all her new discoveries—both physical and spiritual—during her travels.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4966",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4966.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/orim?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4966"
+	  }
+	]
+  },
+  {
+	"name": "Peacekeeper Avatar",
+	"id": "peacekeeper-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/peacekeeper-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/peacekeeper-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: For each opponent who controls a creature, put a token onto the battlefield that's a copy of a card named Arrest and attach it to a creature that player controls chosen at random.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182281,
+		"flavor": "WL Participation Avatar",
+		"number": "75",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182281",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182281.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/peacekeeper-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182281"
+	  }
+	]
+  },
+  {
+	"name": "Phage the Untouchable Avatar",
+	"id": "phage-the-untouchable-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/phage-the-untouchable-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/phage-the-untouchable-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Pay 1 life: Until end of turn, whenever a creature deals combat damage to you, destroy that creature.\nPay 1 life: Until end of turn, whenever target creature you control deals combat damage to a creature, destroy the damaged creature.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182305,
+		"flavor": "LGN Participation Avatar",
+		"number": "31",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182305",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182305.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/phage-the-untouchable-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182305"
+	  }
+	]
+  },
+  {
+	"name": "Platinum Angel Avatar",
+	"id": "platinum-angel-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/platinum-angel-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=platinum-angel-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "If you control an artifact, a creature, an enchantment, and a land, you can't lose the game and your opponents can't win the game.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182292,
+		"flavor": "In its heart lies the secret of immortality.",
+		"number": "40",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182292",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182292.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/platinum-angel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182292"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Brom",
+		"multiverse_id": 214825,
+		"flavor": "In its heart lies the secret of immortality.",
+		"number": "108",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214825",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214825.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/platinum-angel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214825"
+	  }
+	]
+  },
+  {
+	"name": "Prodigal Sorcerer Avatar",
+	"id": "prodigal-sorcerer-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/prodigal-sorcerer-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=prodigal-sorcerer-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 182276,
+		"flavor": "Ocassionally, members of the Institute of Arcane Study acquire a taste for worldy pleasures. Seldom do they have trouble finding employment.",
+		"number": "17",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182276",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182276.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/prodigal-sorcerer-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182276"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Tony Szczudlo",
+		"multiverse_id": 210151,
+		"flavor": "He wastes his amazing talents on proving how amazing he really is.",
+		"number": "18",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=210151",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/210151.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/prodigal-sorcerer-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/210151"
+	  }
+	]
+  },
+  {
+	"name": "Raksha Golden Cub Avatar",
+	"id": "raksha-golden-cub-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/raksha-golden-cub-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/raksha-golden-cub-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control get +0/+1.\nEquipped creatures you control get +1/+0 and have first strike.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182258,
+		"flavor": "5DN Prize Avatar",
+		"number": "43",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182258",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182258.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/raksha-golden-cub-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182258"
+	  }
+	]
+  },
+  {
+	"name": "Reaper King Avatar",
+	"id": "reaper-king-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/reaper-king-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/reaper-king-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Each creature you control gets +1/+1 for each of its colors.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 191135,
+		"flavor": "SHM Prize Avatar",
+		"number": "79",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191135",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191135.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/reaper-king-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191135"
+	  }
+	]
+  },
+  {
+	"name": "Rith, the Awakener Avatar",
+	"id": "rith-the-awakener-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/rith-the-awakener-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rith-the-awakener-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control deals combat damage to a player, you may pay {5}. If you do, put a 5/5 red Dragon creature token with flying onto the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 192073,
+		"flavor": "DRB Avatar",
+		"number": "85",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=192073",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/192073.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/rith-the-awakener-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/192073"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 214826,
+		"flavor": "Alternative-art Avatar",
+		"number": "106",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214826",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214826.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/rith-the-awakener-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214826"
+	  }
+	]
+  },
+  {
+	"name": "Rofellos",
+	"id": "rofellos",
+	"url": "https://api.deckbrew.com/mtg/cards/rofellos",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/rofellos?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control dies, draw a card.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Daren Bader",
+		"multiverse_id": 12145,
+		"flavor": "Gerrard's longtime friend and fellow student under the maro-sorcerer Multani, Rofellos is an excellent warrior and excellent company. Though adept at both magic and swordplay, he's far more comfortable with a flagon in his hand and a good companion at his side.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12145",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12145.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/rofellos?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12145"
+	  }
+	]
+  },
+  {
+	"name": "Royal Assassin Avatar",
+	"id": "royal-assassin-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/royal-assassin-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=royal-assassin-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182260,
+		"flavor": "8ED Participation Avatar",
+		"number": "38",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182260",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182260.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/royal-assassin-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182260"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 214827,
+		"flavor": "Alternative-art Avatar",
+		"number": "105",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214827",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214827.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/royal-assassin-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214827"
+	  }
+	]
+  },
+  {
+	"name": "Rumbling Slum Avatar",
+	"id": "rumbling-slum-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/rumbling-slum-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/rumbling-slum-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your upkeep, Rumbling Slum Avatar deals 1 damage to each opponent.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182277,
+		"flavor": "GPT Prize Avatar",
+		"number": "56",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182277",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182277.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/rumbling-slum-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182277"
+	  }
+	]
+  },
+  {
+	"name": "Sakashima the Impostor Avatar",
+	"id": "sakashima-the-impostor-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/sakashima-the-impostor-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sakashima-the-impostor-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{2}: Choose a creature you control. It becomes a copy of target creature except for its name.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182289,
+		"flavor": "SOK Prize Avatar",
+		"number": "49",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182289",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182289.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sakashima-the-impostor-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182289"
+	  }
+	]
+  },
+  {
+	"name": "Selenia",
+	"id": "selenia",
+	"url": "https://api.deckbrew.com/mtg/cards/selenia",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/selenia?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have vigilance.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Quinton Hoover",
+		"multiverse_id": 4967,
+		"flavor": "Once a guardian of Crovax's estate, Selenia was freed from her magical bindings by the wealthy noble. Instead of remaining at his side, the angel chose to venture out into the world. For reasons unknown to Crovax, Selenia now serves the evil Volrath in his home realm of Rath.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4967",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4967.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/selenia?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4967"
+	  }
+	]
+  },
+  {
+	"name": "Serra",
+	"id": "serra",
+	"url": "https://api.deckbrew.com/mtg/cards/serra",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/serra?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control get +0/+2.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 12332,
+		"flavor": "Named for a benevolent goddess at birth, Serra fulfilled the prophecy of that goddess's coming. As a planeswalker, she embodies white mana and helps whole civilizations develop while both directly and indirectly inspiring countless individuals to be steadfast and strong in the service of light.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12332",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12332.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/serra?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12332"
+	  }
+	]
+  },
+  {
+	"name": "Serra Angel Avatar",
+	"id": "serra-angel-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/serra-angel-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=serra-angel-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you cast a spell, you gain 2 life.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 182282,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "1",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182282",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182282.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/serra-angel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182282"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 205492,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "2",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205492",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205492.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/serra-angel-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205492"
+	  }
+	]
+  },
+  {
+	"name": "Seshiro the Anointed Avatar",
+	"id": "seshiro-the-anointed-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/seshiro-the-anointed-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/seshiro-the-anointed-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of the game, choose a creature type. Creatures you control, creature spells you control, and creature cards you own in any zone other than  the battlefield or the stack have the chosen type in addition to their other types.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182288,
+		"flavor": "CHK Participation Avatar",
+		"number": "46",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182288",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182288.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/seshiro-the-anointed-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182288"
+	  }
+	]
+  },
+  {
+	"name": "Sidar Kondo",
+	"id": "sidar-kondo",
+	"url": "https://api.deckbrew.com/mtg/cards/sidar-kondo",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sidar-kondo?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: Target creature gets +3/+3 until end of turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 12147,
+		"flavor": "Kondo served as guardian to the infant Gerrard and raised him alongside his own son, Vuel. He taught both boys to be strong and to lead, but whereas Gerrard became a champion of honor, Vuel's bitterness led him to become an equally devastating force of malice.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12147",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12147.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sidar-kondo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12147"
+	  }
+	]
+  },
+  {
+	"name": "Sisay",
+	"id": "sisay",
+	"url": "https://api.deckbrew.com/mtg/cards/sisay",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sisay?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Kaja Foglio",
+		"multiverse_id": 4968,
+		"flavor": "While captain of the Weatherlight, Sisay undertook a quest for the Legacy, a collection of artifacts needed to defeat the Lord of the Wastes. She continued this quest even when Gerrard, heir to the Legacy, chose to abandon it. Sisay is devoted to the cause of good at whatever price.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4968",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4968.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sisay?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4968"
+	  }
+	]
+  },
+  {
+	"name": "Sisters of Stone Death Avatar",
+	"id": "sisters-of-stone-death-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/sisters-of-stone-death-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sisters-of-stone-death-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Each creature you control must be blocked if able.\n{4}: Exile target creature that's blocking a creature you control.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182261,
+		"flavor": "RAV Prize Avatar",
+		"number": "55",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182261",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182261.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sisters-of-stone-death-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182261"
+	  }
+	]
+  },
+  {
+	"name": "Sliver Queen Avatar",
+	"id": "sliver-queen-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/sliver-queen-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sliver-queen-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you cast a non-Sliver creature spell, exile that spell. If you do, put a token onto the battlefield that's a copy of a random non-Shapeshifter Sliver creature card with the same converted mana cost as that spell.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 201075,
+		"flavor": "ST Participation Avatar",
+		"number": "92",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201075",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201075.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sliver-queen-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201075"
+	  }
+	]
+  },
+  {
+	"name": "Sliver Queen, Brood Mother",
+	"id": "sliver-queen-brood-mother",
+	"url": "https://api.deckbrew.com/mtg/cards/sliver-queen-brood-mother",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/sliver-queen-brood-mother?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: Put a 1/1 colorless Sliver creature token onto the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 12143,
+		"flavor": "Though long held captive beneath Volrath's stronghold, the sliver queen is actually freer than most of Rath's denizens. Her maternal instincts always take precedence—even when they conflict with the evincar's agenda—and through her numerous litters, she ranges across all of Rath.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12143",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12143.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/sliver-queen-brood-mother?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12143"
+	  }
+	]
+  },
+  {
+	"name": "Squee",
+	"id": "squee",
+	"url": "https://api.deckbrew.com/mtg/cards/squee",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/squee?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Your opponents play with their hands revealed.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 4969,
+		"flavor": "The smartest—and only—goblin cabin boy aboard the Weatherlight, Squee has learned that intelligence and common sense are very different things. This matters little, however, since he has neither. Fortunately, he doesn't know what he's missing.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4969",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4969.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/squee?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4969"
+	  }
+	]
+  },
+  {
+	"name": "Squee, Goblin Nabob Avatar",
+	"id": "squee-goblin-nabob-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/squee-goblin-nabob-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/squee-goblin-nabob-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{1}: Prevent the next 1 damage that would be dealt to target creature you control this turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182293,
+		"flavor": "10E Prize Avatar",
+		"number": "71",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182293",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182293.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/squee-goblin-nabob-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182293"
+	  }
+	]
+  },
+  {
+	"name": "Stalking Tiger Avatar",
+	"id": "stalking-tiger-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/stalking-tiger-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/stalking-tiger-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever you cast a creature spell, you may pay {1}. If you do, draw a card.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182256,
+		"flavor": "MI Participation Avatar",
+		"number": "7",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182256",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182256.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/stalking-tiger-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182256"
+	  }
+	]
+  },
+  {
+	"name": "Starke",
+	"id": "starke",
+	"url": "https://api.deckbrew.com/mtg/cards/starke",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/starke?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Donato Giancola",
+		"multiverse_id": 4970,
+		"flavor": "Starke believes in situational ethics—the situation determines the ethics. He's switched sides so often that he has become everyone's ally yet no one's friend. This former merchant of Rath accompanies the Weatherlight crew on their journey to his home world.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4970",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4970.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/starke?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4970"
+	  }
+	]
+  },
+  {
+	"name": "Stonehewer Giant Avatar",
+	"id": "stonehewer-giant-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/stonehewer-giant-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/stonehewer-giant-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature enters the battlefield under your control, put a token onto the battlefield that's a copy of a random Equipment card with converted mana cost less than or equal to that creature's converted mana cost. Attach that Equipment to that creature.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182254,
+		"flavor": "MOR Participation Avatar",
+		"number": "77",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182254",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182254.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/stonehewer-giant-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182254"
+	  }
+	]
+  },
+  {
+	"name": "Stuffy Doll Avatar",
+	"id": "stuffy-doll-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/stuffy-doll-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/stuffy-doll-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{0}: If damage would be dealt to you this turn by a source of your choice, prevent that damage. Stuffy Doll Avatar deals damage to you and target opponent equal to half the damage prevented this way, rounded up. Activate this ability only once each turn.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182278,
+		"flavor": "TSP Participation Avatar",
+		"number": "65",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182278",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182278.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/stuffy-doll-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182278"
+	  }
+	]
+  },
+  {
+	"name": "Tahngarth",
+	"id": "tahngarth",
+	"url": "https://api.deckbrew.com/mtg/cards/tahngarth",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/tahngarth?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have haste.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Pete Venters",
+		"multiverse_id": 4971,
+		"flavor": "Tahngarth, first mate of the Weatherlight under Sisay, knows that there are really only two forms of life: the ugly ones and the minotaurs. A narcissist, he considers the condition of his hide as important as the accuracy of his blade.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4971",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4971.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/tahngarth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4971"
+	  }
+	]
+  },
+  {
+	"name": "Takara",
+	"id": "takara",
+	"url": "https://api.deckbrew.com/mtg/cards/takara",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/takara?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Sacrifice a creature: Takara deals 1 damage to target creature or player.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "DiTerlizzi",
+		"multiverse_id": 12144,
+		"flavor": "Takara banishes the shadow of her father's ignoble reputation through the dedication, plain speaking, and swift action of a warrior. By refusing Starke's path of self-interest and opportunism, she has learned what he never will know: the value of sacrifice for a worthy cause.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12144",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12144.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/takara?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12144"
+	  }
+	]
+  },
+  {
+	"name": "Tawnos",
+	"id": "tawnos",
+	"url": "https://api.deckbrew.com/mtg/cards/tawnos",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/tawnos?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You may cast artifact, creature, and enchantment spells as though they had flash.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Donato Giancola",
+		"multiverse_id": 12328,
+		"flavor": "Tawnos brings a childlike wonder and an inherent skill to Urza's studio and bridges the wizardry of the workshop with the grandeur of the royal court. His speed and flexibility quickly earned him promotion from apprentice to master artificer.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12328",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12328.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/tawnos?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12328"
+	  }
+	]
+  },
+  {
+	"name": "Teysa, Orzhov Scion Avatar",
+	"id": "teysa-orzhov-scion-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/teysa-orzhov-scion-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/teysa-orzhov-scion-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a nontoken creature dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182295,
+		"flavor": "GPT Participation Avatar",
+		"number": "57",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182295",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182295.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/teysa-orzhov-scion-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182295"
+	  }
+	]
+  },
+  {
+	"name": "Titania",
+	"id": "titania",
+	"url": "https://api.deckbrew.com/mtg/cards/titania",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/titania?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You may play an additional land on each of your turns.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 12333,
+		"flavor": "Voice of the Argoth forest, defender of its creatures, and enforcer of its laws, Titania is literally an aspect of the forest itself. Her power and her very existence are linked to the land: when the forest is healthy, Titania is ascendant. When Argoth suffers, Titania also bleeds.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12333",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12333.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/titania?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12333"
+	  }
+	]
+  },
+  {
+	"name": "Tradewind Rider Avatar",
+	"id": "tradewind-rider-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/tradewind-rider-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tradewind-rider-avatar",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: Each player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 195138,
+		"flavor": "TE Prize Avatar",
+		"number": "89",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=195138",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/195138.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/tradewind-rider-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/195138"
+	  },
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 214828,
+		"flavor": "Alternative-art Avatar",
+		"number": "104",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214828",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214828.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/tradewind-rider-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214828"
+	  }
+	]
+  },
+  {
+	"name": "Two-Headed Giant of Foriys Avatar",
+	"id": "two-headed-giant-of-foriys-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/two-headed-giant-of-foriys-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/two-headed-giant-of-foriys-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Creatures you control have menace. (They can't be blocked except by two or more creatures.)\nEach creature you control can block an additional creature each combat.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182301,
+		"flavor": "Awarded in celebration of the first birthday of Magic Online",
+		"number": "36",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182301",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182301.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/two-headed-giant-of-foriys-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182301"
+	  }
+	]
+  },
+  {
+	"name": "Urza",
+	"id": "urza",
+	"url": "https://api.deckbrew.com/mtg/cards/urza",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/urza?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{3}: Urza deals 1 damage to target creature or player.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Mark Tedin",
+		"multiverse_id": 12326,
+		"flavor": "An artificer of unparalleled renown, Urza was a powerful cipher even before he was able to planeswalk. Seeing the world as a large, integrated machine is his greatest strength and weakness, enabling him to solve almost any problem but blinding him to his solutions' effects on others.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12326",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12326.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/urza?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12326"
+	  }
+	]
+  },
+  {
+	"name": "Vampire Nocturnus Avatar",
+	"id": "vampire-nocturnus-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/vampire-nocturnus-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/vampire-nocturnus-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Play with the top card of your library revealed.\nAs long as the top card of your library is black, black creatures you control get +2/+1.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 206028,
+		"flavor": "M10 Winner Avatar",
+		"number": "97",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=206028",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/206028.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/vampire-nocturnus-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/206028"
+	  }
+	]
+  },
+  {
+	"name": "Viridian Zealot Avatar",
+	"id": "viridian-zealot-avatar",
+	"url": "https://api.deckbrew.com/mtg/cards/viridian-zealot-avatar",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/viridian-zealot-avatar?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{2}, Sacrifice a creature: Destroy target artifact or enchantment. Search your library for a card with the same name as the sacrificed creature, reveal that card, and put it into your hand. Then shuffle your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "UDON",
+		"multiverse_id": 182285,
+		"flavor": "DST Participation Avatar",
+		"number": "41",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=182285",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/182285.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/viridian-zealot-avatar?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/182285"
+	  }
+	]
+  },
+  {
+	"name": "Volrath",
+	"id": "volrath",
+	"url": "https://api.deckbrew.com/mtg/cards/volrath",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/volrath?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 4972,
+		"flavor": "The son of Gerrard's surrogate father, Sidar Kondo, Volrath stole Gerrard's Legacy and rose to power selling it off piece by piece. Now, he is an evincar, or agent, of the Lord of the Wastes. Armed with exceptional magical powers, he plots to conquer the entire multiverse.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4972",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4972.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/volrath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4972"
+	  }
+	]
+  },
+  {
+	"name": "Xantcha",
+	"id": "xantcha",
+	"url": "https://api.deckbrew.com/mtg/cards/xantcha",
+	"store_url": "http://store.tcgplayer.com/magic/vanguard/xantcha?partner=DECKBREW",
+	"types": [
+	  "vanguard"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Sacrifice a permanent: Regenerate target creature.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Vanguard",
+		"set_id": "VAN",
+		"rarity": "special",
+		"artist": "Heather Hudson",
+		"multiverse_id": 12331,
+		"flavor": "A Phyrexian \"sleeper agent,\" Xantcha has developed an inviolate sense of self. This aberration earned her a death sentence, but she was rescued by Urza and joined his crusade. Her Phyrexian credo of \"Waste not, want not\" has helped Urza more than even he comprehends.",
+		"number": "",
+		"layout": "vanguard",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12331",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12331.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VAN",
+		"store_url": "http://store.tcgplayer.com/magic/vanguard/xantcha?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12331"
+	  }
+	]
+  }
+]

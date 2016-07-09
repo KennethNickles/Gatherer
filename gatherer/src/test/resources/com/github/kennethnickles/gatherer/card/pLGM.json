@@ -1,0 +1,828 @@
+[
+  {
+	"name": "Counterspell",
+	"id": "counterspell",
+	"url": "https://api.deckbrew.com/mtg/cards/counterspell",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=counterspell",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{U}{U}",
+	"text": "Counter target spell.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "common",
+		"artist": "Mark Poole",
+		"multiverse_id": 202437,
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202437",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202437.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202437"
+	  },
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "common",
+		"artist": "Jason Chan",
+		"multiverse_id": 185820,
+		"flavor": "The pyromancer summoned up her mightiest onslaught of fire and rage. Jace feigned interest.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=185820",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/185820.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/185820"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "Hannibal King",
+		"multiverse_id": 21127,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21127",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21127.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21127"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "uncommon",
+		"artist": "L. A. Williams",
+		"multiverse_id": 184687,
+		"flavor": "\"The duel was going badly for me, and Zur thought I was finished. He boasted that he would eat my soul—but all he ate were his words.\"\n—Gustha Ebbasdotter, Kjeldoran royal mage",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184687",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184687.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184687"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Hannibal King",
+		"multiverse_id": 14511,
+		"number": "61",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14511",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14511.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14511"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 397,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "Stephen Daniele",
+		"multiverse_id": 4693,
+		"flavor": "\"It was probably a lousy spell in the first place.\"\n—Ertai, wizard adept",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4693",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4693.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4693"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 1196,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1196",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1196.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1196"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Dom!",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Starter 2000",
+		"set_id": "S00",
+		"rarity": "common",
+		"artist": "Hannibal King",
+		"multiverse_id": 25503,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25503",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25503.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S00",
+		"store_url": "http://store.tcgplayer.com/magic/starter-2000/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25503"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "L. A. Williams",
+		"multiverse_id": 26644,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26644",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26644.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26644"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"flavor": "\"It was probably a lousy spell in the first place.\"\n—Ertai, wizard adept",
+		"number": "66",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "Mark Romanoski",
+		"multiverse_id": 11214,
+		"number": "67",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=11214",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/11214.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/11214"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "common",
+		"artist": "Jason Chan",
+		"multiverse_id": 382897,
+		"flavor": "The pyromancer summoned up her mightiest onslaught of fire and rage. Jace feigned interest.",
+		"number": "64",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382897",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382897.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382897"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "common",
+		"artist": "Jason Chan",
+		"multiverse_id": 393825,
+		"flavor": "The pyromancer summoned up her mightiest onslaught of fire and rage. Jace feigned interest.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393825",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393825.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393825"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "uncommon",
+		"artist": "Stephen Daniele",
+		"multiverse_id": 397612,
+		"flavor": "\"It was probably a lousy spell in the first place.\"\n—Ertai, wizard adept",
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397612",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397612.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397612"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Zack Stella",
+		"multiverse_id": 413585,
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413585",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413585.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413585"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "common",
+		"artist": "L. A. Williams",
+		"multiverse_id": 2500,
+		"flavor": "\"The duel was going badly for me, and Zur thought I was finished. He boasted that he would eat my soul—but all he ate were his words.\"\n—Gustha Ebbasdotter,\nKjeldoran Royal Mage",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2500",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2500.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2500"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 102,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/102"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 699,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=699",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/699.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/699"
+	  },
+	  {
+		"set": "Legend Membership",
+		"set_id": "pLGM",
+		"rarity": "special",
+		"artist": "Dom!",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLGM",
+		"store_url": "http://store.tcgplayer.com/magic/legend-membership/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 2148,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2148",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2148.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2148"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "Hannibal King",
+		"multiverse_id": 3898,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3898",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3898.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3898"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "uncommon",
+		"artist": "Hannibal King",
+		"multiverse_id": 20382,
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20382",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20382.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20382"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "common",
+		"artist": "Gao Yan",
+		"multiverse_id": 19570,
+		"flavor": "\"Your attack has been rendered harmless. It is, however, quite pretty.\"\n—Saprazzan vizier",
+		"number": "69",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/counterspell?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19570"
+	  }
+	]
+  },
+  {
+	"name": "Incinerate",
+	"id": "incinerate",
+	"url": "https://api.deckbrew.com/mtg/cards/incinerate",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=incinerate",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "common",
+		"artist": "Steve Prescott",
+		"multiverse_id": 185818,
+		"flavor": "\"Who said there are no assurances in life? I assure you this is going to hurt.\"",
+		"number": "51",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=185818",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/185818.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/185818"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "common",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 234075,
+		"flavor": "\"Spontaneous combustion is a myth. If you burst into flame, someone wanted you to.\"\n—Chandra Nalaar",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=234075",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/234075.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/234075"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "common",
+		"artist": "Mark Poole",
+		"multiverse_id": 184636,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, task mage",
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184636",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184636.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184636"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "common",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, Task Mage",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "common",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 0,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, task mage",
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Coldsnap Theme Decks",
+		"set_id": "CST",
+		"rarity": "special",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, Task Mage",
+		"number": "194",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CST",
+		"store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "common",
+		"artist": "Steve Prescott",
+		"multiverse_id": 393844,
+		"flavor": "\"Who said there are no assurances in life? I assure you this is going to hurt.\"",
+		"number": "51",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393844",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393844.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393844"
+	  },
+	  {
+		"set": "Magic Player Rewards",
+		"set_id": "pMPR",
+		"rarity": "special",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 0,
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+		"store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 134751,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, task mage",
+		"number": "213",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=134751",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/134751.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/134751"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "common",
+		"artist": "Mark Poole",
+		"multiverse_id": 2630,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, Task Mage",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2630",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2630.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2630"
+	  },
+	  {
+		"set": "Legend Membership",
+		"set_id": "pLGM",
+		"rarity": "special",
+		"artist": "Jock",
+		"multiverse_id": 0,
+		"flavor": "\"Yes, I think 'toast' is an appropriate description.\"\n—Jaya Ballard, Task Mage",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLGM",
+		"store_url": "http://store.tcgplayer.com/magic/legend-membership/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 4063,
+		"flavor": "\"Yes, I think ‘toast' is an appropriate description.\"\n—Jaya Ballard, task mage",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4063",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4063.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4063"
+	  },
+	  {
+		"set": "Mirage",
+		"set_id": "MIR",
+		"rarity": "common",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 3455,
+		"flavor": "\"Never taunt an embermage, ‘What are you going to do about it?'\"\n—Akin, seasoned askari",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+		"store_url": "http://store.tcgplayer.com/magic/mirage/incinerate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3455"
+	  }
+	]
+  }
+]

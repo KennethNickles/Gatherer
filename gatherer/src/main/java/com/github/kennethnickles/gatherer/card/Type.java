@@ -2,6 +2,7 @@ package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
 import android.util.Log;
+import com.github.com.github.kennethnickles.gatherer.BuildConfig;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
@@ -26,7 +27,11 @@ public enum Type {
     SCHEME,
     SORCERY,
     TRIBAL,
-    VANGUARD;
+    VANGUARD,
+	// UNHIGNED TYPES
+	EATURECRAY,
+	ENCHANT,
+	PLAYER;
 
     public String getName() {
         return name();
@@ -42,8 +47,7 @@ public enum Type {
                 return type;
             }
         }
-        Log.d("Type", "Missing Type: " + lookup);
-        return null;
+        throw new IllegalStateException(String.format("Missing Type: %s", lookup));
     }
 
     @Nullable

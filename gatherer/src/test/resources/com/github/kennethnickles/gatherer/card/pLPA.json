@@ -1,0 +1,2452 @@
+[
+  {
+	"name": "Ajani Vengeant",
+	"id": "ajani-vengeant",
+	"url": "https://api.deckbrew.com/mtg/cards/ajani-vengeant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ajani-vengeant",
+	"types": [
+	  "planeswalker"
+	],
+	"subtypes": [
+	  "ajani"
+	],
+	"colors": [
+	  "red",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{W}",
+	"text": "+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.\n−7: Destroy all lands target player controls.",
+	"loyalty": 3,
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Ajani vs. Nicol Bolas",
+		"set_id": "DDH",
+		"rarity": "mythic",
+		"artist": "Izzy",
+		"multiverse_id": 266299,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=266299",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/266299.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/ajani-vengeant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/266299"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Jason Chan",
+		"multiverse_id": 0,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/ajani-vengeant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "mythic",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 174852,
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=174852",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/174852.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/ajani-vengeant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/174852"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Jason Chan",
+		"multiverse_id": 0,
+		"number": "38",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/ajani-vengeant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Ancient Hellkite",
+	"id": "ancient-hellkite",
+	"url": "https://api.deckbrew.com/mtg/cards/ancient-hellkite",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ancient-hellkite",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 7,
+	"cost": "{4}{R}{R}{R}",
+	"text": "Flying\n{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 0,
+		"flavor": "When a dragon attacks, there are no bystanders.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/ancient-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "rare",
+		"artist": "Jason Chan",
+		"multiverse_id": 204980,
+		"flavor": "When a dragon attacks, there are no bystanders.",
+		"number": "122",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=204980",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/204980.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/ancient-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/204980"
+	  }
+	]
+  },
+  {
+	"name": "Ant Queen",
+	"id": "ant-queen",
+	"url": "https://api.deckbrew.com/mtg/cards/ant-queen",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ant-queen",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "insect"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 5,
+	"cost": "{3}{G}{G}",
+	"text": "{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 0,
+		"flavor": "\"Kill the queen first, or we'll be fighting her drones forever. It is not in a queen's nature to have enough servants.\"\n—Borzard, exterminator captain",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/ant-queen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Trevor Claxton",
+		"multiverse_id": 191063,
+		"flavor": "\"Kill the queen first, or we'll be fighting her drones forever. It is not in a queen's nature to have enough servants.\"\n—Borzard, exterminator captain",
+		"number": "166",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191063",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191063.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/ant-queen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191063"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "rare",
+		"artist": "Trevor Claxton",
+		"multiverse_id": 397821,
+		"flavor": "\"Kill the queen first, or we'll be fighting her drones forever. It is not in a queen's nature to have enough servants.\"\n—Borzard, exterminator captain",
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397821",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397821.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/ant-queen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397821"
+	  }
+	]
+  },
+  {
+	"name": "Bident of Thassa",
+	"id": "bident-of-thassa",
+	"url": "https://api.deckbrew.com/mtg/cards/bident-of-thassa",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bident-of-thassa",
+	"types": [
+	  "artifact",
+	  "enchantment"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{2}{U}{U}",
+	"text": "Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 405142,
+		"flavor": "The wills of mortals shift as the tide ebbs and flows.",
+		"number": "86",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405142",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405142.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/bident-of-thassa?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405142"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Ryan Yee",
+		"multiverse_id": 0,
+		"flavor": "The wills of mortals shift as the tide ebbs and flows.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/bident-of-thassa?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Theros",
+		"set_id": "THS",
+		"rarity": "rare",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 373544,
+		"flavor": "The wills of mortals shift as the tide ebbs and flows.",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373544",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373544.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/THS",
+		"store_url": "http://store.tcgplayer.com/magic/theros/bident-of-thassa?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373544"
+	  }
+	]
+  },
+  {
+	"name": "Breaking",
+	"id": "breaking",
+	"url": "https://api.deckbrew.com/mtg/cards/breaking",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=breaking",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black",
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{U}{B}",
+	"text": "Target player puts the top eight cards of his or her library into his or her graveyard.\nFuse (You may cast one or both halves of this card from your hand.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "22a",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/breaking?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dragon's Maze",
+		"set_id": "DGM",
+		"rarity": "rare",
+		"artist": "Mathias Kollros",
+		"multiverse_id": 369009,
+		"number": "124a",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=369009",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/369009.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-maze/breaking?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/369009"
+	  }
+	]
+  },
+  {
+	"name": "Colossal Whale",
+	"id": "colossal-whale",
+	"url": "https://api.deckbrew.com/mtg/cards/colossal-whale",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=colossal-whale",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "whale"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 7,
+	"cost": "{5}{U}{U}",
+	"text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 370685,
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370685",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370685.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/colossal-whale?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370685"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Erica Yang",
+		"multiverse_id": 0,
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/colossal-whale?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Deadbridge Goliath",
+	"id": "deadbridge-goliath",
+	"url": "https://api.deckbrew.com/mtg/cards/deadbridge-goliath",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=deadbridge-goliath",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "insect"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{2}{G}{G}",
+	"text": "Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Nils Hamm",
+		"multiverse_id": 0,
+		"flavor": "Some Golgari insects live for centuries—and they never stop growing.",
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/deadbridge-goliath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Golgari",
+		"rarity": "rare",
+		"artist": "Chase Stone",
+		"multiverse_id": 270970,
+		"flavor": "Some Golgari insects live for centuries—and they never stop growing.",
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=270970",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/270970.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/deadbridge-goliath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/270970"
+	  }
+	]
+  },
+  {
+	"name": "Deathbringer Regent",
+	"id": "deathbringer-regent",
+	"url": "https://api.deckbrew.com/mtg/cards/deathbringer-regent",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=deathbringer-regent",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 7,
+	"cost": "{5}{B}{B}",
+	"text": "Flying\nWhen Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.",
+	"power": "5",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Dragons of Tarkir",
+		"set_id": "DTK",
+		"watermark": "Silumgar",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 394532,
+		"number": "96",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394532",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394532.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/deathbringer-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394532"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Chris Rallis",
+		"multiverse_id": 0,
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/deathbringer-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"number": "168",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/deathbringer-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Dictate of the Twin Gods",
+	"id": "dictate-of-the-twin-gods",
+	"url": "https://api.deckbrew.com/mtg/cards/dictate-of-the-twin-gods",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dictate-of-the-twin-gods",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{3}{R}{R}",
+	"text": "Flash\nIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Chase Stone",
+		"multiverse_id": 0,
+		"flavor": "Iroas and Mogis are as different in appearance as they are in personality.",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/dictate-of-the-twin-gods?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Journey into Nyx",
+		"set_id": "JOU",
+		"rarity": "rare",
+		"artist": "Jaime Jones",
+		"multiverse_id": 380403,
+		"flavor": "Iroas and Mogis are as different in appearance as they are in personality.",
+		"number": "93",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=380403",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/380403.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+		"store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/dictate-of-the-twin-gods?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/380403"
+	  }
+	]
+  },
+  {
+	"name": "Dragon Throne of Tarkir",
+	"id": "dragon-throne-of-tarkir",
+	"url": "https://api.deckbrew.com/mtg/cards/dragon-throne-of-tarkir",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dragon-throne-of-tarkir",
+	"types": [
+	  "artifact"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "equipment"
+	],
+	"cmc": 4,
+	"cost": "{4}",
+	"text": "Equipped creature has defender and \"{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power.\"\nEquip {3}",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Daarken",
+		"multiverse_id": 0,
+		"flavor": "What once soared high above Tarkir is now reduced to a seat.",
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/dragon-throne-of-tarkir?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Daarken",
+		"multiverse_id": 386523,
+		"flavor": "What once soared high above Tarkir is now reduced to a seat.",
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386523",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386523.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/dragon-throne-of-tarkir?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386523"
+	  }
+	]
+  },
+  {
+	"name": "Earwig Squad",
+	"id": "earwig-squad",
+	"url": "https://api.deckbrew.com/mtg/cards/earwig-squad",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=earwig-squad",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "rogue"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 5,
+	"cost": "{3}{B}{B}",
+	"text": "Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.",
+	"power": "5",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "rare",
+		"artist": "Warren Mahy",
+		"multiverse_id": 153135,
+		"number": "60",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153135",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153135.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/earwig-squad?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153135"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Warren Mahy",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/earwig-squad?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "Warren Mahy",
+		"multiverse_id": 370530,
+		"number": "82",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370530",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370530.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/earwig-squad?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370530"
+	  }
+	]
+  },
+  {
+	"name": "Entering",
+	"id": "entering",
+	"url": "https://api.deckbrew.com/mtg/cards/entering",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=entering",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black",
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{B}{R}",
+	"text": "Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.\nFuse (You may cast one or both halves of this card from your hand.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "22b",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/entering?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dragon's Maze",
+		"set_id": "DGM",
+		"rarity": "rare",
+		"artist": "Mathias Kollros",
+		"multiverse_id": 369009,
+		"number": "124b",
+		"layout": "split",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=369009",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/369009.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-maze/entering?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/369009"
+	  }
+	]
+  },
+  {
+	"name": "Figure of Destiny",
+	"id": "figure-of-destiny",
+	"url": "https://api.deckbrew.com/mtg/cards/figure-of-destiny",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=figure-of-destiny",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "kithkin"
+	],
+	"colors": [
+	  "red",
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{R/W}",
+	"text": "{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.\n{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/figure-of-destiny?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Heroes vs. Monsters",
+		"set_id": "DDL",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 373388,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373388",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373388.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/figure-of-destiny?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373388"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 370466,
+		"number": "189",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370466",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370466.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/figure-of-destiny?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370466"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 158106,
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=158106",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/158106.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/figure-of-destiny?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/158106"
+	  },
+	  {
+		"set": "Premium Deck Series: Fire and Lightning",
+		"set_id": "PD2",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 236456,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=236456",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/236456.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PD2",
+		"store_url": "http://store.tcgplayer.com/magic/premium-deck-series-fire-and-lightning/figure-of-destiny?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/236456"
+	  }
+	]
+  },
+  {
+	"name": "Garruk's Horde",
+	"id": "garruks-horde",
+	"url": "https://api.deckbrew.com/mtg/cards/garruks-horde",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=garruks-horde",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "beast"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 7,
+	"cost": "{5}{G}{G}",
+	"text": "Trample\nPlay with the top card of your library revealed.\nYou may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)",
+	"power": "7",
+	"toughness": "7",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "rare",
+		"artist": "Steve Prescott",
+		"multiverse_id": 220077,
+		"number": "176",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220077",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220077.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/garruks-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220077"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Steve Prescott",
+		"multiverse_id": 370684,
+		"number": "173",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370684",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370684.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/garruks-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370684"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/garruks-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "In Garruk's Wake",
+	"id": "in-garruks-wake",
+	"url": "https://api.deckbrew.com/mtg/cards/in-garruks-wake",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=in-garruks-wake",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 9,
+	"cost": "{7}{B}{B}",
+	"text": "Destroy all creatures you don't control and all planeswalkers you don't control.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Brad Rigney",
+		"multiverse_id": 0,
+		"flavor": "Beyond pain, beyond obsession and wild despair, there lies a place of twisted power only the most tormented souls can reach.",
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/in-garruks-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Chase Stone",
+		"multiverse_id": 383275,
+		"flavor": "Beyond pain, beyond obsession and wild despair, there lies a place of twisted power only the most tormented souls can reach.",
+		"number": "100",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383275",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383275.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/in-garruks-wake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383275"
+	  }
+	]
+  },
+  {
+	"name": "Joraga Warcaller",
+	"id": "joraga-warcaller",
+	"url": "https://api.deckbrew.com/mtg/cards/joraga-warcaller",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=joraga-warcaller",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "warrior"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nJoraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.\nOther Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/joraga-warcaller?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Worldwake",
+		"set_id": "WWK",
+		"rarity": "rare",
+		"artist": "Steven Belledin",
+		"multiverse_id": 197765,
+		"number": "106",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=197765",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/197765.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+		"store_url": "http://store.tcgplayer.com/magic/worldwake/joraga-warcaller?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/197765"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "Steven Belledin",
+		"multiverse_id": 389569,
+		"number": "203",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389569",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389569.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/joraga-warcaller?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389569"
+	  }
+	]
+  },
+  {
+	"name": "Knight of New Alara",
+	"id": "knight-of-new-alara",
+	"url": "https://api.deckbrew.com/mtg/cards/knight-of-new-alara",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=knight-of-new-alara",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "knight"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{G}{W}",
+	"text": "Each other multicolored creature you control gets +1/+1 for each of its colors.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Alara Reborn",
+		"set_id": "ARB",
+		"rarity": "rare",
+		"artist": "Chris Rahn",
+		"multiverse_id": 189642,
+		"flavor": "\"I embrace all of Alara, Grixis as much as Bant. Let my former home call me traitor. I do this not for accolades, but because it is right.\"",
+		"number": "70",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189642",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189642.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+		"store_url": "http://store.tcgplayer.com/magic/alara-reborn/knight-of-new-alara?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189642"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "David Palumbo",
+		"multiverse_id": 0,
+		"flavor": "\"I embrace all of Alara, Grixis as much as Bant. Let my former home call me traitor. I do this not for accolades, but because it is right.\"",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/knight-of-new-alara?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Lord of Shatterskull Pass",
+	"id": "lord-of-shatterskull-pass",
+	"url": "https://api.deckbrew.com/mtg/cards/lord-of-shatterskull-pass",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lord-of-shatterskull-pass",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "minotaur",
+	  "shaman"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{3}{R}",
+	"text": "Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-5\n6/6\nLEVEL 6+\n6/6\nWhenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "10",
+		"layout": "leveler",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/lord-of-shatterskull-pass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Rise of the Eldrazi",
+		"set_id": "ROE",
+		"rarity": "rare",
+		"artist": "Kekai Kotaki",
+		"multiverse_id": 198164,
+		"number": "156",
+		"layout": "leveler",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=198164",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/198164.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+		"store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/lord-of-shatterskull-pass?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/198164"
+	  }
+	]
+  },
+  {
+	"name": "Ludevic's Abomination",
+	"id": "ludevics-abomination",
+	"url": "https://api.deckbrew.com/mtg/cards/ludevics-abomination",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ludevics-abomination",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "horror",
+	  "lizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Trample",
+	"power": "13",
+	"toughness": "13",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Karl Kopinski",
+		"multiverse_id": 0,
+		"flavor": "After several frustrating experiments, the visionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",
+		"number": "16b",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/ludevics-abomination?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "rare",
+		"artist": "Nils Hamm",
+		"multiverse_id": 221173,
+		"flavor": "After several frustrating experiments, the visionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",
+		"number": "64b",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221173",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221173.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/ludevics-abomination?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221173"
+	  }
+	]
+  },
+  {
+	"name": "Ludevic's Test Subject",
+	"id": "ludevics-test-subject",
+	"url": "https://api.deckbrew.com/mtg/cards/ludevics-test-subject",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ludevics-test-subject",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "lizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
+	"power": "0",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Karl Kopinski",
+		"multiverse_id": 0,
+		"number": "16a",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/ludevics-test-subject?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "rare",
+		"artist": "Nils Hamm",
+		"multiverse_id": 221179,
+		"number": "64a",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221179",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221179.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/ludevics-test-subject?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221179"
+	  }
+	]
+  },
+  {
+	"name": "Mondronen Shaman",
+	"id": "mondronen-shaman",
+	"url": "https://api.deckbrew.com/mtg/cards/mondronen-shaman",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mondronen-shaman",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "shaman",
+	  "werewolf"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{3}{R}",
+	"text": "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Anthony Palumbo",
+		"multiverse_id": 0,
+		"flavor": "\"Tovolar, my master. Gather the howlpack, for the Hunter's Moon is nigh and Thraben's walls grow weak.\"",
+		"number": "17a",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/mondronen-shaman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dark Ascension",
+		"set_id": "DKA",
+		"rarity": "rare",
+		"artist": "Mike Sass",
+		"multiverse_id": 253433,
+		"flavor": "\"Tovolar, my master. Gather the howlpack, for the Hunter's Moon is nigh and Thraben's walls grow weak.\"",
+		"number": "98a",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253433",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253433.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+		"store_url": "http://store.tcgplayer.com/magic/dark-ascension/mondronen-shaman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253433"
+	  }
+	]
+  },
+  {
+	"name": "Obelisk of Alara",
+	"id": "obelisk-of-alara",
+	"url": "https://api.deckbrew.com/mtg/cards/obelisk-of-alara",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=obelisk-of-alara",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 6,
+	"cost": "{6}",
+	"text": "{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}: Target creature gets -2/-2 until end of turn.\n{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.\n{1}{G}, {T}: Target creature gets +4/+4 until end of turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "John Avon",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/obelisk-of-alara?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Conflux",
+		"set_id": "CON",
+		"rarity": "rare",
+		"artist": "Jeremy Jarvis",
+		"multiverse_id": 183018,
+		"number": "140",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=183018",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/183018.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CON",
+		"store_url": "http://store.tcgplayer.com/magic/conflux/obelisk-of-alara?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/183018"
+	  }
+	]
+  },
+  {
+	"name": "Phyrexian Metamorph",
+	"id": "phyrexian-metamorph",
+	"url": "https://api.deckbrew.com/mtg/cards/phyrexian-metamorph",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=phyrexian-metamorph",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "shapeshifter"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{3}{U/P}",
+	"text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.",
+	"power": "0",
+	"toughness": "0",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Jung Park",
+		"multiverse_id": 0,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/phyrexian-metamorph?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Phyrexian",
+		"rarity": "rare",
+		"artist": "Jana Schirmer \u0026 Johannes Voss",
+		"multiverse_id": 214375,
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214375",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214375.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/phyrexian-metamorph?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214375"
+	  }
+	]
+  },
+  {
+	"name": "Restoration Angel",
+	"id": "restoration-angel",
+	"url": "https://api.deckbrew.com/mtg/cards/restoration-angel",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=restoration-angel",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "angel"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{3}{W}",
+	"text": "Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+	"power": "3",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Wesley Burt",
+		"multiverse_id": 0,
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/restoration-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Avacyn Restored",
+		"set_id": "AVR",
+		"rarity": "rare",
+		"artist": "Johannes Voss",
+		"multiverse_id": 240096,
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=240096",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/240096.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/restoration-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/240096"
+	  }
+	]
+  },
+  {
+	"name": "Sandsteppe Mastodon",
+	"id": "sandsteppe-mastodon",
+	"url": "https://api.deckbrew.com/mtg/cards/sandsteppe-mastodon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sandsteppe-mastodon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elephant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 7,
+	"cost": "{5}{G}{G}",
+	"text": "Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"flavor": "A mastodon's path always leads to an oasis.",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/sandsteppe-mastodon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "James Zapata",
+		"multiverse_id": 0,
+		"flavor": "A mastodon's path always leads to an oasis.",
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/sandsteppe-mastodon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"watermark": "Abzan",
+		"rarity": "rare",
+		"artist": "James Zapata",
+		"multiverse_id": 391913,
+		"flavor": "A mastodon's path always leads to an oasis.",
+		"number": "137",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391913",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391913.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/sandsteppe-mastodon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391913"
+	  }
+	]
+  },
+  {
+	"name": "Skarrg Goliath",
+	"id": "skarrg-goliath",
+	"url": "https://api.deckbrew.com/mtg/cards/skarrg-goliath",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=skarrg-goliath",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "beast"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 8,
+	"cost": "{6}{G}{G}",
+	"text": "Trample\nBloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.",
+	"power": "9",
+	"toughness": "9",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Gruul",
+		"rarity": "rare",
+		"artist": "Scott Chou",
+		"multiverse_id": 366458,
+		"flavor": "\"They bind us with their laws. We free ourselves with nature's fist.\"\n—Nikya of the Old Ways",
+		"number": "133",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366458",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366458.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/skarrg-goliath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366458"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Karl Kopinski",
+		"multiverse_id": 0,
+		"flavor": "\"They bind us with their laws. We free ourselves with nature's fist.\"\n—Nikya of the Old Ways",
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/skarrg-goliath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Staff of Nin",
+	"id": "staff-of-nin",
+	"url": "https://api.deckbrew.com/mtg/cards/staff-of-nin",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=staff-of-nin",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 6,
+	"cost": "{6}",
+	"text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to target creature or player.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Dan Scott",
+		"multiverse_id": 405393,
+		"flavor": "\"I have attuned the staff to your screams so that only I may benefit from your pain.\"—Volux, disciple of Nin",
+		"number": "270",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405393",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405393.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/staff-of-nin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405393"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Brad Rigney",
+		"multiverse_id": 0,
+		"flavor": "\"I have attuned the staff to your screams so that only I may benefit from your pain.\"\n—Volux, disciple of Nin",
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/staff-of-nin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "rare",
+		"artist": "Dan Scott",
+		"multiverse_id": 249713,
+		"flavor": "\"I have attuned the staff to your screams so that only I may benefit from your pain.\"\n—Volux, disciple of Nin",
+		"number": "217",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=249713",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/249713.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/staff-of-nin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/249713"
+	  }
+	]
+  },
+  {
+	"name": "Steel Hellkite",
+	"id": "steel-hellkite",
+	"url": "https://api.deckbrew.com/mtg/cards/steel-hellkite",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=steel-hellkite",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"cmc": 6,
+	"cost": "{6}",
+	"text": "Flying\n{2}: Steel Hellkite gets +1/+0 until end of turn.\n{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scars of Mirrodin",
+		"set_id": "SOM",
+		"watermark": "Mirran",
+		"rarity": "rare",
+		"artist": "James Paick",
+		"multiverse_id": 206351,
+		"number": "205",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=206351",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/206351.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+		"store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/steel-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/206351"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Jaime Jones",
+		"multiverse_id": 0,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/steel-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "James Paick",
+		"multiverse_id": 389693,
+		"number": "273",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389693",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389693.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/steel-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389693"
+	  }
+	]
+  },
+  {
+	"name": "Thopter Assembly",
+	"id": "thopter-assembly",
+	"url": "https://api.deckbrew.com/mtg/cards/thopter-assembly",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=thopter-assembly",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "thopter"
+	],
+	"cmc": 6,
+	"cost": "{6}",
+	"text": "Flying\nAt the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Mirrodin Besieged",
+		"set_id": "MBS",
+		"watermark": "Mirran",
+		"rarity": "rare",
+		"artist": "Volkan Baga",
+		"multiverse_id": 214039,
+		"number": "140",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214039",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214039.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/thopter-assembly?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214039"
+	  },
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Volkan Baga",
+		"multiverse_id": 0,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/thopter-assembly?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Tovolar's Magehunter",
+	"id": "tovolars-magehunter",
+	"url": "https://api.deckbrew.com/mtg/cards/tovolars-magehunter",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tovolars-magehunter",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "werewolf"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Anthony Palumbo",
+		"multiverse_id": 0,
+		"number": "17b",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/tovolars-magehunter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dark Ascension",
+		"set_id": "DKA",
+		"rarity": "rare",
+		"artist": "Mike Sass",
+		"multiverse_id": 253429,
+		"number": "98b",
+		"layout": "double-faced",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253429",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253429.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+		"store_url": "http://store.tcgplayer.com/magic/dark-ascension/tovolars-magehunter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253429"
+	  }
+	]
+  },
+  {
+	"name": "Tromokratis",
+	"id": "tromokratis",
+	"url": "https://api.deckbrew.com/mtg/cards/tromokratis",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tromokratis",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "kraken"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 7,
+	"cost": "{5}{U}{U}",
+	"text": "Tromokratis has hexproof unless it's attacking or blocking.\nTromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)",
+	"power": "8",
+	"toughness": "8",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Jaime Jones",
+		"multiverse_id": 0,
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/tromokratis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Born of the Gods",
+		"set_id": "BNG",
+		"rarity": "rare",
+		"artist": "Matt Stewart",
+		"multiverse_id": 378427,
+		"number": "55",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=378427",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/378427.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+		"store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/tromokratis?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/378427"
+	  }
+	]
+  },
+  {
+	"name": "Valakut, the Molten Pinnacle",
+	"id": "valakut-the-molten-pinnacle",
+	"url": "https://api.deckbrew.com/mtg/cards/valakut-the-molten-pinnacle",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=valakut-the-molten-pinnacle",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.\n{T}: Add {R} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "James Paick",
+		"multiverse_id": 0,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/valakut-the-molten-pinnacle?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Kieran Yanner",
+		"multiverse_id": 190400,
+		"number": "228",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190400",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190400.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/valakut-the-molten-pinnacle?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190400"
+	  }
+	]
+  },
+  {
+	"name": "Vexing Shusher",
+	"id": "vexing-shusher",
+	"url": "https://api.deckbrew.com/mtg/cards/vexing-shusher",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=vexing-shusher",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "shaman"
+	],
+	"colors": [
+	  "green",
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{R/G}{R/G}",
+	"text": "Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Launch Parties",
+		"set_id": "pLPA",
+		"rarity": "special",
+		"artist": "Cyril Van Der Haegen",
+		"multiverse_id": 0,
+		"flavor": "The stench of bloodcap mushrooms on the breath is enough to ward off even the most potent magics, especially when combined with a special chant: \"Hushhh.\"",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pLPA",
+		"store_url": "http://store.tcgplayer.com/magic/launch-parties/vexing-shusher?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Cyril Van Der Haegen",
+		"multiverse_id": 146016,
+		"flavor": "The stench of bloodcap mushrooms on the breath is enough to ward off even the most potent magics, especially when combined with a special chant: \"Hushhh.\"",
+		"number": "222",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146016",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146016.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/vexing-shusher?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146016"
+	  }
+	]
+  }
+]

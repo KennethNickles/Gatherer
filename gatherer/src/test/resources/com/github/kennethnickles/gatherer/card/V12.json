@@ -1,0 +1,1135 @@
+[
+  {
+	"name": "Ancient Tomb",
+	"id": "ancient-tomb",
+	"url": "https://api.deckbrew.com/mtg/cards/ancient-tomb",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ancient-tomb",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C}{C} to your mana pool. Ancient Tomb deals 2 damage to you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 288994,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=288994",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/288994.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/288994"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "uncommon",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 4636,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4636",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4636.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4636"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 382842,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "289",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382842",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382842.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382842"
+	  },
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Howard Lyon",
+		"multiverse_id": 409567,
+		"number": "36",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409567",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409567.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409567"
+	  }
+	]
+  },
+  {
+	"name": "Boseiju, Who Shelters All",
+	"id": "boseiju-who-shelters-all",
+	"url": "https://api.deckbrew.com/mtg/cards/boseiju-who-shelters-all",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=boseiju-who-shelters-all",
+	"types": [
+	  "land"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {C} to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can't be countered by spells or abilities.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Ralph Horsley",
+		"multiverse_id": 291507,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=291507",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/291507.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/boseiju-who-shelters-all?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/291507"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "Ralph Horsley",
+		"multiverse_id": 75305,
+		"number": "273",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=75305",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/75305.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/boseiju-who-shelters-all?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/75305"
+	  }
+	]
+  },
+  {
+	"name": "Cephalid Coliseum",
+	"id": "cephalid-coliseum",
+	"url": "https://api.deckbrew.com/mtg/cards/cephalid-coliseum",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cephalid-coliseum",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you.\nThreshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Cliff Childs",
+		"multiverse_id": 288995,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=288995",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/288995.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/cephalid-coliseum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/288995"
+	  },
+	  {
+		"set": "Odyssey",
+		"set_id": "ODY",
+		"rarity": "uncommon",
+		"artist": "John Avon",
+		"multiverse_id": 29903,
+		"number": "317",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=29903",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/29903.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+		"store_url": "http://store.tcgplayer.com/magic/odyssey/cephalid-coliseum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/29903"
+	  }
+	]
+  },
+  {
+	"name": "Desert",
+	"id": "desert",
+	"url": "https://api.deckbrew.com/mtg/cards/desert",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=desert",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "desert"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Glen Angus",
+		"multiverse_id": 287341,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287341",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287341.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/desert?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287341"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "common",
+		"artist": "Jesper Myrfors",
+		"multiverse_id": 986,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=986",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/986.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/desert?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/986"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Glen Angus",
+		"multiverse_id": 0,
+		"number": "99",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/desert?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Jesper Myrfors",
+		"multiverse_id": 109713,
+		"number": "118",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109713",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109713.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/desert?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/109713"
+	  }
+	]
+  },
+  {
+	"name": "Dryad Arbor",
+	"id": "dryad-arbor",
+	"url": "https://api.deckbrew.com/mtg/cards/dryad-arbor",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dryad-arbor",
+	"types": [
+	  "creature",
+	  "land"
+	],
+	"subtypes": [
+	  "dryad",
+	  "forest"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has \"{T}: Add {G} to your mana pool.\")",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "uncommon",
+		"artist": "Eric Fortune",
+		"multiverse_id": 136196,
+		"flavor": "\"Touch no tree, break no branch, and speak only the question you wish answered.\"\n—Von Yomm, elder druid, to her initiates",
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=136196",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/136196.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/dryad-arbor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/136196"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Brad Rigney",
+		"multiverse_id": 282542,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=282542",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/282542.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/dryad-arbor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/282542"
+	  }
+	]
+  },
+  {
+	"name": "Forbidden Orchard",
+	"id": "forbidden-orchard",
+	"url": "https://api.deckbrew.com/mtg/cards/forbidden-orchard",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=forbidden-orchard",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 282541,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=282541",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/282541.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/282541"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "Dany Orizio",
+		"multiverse_id": 79252,
+		"number": "276",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=79252",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/79252.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/79252"
+	  },
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Jesper Ejsing",
+		"multiverse_id": 409570,
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409570"
+	  }
+	]
+  },
+  {
+	"name": "Glacial Chasm",
+	"id": "glacial-chasm",
+	"url": "https://api.deckbrew.com/mtg/cards/glacial-chasm",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=glacial-chasm",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "rare",
+		"artist": "Liz Danforth",
+		"multiverse_id": 184631,
+		"number": "229",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184631",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184631.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/glacial-chasm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184631"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Mike Bierek",
+		"multiverse_id": 288996,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=288996",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/288996.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/glacial-chasm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/288996"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "uncommon",
+		"artist": "Liz Danforth",
+		"multiverse_id": 2752,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2752",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2752.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/glacial-chasm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2752"
+	  }
+	]
+  },
+  {
+	"name": "Grove of the Burnwillows",
+	"id": "grove-of-the-burnwillows",
+	"url": "https://api.deckbrew.com/mtg/cards/grove-of-the-burnwillows",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=grove-of-the-burnwillows",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Each opponent gains 1 life.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "rare",
+		"artist": "David Hudnut",
+		"multiverse_id": 130595,
+		"flavor": "Spring is the most beautiful season in the grove, when the new leaves open from their ember-buds in a race of leaping flames.",
+		"number": "176",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130595",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130595.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/grove-of-the-burnwillows?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130595"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Cliff Childs",
+		"multiverse_id": 287335,
+		"flavor": "Spring is the most beautiful season in the grove, when the new leaves open from their ember-buds in a race of leaping flames.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287335",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287335.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/grove-of-the-burnwillows?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287335"
+	  }
+	]
+  },
+  {
+	"name": "High Market",
+	"id": "high-market",
+	"url": "https://api.deckbrew.com/mtg/cards/high-market",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=high-market",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice a creature: You gain 1 life.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 405257,
+		"flavor": "If it can't be had here, it can't be had on any world.",
+		"number": "289",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405257",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405257.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/high-market?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405257"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 287336,
+		"flavor": "If it can't be had here, it can't be had on any world.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287336",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287336.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/high-market?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287336"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 19890,
+		"flavor": "If it can't be had here, it can't be had on any world.",
+		"number": "320",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19890",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19890.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/high-market?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19890"
+	  }
+	]
+  },
+  {
+	"name": "Maze of Ith",
+	"id": "maze-of-ith",
+	"url": "https://api.deckbrew.com/mtg/cards/maze-of-ith",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=maze-of-ith",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 201263,
+		"number": "246",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201263",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201263.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/maze-of-ith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201263"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 287329,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287329",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287329.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/maze-of-ith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287329"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 0,
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/maze-of-ith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 413783,
+		"number": "241",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413783",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413783.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/maze-of-ith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413783"
+	  },
+	  {
+		"set": "The Dark",
+		"set_id": "DRK",
+		"rarity": "uncommon",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 1824,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1824",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1824.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRK",
+		"store_url": "http://store.tcgplayer.com/magic/the-dark/maze-of-ith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1824"
+	  }
+	]
+  },
+  {
+	"name": "Murmuring Bosk",
+	"id": "murmuring-bosk",
+	"url": "https://api.deckbrew.com/mtg/cards/murmuring-bosk",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=murmuring-bosk",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {G} to your mana pool.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 153467,
+		"number": "147",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153467",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153467.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/murmuring-bosk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153467"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "John Avon",
+		"multiverse_id": 287334,
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287334",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287334.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/murmuring-bosk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287334"
+	  }
+	]
+  },
+  {
+	"name": "Shivan Gorge",
+	"id": "shivan-gorge",
+	"url": "https://api.deckbrew.com/mtg/cards/shivan-gorge",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shivan-gorge",
+	"types": [
+	  "land"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 288997,
+		"flavor": "Both forge and pyre.",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=288997",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/288997.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/shivan-gorge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/288997"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "rare",
+		"artist": "John Matson",
+		"multiverse_id": 10482,
+		"flavor": "Both forge and pyre.",
+		"number": "326",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=10482",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/10482.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/shivan-gorge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/10482"
+	  }
+	]
+  },
+  {
+	"name": "Urborg, Tomb of Yawgmoth",
+	"id": "urborg-tomb-of-yawgmoth",
+	"url": "https://api.deckbrew.com/mtg/cards/urborg-tomb-of-yawgmoth",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=urborg-tomb-of-yawgmoth",
+	"types": [
+	  "land"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Each land is a Swamp in addition to its other land types.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planar Chaos",
+		"set_id": "PLC",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 131005,
+		"flavor": "\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\n—Lord Windgrace",
+		"number": "165",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=131005",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/131005.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/urborg-tomb-of-yawgmoth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/131005"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "John Avon",
+		"multiverse_id": 287330,
+		"flavor": "\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\n—Lord Windgrace",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287330",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287330.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/urborg-tomb-of-yawgmoth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287330"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 383425,
+		"flavor": "\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\n—Lord Windgrace",
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383425",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383425.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/urborg-tomb-of-yawgmoth?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383425"
+	  }
+	]
+  },
+  {
+	"name": "Vesuva",
+	"id": "vesuva",
+	"url": "https://api.deckbrew.com/mtg/cards/vesuva",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=vesuva",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 287332,
+		"flavor": "It is everywhere you've ever been.",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287332",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287332.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/vesuva?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287332"
+	  },
+	  {
+		"set": "Time Spiral",
+		"set_id": "TSP",
+		"rarity": "rare",
+		"artist": "Zoltan Boros \u0026 Gabor Szikszai",
+		"multiverse_id": 113543,
+		"flavor": "It is everywhere you've ever been.",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=113543",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/113543.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+		"store_url": "http://store.tcgplayer.com/magic/time-spiral/vesuva?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/113543"
+	  }
+	]
+  },
+  {
+	"name": "Windbrisk Heights",
+	"id": "windbrisk-heights",
+	"url": "https://api.deckbrew.com/mtg/cards/windbrisk-heights",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=windbrisk-heights",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W} to your mana pool.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Omar Rayyan",
+		"multiverse_id": 287338,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=287338",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/287338.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/windbrisk-heights?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/287338"
+	  },
+	  {
+		"set": "Modern Event Deck 2014",
+		"set_id": "MD1",
+		"rarity": "rare",
+		"artist": "Omar Rayyan",
+		"multiverse_id": 382203,
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382203",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382203.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MD1",
+		"store_url": "http://store.tcgplayer.com/magic/magic-modern-event-deck/windbrisk-heights?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382203"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "rare",
+		"artist": "Omar Rayyan",
+		"multiverse_id": 145798,
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=145798",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/145798.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/windbrisk-heights?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/145798"
+	  }
+	]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+	"name": "Geist of Saint Traft",
+	"id": "geist-of-saint-traft",
+	"url": "https://api.deckbrew.com/mtg/cards/geist-of-saint-traft",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=geist-of-saint-traft",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "cleric",
+	  "spirit"
+	],
+	"colors": [
+	  "blue",
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{U}",
+	"text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "mythic",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 247236,
+		"number": "213",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247236",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247236.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/geist-of-saint-traft?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247236"
+	  },
+	  {
+		"set": "Duel Decks: Blessed vs. Cursed",
+		"set_id": "DDQ",
+		"rarity": "mythic",
+		"artist": "Daarken",
+		"multiverse_id": 409577,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409577",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409577.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/geist-of-saint-traft?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409577"
+	  },
+	  {
+		"set": "World Magic Cup Qualifiers",
+		"set_id": "pWCQ",
+		"rarity": "special",
+		"artist": "Izzy",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pWCQ",
+		"store_url": "http://store.tcgplayer.com/magic/world-magic-cup-qualifiers/geist-of-saint-traft?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Vengevine",
+	"id": "vengevine",
+	"url": "https://api.deckbrew.com/mtg/cards/vengevine",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=vengevine",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{2}{G}{G}",
+	"text": "Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.",
+	"power": "4",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Rise of the Eldrazi",
+		"set_id": "ROE",
+		"rarity": "mythic",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 193556,
+		"flavor": "Leave but a shred of root and it will return, bursting with vigor.",
+		"number": "212",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193556",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193556.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+		"store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/vengevine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193556"
+	  },
+	  {
+		"set": "World Magic Cup Qualifiers",
+		"set_id": "pWCQ",
+		"rarity": "special",
+		"artist": "Trevor Claxton",
+		"multiverse_id": 0,
+		"flavor": "Leave but a shred of root and it will return, bursting with vigor.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pWCQ",
+		"store_url": "http://store.tcgplayer.com/magic/world-magic-cup-qualifiers/vengevine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  }
+]

@@ -1,0 +1,1271 @@
+[
+  {
+	"name": "Cao Cao, Lord of Wei",
+	"id": "cao-cao-lord-of-wei",
+	"url": "https://api.deckbrew.com/mtg/cards/cao-cao-lord-of-wei",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cao-cao-lord-of-wei",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 5,
+	"cost": "{3}{B}{B}",
+	"text": "{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal Three Kingdoms",
+		"set_id": "PTK",
+		"rarity": "rare",
+		"artist": "Gao Jianzhang",
+		"multiverse_id": 10548,
+		"number": "68",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=10548",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/10548.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+		"store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/cao-cao-lord-of-wei?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/10548"
+	  },
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Gao Jianzhang",
+		"multiverse_id": 244670,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244670",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244670.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/cao-cao-lord-of-wei?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244670"
+	  }
+	]
+  },
+  {
+	"name": "Captain Sisay",
+	"id": "captain-sisay",
+	"url": "https://api.deckbrew.com/mtg/cards/captain-sisay",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=captain-sisay",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{G}{W}",
+	"text": "{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Ray Lago",
+		"multiverse_id": 244665,
+		"flavor": "Her leadership forged the Weatherlight's finest crew.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244665",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244665.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/captain-sisay?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244665"
+	  },
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "rare",
+		"artist": "Ray Lago",
+		"multiverse_id": 25976,
+		"flavor": "Her leadership forged the Weatherlight's finest crew.",
+		"number": "237",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25976",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25976.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/captain-sisay?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25976"
+	  }
+	]
+  },
+  {
+	"name": "Doran, the Siege Tower",
+	"id": "doran-the-siege-tower",
+	"url": "https://api.deckbrew.com/mtg/cards/doran-the-siege-tower",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=doran-the-siege-tower",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "shaman",
+	  "treefolk"
+	],
+	"colors": [
+	  "black",
+	  "green",
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{B}{G}{W}",
+	"text": "Each creature assigns combat damage equal to its toughness rather than its power.",
+	"power": "0",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Champs and States",
+		"set_id": "pCMP",
+		"rarity": "special",
+		"artist": "Mark Zug",
+		"multiverse_id": 0,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+		"store_url": "http://store.tcgplayer.com/magic/champs-and-states/doran-the-siege-tower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Mark Zug",
+		"multiverse_id": 244674,
+		"flavor": "\"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.\"",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244674",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244674.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/doran-the-siege-tower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244674"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 140201,
+		"flavor": "\"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.\"",
+		"number": "247",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=140201",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/140201.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/doran-the-siege-tower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/140201"
+	  }
+	]
+  },
+  {
+	"name": "Kiki-Jiki, Mirror Breaker",
+	"id": "kiki-jiki-mirror-breaker",
+	"url": "https://api.deckbrew.com/mtg/cards/kiki-jiki-mirror-breaker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kiki-jiki-mirror-breaker",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "goblin",
+	  "shaman"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{2}{R}{R}{R}",
+	"text": "Haste\n{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Steven Belledin",
+		"multiverse_id": 244666,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244666",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244666.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/kiki-jiki-mirror-breaker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244666"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "mythic",
+		"artist": "Steven Belledin",
+		"multiverse_id": 397698,
+		"number": "121",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397698",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397698.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/kiki-jiki-mirror-breaker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397698"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "mythic",
+		"artist": "Steven Belledin",
+		"multiverse_id": 370534,
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370534",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370534.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/kiki-jiki-mirror-breaker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370534"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "Pete Venters",
+		"multiverse_id": 50321,
+		"number": "175",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=50321",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/50321.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kiki-jiki-mirror-breaker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/50321"
+	  }
+	]
+  },
+  {
+	"name": "Kresh the Bloodbraided",
+	"id": "kresh-the-bloodbraided",
+	"url": "https://api.deckbrew.com/mtg/cards/kresh-the-bloodbraided",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kresh-the-bloodbraided",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "warrior"
+	],
+	"colors": [
+	  "black",
+	  "green",
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{2}{B}{R}{G}",
+	"text": "Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Steve Argyle",
+		"multiverse_id": 244672,
+		"flavor": "Each of his twenty-two braids is bound with bone and leather from a foe.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244672",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244672.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/kresh-the-bloodbraided?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244672"
+	  },
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "mythic",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 174876,
+		"flavor": "Each of his twenty-two braids is bound with bone and leather from a foe.",
+		"number": "178",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=174876",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/174876.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/kresh-the-bloodbraided?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/174876"
+	  }
+	]
+  },
+  {
+	"name": "Mikaeus, the Lunarch",
+	"id": "mikaeus-the-lunarch",
+	"url": "https://api.deckbrew.com/mtg/cards/mikaeus-the-lunarch",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mikaeus-the-lunarch",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "cleric",
+	  "human"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{X}{W}",
+	"text": "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.\n{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.",
+	"power": "0",
+	"toughness": "0",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Steven Belledin",
+		"multiverse_id": 259296,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=259296",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/259296.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/mikaeus-the-lunarch?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/259296"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "mythic",
+		"artist": "Steven Belledin",
+		"multiverse_id": 247234,
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247234",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247234.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/mikaeus-the-lunarch?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247234"
+	  }
+	]
+  },
+  {
+	"name": "Omnath, Locus of Mana",
+	"id": "omnath-locus-of-mana",
+	"url": "https://api.deckbrew.com/mtg/cards/omnath-locus-of-mana",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=omnath-locus-of-mana",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "Green mana doesn't empty from your mana pool as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Mike Bierek",
+		"multiverse_id": 259295,
+		"flavor": "It gathers against the coming storm.",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=259295",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/259295.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/omnath-locus-of-mana?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/259295"
+	  },
+	  {
+		"set": "Worldwake",
+		"set_id": "WWK",
+		"rarity": "mythic",
+		"artist": "Mike Bierek",
+		"multiverse_id": 197759,
+		"flavor": "It gathers against the coming storm.",
+		"number": "109",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=197759",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/197759.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+		"store_url": "http://store.tcgplayer.com/magic/worldwake/omnath-locus-of-mana?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/197759"
+	  }
+	]
+  },
+  {
+	"name": "Oona, Queen of the Fae",
+	"id": "oona-queen-of-the-fae",
+	"url": "https://api.deckbrew.com/mtg/cards/oona-queen-of-the-fae",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=oona-queen-of-the-fae",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "faerie",
+	  "wizard"
+	],
+	"colors": [
+	  "black",
+	  "blue"
+	],
+	"cmc": 6,
+	"cost": "{3}{U/B}{U/B}{U/B}",
+	"text": "Flying\n{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Adam Rex",
+		"multiverse_id": 244668,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244668",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244668.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/oona-queen-of-the-fae?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244668"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "Adam Rex",
+		"multiverse_id": 370429,
+		"number": "193",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370429",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370429.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/oona-queen-of-the-fae?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370429"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Adam Rex",
+		"multiverse_id": 152063,
+		"number": "172",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=152063",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/152063.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/oona-queen-of-the-fae?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/152063"
+	  }
+	]
+  },
+  {
+	"name": "Progenitus",
+	"id": "progenitus",
+	"url": "https://api.deckbrew.com/mtg/cards/progenitus",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=progenitus",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "avatar",
+	  "hydra"
+	],
+	"colors": [
+	  "black",
+	  "blue",
+	  "green",
+	  "red",
+	  "white"
+	],
+	"cmc": 10,
+	"cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+	"text": "Protection from everything\nIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.",
+	"power": "10",
+	"toughness": "10",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Mike Bierek",
+		"multiverse_id": 244675,
+		"flavor": "The Soul of the World has returned.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244675",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244675.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/progenitus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244675"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "mythic",
+		"artist": "Jaime Jones",
+		"multiverse_id": 370405,
+		"flavor": "The Soul of the World has returned.",
+		"number": "182",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370405",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370405.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/progenitus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370405"
+	  },
+	  {
+		"set": "Conflux",
+		"set_id": "CON",
+		"rarity": "mythic",
+		"artist": "Jaime Jones",
+		"multiverse_id": 179496,
+		"flavor": "The Soul of the World has returned.",
+		"number": "121",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=179496",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/179496.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CON",
+		"store_url": "http://store.tcgplayer.com/magic/conflux/progenitus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/179496"
+	  }
+	]
+  },
+  {
+	"name": "Rafiq of the Many",
+	"id": "rafiq-of-the-many",
+	"url": "https://api.deckbrew.com/mtg/cards/rafiq-of-the-many",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rafiq-of-the-many",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "knight"
+	],
+	"colors": [
+	  "blue",
+	  "green",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{1}{G}{W}{U}",
+	"text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, it gains double strike until end of turn.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 244669,
+		"flavor": "Many sigils, one purpose.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244669",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244669.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/rafiq-of-the-many?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244669"
+	  },
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "mythic",
+		"artist": "Michael Komarck",
+		"multiverse_id": 174948,
+		"flavor": "Many sigils, one purpose.",
+		"number": "185",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=174948",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/174948.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/rafiq-of-the-many?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/174948"
+	  }
+	]
+  },
+  {
+	"name": "Sharuum the Hegemon",
+	"id": "sharuum-the-hegemon",
+	"url": "https://api.deckbrew.com/mtg/cards/sharuum-the-hegemon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sharuum-the-hegemon",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "sphinx"
+	],
+	"colors": [
+	  "black",
+	  "blue",
+	  "white"
+	],
+	"cmc": 6,
+	"cost": "{3}{W}{U}{B}",
+	"text": "Flying\nWhen Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 244664,
+		"flavor": "To gain audience with the hegemon, one must bring a riddle she has not heard.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244664",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244664.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/sharuum-the-hegemon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244664"
+	  },
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "mythic",
+		"artist": "Izzy",
+		"multiverse_id": 175127,
+		"flavor": "To gain audience with the hegemon, one must bring a riddle she has not heard.",
+		"number": "194",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=175127",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/175127.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/sharuum-the-hegemon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/175127"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "mythic",
+		"artist": "Izzy",
+		"multiverse_id": 376497,
+		"flavor": "To gain audience with the hegemon, one must bring a riddle she has not heard.",
+		"number": "212",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376497",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376497.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/sharuum-the-hegemon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376497"
+	  }
+	]
+  },
+  {
+	"name": "Sun Quan, Lord of Wu",
+	"id": "sun-quan-lord-of-wu",
+	"url": "https://api.deckbrew.com/mtg/cards/sun-quan-lord-of-wu",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sun-quan-lord-of-wu",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 6,
+	"cost": "{4}{U}{U}",
+	"text": "Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition III",
+		"set_id": "ME3",
+		"rarity": "rare",
+		"artist": "Xu Xiaoming",
+		"multiverse_id": 201302,
+		"flavor": "\"One score and four he reigned, the Southland king: / A dragon coiled, a tiger poised below the mighty Yangtze.\"",
+		"number": "53",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201302",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201302.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/sun-quan-lord-of-wu?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201302"
+	  },
+	  {
+		"set": "Portal Three Kingdoms",
+		"set_id": "PTK",
+		"rarity": "rare",
+		"artist": "Xu Xiaoming",
+		"multiverse_id": 10513,
+		"flavor": "\"One score and four he reigned, the Southland king: / A dragon coiled, a tiger poised below the mighty Yangtze.\"",
+		"number": "56",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=10513",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/10513.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+		"store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/sun-quan-lord-of-wu?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/10513"
+	  },
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Xu Xiaoming",
+		"multiverse_id": 244663,
+		"flavor": "\"One score and four he reigned, the Southland king: / A dragon coiled, a tiger poised below the mighty Yangtze.\"",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244663",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244663.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/sun-quan-lord-of-wu?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244663"
+	  }
+	]
+  },
+  {
+	"name": "Teferi, Mage of Zhalfir",
+	"id": "teferi-mage-of-zhalfir",
+	"url": "https://api.deckbrew.com/mtg/cards/teferi-mage-of-zhalfir",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=teferi-mage-of-zhalfir",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 5,
+	"cost": "{2}{U}{U}{U}",
+	"text": "Flash (You may cast this spell any time you could cast an instant.)\nCreature cards you own that aren't on the battlefield have flash.\nEach opponent can cast spells only any time he or she could cast a sorcery.",
+	"power": "3",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Volkan Baga",
+		"multiverse_id": 244667,
+		"flavor": "To save this plane, he must forsake all others.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244667",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244667.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/teferi-mage-of-zhalfir?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244667"
+	  },
+	  {
+		"set": "Time Spiral",
+		"set_id": "TSP",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory \u0026 Jeremy Jarvis",
+		"multiverse_id": 121271,
+		"flavor": "To save this plane, he must forsake all others.",
+		"number": "83",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=121271",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/121271.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+		"store_url": "http://store.tcgplayer.com/magic/time-spiral/teferi-mage-of-zhalfir?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/121271"
+	  }
+	]
+  },
+  {
+	"name": "Ulamog, the Infinite Gyre",
+	"id": "ulamog-the-infinite-gyre",
+	"url": "https://api.deckbrew.com/mtg/cards/ulamog-the-infinite-gyre",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ulamog-the-infinite-gyre",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "eldrazi"
+	],
+	"cmc": 11,
+	"cost": "{11}",
+	"text": "When you cast Ulamog, the Infinite Gyre, destroy target permanent.\nIndestructible\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)\nWhen Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.",
+	"power": "10",
+	"toughness": "10",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 261321,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=261321",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/261321.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/ulamog-the-infinite-gyre?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/261321"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 397815,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397815",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397815.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/ulamog-the-infinite-gyre?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397815"
+	  },
+	  {
+		"set": "Rise of the Eldrazi",
+		"set_id": "ROE",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 194911,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194911",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194911.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+		"store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/ulamog-the-infinite-gyre?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194911"
+	  }
+	]
+  },
+  {
+	"name": "Visara the Dreadful",
+	"id": "visara-the-dreadful",
+	"url": "https://api.deckbrew.com/mtg/cards/visara-the-dreadful",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=visara-the-dreadful",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "gorgon"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{3}{B}{B}{B}",
+	"text": "Flying\n{T}: Destroy target creature. It can't be regenerated.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Legends",
+		"set_id": "V11",
+		"rarity": "mythic",
+		"artist": "Brad Rigney",
+		"multiverse_id": 244677,
+		"flavor": "\"My eyes are my strongest feature.\"",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=244677",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/244677.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V11",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/visara-the-dreadful?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/244677"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 383146,
+		"flavor": "\"My eyes are my strongest feature.\"",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383146",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383146.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/visara-the-dreadful?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383146"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 413656,
+		"flavor": "\"My eyes are my strongest feature.\"",
+		"number": "114",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413656",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413656.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/visara-the-dreadful?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413656"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 39863,
+		"flavor": "\"My eyes are my strongest feature.\"",
+		"number": "179",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39863",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39863.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/visara-the-dreadful?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39863"
+	  }
+	]
+  }
+]

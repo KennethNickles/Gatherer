@@ -3,13 +3,11 @@ package com.github.kennethnickles.gatherer.card;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Maps;
 import com.github.kennethnickles.gatherer.util.Preconditions;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
 import com.workday.postman.Postman;
 import com.workday.postman.annotations.Parceled;
@@ -54,7 +52,7 @@ public class Card implements Parcelable {
         return mState.mStoreUrl;
     }
 
-    public Rules getRules() {
+    public List<Rule> getRules() {
         return mState.mRules;
     }
 
@@ -66,7 +64,7 @@ public class Card implements Parcelable {
         return mState.mTypes;
     }
 
-    public List<Subtype> getSubtypes() {
+    public List<String> getSubtypes() {
         return mState.mSubtypes;
     }
 
@@ -74,7 +72,7 @@ public class Card implements Parcelable {
         return mState.mFormats;
     }
 
-    public Symbols getSymbols() {
+    public List<Symbol> getSymbols() {
         return mState.mSymbols;
     }
 
@@ -120,10 +118,10 @@ public class Card implements Parcelable {
         String mStoreUrl;
         ArrayList<Supertype> mSupertypes = Lists.newArrayList();
         ArrayList<Type> mTypes = Lists.newArrayList();
-        ArrayList<Subtype> mSubtypes = Lists.newArrayList();
+        ArrayList<String> mSubtypes = Lists.newArrayList();
         int mConvertedManaCost;
-        Symbols mSymbols;
-        Rules mRules;
+        ArrayList<Symbol> mSymbols = Lists.newArrayList();
+        ArrayList<Rule> mRules = Lists.newArrayList();
         String mPower; // *
         String mToughness; // *
         HashMap<Format, Boolean> mFormats = Maps.newHashMap();
@@ -226,31 +224,14 @@ public class Card implements Parcelable {
         }
 
         @NonNull
-        public B withSubtypes(ArrayList<Subtype> subtypes) {
+        public B withSubtypes(ArrayList<String> subtypes) {
             this.mSubtypes = subtypes;
             return getThis();
         }
 
         @NonNull
-        public B withSubtypes(JsonArray jsonArray) {
-            if (jsonArray == null) {
-                return getThis();
-            }
-            for (JsonElement jsonElement : jsonArray) {
-                withSubtype(jsonElement.getAsString());
-            }
-            return getThis();
-        }
-
-        @NonNull
         public B withSubtype(String type) {
-            this.mSubtypes.add(Subtype.from(type));
-            return getThis();
-        }
-
-        @NonNull
-        public B withSubtype(Subtype subtype) {
-            this.mSubtypes.add(subtype);
+            this.mSubtypes.add(type);
             return getThis();
         }
 
@@ -261,74 +242,20 @@ public class Card implements Parcelable {
         }
 
         @NonNull
-        public B withFormat(@Nullable JsonObject jsonObject) {
-            if (jsonObject == null) {
-                return getThis();
-            }
-            if (jsonObject.has("block")) {
-                withFormat(Format.BLOCK, true);
-            }
-            if (jsonObject.has("standard")) {
-                withFormat(Format.STANDARD, true);
-            }
-            if (jsonObject.has("modern")) {
-                withFormat(Format.MODERN, true);
-            }
-            if (jsonObject.has("commander")) {
-                withFormat(Format.COMMANDER, true);
-            }
-            if (jsonObject.has("legacy")) {
-                withFormat(Format.LEGACY, true);
-            }
-            if (jsonObject.has("vintage")) {
-                withFormat(Format.VINTAGE, true);
-            }
-            if (jsonObject.has("booster_draft")) {
-                withFormat(Format.BOOSTER_DRAFT, true);
-            }
-            if (jsonObject.has("sealed_deck")) {
-                withFormat(Format.SEALED_DECK, true);
-            }
-            if (jsonObject.has("two_headed_giant")) {
-                withFormat(Format.TWO_HEADED_GIANT, true);
-            }
-            if (jsonObject.has("team_unified_construct")) {
-                withFormat(Format.TEAM_UNIFIED_CONSTRUCT, true);
-            }
-            if (jsonObject.has("team_limited")) {
-                withFormat(Format.TEAM_LIMITED, true);
-            }
-            if (jsonObject.has("team_booster_draft")) {
-                withFormat(Format.TEAM_BOOSTER_DRAFT, true);
-            }
-            if (jsonObject.has("team_sealed_draft")) {
-                withFormat(Format.TEAM_SEALED_DRAFT, true);
-            }
+        public B withFormat(String format, String validity) {
+            this.mFormats.put(Format.from(format), "legal".equals(validity));
             return getThis();
         }
 
         @NonNull
-        public B withFormat(String format, boolean isValid) {
-            this.mFormats.put(Format.from(format), isValid);
-            return getThis();
-        }
-
-        @NonNull
-        public B withFormat(Format format, boolean isValid) {
-            this.mFormats.put(format, isValid);
+        public B withFormat(Format format, String validity) {
+            this.mFormats.put(format, "legal".equals(validity));
             return getThis();
         }
 
         @NonNull
         public B withSymbols(ArrayList<Symbol> symbols) {
             this.mSymbols.addAll(symbols);
-            return getThis();
-        }
-
-        @NonNull
-        public B withSymbols(Symbols symbols) {
-            Preconditions.checkArgument(symbols != null, "Symbols");
-            this.mSymbols = symbols;
             return getThis();
         }
 
@@ -350,13 +277,6 @@ public class Card implements Parcelable {
         public B withRules(ArrayList<Rule> rules) {
             Preconditions.checkArgument(rules != null, "Rules");
             this.mRules.addAll(rules);
-            return getThis();
-        }
-
-        @NonNull
-        public B withRules(@NonNull Rules rules) {
-            Preconditions.checkArgument(rules != null, "Rules");
-            this.mRules = rules;
             return getThis();
         }
 

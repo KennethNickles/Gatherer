@@ -1,0 +1,758 @@
+[
+  {
+	"name": "Bull Elephant",
+	"id": "bull-elephant",
+	"url": "https://api.deckbrew.com/mtg/cards/bull-elephant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bull-elephant",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elephant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "Steve White",
+		"multiverse_id": 3658,
+		"flavor": "Four gray trees and a long, coiling snake. What am I?\n—Zhalfirin riddle",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3658",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3658.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/bull-elephant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3658"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Steve White",
+		"multiverse_id": 0,
+		"flavor": "Four gray trees and a long, coiling snake. What am I? —Zhalfirin riddle",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/bull-elephant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Dark Privilege",
+	"id": "dark-privilege",
+	"url": "https://api.deckbrew.com/mtg/cards/dark-privilege",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dark-privilege",
+	"types": [
+	  "enchantment"
+	],
+	"subtypes": [
+	  "aura"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Enchant creature\nEnchanted creature gets +1/+1.\nSacrifice a creature: Regenerate enchanted creature.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "Tom Kyffin",
+		"multiverse_id": 3613,
+		"flavor": "\"As you breathe your last, understand why I accept such forbidden gifts.\"\n—Purraj of Urborg",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3613",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3613.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/dark-privilege?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3613"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Tom Kyffin",
+		"multiverse_id": 0,
+		"flavor": "\"As you breathe your last, understand why I accept such forbidden gifts.\"\n—Purraj of Urborg",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/dark-privilege?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "King Cheetah",
+	"id": "king-cheetah",
+	"url": "https://api.deckbrew.com/mtg/cards/king-cheetah",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=king-cheetah",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "cat"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "Flash",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 3667,
+		"flavor": "If you find yourself and a friend being chased by a King Cheetah, you have but one chance: Trip your friend.\n—Suq'Ata wisdom",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3667",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3667.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/king-cheetah?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3667"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 0,
+		"flavor": "If you find yourself and a friend being chased by a king cheetah, you have but one chance: Trip your friend. —Suq'Ata wisdom",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/king-cheetah?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 83440,
+		"flavor": "If you find yourself and a friend being chased by a king cheetah, you have but one chance: Trip your friend.\n—Suq'Ata wisdom",
+		"number": "250",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83440",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83440.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/king-cheetah?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83440"
+	  }
+	]
+  },
+  {
+	"name": "Necrosavant",
+	"id": "necrosavant",
+	"url": "https://api.deckbrew.com/mtg/cards/necrosavant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=necrosavant",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "giant",
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{3}{B}{B}{B}",
+	"text": "{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "rare",
+		"artist": "John Coulthart",
+		"multiverse_id": 3622,
+		"flavor": "\"Ah, I remember my first death.\"\n—Zarkuu, necrosavant",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3622",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3622.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/necrosavant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3622"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "John Coulthart",
+		"multiverse_id": 15390,
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15390",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15390.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/necrosavant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15390"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "John Coulthart",
+		"multiverse_id": 0,
+		"flavor": "\"Ah, I remember my first death.\"\n—Zarkuu, necrosavant",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/necrosavant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Ovinomancer",
+	"id": "ovinomancer",
+	"url": "https://api.deckbrew.com/mtg/cards/ovinomancer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ovinomancer",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.\n{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.",
+	"power": "0",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 3646,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3646",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3646.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/ovinomancer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3646"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/ovinomancer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 108863,
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108863",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108863.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/ovinomancer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108863"
+	  }
+	]
+  },
+  {
+	"name": "Peace Talks",
+	"id": "peace-talks",
+	"url": "https://api.deckbrew.com/mtg/cards/peace-talks",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=peace-talks",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "uncommon",
+		"artist": "Roger Raupp",
+		"multiverse_id": 3722,
+		"flavor": "\"By the tongues of a thousand serpents, this time I do not lie.\"\n—Ahmahz il Kin, Suq'Ata diplomat",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3722",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3722.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/peace-talks?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3722"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Roger Raupp",
+		"multiverse_id": 0,
+		"flavor": "\"By the tongues of a thousand serpents, this time I do not lie.\"\n—Ahmahz il Kin, Suq'Ata diplomat",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/peace-talks?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Urborg Mindsucker",
+	"id": "urborg-mindsucker",
+	"url": "https://api.deckbrew.com/mtg/cards/urborg-mindsucker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=urborg-mindsucker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "horror"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{2}{B}",
+	"text": "{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "Tony Diterlizzi",
+		"multiverse_id": 3628,
+		"flavor": "\"My pet will pick the ripe fruit from your tortured brain as if it were hanging from a vine.\"\n—Kaervek",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3628",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3628.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/urborg-mindsucker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3628"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Tony Diterlizzi",
+		"multiverse_id": 0,
+		"flavor": "\"My pet will pick the ripe fruit from your tortured brain as if it were hanging from a vine.\"\n—Kaervek",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/urborg-mindsucker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Vampirism",
+	"id": "vampirism",
+	"url": "https://api.deckbrew.com/mtg/cards/vampirism",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=vampirism",
+	"types": [
+	  "enchantment"
+	],
+	"subtypes": [
+	  "aura"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Enchant creature\nWhen Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.\nEnchanted creature gets +1/+1 for each other creature you control.\nOther creatures you control get -1/-1.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "uncommon",
+		"artist": "Gary Leach",
+		"multiverse_id": 3630,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3630",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3630.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/vampirism?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3630"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Gary Leach",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/vampirism?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Viashino Sandstalker",
+	"id": "viashino-sandstalker",
+	"url": "https://api.deckbrew.com/mtg/cards/viashino-sandstalker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=viashino-sandstalker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "viashino",
+	  "warrior"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{1}{R}{R}",
+	"text": "Haste (This creature can attack the turn it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)",
+	"power": "4",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "uncommon",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 3707,
+		"flavor": "\"Some believe Sandstalkers to be illusions; those with scars know better.\"\n—Zhalfirin Guide to the Desert",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3707",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3707.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/viashino-sandstalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3707"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 0,
+		"flavor": "\"Some believe sandstalkers to be illusions; those with scars know better.\"\n—Zhalfirin Guide to the Desert",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/viashino-sandstalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "uncommon",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 83323,
+		"flavor": "\"Some believe sandstalkers to be illusions; those with scars know better.\"\n—Zhalfirin Guide to the Desert",
+		"number": "225",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83323",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83323.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/viashino-sandstalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83323"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "uncommon",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 45365,
+		"flavor": "\"Some believe sandstalkers to be illusions; those with scars know better.\"\n—Zhalfirin Guide to the Desert",
+		"number": "230",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45365",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45365.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/viashino-sandstalker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45365"
+	  }
+	]
+  },
+  {
+	"name": "Wicked Reward",
+	"id": "wicked-reward",
+	"url": "https://api.deckbrew.com/mtg/cards/wicked-reward",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wicked-reward",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 3632,
+		"flavor": "\"The blood on my hands is merely proof of my ambition.\"\n—Kaervek",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3632",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3632.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/wicked-reward?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3632"
+	  },
+	  {
+		"set": "Multiverse Gift Box",
+		"set_id": "MGB",
+		"rarity": "special",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 0,
+		"flavor": "\"The blood on my hands is merely proof of my ambition.\"\n—Kaervek",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MGB",
+		"store_url": "http://store.tcgplayer.com/magic/multiverse-gift-box/wicked-reward?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  }
+]

@@ -1,0 +1,2028 @@
+[
+  {
+	"name": "Balance",
+	"id": "balance",
+	"url": "https://api.deckbrew.com/mtg/cards/balance",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=balance",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 202501,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202501",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202501.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202501"
+	  },
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Randy Gallegos",
+		"multiverse_id": 194966,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194966",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194966.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194966"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 529,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=529",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/529.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/529"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 1329,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1329",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1329.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1329"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "mythic",
+		"artist": "Kev Walker",
+		"multiverse_id": 382853,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382853",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382853.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382853"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "mythic",
+		"artist": "Kev Walker",
+		"multiverse_id": 413544,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413544",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413544.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413544"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 234,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=234",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/234.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/234"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 831,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=831",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/831.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/831"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Mark Poole",
+		"multiverse_id": 2321,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2321",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2321.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/balance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2321"
+	  }
+	]
+  },
+  {
+	"name": "Berserk",
+	"id": "berserk",
+	"url": "https://api.deckbrew.com/mtg/cards/berserk",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=berserk",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "Cast Berserk only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Steve Prescott",
+		"multiverse_id": 194969,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194969",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194969.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194969"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Dan Frazier",
+		"multiverse_id": 436,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=436",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/436.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/436"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Dan Frazier",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Steve Prescott",
+		"multiverse_id": 382865,
+		"number": "197",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382865",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382865.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382865"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Dan Frazier",
+		"multiverse_id": 141,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=141",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/141.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/141"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Dan Frazier",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Dan Frazier",
+		"multiverse_id": 738,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=738",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/738.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/738"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "rare",
+		"artist": "Dan Frazier",
+		"multiverse_id": 159254,
+		"number": "114",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159254",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159254.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/berserk?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159254"
+	  }
+	]
+  },
+  {
+	"name": "Channel",
+	"id": "channel",
+	"url": "https://api.deckbrew.com/mtg/cards/channel",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=channel",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{G}",
+	"text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C} to your mana pool.",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Richard Thomas",
+		"multiverse_id": 202596,
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202596",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202596.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202596"
+	  },
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 194967,
+		"flavor": "To some mages, the meaning of life is less important than how much is left.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194967",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194967.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194967"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 439,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=439",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/439.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/439"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 1237,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1237",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1237.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1237"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "mythic",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 382882,
+		"number": "200",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382882",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382882.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382882"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 144,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=144",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/144.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/144"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 741,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=741",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/741.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/741"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Richard Thomas",
+		"multiverse_id": 2203,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2203",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2203.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/channel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2203"
+	  }
+	]
+  },
+  {
+	"name": "Gifts Ungiven",
+	"id": "gifts-ungiven",
+	"url": "https://api.deckbrew.com/mtg/cards/gifts-ungiven",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=gifts-ungiven",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{3}{U}",
+	"text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 194971,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194971",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194971.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/gifts-ungiven?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194971"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 370368,
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370368",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370368.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/gifts-ungiven?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370368"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 79090,
+		"number": "62",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=79090",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/79090.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/gifts-ungiven?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/79090"
+	  }
+	]
+  },
+  {
+	"name": "Goblin Lackey",
+	"id": "goblin-lackey",
+	"url": "https://api.deckbrew.com/mtg/cards/goblin-lackey",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=goblin-lackey",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 1,
+	"cost": "{R}",
+	"text": "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 194973,
+		"flavor": "At the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194973",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194973.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/goblin-lackey?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194973"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "uncommon",
+		"artist": "Jerry Tiritilli",
+		"multiverse_id": 9851,
+		"flavor": "All bark, someone else's bite.",
+		"number": "190",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=9851",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/9851.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/goblin-lackey?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/9851"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 382959,
+		"flavor": "At the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet.",
+		"number": "167",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382959",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382959.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/goblin-lackey?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382959"
+	  }
+	]
+  },
+  {
+	"name": "Kird Ape",
+	"id": "kird-ape",
+	"url": "https://api.deckbrew.com/mtg/cards/kird-ape",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kird-ape",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "ape"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 1,
+	"cost": "{R}",
+	"text": "Kird Ape gets +1/+2 as long as you control a Forest.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 194974,
+		"flavor": "Apes can be gentle, contemplative beasts—but context is everything.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194974",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194974.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194974"
+	  },
+	  {
+		"set": "Duel Decks: Ajani vs. Nicol Bolas",
+		"set_id": "DDH",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 249382,
+		"flavor": "Apes can be gentle, contemplative beasts—but context is everything.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=249382",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/249382.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/249382"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "common",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 1302,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1302",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1302.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1302"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 26605,
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26605",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26605.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26605"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "common",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 962,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=962",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/962.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/962"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 0,
+		"flavor": "It puts the \"fur\" in \"fury.\"",
+		"number": "64",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "common",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 413679,
+		"flavor": "It puts the \"fur\" in \"fury.\"",
+		"number": "137",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413679",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413679.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413679"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 83346,
+		"flavor": "It puts the \"fur\" in \"fury.\"",
+		"number": "199",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83346",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83346.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/kird-ape?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83346"
+	  }
+	]
+  },
+  {
+	"name": "Lotus Petal",
+	"id": "lotus-petal",
+	"url": "https://api.deckbrew.com/mtg/cards/lotus-petal",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lotus-petal",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 0,
+	"cost": "{0}",
+	"text": "{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "April Lee",
+		"multiverse_id": 194975,
+		"flavor": "\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\"",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194975",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194975.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/lotus-petal?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194975"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "April Lee",
+		"multiverse_id": 4614,
+		"flavor": "\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4614",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4614.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/lotus-petal?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4614"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "uncommon",
+		"artist": "April Lee",
+		"multiverse_id": 397468,
+		"flavor": "\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\"",
+		"number": "225",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397468",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397468.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/lotus-petal?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397468"
+	  }
+	]
+  },
+  {
+	"name": "Mystical Tutor",
+	"id": "mystical-tutor",
+	"url": "https://api.deckbrew.com/mtg/cards/mystical-tutor",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mystical-tutor",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 1,
+	"cost": "{U}",
+	"text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "David O'Connor",
+		"multiverse_id": 194976,
+		"flavor": "The student searches the world for meaning. The master finds worlds of meaning in the search.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194976",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194976.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/mystical-tutor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194976"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "uncommon",
+		"artist": "David O'Connor",
+		"multiverse_id": 15367,
+		"flavor": "\"To the tutors, a ‘poem of sand' was of little account, a ‘poem of ivory,' priceless.\"\n—Afari, Tales",
+		"number": "83",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15367",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15367.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/mystical-tutor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15367"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Lindsey Look",
+		"multiverse_id": 413604,
+		"flavor": "The student searches the world for meaning. The master finds worlds of meaning in the search.",
+		"number": "62",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413604",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413604.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/mystical-tutor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413604"
+	  },
+	  {
+		"set": "Mirage",
+		"set_id": "MIR",
+		"rarity": "uncommon",
+		"artist": "David O'Connor",
+		"multiverse_id": 3351,
+		"flavor": "\"To the tutors, a ‘poem of sand' was of little account, a ‘poem of ivory,' priceless.\"\n—Afari, Tales",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3351",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3351.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+		"store_url": "http://store.tcgplayer.com/magic/mirage/mystical-tutor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3351"
+	  }
+	]
+  },
+  {
+	"name": "Necropotence",
+	"id": "necropotence",
+	"url": "https://api.deckbrew.com/mtg/cards/necropotence",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=necropotence",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{B}{B}{B}",
+	"text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Dave Kendall",
+		"multiverse_id": 194977,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194977",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194977.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194977"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 184651,
+		"number": "107",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184651",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184651.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184651"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 0,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Dave Kendall",
+		"multiverse_id": 383028,
+		"number": "130",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383028",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383028.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383028"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "mythic",
+		"artist": "Dave Kendall",
+		"multiverse_id": 413640,
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413640",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413640.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413640"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 2478,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2478",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2478.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2478"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Mark Tedin",
+		"multiverse_id": 3865,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3865",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3865.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/necropotence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3865"
+	  }
+	]
+  },
+  {
+	"name": "Sensei's Divining Top",
+	"id": "senseis-divining-top",
+	"url": "https://api.deckbrew.com/mtg/cards/senseis-divining-top",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=senseis-divining-top",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 1,
+	"cost": "{1}",
+	"text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Michael Sutfin",
+		"multiverse_id": 194972,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194972",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194972.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/senseis-divining-top?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194972"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "uncommon",
+		"artist": "Michael Sutfin",
+		"multiverse_id": 50400,
+		"number": "268",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=50400",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/50400.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/senseis-divining-top?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/50400"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 413774,
+		"number": "232",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413774",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413774.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/senseis-divining-top?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413774"
+	  }
+	]
+  },
+  {
+	"name": "Serendib Efreet",
+	"id": "serendib-efreet",
+	"url": "https://api.deckbrew.com/mtg/cards/serendib-efreet",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=serendib-efreet",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "efreet"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "Flying\nAt the beginning of your upkeep, Serendib Efreet deals 1 damage to you.",
+	"power": "3",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Matt Stewart",
+		"multiverse_id": 194970,
+		"flavor": "Summoners of efreeti remember only the power of command, never the sting of regret.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194970",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194970.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194970"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Jesper Myrfors",
+		"multiverse_id": 1221,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1221",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1221.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1221"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "rare",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 939,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=939",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/939.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/939"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "uncommon",
+		"artist": "Matt Stewart",
+		"multiverse_id": 383088,
+		"flavor": "Summoners of efreeti remember only the power of command, never the sting of regret.",
+		"number": "93",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383088"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Matt Stewart",
+		"multiverse_id": 413612,
+		"flavor": "Summoners of efreeti remember only the power of command, never the sting of regret.",
+		"number": "70",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413612",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413612.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413612"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "rare",
+		"artist": "Anson Maddocks",
+		"multiverse_id": 159137,
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159137",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159137.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/serendib-efreet?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159137"
+	  }
+	]
+  },
+  {
+	"name": "Skullclamp",
+	"id": "skullclamp",
+	"url": "https://api.deckbrew.com/mtg/cards/skullclamp",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=skullclamp",
+	"types": [
+	  "artifact"
+	],
+	"subtypes": [
+	  "equipment"
+	],
+	"cmc": 1,
+	"cost": "{1}",
+	"text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "banned",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 405383,
+		"flavor": "The mind is a beautiful bounty encased in an annoying bone container.",
+		"number": "267",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405383",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405383.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405383"
+	  },
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Luca Zontini",
+		"multiverse_id": 194978,
+		"flavor": "The mind is a beautiful bounty encased in an annoying bone container.",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194978",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194978.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194978"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Luca Zontini",
+		"multiverse_id": 247201,
+		"flavor": "The mind is a beautiful bounty encased in an annoying bone container.",
+		"number": "260",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247201",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247201.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247201"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "mythic",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 383097,
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383097",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383097.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383097"
+	  },
+	  {
+		"set": "Darksteel",
+		"set_id": "DST",
+		"rarity": "uncommon",
+		"artist": "Luca Zontini",
+		"multiverse_id": 48197,
+		"number": "140",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=48197",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/48197.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DST",
+		"store_url": "http://store.tcgplayer.com/magic/darksteel/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/48197"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 389676,
+		"flavor": "The mind is a beautiful bounty encased in an annoying bone container.",
+		"number": "268",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389676",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389676.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/skullclamp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389676"
+	  }
+	]
+  },
+  {
+	"name": "Strip Mine",
+	"id": "strip-mine",
+	"url": "https://api.deckbrew.com/mtg/cards/strip-mine",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=strip-mine",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 202433,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "252",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202433",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202433.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202433"
+	  },
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "John Avon",
+		"multiverse_id": 194968,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194968",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194968.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194968"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 0,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1076,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1076",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1076.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(even-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1076"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1077,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1077",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1077.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(uneven-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1077"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1078,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1078",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1078.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(no-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1078"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "uncommon",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1079,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1079",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1079.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(tower)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1079"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 383113,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.",
+		"number": "316",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383113",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383113.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383113"
+	  },
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Howard Lyon",
+		"multiverse_id": 409574,
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409574",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409574.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409574"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 2380,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2380",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2380.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2380"
+	  }
+	]
+  },
+  {
+	"name": "Tinker",
+	"id": "tinker",
+	"url": "https://api.deckbrew.com/mtg/cards/tinker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tinker",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "As an additional cost to cast Tinker, sacrifice an artifact.\nSearch your library for an artifact card and put that card onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Chris Rahn",
+		"multiverse_id": 194980,
+		"flavor": "\"What separates us from mere beasts is the capacity for self-improvement.\"",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194980",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194980.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/tinker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194980"
+	  },
+	  {
+		"set": "Urza's Legacy",
+		"set_id": "ULG",
+		"rarity": "uncommon",
+		"artist": "Mike Raabe",
+		"multiverse_id": 12383,
+		"flavor": "\"I wonder how it feels to be bored.\"\n—Jhoira, artificer",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12383",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12383.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-legacy/tinker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12383"
+	  }
+	]
+  },
+  {
+	"name": "Trinisphere",
+	"id": "trinisphere",
+	"url": "https://api.deckbrew.com/mtg/cards/trinisphere",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=trinisphere",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 3,
+	"cost": "{3}",
+	"text": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "Tim Hildebrandt",
+		"multiverse_id": 194979,
+		"flavor": "Designed to restrain petty thoughts, but used to repress entire empires.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194979",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194979.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/trinisphere?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194979"
+	  },
+	  {
+		"set": "Darksteel",
+		"set_id": "DST",
+		"rarity": "rare",
+		"artist": "Tim Hildebrandt",
+		"multiverse_id": 43545,
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=43545",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/43545.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DST",
+		"store_url": "http://store.tcgplayer.com/magic/darksteel/trinisphere?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/43545"
+	  }
+	]
+  }
+]

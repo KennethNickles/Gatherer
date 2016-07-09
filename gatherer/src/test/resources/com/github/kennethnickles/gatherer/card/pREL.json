@@ -1,0 +1,1741 @@
+[
+  {
+	"name": "Ass Whuppin'",
+	"id": "ass-whuppin",
+	"url": "https://api.deckbrew.com/mtg/cards/ass-whuppin",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ass-whuppin",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black",
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{B}",
+	"text": "Destroy target silver-bordered permanent in any game you can see from your seat.",
+	"formats": {},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Don Hazeltine",
+		"multiverse_id": 0,
+		"flavor": "Asses to ashes,\nDonkeys to dust.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/ass-whuppin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unhinged",
+		"set_id": "UNH",
+		"rarity": "rare",
+		"artist": "Don Hazeltine",
+		"multiverse_id": 74329,
+		"flavor": "Asses to ashes,\nDonkeys to dust.",
+		"number": "117",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=74329",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/74329.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/UNH",
+		"store_url": "http://store.tcgplayer.com/magic/unhinged/ass-whuppin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/74329"
+	  }
+	]
+  },
+  {
+	"name": "Azorius Guildmage",
+	"id": "azorius-guildmage",
+	"url": "https://api.deckbrew.com/mtg/cards/azorius-guildmage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=azorius-guildmage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "vedalken",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{W/U}{W/U}",
+	"text": "{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 247190,
+		"number": "183",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247190",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247190.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/azorius-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247190"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 0,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/azorius-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dissension",
+		"set_id": "DIS",
+		"watermark": "Azorius",
+		"rarity": "uncommon",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 97077,
+		"number": "141",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=97077",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/97077.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+		"store_url": "http://store.tcgplayer.com/magic/dissension/azorius-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/97077"
+	  }
+	]
+  },
+  {
+	"name": "Budoka Pupil",
+	"id": "budoka-pupil",
+	"url": "https://api.deckbrew.com/mtg/cards/budoka-pupil",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=budoka-pupil",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "monk"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{G}{G}",
+	"text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.\nAt the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Shishizaru",
+		"multiverse_id": 0,
+		"number": "3a",
+		"layout": "flip",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/budoka-pupil?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Betrayers of Kamigawa",
+		"set_id": "BOK",
+		"rarity": "uncommon",
+		"artist": "Shishizaru",
+		"multiverse_id": 74536,
+		"number": "122a",
+		"layout": "flip",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=74536",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/74536.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+		"store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/budoka-pupil?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/74536"
+	  }
+	]
+  },
+  {
+	"name": "Dimir Guildmage",
+	"id": "dimir-guildmage",
+	"url": "https://api.deckbrew.com/mtg/cards/dimir-guildmage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dimir-guildmage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "black",
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{U/B}{U/B}",
+	"text": "({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.\n{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"watermark": "Dimir",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 87990,
+		"number": "245",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=87990",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/87990.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/dimir-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/87990"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Adam Rex",
+		"multiverse_id": 0,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/dimir-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "uncommon",
+		"artist": "Adam Rex",
+		"multiverse_id": 397704,
+		"number": "192",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397704",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397704.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/dimir-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397704"
+	  }
+	]
+  },
+  {
+	"name": "Force of Nature",
+	"id": "force-of-nature",
+	"url": "https://api.deckbrew.com/mtg/cards/force-of-nature",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=force-of-nature",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 6,
+	"cost": "{2}{G}{G}{G}{G}",
+	"text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+	"power": "8",
+	"toughness": "8",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 233304,
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=233304",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/233304.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/233304"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 445,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=445",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/445.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/445"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 1245,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1245",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1245.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1245"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 26609,
+		"number": "56",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26609",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26609.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26609"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 83977,
+		"number": "242",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83977",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83977.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83977"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 150,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=150",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/150.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/150"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 747,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=747",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/747.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/747"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 2212,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2212",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2212.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2212"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Pete Venters",
+		"multiverse_id": 3977,
+		"flavor": "\"It blinked, and flower petals fell like tears. Harthar, sensing weakness, attacked—and his blood fell like petals.\"\n—Shesul Fass, faerie bard",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3977",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3977.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/force-of-nature?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3977"
+	  }
+	]
+  },
+  {
+	"name": "Ghost-Lit Raider",
+	"id": "ghost-lit-raider",
+	"url": "https://api.deckbrew.com/mtg/cards/ghost-lit-raider",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ghost-lit-raider",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "spirit"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{2}{R}",
+	"text": "{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel — {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Ittoku",
+		"multiverse_id": 0,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/ghost-lit-raider?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Saviors of Kamigawa",
+		"set_id": "SOK",
+		"rarity": "uncommon",
+		"artist": "Ittoku",
+		"multiverse_id": 87341,
+		"number": "99",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=87341",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/87341.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOK",
+		"store_url": "http://store.tcgplayer.com/magic/saviors-of-kamigawa/ghost-lit-raider?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/87341"
+	  }
+	]
+  },
+  {
+	"name": "Gruul Guildmage",
+	"id": "gruul-guildmage",
+	"url": "https://api.deckbrew.com/mtg/cards/gruul-guildmage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=gruul-guildmage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "shaman"
+	],
+	"colors": [
+	  "green",
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{R/G}{R/G}",
+	"text": "({R/G} can be paid with either {R} or {G}.)\n{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.\n{3}{G}: Target creature gets +2/+2 until end of turn.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Guildpact",
+		"set_id": "GPT",
+		"watermark": "Gruul",
+		"rarity": "uncommon",
+		"artist": "Paolo Parente",
+		"multiverse_id": 96837,
+		"number": "144",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=96837",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/96837.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+		"store_url": "http://store.tcgplayer.com/magic/guildpact/gruul-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/96837"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Paolo Parente",
+		"multiverse_id": 0,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/gruul-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Hedge Troll",
+	"id": "hedge-troll",
+	"url": "https://api.deckbrew.com/mtg/cards/hedge-troll",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hedge-troll",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "cleric",
+	  "troll"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planar Chaos",
+		"set_id": "PLC",
+		"rarity": "uncommon",
+		"artist": "Paolo Parente",
+		"multiverse_id": 122405,
+		"flavor": "His abode was clean and bare, not a morsel in sight. I asked him what he ate, fearing the answer. He smiled and said his faith alone sustained him.",
+		"number": "151",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=122405",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/122405.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/hedge-troll?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/122405"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Paolo Parente",
+		"multiverse_id": 0,
+		"flavor": "His abode was clean and bare, not a morsel in sight. I asked him what he ate, fearing the answer. He smiled and said his faith alone sustained him.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/hedge-troll?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Ichiga, Who Topples Oaks",
+	"id": "ichiga-who-topples-oaks",
+	"url": "https://api.deckbrew.com/mtg/cards/ichiga-who-topples-oaks",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ichiga-who-topples-oaks",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "spirit"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{G}{G}",
+	"text": "Trample\nRemove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.",
+	"power": "4",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Shishizaru",
+		"multiverse_id": 0,
+		"number": "3b",
+		"layout": "flip",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/ichiga-who-topples-oaks?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Betrayers of Kamigawa",
+		"set_id": "BOK",
+		"rarity": "uncommon",
+		"artist": "Shishizaru",
+		"multiverse_id": 74536,
+		"number": "122b",
+		"layout": "flip",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=74536",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/74536.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+		"store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ichiga-who-topples-oaks?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/74536"
+	  }
+	]
+  },
+  {
+	"name": "Rukh Egg",
+	"id": "rukh-egg",
+	"url": "https://api.deckbrew.com/mtg/cards/rukh-egg",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rukh-egg",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "bird"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{3}{R}",
+	"text": "When Rukh Egg dies, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.",
+	"power": "0",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Mark Zug",
+		"multiverse_id": 0,
+		"flavor": "Called \"stonefeathers\" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/rukh-egg?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 965,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=965",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/965.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/rukh-egg?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/965"
+	  },
+	  {
+		"set": "Arabian Nights",
+		"set_id": "ARN",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 966,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=966",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/966.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARN",
+		"store_url": "http://store.tcgplayer.com/magic/arabian-nights/rukh-egg?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/966"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 83236,
+		"flavor": "Called \"stonefeathers\" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.",
+		"number": "214",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83236",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83236.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/rukh-egg?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83236"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 45390,
+		"flavor": "Called \"stonefeathers\" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.",
+		"number": "216",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45390",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45390.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/rukh-egg?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45390"
+	  }
+	]
+  },
+  {
+	"name": "Shivan Dragon",
+	"id": "shivan-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/shivan-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shivan-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{R}{R}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 228264,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=228264",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/228264.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/228264"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 413379,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413379",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413379.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413379"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 517,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=517",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/517.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/517"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 370825,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370825",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370825.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370825"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1318,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1318",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1318.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1318"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 191320,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191320",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191320.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191320"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "53",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 26622,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26622",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26622.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26622"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 401464,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "285",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401464"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 25688,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "218",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25688"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 129730,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "230",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129730",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129730.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129730"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 83259,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83259",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83259.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83259"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Justin Sweet",
+		"multiverse_id": 178025,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178025",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178025.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178025"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 45388,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45388",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45388.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45388"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 222,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=222",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/222.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/222"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 819,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=819",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/819.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/819"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 2303,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2303",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2303.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2303"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 4088,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4088"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 383172,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383172",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383172.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383172"
+	  }
+	]
+  },
+  {
+	"name": "Shriekmaw",
+	"id": "shriekmaw",
+	"url": "https://api.deckbrew.com/mtg/cards/shriekmaw",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shriekmaw",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 5,
+	"cost": "{4}{B}",
+	"text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhen Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.\nEvoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 405376,
+		"number": "137",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405376",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405376.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405376"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 247305,
+		"number": "100",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247305",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247305.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247305"
+	  },
+	  {
+		"set": "Duel Decks: Ajani vs. Nicol Bolas",
+		"set_id": "DDH",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 259272,
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=259272",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/259272.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/259272"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Steve Prescott",
+		"multiverse_id": 0,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Lorwyn",
+		"set_id": "LRW",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 146175,
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146175",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146175.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+		"store_url": "http://store.tcgplayer.com/magic/lorwyn/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146175"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 220572,
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220572",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220572.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220572"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Steve Prescott",
+		"multiverse_id": 389669,
+		"number": "160",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389669",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389669.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/shriekmaw?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389669"
+	  }
+	]
+  },
+  {
+	"name": "Storm Entity",
+	"id": "storm-entity",
+	"url": "https://api.deckbrew.com/mtg/cards/storm-entity",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=storm-entity",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elemental"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Haste\nStorm Entity enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "uncommon",
+		"artist": "Lucio Parrillo",
+		"multiverse_id": 130675,
+		"flavor": "Dweldian magi don't enter the Realm of Thrones when they die. Instead their souls are drawn to great works of magic.",
+		"number": "122",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130675",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130675.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/storm-entity?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130675"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Lucio Parrillo",
+		"multiverse_id": 0,
+		"flavor": "Dweldian magi don't enter the Realm of Thrones when they die. Instead their souls are drawn to great works of magic.",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/storm-entity?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Sudden Shock",
+	"id": "sudden-shock",
+	"url": "https://api.deckbrew.com/mtg/cards/sudden-shock",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sudden-shock",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to target creature or player.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 0,
+		"flavor": "Arc mages aren't known for their patience.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/sudden-shock?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "uncommon",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 370388,
+		"flavor": "Arc mages aren't known for their patience.",
+		"number": "133",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370388",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370388.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/sudden-shock?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370388"
+	  },
+	  {
+		"set": "Time Spiral",
+		"set_id": "TSP",
+		"rarity": "uncommon",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 114911,
+		"flavor": "Arc mages aren't known for their patience.",
+		"number": "179",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=114911",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/114911.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+		"store_url": "http://store.tcgplayer.com/magic/time-spiral/sudden-shock?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/114911"
+	  }
+	]
+  }
+]

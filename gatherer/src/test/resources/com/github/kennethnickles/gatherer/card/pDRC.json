@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Nalathni Dragon",
+    "id": "nalathni-dragon",
+    "url": "https://api.deckbrew.com/mtg/cards/nalathni-dragon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=nalathni-dragon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "dragon"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{2}{R}{R}",
+    "text": "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dragon Con",
+        "set_id": "pDRC",
+        "rarity": "special",
+        "artist": "Michael Whelan",
+        "multiverse_id": 97050,
+        "flavor": "These small but intelligent Dragons and their Olesian allies held back the tide of Pashalik Mons's hordes of Goblin Raiders.\nDragonCon 1994",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97050",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97050.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pDRC",
+        "store_url": "http://store.tcgplayer.com/magic/dragon-con/nalathni-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97050"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Michael Whelan",
+        "multiverse_id": 97050,
+        "flavor": "These small but intelligent Dragons and their Olesian allies held back the tide of Pashalik Mons's hordes of Goblin Raiders.\nDragonCon 1994",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97050",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97050.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/nalathni-dragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97050"
+      }
+    ]
+  }
+]

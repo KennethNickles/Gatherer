@@ -1,0 +1,165 @@
+[
+  {
+	"name": "Underworld Dreams",
+	"id": "underworld-dreams",
+	"url": "https://api.deckbrew.com/mtg/cards/underworld-dreams",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=underworld-dreams",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{B}{B}{B}",
+	"text": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 191343,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "115",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191343",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191343.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191343"
+	  },
+	  {
+		"set": "Two-Headed Giant Tournament",
+		"set_id": "p2HG",
+		"rarity": "special",
+		"artist": "Julie Baroh",
+		"multiverse_id": 0,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/p2HG",
+		"store_url": "http://store.tcgplayer.com/magic/two-headed-giant-tournament/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 0,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "35",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 129779,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "184",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129779",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129779.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129779"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 83309,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "167",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83309",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83309.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83309"
+	  },
+	  {
+		"set": "Legends",
+		"set_id": "LEG",
+		"rarity": "uncommon",
+		"artist": "Julie Baroh",
+		"multiverse_id": 1464,
+		"flavor": "\"In the drowsy dark cave of the mind dreams build their nest with fragments dropped from day's caravan.\" —Rabindranath Tagore",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+		"store_url": "http://store.tcgplayer.com/magic/legends/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1464"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 45334,
+		"flavor": "\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\n—Rabindranath Tagore",
+		"number": "168",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45334",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45334.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/underworld-dreams?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45334"
+	  }
+	]
+  }
+]

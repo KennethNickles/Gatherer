@@ -1,0 +1,1927 @@
+[
+  {
+	"name": "Ainok Tracker",
+	"id": "ainok-tracker",
+	"url": "https://api.deckbrew.com/mtg/cards/ainok-tracker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ainok-tracker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "hound",
+	  "scout"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{5}{R}",
+	"text": "First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Evan Shipard",
+		"multiverse_id": 394065,
+		"flavor": "\"The ainok are wild dogs, not fit to join us around the fire.\"\n—Surrak, the Hunt Caller",
+		"number": "96",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394065",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394065.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ainok-tracker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394065"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Temur",
+		"rarity": "common",
+		"artist": "Evan Shipard",
+		"multiverse_id": 386472,
+		"flavor": "Some ainok of the mountains are accepted among the Temur as trusted hunt-mates.",
+		"number": "96",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386472",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386472.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/ainok-tracker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386472"
+	  }
+	]
+  },
+  {
+	"name": "Altar of the Brood",
+	"id": "altar-of-the-brood",
+	"url": "https://api.deckbrew.com/mtg/cards/altar-of-the-brood",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=altar-of-the-brood",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 1,
+	"cost": "{1}",
+	"text": "Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Erica Yang",
+		"multiverse_id": 394066,
+		"flavor": "Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.",
+		"number": "216",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394066",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394066.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/altar-of-the-brood?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394066"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Erica Yang",
+		"multiverse_id": 386475,
+		"flavor": "Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.",
+		"number": "216",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386475",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386475.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/altar-of-the-brood?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386475"
+	  }
+	]
+  },
+  {
+	"name": "Arashin War Beast",
+	"id": "arashin-war-beast",
+	"url": "https://api.deckbrew.com/mtg/cards/arashin-war-beast",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arashin-war-beast",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "beast"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 7,
+	"cost": "{5}{G}{G}",
+	"text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"watermark": "Abzan",
+		"rarity": "uncommon",
+		"artist": "Eric Deschamps",
+		"multiverse_id": 391792,
+		"number": "123",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391792",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391792.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/arashin-war-beast?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391792"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"watermark": "Temur",
+		"rarity": "uncommon",
+		"artist": "Eric Deschamps",
+		"multiverse_id": 394067,
+		"number": "123",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394067",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394067.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/arashin-war-beast?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394067"
+	  }
+	]
+  },
+  {
+	"name": "Arc Lightning",
+	"id": "arc-lightning",
+	"url": "https://api.deckbrew.com/mtg/cards/arc-lightning",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arc-lightning",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{2}{R}",
+	"text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "common",
+		"artist": "Andrew Goldhawk",
+		"multiverse_id": 205386,
+		"flavor": "Rainclouds don't last long in Shiv, but that doesn't stop the lightning.",
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205386",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205386.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205386"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 394068,
+		"flavor": "Lightning burns the dragon's path.",
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394068",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394068.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394068"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "common",
+		"artist": "Andrew Goldhawk",
+		"multiverse_id": 5733,
+		"flavor": "Rainclouds don't last long in Shiv, but that doesn't stop the lightning.",
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5733",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5733.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5733"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "uncommon",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 386478,
+		"flavor": "Lightning burns its own path.",
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386478",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386478.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386478"
+	  },
+	  {
+		"set": "Arena League",
+		"set_id": "pARL",
+		"rarity": "special",
+		"artist": "Andrew Goldhawk",
+		"multiverse_id": 0,
+		"flavor": "\"It is vain to look for a defense against lightning.\"\n—Publius Syrus, Maxim 835, trans. Lyman",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pARL",
+		"store_url": "http://store.tcgplayer.com/magic/arena-league/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "Andrew Goldhawk",
+		"multiverse_id": 21102,
+		"flavor": "Rainclouds don't last long in Shiv, but that doesn't stop the lightning.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/arc-lightning?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21102"
+	  }
+	]
+  },
+  {
+	"name": "Briber's Purse",
+	"id": "bribers-purse",
+	"url": "https://api.deckbrew.com/mtg/cards/bribers-purse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bribers-purse",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 0,
+	"cost": "{X}",
+	"text": "Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Steve Argyle",
+		"multiverse_id": 394069,
+		"flavor": "The bigger the hand, the higher the price.",
+		"number": "217",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394069",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394069.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/bribers-purse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394069"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "uncommon",
+		"artist": "Steve Argyle",
+		"multiverse_id": 386498,
+		"flavor": "Victory is certain. The price, negotiable.",
+		"number": "217",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386498",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386498.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bribers-purse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386498"
+	  }
+	]
+  },
+  {
+	"name": "Debilitating Injury",
+	"id": "debilitating-injury",
+	"url": "https://api.deckbrew.com/mtg/cards/debilitating-injury",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=debilitating-injury",
+	"types": [
+	  "enchantment"
+	],
+	"subtypes": [
+	  "aura"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Enchant creature\nEnchanted creature gets -2/-2.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Slawomir Maniak",
+		"multiverse_id": 394070,
+		"flavor": "Weakness exists within all who are not dragons.",
+		"number": "68",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394070",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394070.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/debilitating-injury?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394070"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "common",
+		"artist": "Slawomir Maniak",
+		"multiverse_id": 386514,
+		"flavor": "\"If weakness does not exist within the Temur then we shall force it upon them.\"\n—Sidisi, khan of the Sultai",
+		"number": "68",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386514",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386514.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/debilitating-injury?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386514"
+	  }
+	]
+  },
+  {
+	"name": "Dragonscale Boon",
+	"id": "dragonscale-boon",
+	"url": "https://api.deckbrew.com/mtg/cards/dragonscale-boon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dragonscale-boon",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "Put two +1/+1 counters on target creature and untap it.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Mark Winters",
+		"multiverse_id": 394071,
+		"flavor": "Only those who have proved themselves worthy are granted a dragon's scale.",
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394071",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394071.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/dragonscale-boon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394071"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "common",
+		"artist": "Mark Winters",
+		"multiverse_id": 386525,
+		"flavor": "\"When we were lost and weary, the ainok showed us how to survive. They have earned the right to call themselves Abzan, and to wear the Scale.\"\n—Anafenza, khan of the Abzan",
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386525",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386525.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/dragonscale-boon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386525"
+	  }
+	]
+  },
+  {
+	"name": "Fierce Invocation",
+	"id": "fierce-invocation",
+	"url": "https://api.deckbrew.com/mtg/cards/fierce-invocation",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fierce-invocation",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 5,
+	"cost": "{4}{R}",
+	"text": "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "common",
+		"artist": "Tyler Jacobson",
+		"multiverse_id": 391832,
+		"flavor": "Anger can empower those who embrace it.",
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391832",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391832.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/fierce-invocation?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391832"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Tyler Jacobson",
+		"multiverse_id": 394072,
+		"flavor": "Anger can empower those who embrace it.",
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394072",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394072.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/fierce-invocation?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394072"
+	  }
+	]
+  },
+  {
+	"name": "Formless Nurturing",
+	"id": "formless-nurturing",
+	"url": "https://api.deckbrew.com/mtg/cards/formless-nurturing",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=formless-nurturing",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "common",
+		"artist": "Cliff Childs",
+		"multiverse_id": 391837,
+		"number": "129",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391837",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391837.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/formless-nurturing?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391837"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Cliff Childs",
+		"multiverse_id": 394073,
+		"number": "129",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394073",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394073.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/formless-nurturing?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394073"
+	  }
+	]
+  },
+  {
+	"name": "Ghostfire Blade",
+	"id": "ghostfire-blade",
+	"url": "https://api.deckbrew.com/mtg/cards/ghostfire-blade",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ghostfire-blade",
+	"types": [
+	  "artifact"
+	],
+	"subtypes": [
+	  "equipment"
+	],
+	"cmc": 1,
+	"cost": "{1}",
+	"text": "Equipped creature gets +2/+2.\nEquip {3}\nGhostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Cyril Van Der Haegen",
+		"multiverse_id": 394074,
+		"flavor": "If you fear the dragon's fire, you are unworthy to wield it.",
+		"number": "220",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394074",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394074.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ghostfire-blade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394074"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Cyril Van Der Haegen",
+		"multiverse_id": 386545,
+		"flavor": "If you fear the dragon's fire, you are unworthy to wield it.",
+		"number": "220",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386545",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386545.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/ghostfire-blade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386545"
+	  }
+	]
+  },
+  {
+	"name": "Grim Haruspex",
+	"id": "grim-haruspex",
+	"url": "https://api.deckbrew.com/mtg/cards/grim-haruspex",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=grim-haruspex",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{2}{B}",
+	"text": "Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card.",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 394075,
+		"flavor": "\"Your enemies may be cowardly, my lord, but one should never call them gutless.\"",
+		"number": "73",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394075",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394075.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/grim-haruspex?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394075"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Sultai",
+		"rarity": "rare",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 386548,
+		"flavor": "\"We all want to know what's going on in someone else's head. I simply open it up and look.\"",
+		"number": "73",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386548",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386548.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/grim-haruspex?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386548"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 0,
+		"flavor": "\"We all want to know what's going on in someone else's head. I simply open it up and look.\"",
+		"number": "101",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/grim-haruspex?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Hewed Stone Retainers",
+	"id": "hewed-stone-retainers",
+	"url": "https://api.deckbrew.com/mtg/cards/hewed-stone-retainers",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hewed-stone-retainers",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "golem"
+	],
+	"cmc": 3,
+	"cost": "{3}",
+	"text": "Cast Hewed Stone Retainers only if you've cast another spell this turn.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "uncommon",
+		"artist": "David Seguin",
+		"multiverse_id": 391853,
+		"flavor": "\"Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.\"\n—Jilaya, Temur whisperer",
+		"number": "161",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391853",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391853.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/hewed-stone-retainers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391853"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "David Seguin",
+		"multiverse_id": 394076,
+		"flavor": "\"Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.\"\n—Jilaya, Temur whisperer",
+		"number": "161",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394076",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394076.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/hewed-stone-retainers?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394076"
+	  }
+	]
+  },
+  {
+	"name": "Jeering Instigator",
+	"id": "jeering-instigator",
+	"url": "https://api.deckbrew.com/mtg/cards/jeering-instigator",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=jeering-instigator",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "rogue"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Willian Murai",
+		"multiverse_id": 394077,
+		"number": "113",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394077",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394077.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/jeering-instigator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394077"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Mardu",
+		"rarity": "rare",
+		"artist": "Willian Murai",
+		"multiverse_id": 386570,
+		"number": "113",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/jeering-instigator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386570"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "William Murai",
+		"multiverse_id": 0,
+		"number": "107",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/jeering-instigator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Jeskai Infiltrator",
+	"id": "jeskai-infiltrator",
+	"url": "https://api.deckbrew.com/mtg/cards/jeskai-infiltrator",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=jeskai-infiltrator",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "monk"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"power": "2",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"watermark": "Jeskai",
+		"rarity": "rare",
+		"artist": "Cynthia Sheppard",
+		"multiverse_id": 391862,
+		"number": "36",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391862",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391862.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/jeskai-infiltrator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391862"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"watermark": "Jeskai",
+		"rarity": "rare",
+		"artist": "Cynthia Sheppard",
+		"multiverse_id": 394078,
+		"number": "36",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394078",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394078.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/jeskai-infiltrator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394078"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Cynthia Sheppard",
+		"multiverse_id": 0,
+		"number": "138",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/jeskai-infiltrator?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Mastery of the Unseen",
+	"id": "mastery-of-the-unseen",
+	"url": "https://api.deckbrew.com/mtg/cards/mastery-of-the-unseen",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mastery-of-the-unseen",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "rare",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 391878,
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391878",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391878.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/mastery-of-the-unseen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391878"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 394079,
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394079",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394079.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/mastery-of-the-unseen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394079"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 0,
+		"number": "141",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/mastery-of-the-unseen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Mystic of the Hidden Way",
+	"id": "mystic-of-the-hidden-way",
+	"url": "https://api.deckbrew.com/mtg/cards/mystic-of-the-hidden-way",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mystic-of-the-hidden-way",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "monk"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 5,
+	"cost": "{4}{U}",
+	"text": "Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Ryan Alexander Lee",
+		"multiverse_id": 394080,
+		"flavor": "\"There are many different paths. The Great Teacher reveals them all.\"",
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394080",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394080.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/mystic-of-the-hidden-way?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394080"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Jeskai",
+		"rarity": "common",
+		"artist": "Ryan Alexander Lee",
+		"multiverse_id": 386615,
+		"flavor": "\"There are no obstacles, only different paths.\"",
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386615",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386615.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/mystic-of-the-hidden-way?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386615"
+	  }
+	]
+  },
+  {
+	"name": "Reality Shift",
+	"id": "reality-shift",
+	"url": "https://api.deckbrew.com/mtg/cards/reality-shift",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reality-shift",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "uncommon",
+		"artist": "Howard Lyon",
+		"multiverse_id": 391903,
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391903",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391903.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/reality-shift?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391903"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Howard Lyon",
+		"multiverse_id": 394081,
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394081",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394081.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/reality-shift?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394081"
+	  }
+	]
+  },
+  {
+	"name": "Ruthless Ripper",
+	"id": "ruthless-ripper",
+	"url": "https://api.deckbrew.com/mtg/cards/ruthless-ripper",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ruthless-ripper",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "assassin",
+	  "human"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 1,
+	"cost": "{B}",
+	"text": "Deathtouch\nMorph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ruthless Ripper is turned face up, target player loses 2 life.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Clint Cearley",
+		"multiverse_id": 394082,
+		"number": "88",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394082",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394082.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ruthless-ripper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394082"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Sultai",
+		"rarity": "uncommon",
+		"artist": "Clint Cearley",
+		"multiverse_id": 386643,
+		"number": "88",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386643",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386643.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/ruthless-ripper?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386643"
+	  }
+	]
+  },
+  {
+	"name": "Smite the Monstrous",
+	"id": "smite-the-monstrous",
+	"url": "https://api.deckbrew.com/mtg/cards/smite-the-monstrous",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=smite-the-monstrous",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{3}{W}",
+	"text": "Destroy target creature with power 4 or greater.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Greg Staples",
+		"multiverse_id": 394083,
+		"flavor": "The changing of a single moment in Tarkir's past altered its future, rewriting its history.",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394083",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394083.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/smite-the-monstrous?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394083"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "common",
+		"artist": "Jason Felix",
+		"multiverse_id": 220377,
+		"flavor": "Though the old holy wards and roadside shrines have begun to fail, faith in Avacyn still holds true power.",
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220377",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220377.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/smite-the-monstrous?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220377"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "common",
+		"artist": "Greg Staples",
+		"multiverse_id": 386669,
+		"flavor": "\"The dragons thought they were too strong to be tamed, too large to fall. And where are they now?\"\n—Khibat the Revered",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386669",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386669.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/smite-the-monstrous?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386669"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "common",
+		"artist": "Jakub Kasper",
+		"multiverse_id": 402042,
+		"flavor": "After watching the kor in battle, Gideon understood the difference between working together and working as one.",
+		"number": "49",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=402042",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/402042.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/smite-the-monstrous?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/402042"
+	  },
+	  {
+		"set": "Duel Decks: Heroes vs. Monsters",
+		"set_id": "DDL",
+		"rarity": "common",
+		"artist": "Jason Felix",
+		"multiverse_id": 373372,
+		"flavor": "Though the old holy wards and roadside shrines have begun to fail, faith in Avacyn still holds true power.",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373372",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373372.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/smite-the-monstrous?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373372"
+	  }
+	]
+  },
+  {
+	"name": "Soul Summons",
+	"id": "soul-summons",
+	"url": "https://api.deckbrew.com/mtg/cards/soul-summons",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=soul-summons",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "common",
+		"artist": "Johann Bodin",
+		"multiverse_id": 391926,
+		"flavor": "Ugin's magic reaches beyond the dragons. The clans have adapted it for war.",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391926",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391926.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/soul-summons?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391926"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Johann Bodin",
+		"multiverse_id": 394084,
+		"flavor": "Ugin's magic reaches beyond the dragons. The clans have adapted it for war.",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394084",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394084.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/soul-summons?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394084"
+	  }
+	]
+  },
+  {
+	"name": "Sultai Emissary",
+	"id": "sultai-emissary",
+	"url": "https://api.deckbrew.com/mtg/cards/sultai-emissary",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sultai-emissary",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "warrior",
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"watermark": "Sultai",
+		"rarity": "common",
+		"artist": "Mathias Kollros",
+		"multiverse_id": 391930,
+		"flavor": "To the Sultai, Ugin's power was just one more resource to be exploited.",
+		"number": "85",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391930",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391930.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/sultai-emissary?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391930"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"watermark": "Sultai",
+		"rarity": "common",
+		"artist": "Mathias Kollros",
+		"multiverse_id": 394085,
+		"flavor": "To the Sultai, Ugin's power was just one more resource to be exploited.",
+		"number": "85",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394085",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394085.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/sultai-emissary?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394085"
+	  }
+	]
+  },
+  {
+	"name": "Ugin's Construct",
+	"id": "ugins-construct",
+	"url": "https://api.deckbrew.com/mtg/cards/ugins-construct",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ugins-construct",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "construct"
+	],
+	"cmc": 4,
+	"cost": "{4}",
+	"text": "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.",
+	"power": "4",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "uncommon",
+		"artist": "Peter Mohrbacher",
+		"multiverse_id": 391949,
+		"flavor": "While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri.",
+		"number": "164",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391949",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391949.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/ugins-construct?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391949"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Peter Mohrbacher",
+		"multiverse_id": 394087,
+		"flavor": "While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri.",
+		"number": "164",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394087",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394087.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ugins-construct?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394087"
+	  }
+	]
+  },
+  {
+	"name": "Ugin, the Spirit Dragon",
+	"id": "ugin-the-spirit-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/ugin-the-spirit-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ugin-the-spirit-dragon",
+	"types": [
+	  "planeswalker"
+	],
+	"subtypes": [
+	  "ugin"
+	],
+	"cmc": 8,
+	"cost": "{8}",
+	"text": "+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.\n−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+	"loyalty": 7,
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "mythic",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 391948,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391948",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391948.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/ugin-the-spirit-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391948"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "mythic",
+		"artist": "Chris Rahn",
+		"multiverse_id": 394086,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394086",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394086.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/ugin-the-spirit-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394086"
+	  }
+	]
+  },
+  {
+	"name": "Watcher of the Roost",
+	"id": "watcher-of-the-roost",
+	"url": "https://api.deckbrew.com/mtg/cards/watcher-of-the-roost",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=watcher-of-the-roost",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "bird",
+	  "soldier"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{2}{W}",
+	"text": "Flying\nMorph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Watcher of the Roost is turned face up, you gain 2 life.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "uncommon",
+		"artist": "Jack Wang",
+		"multiverse_id": 394088,
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/watcher-of-the-roost?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394088"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Abzan",
+		"rarity": "uncommon",
+		"artist": "Jack Wang",
+		"multiverse_id": 386718,
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386718",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386718.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/watcher-of-the-roost?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386718"
+	  }
+	]
+  },
+  {
+	"name": "Wildcall",
+	"id": "wildcall",
+	"url": "https://api.deckbrew.com/mtg/cards/wildcall",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wildcall",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{X}{G}{G}",
+	"text": "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 391960,
+		"flavor": "A howl on the wind hides many dangers.",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391960",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391960.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/wildcall?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391960"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 394089,
+		"flavor": "A howl on the wind hides many dangers.",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394089",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394089.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/wildcall?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394089"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "A howl on the wind hides many dangers.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/wildcall?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Write into Being",
+	"id": "write-into-being",
+	"url": "https://api.deckbrew.com/mtg/cards/write-into-being",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=write-into-being",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "common",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 391964,
+		"number": "59",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391964",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391964.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/write-into-being?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391964"
+	  },
+	  {
+		"set": "Ugin's Fate promos",
+		"set_id": "FRF_UGIN",
+		"rarity": "common",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 394090,
+		"number": "59",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394090",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394090.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF_UGIN",
+		"store_url": "http://store.tcgplayer.com/magic/ugins-fate-promos/write-into-being?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394090"
+	  }
+	]
+  }
+]

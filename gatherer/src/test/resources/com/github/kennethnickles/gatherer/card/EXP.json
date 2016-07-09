@@ -1,0 +1,3614 @@
+[
+  {
+	"name": "Ancient Tomb",
+	"id": "ancient-tomb",
+	"url": "https://api.deckbrew.com/mtg/cards/ancient-tomb",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ancient-tomb",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C}{C} to your mana pool. Ancient Tomb deals 2 damage to you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Howard Lyon",
+		"multiverse_id": 409567,
+		"number": "36",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409567",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409567.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409567"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 382842,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "289",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382842",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382842.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382842"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "uncommon",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 4636,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4636",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4636.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4636"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 288994,
+		"flavor": "There is no glory to be gained in the kingdom of the dead.\n—Vec tomb inscription",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=288994",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/288994.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/ancient-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/288994"
+	  }
+	]
+  },
+  {
+	"name": "Arid Mesa",
+	"id": "arid-mesa",
+	"url": "https://api.deckbrew.com/mtg/cards/arid-mesa",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=arid-mesa",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Ryan Yee",
+		"multiverse_id": 405092,
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405092",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405092.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/arid-mesa?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405092"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 177584,
+		"number": "211",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=177584",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/177584.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/arid-mesa?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/177584"
+	  }
+	]
+  },
+  {
+	"name": "Blood Crypt",
+	"id": "blood-crypt",
+	"url": "https://api.deckbrew.com/mtg/cards/blood-crypt",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-crypt",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "mountain",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {B} or {R} to your mana pool.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Min Yum",
+		"multiverse_id": 405093,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405093",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405093.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/blood-crypt?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405093"
+	  },
+	  {
+		"set": "Dissension",
+		"set_id": "DIS",
+		"watermark": "Rakdos",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 97102,
+		"number": "171",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=97102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/97102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+		"store_url": "http://store.tcgplayer.com/magic/dissension/blood-crypt?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/97102"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Rakdos",
+		"rarity": "rare",
+		"artist": "Vincent Proce",
+		"multiverse_id": 253683,
+		"flavor": "Where the dead serve as diversion, decor, and dessert.",
+		"number": "238",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253683",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253683.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/blood-crypt?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253683"
+	  }
+	]
+  },
+  {
+	"name": "Bloodstained Mire",
+	"id": "bloodstained-mire",
+	"url": "https://api.deckbrew.com/mtg/cards/bloodstained-mire",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bloodstained-mire",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Véronique Meignaud",
+		"multiverse_id": 405094,
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405094",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405094.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/bloodstained-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405094"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Rob Alexander",
+		"multiverse_id": 0,
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/bloodstained-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Daarken",
+		"multiverse_id": 386495,
+		"flavor": "Where dragons once triumphed, their bones now molder.",
+		"number": "230",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386495",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386495.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/bloodstained-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386495"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 39505,
+		"number": "313",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39505",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39505.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/bloodstained-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39505"
+	  }
+	]
+  },
+  {
+	"name": "Breeding Pool",
+	"id": "breeding-pool",
+	"url": "https://api.deckbrew.com/mtg/cards/breeding-pool",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=breeding-pool",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "island"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {G} or {U} to your mana pool.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Noah Bradley",
+		"multiverse_id": 405095,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405095",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405095.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/breeding-pool?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405095"
+	  },
+	  {
+		"set": "Dissension",
+		"set_id": "DIS",
+		"watermark": "Simic",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 97088,
+		"number": "172",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=97088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/97088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+		"store_url": "http://store.tcgplayer.com/magic/dissension/breeding-pool?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/97088"
+	  },
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Simic",
+		"rarity": "rare",
+		"artist": "Mike Bierek",
+		"multiverse_id": 366291,
+		"flavor": "Uncharted depths. Unbounded hopes. Unfathomable mysteries.",
+		"number": "240",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366291",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366291.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/breeding-pool?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366291"
+	  }
+	]
+  },
+  {
+	"name": "Canopy Vista",
+	"id": "canopy-vista",
+	"url": "https://api.deckbrew.com/mtg/cards/canopy-vista",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=canopy-vista",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "plains"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {G} or {W} to your mana pool.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Titus Lunter",
+		"multiverse_id": 405096,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405096",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405096.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/canopy-vista?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405096"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 401837,
+		"flavor": "The continent of Murasa lies beneath a blanket of dense vegetation, its enormous branches tangled so thickly that some inhabitants never see the ground.",
+		"number": "234",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401837",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401837.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/canopy-vista?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401837"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "The continent of Murasa lies beneath a blanket of dense vegetation, its enormous branches tangled so thickly that some inhabitants never see the ground.",
+		"number": "249",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/canopy-vista?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Cascade Bluffs",
+	"id": "cascade-bluffs",
+	"url": "https://api.deckbrew.com/mtg/cards/cascade-bluffs",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cascade-bluffs",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Christine Choi",
+		"multiverse_id": 409563,
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409563",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409563.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/cascade-bluffs?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409563"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Brandon Kitkouski",
+		"multiverse_id": 153433,
+		"flavor": "Travelers bathe in the falls to wash away curses from the pucas who lurk nearby.",
+		"number": "175",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153433",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153433.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/cascade-bluffs?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153433"
+	  }
+	]
+  },
+  {
+	"name": "Cinder Glade",
+	"id": "cinder-glade",
+	"url": "https://api.deckbrew.com/mtg/cards/cinder-glade",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cinder-glade",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "mountain"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {R} or {G} to your mana pool.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Titus Lunter",
+		"multiverse_id": 405097,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405097",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405097.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/cinder-glade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405097"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 401841,
+		"flavor": "On the volcanic continent of Akoum, bizarre vegetation clusters around gas vents, and jagged mountain peaks rise high into the air.",
+		"number": "235",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401841",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401841.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/cinder-glade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401841"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "On the volcanic continent of Akoum, bizarre vegetation clusters around gas vents, and jagged mountain peaks rise high into the air.",
+		"number": "250",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/cinder-glade?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Dust Bowl",
+	"id": "dust-bowl",
+	"url": "https://api.deckbrew.com/mtg/cards/dust-bowl",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dust-bowl",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Florian de Gesincourt",
+		"multiverse_id": 409568,
+		"number": "37",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409568",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409568.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/dust-bowl?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409568"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "rare",
+		"artist": "Ben Thompson",
+		"multiverse_id": 19772,
+		"number": "316",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19772",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19772.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/dust-bowl?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19772"
+	  }
+	]
+  },
+  {
+	"name": "Eye of Ugin",
+	"id": "eye-of-ugin",
+	"url": "https://api.deckbrew.com/mtg/cards/eye-of-ugin",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=eye-of-ugin",
+	"types": [
+	  "land"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Colorless Eldrazi spells you cast cost {2} less to cast.\n{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "James Paick",
+		"multiverse_id": 409569,
+		"number": "38",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409569",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409569.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/eye-of-ugin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409569"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "rare",
+		"artist": "James Paick",
+		"multiverse_id": 397726,
+		"flavor": "An eye closes. A race awakens.",
+		"number": "242",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397726",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397726.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/eye-of-ugin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397726"
+	  },
+	  {
+		"set": "Worldwake",
+		"set_id": "WWK",
+		"rarity": "mythic",
+		"artist": "James Paick",
+		"multiverse_id": 197881,
+		"flavor": "An eye closes. A race awakens.",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=197881",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/197881.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+		"store_url": "http://store.tcgplayer.com/magic/worldwake/eye-of-ugin?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/197881"
+	  }
+	]
+  },
+  {
+	"name": "Fetid Heath",
+	"id": "fetid-heath",
+	"url": "https://api.deckbrew.com/mtg/cards/fetid-heath",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fetid-heath",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Christine Choi",
+		"multiverse_id": 409562,
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409562",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409562.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/fetid-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409562"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Daarken",
+		"multiverse_id": 153446,
+		"flavor": "\"Do not linger in such places, child. There the gwyllions dance. If they find you, you will join in their revels for eternity.\"\n—Talara, elvish safewright",
+		"number": "176",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153446",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153446.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/fetid-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153446"
+	  }
+	]
+  },
+  {
+	"name": "Fire-Lit Thicket",
+	"id": "fire-lit-thicket",
+	"url": "https://api.deckbrew.com/mtg/cards/fire-lit-thicket",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fire-lit-thicket",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 409560,
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409560",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409560.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/fire-lit-thicket?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409560"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Ralph Horsley",
+		"multiverse_id": 146753,
+		"flavor": "Occupancy of the den changes from night to night as boggart gangs fight for control of a place they aren't willing to simply eat.",
+		"number": "271",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146753",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146753.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/fire-lit-thicket?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146753"
+	  }
+	]
+  },
+  {
+	"name": "Flooded Grove",
+	"id": "flooded-grove",
+	"url": "https://api.deckbrew.com/mtg/cards/flooded-grove",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=flooded-grove",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Christine Choi",
+		"multiverse_id": 409566,
+		"number": "35",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409566",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409566.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/flooded-grove?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409566"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Dave Kendall",
+		"multiverse_id": 153481,
+		"flavor": "At full moon, the river seeps over its banks and crawls through the woods like a blanket of serpents.",
+		"number": "177",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153481",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153481.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/flooded-grove?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153481"
+	  }
+	]
+  },
+  {
+	"name": "Flooded Strand",
+	"id": "flooded-strand",
+	"url": "https://api.deckbrew.com/mtg/cards/flooded-strand",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=flooded-strand",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Véronique Meignaud",
+		"multiverse_id": 405098,
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405098",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405098.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/flooded-strand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405098"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Rob Alexander",
+		"multiverse_id": 0,
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/flooded-strand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Andreas Rocha",
+		"multiverse_id": 386537,
+		"flavor": "Where dragons once slept, their bones now rest.",
+		"number": "233",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386537",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386537.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/flooded-strand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386537"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 39503,
+		"number": "316",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39503",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39503.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/flooded-strand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39503"
+	  }
+	]
+  },
+  {
+	"name": "Forbidden Orchard",
+	"id": "forbidden-orchard",
+	"url": "https://api.deckbrew.com/mtg/cards/forbidden-orchard",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=forbidden-orchard",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Jesper Ejsing",
+		"multiverse_id": 409570,
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409570"
+	  },
+	  {
+		"set": "From the Vault: Realms",
+		"set_id": "V12",
+		"rarity": "mythic",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 282541,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=282541",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/282541.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V12",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-realms/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/282541"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "Dany Orizio",
+		"multiverse_id": 79252,
+		"number": "276",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=79252",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/79252.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/forbidden-orchard?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/79252"
+	  }
+	]
+  },
+  {
+	"name": "Godless Shrine",
+	"id": "godless-shrine",
+	"url": "https://api.deckbrew.com/mtg/cards/godless-shrine",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=godless-shrine",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "plains",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {W} or {B} to your mana pool.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Noah Bradley",
+		"multiverse_id": 405099,
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405099",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405099.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/godless-shrine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405099"
+	  },
+	  {
+		"set": "Guildpact",
+		"set_id": "GPT",
+		"watermark": "Orzhov",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 96935,
+		"number": "157",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=96935",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/96935.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+		"store_url": "http://store.tcgplayer.com/magic/guildpact/godless-shrine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/96935"
+	  },
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Orzhov",
+		"rarity": "rare",
+		"artist": "Cliff Childs",
+		"multiverse_id": 366302,
+		"flavor": "Judgment without hope.",
+		"number": "242",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366302",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366302.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/godless-shrine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366302"
+	  }
+	]
+  },
+  {
+	"name": "Graven Cairns",
+	"id": "graven-cairns",
+	"url": "https://api.deckbrew.com/mtg/cards/graven-cairns",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=graven-cairns",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 409559,
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409559",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409559.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/graven-cairns?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409559"
+	  },
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "rare",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 130581,
+		"flavor": "Shamans of Kar-Sengir claim that their sun sets because it can no longer bear the gaze of those pain-carved cliffs.",
+		"number": "175",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130581",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130581.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/graven-cairns?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130581"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 146764,
+		"flavor": "\"Here did the Extinguisher steal the light from the world. Here will we sacrifice her to bring the Great Rekindling to our people.\"\n—Illulia of Nighthearth",
+		"number": "272",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146764",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146764.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/graven-cairns?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146764"
+	  }
+	]
+  },
+  {
+	"name": "Hallowed Fountain",
+	"id": "hallowed-fountain",
+	"url": "https://api.deckbrew.com/mtg/cards/hallowed-fountain",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hallowed-fountain",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "island",
+	  "plains"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {W} or {U} to your mana pool.)\nAs Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Min Yum",
+		"multiverse_id": 405100,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405100",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405100.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/hallowed-fountain?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405100"
+	  },
+	  {
+		"set": "Dissension",
+		"set_id": "DIS",
+		"watermark": "Azorius",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 97071,
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=97071",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/97071.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+		"store_url": "http://store.tcgplayer.com/magic/dissension/hallowed-fountain?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/97071"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Azorius",
+		"rarity": "rare",
+		"artist": "Jung Park",
+		"multiverse_id": 253684,
+		"flavor": "A place to relax, if you have the proper permit.",
+		"number": "241",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253684",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253684.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/hallowed-fountain?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253684"
+	  }
+	]
+  },
+  {
+	"name": "Horizon Canopy",
+	"id": "horizon-canopy",
+	"url": "https://api.deckbrew.com/mtg/cards/horizon-canopy",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=horizon-canopy",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life: Add {G} or {W} to your mana pool.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Florian de Gesincourt",
+		"multiverse_id": 409571,
+		"number": "40",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409571",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409571.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/horizon-canopy?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409571"
+	  },
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "rare",
+		"artist": "Michael Komarck",
+		"multiverse_id": 130574,
+		"flavor": "The great leaves are resilient underfoot. Heavy steps do not bruise them, but release a sweet and spicy scent.",
+		"number": "177",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=130574",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/130574.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/horizon-canopy?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/130574"
+	  }
+	]
+  },
+  {
+	"name": "Kor Haven",
+	"id": "kor-haven",
+	"url": "https://api.deckbrew.com/mtg/cards/kor-haven",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kor-haven",
+	"types": [
+	  "land"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Jonas De Ro",
+		"multiverse_id": 409572,
+		"number": "41",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409572",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409572.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/kor-haven?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409572"
+	  },
+	  {
+		"set": "Nemesis",
+		"set_id": "NMS",
+		"rarity": "rare",
+		"artist": "Darrell Riche",
+		"multiverse_id": 21403,
+		"number": "141",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21403",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21403.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+		"store_url": "http://store.tcgplayer.com/magic/nemesis/kor-haven?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21403"
+	  }
+	]
+  },
+  {
+	"name": "Mana Confluence",
+	"id": "mana-confluence",
+	"url": "https://api.deckbrew.com/mtg/cards/mana-confluence",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mana-confluence",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life: Add one mana of any color to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Howard Lyon",
+		"multiverse_id": 409573,
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409573",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409573.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/mana-confluence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409573"
+	  },
+	  {
+		"set": "Journey into Nyx",
+		"set_id": "JOU",
+		"rarity": "rare",
+		"artist": "Richard Wright",
+		"multiverse_id": 380453,
+		"flavor": "Five rivers encircle Theros, flowing with waters more ancient than the world itself.",
+		"number": "163",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=380453",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/380453.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+		"store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/mana-confluence?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/380453"
+	  }
+	]
+  },
+  {
+	"name": "Marsh Flats",
+	"id": "marsh-flats",
+	"url": "https://api.deckbrew.com/mtg/cards/marsh-flats",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=marsh-flats",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Ryan Yee",
+		"multiverse_id": 405101,
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405101",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405101.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/marsh-flats?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405101"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Izzy",
+		"multiverse_id": 191371,
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191371",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191371.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/marsh-flats?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191371"
+	  }
+	]
+  },
+  {
+	"name": "Misty Rainforest",
+	"id": "misty-rainforest",
+	"url": "https://api.deckbrew.com/mtg/cards/misty-rainforest",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=misty-rainforest",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Ryan Yee",
+		"multiverse_id": 405102,
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405102",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405102.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/misty-rainforest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405102"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Shelly Wan",
+		"multiverse_id": 190413,
+		"number": "220",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190413",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190413.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/misty-rainforest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190413"
+	  }
+	]
+  },
+  {
+	"name": "Mystic Gate",
+	"id": "mystic-gate",
+	"url": "https://api.deckbrew.com/mtg/cards/mystic-gate",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mystic-gate",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 409557,
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409557",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409557.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/mystic-gate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409557"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Fred Fields",
+		"multiverse_id": 146746,
+		"flavor": "The gate of every kithkin doun is a cunning trap, intended to spill visitors into an oubliette from which there is no escape.",
+		"number": "277",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146746",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146746.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/mystic-gate?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146746"
+	  }
+	]
+  },
+  {
+	"name": "Overgrown Tomb",
+	"id": "overgrown-tomb",
+	"url": "https://api.deckbrew.com/mtg/cards/overgrown-tomb",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=overgrown-tomb",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {B} or {G} to your mana pool.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Noah Bradley",
+		"multiverse_id": 405103,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405103",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405103.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/overgrown-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405103"
+	  },
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"watermark": "Golgari",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 89072,
+		"number": "279",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=89072",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/89072.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/overgrown-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/89072"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Golgari",
+		"rarity": "rare",
+		"artist": "Steven Belledin",
+		"multiverse_id": 253680,
+		"flavor": "The best funeral shroud is the fabric of new life.",
+		"number": "243",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253680",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253680.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/overgrown-tomb?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253680"
+	  }
+	]
+  },
+  {
+	"name": "Polluted Delta",
+	"id": "polluted-delta",
+	"url": "https://api.deckbrew.com/mtg/cards/polluted-delta",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=polluted-delta",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Véronique Meignaud",
+		"multiverse_id": 405104,
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405104",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405104.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/polluted-delta?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405104"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Rob Alexander",
+		"multiverse_id": 0,
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/polluted-delta?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Vincent Proce",
+		"multiverse_id": 386627,
+		"flavor": "Where dragons once prevailed, their bones now sink.",
+		"number": "239",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386627",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386627.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/polluted-delta?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386627"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 39504,
+		"number": "321",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39504",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39504.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/polluted-delta?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39504"
+	  }
+	]
+  },
+  {
+	"name": "Prairie Stream",
+	"id": "prairie-stream",
+	"url": "https://api.deckbrew.com/mtg/cards/prairie-stream",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=prairie-stream",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "island",
+	  "plains"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {W} or {U} to your mana pool.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Titus Lunter",
+		"multiverse_id": 405105,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405105",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405105.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/prairie-stream?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405105"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 401998,
+		"flavor": "The continent of Ondu is a vast plateau crisscrossed by deep trenches and meandering rivers.",
+		"number": "241",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401998",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401998.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/prairie-stream?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401998"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "The continent of Ondu is a vast plateau crisscrossed by deep trenches and meandering rivers.",
+		"number": "284",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/prairie-stream?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Rugged Prairie",
+	"id": "rugged-prairie",
+	"url": "https://api.deckbrew.com/mtg/cards/rugged-prairie",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rugged-prairie",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Christine Choi",
+		"multiverse_id": 409565,
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409565",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409565.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/rugged-prairie?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409565"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Fred Fields",
+		"multiverse_id": 153434,
+		"flavor": "Hobs bury their kin far from home. They believe the dry, open ground keeps hags from stealing the bones and gwyllions from stealing the spirits.",
+		"number": "178",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153434",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153434.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/rugged-prairie?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153434"
+	  }
+	]
+  },
+  {
+	"name": "Sacred Foundry",
+	"id": "sacred-foundry",
+	"url": "https://api.deckbrew.com/mtg/cards/sacred-foundry",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sacred-foundry",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "mountain",
+	  "plains"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {R} or {W} to your mana pool.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Noah Bradley",
+		"multiverse_id": 405106,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405106",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405106.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/sacred-foundry?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405106"
+	  },
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"watermark": "Boros",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 89066,
+		"number": "280",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=89066",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/89066.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/sacred-foundry?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/89066"
+	  },
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Boros",
+		"rarity": "rare",
+		"artist": "Sam Burley",
+		"multiverse_id": 366439,
+		"flavor": "Burning fervor and fearsome skill create a lethal beauty terrible to behold.",
+		"number": "245",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366439",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366439.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/sacred-foundry?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366439"
+	  }
+	]
+  },
+  {
+	"name": "Scalding Tarn",
+	"id": "scalding-tarn",
+	"url": "https://api.deckbrew.com/mtg/cards/scalding-tarn",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scalding-tarn",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Ryan Yee",
+		"multiverse_id": 405107,
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405107",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405107.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/scalding-tarn?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405107"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Philip Straub",
+		"multiverse_id": 190393,
+		"number": "223",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190393",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190393.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/scalding-tarn?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190393"
+	  }
+	]
+  },
+  {
+	"name": "Smoldering Marsh",
+	"id": "smoldering-marsh",
+	"url": "https://api.deckbrew.com/mtg/cards/smoldering-marsh",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=smoldering-marsh",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "mountain",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {B} or {R} to your mana pool.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Titus Lunter",
+		"multiverse_id": 405108,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405108",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405108.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/smoldering-marsh?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405108"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 402043,
+		"flavor": "The continent of Guul Draz is a geothermal swampland reeking of heat and decay.",
+		"number": "247",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=402043",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/402043.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/smoldering-marsh?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/402043"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "The continent of Guul Draz is a geothermal swampland reeking of heat and decay.",
+		"number": "295",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/smoldering-marsh?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Steam Vents",
+	"id": "steam-vents",
+	"url": "https://api.deckbrew.com/mtg/cards/steam-vents",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=steam-vents",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "island",
+	  "mountain"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {U} or {R} to your mana pool.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Noah Bradley",
+		"multiverse_id": 405109,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405109",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405109.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/steam-vents?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405109"
+	  },
+	  {
+		"set": "Guildpact",
+		"set_id": "GPT",
+		"watermark": "Izzet",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 96923,
+		"number": "164",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=96923",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/96923.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+		"store_url": "http://store.tcgplayer.com/magic/guildpact/steam-vents?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/96923"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Izzet",
+		"rarity": "rare",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 253682,
+		"flavor": "Crafted with genius, energized with madness.",
+		"number": "247",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253682",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253682.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/steam-vents?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253682"
+	  }
+	]
+  },
+  {
+	"name": "Stomping Ground",
+	"id": "stomping-ground",
+	"url": "https://api.deckbrew.com/mtg/cards/stomping-ground",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=stomping-ground",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "mountain"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {R} or {G} to your mana pool.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Min Yum",
+		"multiverse_id": 405110,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405110",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405110.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/stomping-ground?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405110"
+	  },
+	  {
+		"set": "Guildpact",
+		"set_id": "GPT",
+		"watermark": "Gruul",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 96896,
+		"number": "165",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=96896",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/96896.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+		"store_url": "http://store.tcgplayer.com/magic/guildpact/stomping-ground?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/96896"
+	  },
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Gruul",
+		"rarity": "rare",
+		"artist": "David Palumbo",
+		"multiverse_id": 366232,
+		"flavor": "\"Roots, ruins, and room to fight. All the comforts of home.\"\n—Domri Rade",
+		"number": "247",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366232",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366232.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/stomping-ground?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366232"
+	  }
+	]
+  },
+  {
+	"name": "Strip Mine",
+	"id": "strip-mine",
+	"url": "https://api.deckbrew.com/mtg/cards/strip-mine",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=strip-mine",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "banned",
+	  "vintage": "restricted"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Howard Lyon",
+		"multiverse_id": 409574,
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409574",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409574.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409574"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 383113,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.",
+		"number": "316",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383113",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383113.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383113"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 0,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1076,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1076",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1076.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(even-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1076"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1077,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1077",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1077.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(uneven-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1077"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1078,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1078",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1078.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(no-horizon)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1078"
+	  },
+	  {
+		"set": "Antiquities",
+		"set_id": "ATQ",
+		"rarity": "uncommon",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 1079,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1079",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1079.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATQ",
+		"store_url": "http://store.tcgplayer.com/magic/antiquities/strip-mine-(tower)?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1079"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 2380,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2380",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2380.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2380"
+	  },
+	  {
+		"set": "From the Vault: Exiled",
+		"set_id": "V09",
+		"rarity": "mythic",
+		"artist": "John Avon",
+		"multiverse_id": 194968,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194968",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194968.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V09",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-exiled/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194968"
+	  },
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Daniel Gelon",
+		"multiverse_id": 202433,
+		"flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.",
+		"number": "252",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202433",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202433.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/strip-mine?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202433"
+	  }
+	]
+  },
+  {
+	"name": "Sunken Hollow",
+	"id": "sunken-hollow",
+	"url": "https://api.deckbrew.com/mtg/cards/sunken-hollow",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sunken-hollow",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "island",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {U} or {B} to your mana pool.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Titus Lunter",
+		"multiverse_id": 405111,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405111",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405111.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/sunken-hollow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405111"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 402051,
+		"flavor": "On the continent of Tazeem, rushing waters plunge through narrow canyons into mist-cloaked lakes.",
+		"number": "249",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=402051",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/402051.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/sunken-hollow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/402051"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "On the continent of Tazeem, rushing waters plunge through narrow canyons into mist-cloaked lakes.",
+		"number": "297",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/sunken-hollow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Sunken Ruins",
+	"id": "sunken-ruins",
+	"url": "https://api.deckbrew.com/mtg/cards/sunken-ruins",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sunken-ruins",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 409558,
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409558",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409558.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/sunken-ruins?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409558"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Warren Mahy",
+		"multiverse_id": 146729,
+		"flavor": "Without the care of the tideshapers, the Lanes lie neglected. Some have flooded entire towns; others dried to cracked mud.",
+		"number": "280",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146729",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146729.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/sunken-ruins?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146729"
+	  }
+	]
+  },
+  {
+	"name": "Tectonic Edge",
+	"id": "tectonic-edge",
+	"url": "https://api.deckbrew.com/mtg/cards/tectonic-edge",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tectonic-edge",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 409575,
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409575",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409575.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/tectonic-edge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409575"
+	  },
+	  {
+		"set": "Worldwake",
+		"set_id": "WWK",
+		"rarity": "uncommon",
+		"artist": "Vincent Proce",
+		"multiverse_id": 197855,
+		"flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+		"number": "145",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=197855",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/197855.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+		"store_url": "http://store.tcgplayer.com/magic/worldwake/tectonic-edge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/197855"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Eytan Zana",
+		"multiverse_id": 0,
+		"flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+		"number": "142",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/tectonic-edge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Vincent Proce",
+		"multiverse_id": 389711,
+		"flavor": "\"We move because the earth does.\"\n—Bruse Tarl, Goma Fada nomad",
+		"number": "313",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/tectonic-edge?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389711"
+	  }
+	]
+  },
+  {
+	"name": "Temple Garden",
+	"id": "temple-garden",
+	"url": "https://api.deckbrew.com/mtg/cards/temple-garden",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=temple-garden",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "forest",
+	  "plains"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {G} or {W} to your mana pool.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Min Yum",
+		"multiverse_id": 405112,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405112",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405112.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/temple-garden?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405112"
+	  },
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"watermark": "Selesnya",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 89093,
+		"number": "284",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=89093",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/89093.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/temple-garden?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/89093"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Selesnya",
+		"rarity": "rare",
+		"artist": "Volkan Baga",
+		"multiverse_id": 253681,
+		"flavor": "In the gardens of the Conclave, order and beauty are the roots of power.",
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=253681",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/253681.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/temple-garden?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/253681"
+	  }
+	]
+  },
+  {
+	"name": "Twilight Mire",
+	"id": "twilight-mire",
+	"url": "https://api.deckbrew.com/mtg/cards/twilight-mire",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=twilight-mire",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Christine Choi",
+		"multiverse_id": 409564,
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409564",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409564.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/twilight-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409564"
+	  },
+	  {
+		"set": "Eventide",
+		"set_id": "EVE",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 153425,
+		"flavor": "As their roots soaked in a weak tea of bogwater and decay, the trees absorbed the essence of death into their living tissue.",
+		"number": "180",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153425",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153425.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EVE",
+		"store_url": "http://store.tcgplayer.com/magic/eventide/twilight-mire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153425"
+	  }
+	]
+  },
+  {
+	"name": "Verdant Catacombs",
+	"id": "verdant-catacombs",
+	"url": "https://api.deckbrew.com/mtg/cards/verdant-catacombs",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=verdant-catacombs",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Ryan Yee",
+		"multiverse_id": 405113,
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405113",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405113.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/verdant-catacombs?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405113"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 193400,
+		"number": "229",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193400",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193400.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/verdant-catacombs?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193400"
+	  }
+	]
+  },
+  {
+	"name": "Wasteland",
+	"id": "wasteland",
+	"url": "https://api.deckbrew.com/mtg/cards/wasteland",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wasteland",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "Eytan Zana",
+		"multiverse_id": 413790,
+		"flavor": "\"The land promises nothing and keeps its promise.\"\n—Oracle en-Vec",
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413790",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413790.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413790"
+	  },
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "William Wu",
+		"multiverse_id": 409576,
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409576",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409576.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409576"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 0,
+		"flavor": "\"The land promises nothing and keeps its promise.\" -Oracle en-Vec",
+		"number": "55",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Steven Belledin",
+		"multiverse_id": 0,
+		"flavor": "The land was left depleted and empty, an unsettling taste of things to come.",
+		"number": "101",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic Player Rewards",
+		"set_id": "pMPR",
+		"rarity": "special",
+		"artist": "Una Fricker",
+		"multiverse_id": 0,
+		"flavor": "\"I will show you fear in a handful of dust.\" - T. S. Eliot, \"The Waste Land\"",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMPR",
+		"store_url": "http://store.tcgplayer.com/magic/magic-player-rewards/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "uncommon",
+		"artist": "Una Fricker",
+		"multiverse_id": 4944,
+		"flavor": "\"The land promises nothing and keeps its promise.\"\n—Oracle en-Vec",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4944",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4944.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4944"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "rare",
+		"artist": "Una Fricker",
+		"multiverse_id": 397531,
+		"flavor": "\"The land promises nothing and keeps its promise.\"\n—Oracle en-Vec",
+		"number": "249",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397531",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397531.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/wasteland?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397531"
+	  }
+	]
+  },
+  {
+	"name": "Watery Grave",
+	"id": "watery-grave",
+	"url": "https://api.deckbrew.com/mtg/cards/watery-grave",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=watery-grave",
+	"types": [
+	  "land"
+	],
+	"subtypes": [
+	  "island",
+	  "swamp"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "({T}: Add {U} or {B} to your mana pool.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Min Yum",
+		"multiverse_id": 405114,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405114",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405114.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/watery-grave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405114"
+	  },
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"watermark": "Dimir",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 83731,
+		"number": "286",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83731",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83731.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/watery-grave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83731"
+	  },
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Dimir",
+		"rarity": "rare",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 366335,
+		"flavor": "\"I fear that as we scurry after phantoms, the Dimir pull nine puppet strings.\"\n—Ral Zarek",
+		"number": "249",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366335",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366335.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/watery-grave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366335"
+	  }
+	]
+  },
+  {
+	"name": "Windswept Heath",
+	"id": "windswept-heath",
+	"url": "https://api.deckbrew.com/mtg/cards/windswept-heath",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=windswept-heath",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Véronique Meignaud",
+		"multiverse_id": 405115,
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405115",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405115.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/windswept-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405115"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 0,
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/windswept-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Yeong-Hao Han",
+		"multiverse_id": 386725,
+		"flavor": "Where dragons once roared, their bones now keen.",
+		"number": "248",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386725",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386725.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/windswept-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386725"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 39507,
+		"number": "328",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39507",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39507.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/windswept-heath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39507"
+	  }
+	]
+  },
+  {
+	"name": "Wooded Bastion",
+	"id": "wooded-bastion",
+	"url": "https://api.deckbrew.com/mtg/cards/wooded-bastion",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wooded-bastion",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Adam Paquette",
+		"multiverse_id": 409561,
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409561",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409561.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/wooded-bastion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409561"
+	  },
+	  {
+		"set": "Shadowmoor",
+		"set_id": "SHM",
+		"rarity": "rare",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 146747,
+		"flavor": "The elves of Wilt-Leaf Wood continually expand the palisade surrounding the sanctuary. They hope to one day enclose the entire forest within its walls.",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=146747",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/146747.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SHM",
+		"store_url": "http://store.tcgplayer.com/magic/shadowmoor/wooded-bastion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/146747"
+	  }
+	]
+  },
+  {
+	"name": "Wooded Foothills",
+	"id": "wooded-foothills",
+	"url": "https://api.deckbrew.com/mtg/cards/wooded-foothills",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wooded-foothills",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Zendikar Expeditions",
+		"set_id": "EXP",
+		"rarity": "mythic",
+		"artist": "Véronique Meignaud",
+		"multiverse_id": 405116,
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405116",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405116.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EXP",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar-expeditions/wooded-foothills?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405116"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Rob Alexander",
+		"multiverse_id": 0,
+		"number": "47",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/wooded-foothills?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Jonas De Ro",
+		"multiverse_id": 386729,
+		"flavor": "Where dragons' breath once burned, their bones now freeze.",
+		"number": "249",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386729",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386729.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/wooded-foothills?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386729"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Rob Alexander",
+		"multiverse_id": 39506,
+		"number": "330",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39506",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39506.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/wooded-foothills?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39506"
+	  }
+	]
+  }
+]

@@ -1,0 +1,2955 @@
+[
+  {
+	"name": "Akroma's Vengeance",
+	"id": "akromas-vengeance",
+	"url": "https://api.deckbrew.com/mtg/cards/akromas-vengeance",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=akromas-vengeance",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 6,
+	"cost": "{4}{W}{W}",
+	"text": "Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 373328,
+		"flavor": "\"Many must die for the one who should not have perished.\"",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373328",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373328.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/akromas-vengeance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373328"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "rare",
+		"artist": "Greg \u0026 Tim Hildebrandt",
+		"multiverse_id": 247343,
+		"flavor": "Ixidor had only to imagine their ruin and Akroma made it so.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247343",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247343.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/akromas-vengeance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247343"
+	  },
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Greg \u0026 Tim Hildebrandt",
+		"multiverse_id": 41168,
+		"flavor": "Ixidor had only to imagine their ruin and Akroma made it so.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=41168",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/41168.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/akromas-vengeance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/41168"
+	  },
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "rare",
+		"artist": "Greg \u0026 Tim Hildebrandt",
+		"multiverse_id": 205366,
+		"flavor": "Ixidor had only to imagine their ruin and Akroma made it so.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205366",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205366.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/akromas-vengeance?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205366"
+	  }
+	]
+  },
+  {
+	"name": "Chainer's Edict",
+	"id": "chainers-edict",
+	"url": "https://api.deckbrew.com/mtg/cards/chainers-edict",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chainers-edict",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Mark Zug",
+		"multiverse_id": 373317,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373317",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373317.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chainers-edict?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373317"
+	  },
+	  {
+		"set": "Torment",
+		"set_id": "TOR",
+		"rarity": "uncommon",
+		"artist": "Ben Thompson",
+		"multiverse_id": 29603,
+		"flavor": "The pits have their own form of mercy.",
+		"number": "57",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=29603",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/29603.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TOR",
+		"store_url": "http://store.tcgplayer.com/magic/torment/chainers-edict?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/29603"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Ben Thompson",
+		"multiverse_id": 0,
+		"flavor": "The pits have their own form of mercy.",
+		"number": "74",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/chainers-edict?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "common",
+		"artist": "Mark Zug",
+		"multiverse_id": 382881,
+		"number": "108",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382881",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382881.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/chainers-edict?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382881"
+	  }
+	]
+  },
+  {
+	"name": "Chameleon Colossus",
+	"id": "chameleon-colossus",
+	"url": "https://api.deckbrew.com/mtg/cards/chameleon-colossus",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chameleon-colossus",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "shapeshifter"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{2}{G}{G}",
+	"text": "Changeling (This card is every creature type at all times.)\nProtection from black\n{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Darrell Riche",
+		"multiverse_id": 373321,
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373321",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373321.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/chameleon-colossus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373321"
+	  },
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Darrell Riche",
+		"multiverse_id": 405171,
+		"number": "178",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405171",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405171.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/chameleon-colossus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405171"
+	  },
+	  {
+		"set": "Morningtide",
+		"set_id": "MOR",
+		"rarity": "rare",
+		"artist": "Darrell Riche",
+		"multiverse_id": 153450,
+		"number": "116",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=153450",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/153450.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+		"store_url": "http://store.tcgplayer.com/magic/morningtide/chameleon-colossus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/153450"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "rare",
+		"artist": "Darrell Riche",
+		"multiverse_id": 220451,
+		"number": "52",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220451",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220451.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/chameleon-colossus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220451"
+	  }
+	]
+  },
+  {
+	"name": "Char",
+	"id": "char",
+	"url": "https://api.deckbrew.com/mtg/cards/char",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=char",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{2}{R}",
+	"text": "Char deals 4 damage to target creature or player and 2 damage to you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"rarity": "rare",
+		"artist": "Adam Rex",
+		"multiverse_id": 87942,
+		"flavor": "Izzet mages often acquire their magic reagents from dubious sources, so the potency of their spells is never predictable.",
+		"number": "117",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=87942",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/87942.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/char?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/87942"
+	  },
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Adam Rex",
+		"multiverse_id": 373332,
+		"flavor": "Izzet mages often acquire their magic reagents from dubious sources, so the potency of their spells is never predictable.",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373332",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373332.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/char?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373332"
+	  },
+	  {
+		"set": "15th Anniversary",
+		"set_id": "p15A",
+		"rarity": "special",
+		"artist": "Dave Dorman",
+		"multiverse_id": 0,
+		"flavor": "If you've never choked on the embers of your own spell, you aren't casting it hard enough.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/p15A",
+		"store_url": "http://store.tcgplayer.com/magic/15th-anniversary/char?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Cruel Ultimatum",
+	"id": "cruel-ultimatum",
+	"url": "https://api.deckbrew.com/mtg/cards/cruel-ultimatum",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cruel-ultimatum",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black",
+	  "blue",
+	  "red"
+	],
+	"cmc": 7,
+	"cost": "{U}{U}{B}{B}{B}{R}{R}",
+	"text": "Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 373318,
+		"flavor": "There is always a greater power.",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373318",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373318.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/cruel-ultimatum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373318"
+	  },
+	  {
+		"set": "Duel Decks: Ajani vs. Nicol Bolas",
+		"set_id": "DDH",
+		"rarity": "rare",
+		"artist": "Ralph Horsley",
+		"multiverse_id": 259262,
+		"flavor": "There is always a greater power.",
+		"number": "69",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=259262",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/259262.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDH",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-ajani-vs-nicol-bolas/cruel-ultimatum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/259262"
+	  },
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "rare",
+		"artist": "Ralph Horsley",
+		"multiverse_id": 175079,
+		"flavor": "There is always a greater power.",
+		"number": "164",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=175079",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/175079.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/cruel-ultimatum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/175079"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "rare",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 376288,
+		"flavor": "There is always a greater power.",
+		"number": "182",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376288",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376288.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/cruel-ultimatum?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376288"
+	  }
+	]
+  },
+  {
+	"name": "Dark Ritual",
+	"id": "dark-ritual",
+	"url": "https://api.deckbrew.com/mtg/cards/dark-ritual",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dark-ritual",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 1,
+	"cost": "{B}",
+	"text": "Add {B}{B}{B} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 221510,
+		"number": "74",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221510",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221510.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221510"
+	  },
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Clint Langley",
+		"multiverse_id": 373329,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373329",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373329.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373329"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 21154,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21154",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21154.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21154"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 349,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=349",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/349.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/349"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 4646,
+		"flavor": "\"If there is such a thing as too much power, I have not discovered it.\"\n—Volrath",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4646",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4646.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4646"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 1149,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1149",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1149.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1149"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Mark Hyzer",
+		"multiverse_id": 0,
+		"number": "38",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "common",
+		"artist": "Tom Fleming",
+		"multiverse_id": 5626,
+		"flavor": "\"From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus The Grand Evolution began.\"\n—Phyrexian Scriptures",
+		"number": "127",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5626",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5626.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5626"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "common",
+		"artist": "Justin Hampton",
+		"multiverse_id": 0,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Coldsnap Theme Decks",
+		"set_id": "CST",
+		"rarity": "special",
+		"artist": "Justin Hampton",
+		"multiverse_id": 0,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CST",
+		"store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 26632,
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26632",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26632.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26632"
+	  },
+	  {
+		"set": "Rivals Quick Start Set",
+		"set_id": "RQS",
+		"rarity": "special",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RQS",
+		"store_url": "http://store.tcgplayer.com/magic/rivals-quick-start-set/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 382906,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "113",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382906",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382906.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382906"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "common",
+		"artist": "Ken Meyer, Jr.",
+		"multiverse_id": 397401,
+		"flavor": "\"If there is such a thing as too much power, I have not discovered it.\"\n—Volrath",
+		"number": "93",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397401",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397401.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397401"
+	  },
+	  {
+		"set": "Introductory Two-Player Set",
+		"set_id": "ITP",
+		"rarity": "special",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ITP",
+		"store_url": "http://store.tcgplayer.com/magic/introductory-two-player-set/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "common",
+		"artist": "Justin Hampton",
+		"multiverse_id": 2444,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2444",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2444.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2444"
+	  },
+	  {
+		"set": "Duel Decks: Divine vs. Demonic",
+		"set_id": "DDC",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 197019,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=197019",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/197019.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/197019"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 54,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=54",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/54.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/54"
+	  },
+	  {
+		"set": "Duel Decks: Phyrexia vs. the Coalition",
+		"set_id": "DDE",
+		"rarity": "common",
+		"artist": "Tom Fleming",
+		"multiverse_id": 209137,
+		"flavor": "\"From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus the Grand Evolution began.\"\n—Phyrexian Scriptures",
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=209137",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/209137.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/209137"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 651,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=651",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/651.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/651"
+	  },
+	  {
+		"set": "Planechase",
+		"set_id": "HOP",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 205422,
+		"flavor": "\"If there is such a thing as too much power, I have not discovered it.\"\n—Volrath",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205422",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205422.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/HOP",
+		"store_url": "http://store.tcgplayer.com/magic/planechase/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205422"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 2096,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2096",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2096.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2096"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 3836,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3836",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3836.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3836"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Divine vs. Demonic",
+		"set_id": "DD3_DVD",
+		"rarity": "common",
+		"artist": "Clint Langley",
+		"multiverse_id": 394022,
+		"flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394022",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394022.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394022"
+	  },
+	  {
+		"set": "Mirage",
+		"set_id": "MIR",
+		"rarity": "common",
+		"artist": "John Coulthart",
+		"multiverse_id": 3285,
+		"flavor": "\"The ceremony ended with a voice from the shadows, a voice with vast, ominous power.\"\n—Kifimbo, Shadow Guildmage",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3285",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3285.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+		"store_url": "http://store.tcgplayer.com/magic/mirage/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3285"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "common",
+		"artist": "Rebecca Guay",
+		"multiverse_id": 19592,
+		"flavor": "\"Eye of twilight, give us sight.\nTake our offer, give us might.\nMake our power tears of night.\"",
+		"number": "129",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19592",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19592.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/dark-ritual?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19592"
+	  }
+	]
+  },
+  {
+	"name": "Fact or Fiction",
+	"id": "fact-or-fiction",
+	"url": "https://api.deckbrew.com/mtg/cards/fact-or-fiction",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fact-or-fiction",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{3}{U}",
+	"text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 373325,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373325",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373325.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373325"
+	  },
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 405223,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "94",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405223",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405223.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405223"
+	  },
+	  {
+		"set": "Duel Decks: Jace vs. Chandra",
+		"set_id": "DD2",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 185819,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=185819",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/185819.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD2",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-jace-vs-chandra/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/185819"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 247186,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247186",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247186.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247186"
+	  },
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 382265,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382265",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382265.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382265"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 0,
+		"number": "61",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 382930,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "67",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382930",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382930.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382930"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Jace vs. Chandra",
+		"set_id": "DD3_JVC",
+		"rarity": "uncommon",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 393829,
+		"flavor": "\"Try to pretend like you understand what's important.\"",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393829",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393829.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_JVC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-jace-vs-chandra/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393829"
+	  },
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 22998,
+		"number": "57",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=22998",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/22998.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/22998"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 413590,
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413590",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413590.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/fact-or-fiction?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413590"
+	  }
+	]
+  },
+  {
+	"name": "Fyndhorn Elves",
+	"id": "fyndhorn-elves",
+	"url": "https://api.deckbrew.com/mtg/cards/fyndhorn-elves",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=fyndhorn-elves",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "druid",
+	  "elf"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{G}",
+	"text": "{T}: Add {G} to your mana pool.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 373320,
+		"flavor": "\"We could no more abandon the forest than the stars could abandon the night sky.\"",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373320",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373320.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/fyndhorn-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373320"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "common",
+		"artist": "Justin Hampton",
+		"multiverse_id": 0,
+		"flavor": "\"Living side by side with the Elves for so long leaves me with no doubt that we serve the same goddess.\"\n—Kolbjörn, Elder Druid of the Juniper Order",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/fyndhorn-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 382947,
+		"flavor": "\"We could no more abandon the forest than the stars could abandon the night sky.\"",
+		"number": "210",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382947",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382947.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/fyndhorn-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382947"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "common",
+		"artist": "Justin Hampton",
+		"multiverse_id": 2568,
+		"flavor": "\"Living side by side with the Elves for so long leaves me with no doubt that we serve the same goddess.\"\n—Kolbjörn, Elder Druid of the Juniper Order",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2568",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2568.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/fyndhorn-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2568"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "common",
+		"artist": "Justin Hampton",
+		"multiverse_id": 159228,
+		"flavor": "\"Living side by side with the elves for so long leaves me with no doubt that we serve the same goddess.\"\n—Kolbjörn, elder druid of the Juniper Order",
+		"number": "118",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159228",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159228.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/fyndhorn-elves?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159228"
+	  }
+	]
+  },
+  {
+	"name": "Gilded Lotus",
+	"id": "gilded-lotus",
+	"url": "https://api.deckbrew.com/mtg/cards/gilded-lotus",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=gilded-lotus",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 5,
+	"cost": "{5}",
+	"text": "{T}: Add three mana of any one color to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 373335,
+		"flavor": "Over such beauty, wars are fought. With such power, wars are won.",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373335",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373335.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/gilded-lotus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373335"
+	  },
+	  {
+		"set": "Mirrodin",
+		"set_id": "MRD",
+		"rarity": "rare",
+		"artist": "Martina Pilcerova",
+		"multiverse_id": 48189,
+		"flavor": "Over such beauty, wars are fought. With such power, wars are won.",
+		"number": "175",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=48189",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/48189.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin/gilded-lotus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/48189"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "rare",
+		"artist": "Martina Pilcerova",
+		"multiverse_id": 249742,
+		"flavor": "Over such beauty, wars are fought. With such power, wars are won.",
+		"number": "206",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=249742",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/249742.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/gilded-lotus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/249742"
+	  }
+	]
+  },
+  {
+	"name": "Green Sun's Zenith",
+	"id": "green-suns-zenith",
+	"url": "https://api.deckbrew.com/mtg/cards/green-suns-zenith",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=green-suns-zenith",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 1,
+	"cost": "{X}{G}",
+	"text": "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "David Rapoza",
+		"multiverse_id": 373333,
+		"flavor": "As the green sun crowned, Phyrexian prophecies glowed on the Tree of Tales.",
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373333",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373333.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/green-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373333"
+	  },
+	  {
+		"set": "Mirrodin Besieged",
+		"set_id": "MBS",
+		"watermark": "Phyrexian",
+		"rarity": "rare",
+		"artist": "David Rapoza",
+		"multiverse_id": 221559,
+		"flavor": "As the green sun crowned, Phyrexian prophecies glowed on the Tree of Tales.",
+		"number": "81",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221559",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221559.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/green-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221559"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "rare",
+		"artist": "David Rapoza",
+		"multiverse_id": 413711,
+		"flavor": "As the green sun crowned, Phyrexian prophecies glowed on the Tree of Tales.",
+		"number": "169",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/green-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413711"
+	  }
+	]
+  },
+  {
+	"name": "Hymn to Tourach",
+	"id": "hymn-to-tourach",
+	"url": "https://api.deckbrew.com/mtg/cards/hymn-to-tourach",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hymn-to-tourach",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{B}{B}",
+	"text": "Target player discards two cards at random.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Greg Staples",
+		"multiverse_id": 373324,
+		"flavor": "The priests plead for your anguish and pray for your despair.",
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373324",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373324.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373324"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Liz Danforth",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 382976,
+		"flavor": "The priests plead for your anguish and pray for your despair.",
+		"number": "122",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382976",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382976.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382976"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Liz Danforth",
+		"multiverse_id": 1849,
+		"flavor": "\"Tourach's power was such that his followers deified him after his death.\"\n—Sarpadian Empires, vol. II",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1849",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1849.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1849"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Susan Van Camp",
+		"multiverse_id": 1850,
+		"flavor": "\"The eerie, wailing Hymn caused insanity even in hardened warriors.\"\n—Sarpadian Empires, vol. II",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1850",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1850.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1850"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Quinton Hoover",
+		"multiverse_id": 1851,
+		"flavor": "Knowing the Hymn's power, the followers of Leitbur carefully guarded their pillaged transcriptions.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1851",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1851.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1851"
+	  },
+	  {
+		"set": "Fallen Empires",
+		"set_id": "FEM",
+		"rarity": "common",
+		"artist": "Scott Kirschner",
+		"multiverse_id": 1852,
+		"flavor": "Members of the Order often played the Hymn on instruments made from their victims' bones.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1852",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1852.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FEM",
+		"store_url": "http://store.tcgplayer.com/magic/fallen-empires/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1852"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 413634,
+		"flavor": "The priests plead for your anguish and pray for your despair.",
+		"number": "92",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413634",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413634.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413634"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "uncommon",
+		"artist": "Quinton Hoover",
+		"multiverse_id": 159180,
+		"flavor": "Knowing the hymn's power, the followers of Leitbur carefully guarded their pillaged transciptions.",
+		"number": "73",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159180",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159180.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/hymn-to-tourach?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159180"
+	  }
+	]
+  },
+  {
+	"name": "Impulse",
+	"id": "impulse",
+	"url": "https://api.deckbrew.com/mtg/cards/impulse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=impulse",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Izzy",
+		"multiverse_id": 373330,
+		"flavor": "\"You call it luck. I call it preparation.\"",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373330",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373330.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/impulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373330"
+	  },
+	  {
+		"set": "Visions",
+		"set_id": "VIS",
+		"rarity": "common",
+		"artist": "Bryan Talbot",
+		"multiverse_id": 3641,
+		"flavor": "\"Controlling time ensures you need never look impulsive again.\"\n—Teferi",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3641",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3641.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+		"store_url": "http://store.tcgplayer.com/magic/visions/impulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3641"
+	  },
+	  {
+		"set": "Duel Decks: Speed vs. Cunning",
+		"set_id": "DDN",
+		"rarity": "common",
+		"artist": "Izzy",
+		"multiverse_id": 386330,
+		"flavor": "\"You call it luck. I call it preparation.\"",
+		"number": "63",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386330",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386330.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDN",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-speed-vs-cunning/impulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386330"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Bryan Talbot",
+		"multiverse_id": 26616,
+		"flavor": "\"Controlling time ensures you need never look impulsive again.\"\n—Teferi",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26616",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26616.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/impulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26616"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Bryan Talbot",
+		"multiverse_id": 0,
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/impulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Ink-Eyes, Servant of Oni",
+	"id": "ink-eyes-servant-of-oni",
+	"url": "https://api.deckbrew.com/mtg/cards/ink-eyes-servant-of-oni",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ink-eyes-servant-of-oni",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "ninja",
+	  "rat"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{4}{B}{B}",
+	"text": "Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\n{1}{B}: Regenerate Ink-Eyes.",
+	"power": "5",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 373327,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373327",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373327.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/ink-eyes-servant-of-oni?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373327"
+	  },
+	  {
+		"set": "Betrayers of Kamigawa",
+		"set_id": "BOK",
+		"rarity": "rare",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 74626,
+		"number": "71",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=74626",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/74626.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+		"store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/ink-eyes-servant-of-oni?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/74626"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Ron Spears",
+		"multiverse_id": 0,
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/ink-eyes-servant-of-oni?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Planechase 2012 Edition",
+		"set_id": "PC2",
+		"rarity": "rare",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 271182,
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=271182",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/271182.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+		"store_url": "http://store.tcgplayer.com/magic/planechase-2012/ink-eyes-servant-of-oni?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/271182"
+	  }
+	]
+  },
+  {
+	"name": "Jace, the Mind Sculptor",
+	"id": "jace-the-mind-sculptor",
+	"url": "https://api.deckbrew.com/mtg/cards/jace-the-mind-sculptor",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=jace-the-mind-sculptor",
+	"types": [
+	  "planeswalker"
+	],
+	"subtypes": [
+	  "jace"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{2}{U}{U}",
+	"text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.",
+	"loyalty": 3,
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 373316,
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373316",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373316.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/jace-the-mind-sculptor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373316"
+	  },
+	  {
+		"set": "Worldwake",
+		"set_id": "WWK",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 195297,
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=195297",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/195297.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/WWK",
+		"store_url": "http://store.tcgplayer.com/magic/worldwake/jace-the-mind-sculptor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/195297"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 382979,
+		"number": "74",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382979",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382979.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/jace-the-mind-sculptor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382979"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 413599,
+		"number": "57",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413599",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413599.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/jace-the-mind-sculptor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413599"
+	  }
+	]
+  },
+  {
+	"name": "Kessig Wolf Run",
+	"id": "kessig-wolf-run",
+	"url": "https://api.deckbrew.com/mtg/cards/kessig-wolf-run",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kessig-wolf-run",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "{T}: Add {C} to your mana pool.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Eytan Zana",
+		"multiverse_id": 373323,
+		"flavor": "When a werewolf changes for the first time, that first howl is said to echo through the wilds till moonset.",
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373323",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373323.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/kessig-wolf-run?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373323"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "rare",
+		"artist": "Eytan Zana",
+		"multiverse_id": 233256,
+		"flavor": "When a werewolf changes for the first time, that first howl is said to echo through the wilds till moonset.",
+		"number": "243",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=233256",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/233256.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/kessig-wolf-run?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/233256"
+	  }
+	]
+  },
+  {
+	"name": "Swords to Plowshares",
+	"id": "swords-to-plowshares",
+	"url": "https://api.deckbrew.com/mtg/cards/swords-to-plowshares",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=swords-to-plowshares",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{W}",
+	"text": "Exile target creature. Its controller gains life equal to its power.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 202462,
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202462",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202462.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202462"
+	  },
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 373334,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373334",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373334.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373334"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 21172,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21172",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21172.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21172"
+	  },
+	  {
+		"set": "Masters Edition II",
+		"set_id": "ME2",
+		"rarity": "uncommon",
+		"artist": "Kaja Foglio",
+		"multiverse_id": 184675,
+		"flavor": "\"The so-called barbarians will not respect us for our military might—they will respect us for our honor.\"\n—Lucilde Fiksdotter, leader of the Order of the White Shield",
+		"number": "37",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=184675",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/184675.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME2",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-ii/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/184675"
+	  },
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 382380,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "84",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382380",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382380.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382380"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 567,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=567",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/567.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/567"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 1367,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1367",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1367.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1367"
+	  },
+	  {
+		"set": "Judge Gift Program",
+		"set_id": "pJGP",
+		"rarity": "special",
+		"artist": "Sam Wolfe Connelly",
+		"multiverse_id": 0,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "72",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+		"store_url": "http://store.tcgplayer.com/magic/judge-gift-program/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Coldsnap Theme Decks",
+		"set_id": "CST",
+		"rarity": "special",
+		"artist": "Kaja Foglio",
+		"multiverse_id": 0,
+		"flavor": "\"The so-called Barbarians will not respect us for our military might—they will respect us for our honor.\"\n—Lucilde Fiksdotter, Leader of the Order of the White Shield",
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CST",
+		"store_url": "http://store.tcgplayer.com/magic/coldsnap-theme-decks/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 0,
+		"flavor": "\"Peace hath her victories No less renownd than war.\" - John Milton, \"To the Lord General Cromwell\"",
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Elspeth vs. Tezzeret",
+		"set_id": "DDF",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 218581,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=218581",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/218581.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDF",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-tezzeret/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/218581"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 383119,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "51",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383119",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383119.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383119"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 413574,
+		"flavor": "The smallest seed of regret can bloom into redemption.",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413574",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413574.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413574"
+	  },
+	  {
+		"set": "Ice Age",
+		"set_id": "ICE",
+		"rarity": "uncommon",
+		"artist": "Kaja Foglio",
+		"multiverse_id": 2714,
+		"flavor": "\"The so-called Barbarians will not respect us for our military might—they will respect us for our honor.\"\n—Lucilde Fiksdotter, Leader of the Order of the White Shield",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2714",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2714.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ICE",
+		"store_url": "http://store.tcgplayer.com/magic/ice-age/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2714"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 271,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=271",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/271.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/271"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 0,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 869,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=869",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/869.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/869"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Jeff A. Menges",
+		"multiverse_id": 2367,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2367",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2367.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/swords-to-plowshares?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2367"
+	  }
+	]
+  },
+  {
+	"name": "Tangle Wire",
+	"id": "tangle-wire",
+	"url": "https://api.deckbrew.com/mtg/cards/tangle-wire",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tangle-wire",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 3,
+	"cost": "{3}",
+	"text": "Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Nemesis",
+		"set_id": "NMS",
+		"rarity": "rare",
+		"artist": "Glen Angus",
+		"multiverse_id": 21399,
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21399",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21399.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NMS",
+		"store_url": "http://store.tcgplayer.com/magic/nemesis/tangle-wire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21399"
+	  },
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Marco Nelor",
+		"multiverse_id": 373322,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373322",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373322.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/tangle-wire?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373322"
+	  }
+	]
+  },
+  {
+	"name": "Thran Dynamo",
+	"id": "thran-dynamo",
+	"url": "https://api.deckbrew.com/mtg/cards/thran-dynamo",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=thran-dynamo",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 4,
+	"cost": "{4}",
+	"text": "{T}: Add {C}{C}{C} to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Ron Spears",
+		"multiverse_id": 373331,
+		"flavor": "Urza's metathran children were conceived, birthed, and nurtured by an integrated system of machines.",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373331",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373331.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/thran-dynamo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373331"
+	  },
+	  {
+		"set": "Urza's Destiny",
+		"set_id": "UDS",
+		"rarity": "uncommon",
+		"artist": "Ron Spears",
+		"multiverse_id": 15248,
+		"flavor": "Urza's metathran children were conceived, birthed, and nurtured by an integrated system of machines.",
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15248",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15248.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/UDS",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-destiny/thran-dynamo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15248"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "uncommon",
+		"artist": "Ron Spears",
+		"multiverse_id": 220506,
+		"flavor": "Urza's metathran children were conceived, birthed, and nurtured by an integrated system of machines.",
+		"number": "121",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220506",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220506.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/thran-dynamo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220506"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Ron Spears",
+		"multiverse_id": 389718,
+		"flavor": "Urza's metathran children were conceived, birthed, and nurtured by an integrated system of machines.",
+		"number": "277",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389718",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389718.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/thran-dynamo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389718"
+	  }
+	]
+  },
+  {
+	"name": "Venser, Shaper Savant",
+	"id": "venser-shaper-savant",
+	"url": "https://api.deckbrew.com/mtg/cards/venser-shaper-savant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=venser-shaper-savant",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{2}{U}{U}",
+	"text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Eric Deschamps",
+		"multiverse_id": 373326,
+		"flavor": "His marvels of artifice pale in comparison to the developing machinery of his mind.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373326",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373326.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/venser-shaper-savant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373326"
+	  },
+	  {
+		"set": "Future Sight",
+		"set_id": "FUT",
+		"rarity": "rare",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 136209,
+		"flavor": "His marvels of artifice pale in comparison to the developing machinery of his mind.",
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=136209",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/136209.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FUT",
+		"store_url": "http://store.tcgplayer.com/magic/future-sight/venser-shaper-savant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/136209"
+	  }
+	]
+  },
+  {
+	"name": "Wall of Blossoms",
+	"id": "wall-of-blossoms",
+	"url": "https://api.deckbrew.com/mtg/cards/wall-of-blossoms",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=wall-of-blossoms",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "plant",
+	  "wall"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{1}{G}",
+	"text": "Defender\nWhen Wall of Blossoms enters the battlefield, draw a card.",
+	"power": "0",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Twenty",
+		"set_id": "V13",
+		"rarity": "mythic",
+		"artist": "Heather Hudson",
+		"multiverse_id": 373319,
+		"flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373319",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373319.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V13",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373319"
+	  },
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "uncommon",
+		"artist": "Heather Hudson",
+		"multiverse_id": 405447,
+		"flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+		"number": "211",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405447",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405447.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405447"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Heather Hudson",
+		"multiverse_id": 0,
+		"flavor": "\"Everything in Nature contains all the powers of Nature.\" - Ralph Waldo Emerson, \"Compensation\"",
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "uncommon",
+		"artist": "Heather Hudson",
+		"multiverse_id": 397479,
+		"flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+		"number": "205",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397479",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397479.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397479"
+	  },
+	  {
+		"set": "Stronghold",
+		"set_id": "STH",
+		"rarity": "uncommon",
+		"artist": "Heather Hudson",
+		"multiverse_id": 5265,
+		"flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5265",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5265.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/STH",
+		"store_url": "http://store.tcgplayer.com/magic/stronghold/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5265"
+	  },
+	  {
+		"set": "Planechase 2012 Edition",
+		"set_id": "PC2",
+		"rarity": "uncommon",
+		"artist": "Heather Hudson",
+		"multiverse_id": 275262,
+		"flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+		"number": "81",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=275262",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/275262.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+		"store_url": "http://store.tcgplayer.com/magic/planechase-2012/wall-of-blossoms?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/275262"
+	  }
+	]
+  }
+]

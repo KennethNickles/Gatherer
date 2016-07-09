@@ -1,0 +1,873 @@
+[
+  {
+	"name": "All Is Dust",
+	"id": "all-is-dust",
+	"url": "https://api.deckbrew.com/mtg/cards/all-is-dust",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=all-is-dust",
+	"types": [
+	  "sorcery",
+	  "tribal"
+	],
+	"subtypes": [
+	  "eldrazi"
+	],
+	"cmc": 7,
+	"cost": "{7}",
+	"text": "Each player sacrifices all colored permanents he or she controls.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Vincent Proce",
+		"multiverse_id": 0,
+		"flavor": "\"The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets.\"\n—Javad Nasrin, Ondu relic hunter",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/all-is-dust?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "rare",
+		"artist": "Jason Felix",
+		"multiverse_id": 397750,
+		"flavor": "\"The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets.\"\n—Javad Nasrin, Ondu relic hunter",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397750",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397750.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/all-is-dust?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397750"
+	  },
+	  {
+		"set": "Rise of the Eldrazi",
+		"set_id": "ROE",
+		"rarity": "mythic",
+		"artist": "Jason Felix",
+		"multiverse_id": 193658,
+		"flavor": "\"The emergence of the Eldrazi isn't necessarily a bad thing, as long as you've already lived a fulfilling and complete life without regrets.\"\n—Javad Nasrin, Ondu relic hunter",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193658",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193658.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ROE",
+		"store_url": "http://store.tcgplayer.com/magic/rise-of-the-eldrazi/all-is-dust?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193658"
+	  }
+	]
+  },
+  {
+	"name": "Batterskull",
+	"id": "batterskull",
+	"url": "https://api.deckbrew.com/mtg/cards/batterskull",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=batterskull",
+	"types": [
+	  "artifact"
+	],
+	"subtypes": [
+	  "equipment"
+	],
+	"cmc": 5,
+	"cost": "{5}",
+	"text": "Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)\nEquipped creature gets +4/+4 and has vigilance and lifelink.\n{3}: Return Batterskull to its owner's hand.\nEquip {5}",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/batterskull?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Phyrexian",
+		"rarity": "mythic",
+		"artist": "Mark Zug",
+		"multiverse_id": 233055,
+		"number": "130",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=233055",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/233055.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/batterskull?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/233055"
+	  }
+	]
+  },
+  {
+	"name": "Call of the Herd",
+	"id": "call-of-the-herd",
+	"url": "https://api.deckbrew.com/mtg/cards/call-of-the-herd",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=call-of-the-herd",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "Put a 3/3 green Elephant creature token onto the battlefield.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Odyssey",
+		"set_id": "ODY",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 29786,
+		"number": "231",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=29786",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/29786.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+		"store_url": "http://store.tcgplayer.com/magic/odyssey/call-of-the-herd?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/29786"
+	  },
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Lars Grant-West",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/call-of-the-herd?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 109672,
+		"number": "74",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109672",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109672.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/call-of-the-herd?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/109672"
+	  }
+	]
+  },
+  {
+	"name": "Chrome Mox",
+	"id": "chrome-mox",
+	"url": "https://api.deckbrew.com/mtg/cards/chrome-mox",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chrome-mox",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 0,
+	"cost": "{0}",
+	"text": "Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors to your mana pool.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Alan Pollack",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/chrome-mox?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Mirrodin",
+		"set_id": "MRD",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 47446,
+		"number": "152",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=47446",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/47446.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin/chrome-mox?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/47446"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "mythic",
+		"artist": "Volkan Baga",
+		"multiverse_id": 413761,
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413761",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413761.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/chrome-mox?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413761"
+	  }
+	]
+  },
+  {
+	"name": "Goblin Guide",
+	"id": "goblin-guide",
+	"url": "https://api.deckbrew.com/mtg/cards/goblin-guide",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=goblin-guide",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin",
+	  "scout"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 1,
+	"cost": "{R}",
+	"text": "Haste\nWhenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Steve Prescott",
+		"multiverse_id": 0,
+		"flavor": "\"I've been all over this world. I even remember some of those places.\"",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/goblin-guide?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "rare",
+		"artist": "Warren Mahy",
+		"multiverse_id": 170987,
+		"flavor": "\"I've been all over this world. I even remember some of those places.\"",
+		"number": "126",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=170987",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/170987.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/goblin-guide?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/170987"
+	  }
+	]
+  },
+  {
+	"name": "Griselbrand",
+	"id": "griselbrand",
+	"url": "https://api.deckbrew.com/mtg/cards/griselbrand",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=griselbrand",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "demon"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 8,
+	"cost": "{4}{B}{B}{B}{B}",
+	"text": "Flying, lifelink\nPay 7 life: Draw seven cards.",
+	"power": "7",
+	"toughness": "7",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Jaime Jones",
+		"multiverse_id": 0,
+		"flavor": "\"Avacyn emerged from the broken Helvault, but her freedom came at a price—him.\"\n—Thalia, Knight-Cathar",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/griselbrand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Avacyn Restored",
+		"set_id": "AVR",
+		"rarity": "mythic",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 239995,
+		"flavor": "\"Avacyn emerged from the broken Helvault, but her freedom came at a price—him.\"\n—Thalia, Knight-Cathar",
+		"number": "106",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=239995",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/239995.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/griselbrand?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/239995"
+	  }
+	]
+  },
+  {
+	"name": "Lotus Cobra",
+	"id": "lotus-cobra",
+	"url": "https://api.deckbrew.com/mtg/cards/lotus-cobra",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lotus-cobra",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "snake"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{1}{G}",
+	"text": "Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 0,
+		"flavor": "Its scales contain the essence of thousands of lotus blooms.",
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/lotus-cobra?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "mythic",
+		"artist": "Chippy",
+		"multiverse_id": 185749,
+		"flavor": "Its scales contain the essence of thousands of lotus blooms.",
+		"number": "168",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=185749",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/185749.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/lotus-cobra?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/185749"
+	  }
+	]
+  },
+  {
+	"name": "Maelstrom Pulse",
+	"id": "maelstrom-pulse",
+	"url": "https://api.deckbrew.com/mtg/cards/maelstrom-pulse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=maelstrom-pulse",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black",
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{B}{G}",
+	"text": "Destroy target nonland permanent and all other permanents with the same name as that permanent.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Alara Reborn",
+		"set_id": "ARB",
+		"rarity": "rare",
+		"artist": "Anthony Francisco",
+		"multiverse_id": 180613,
+		"flavor": "During the collision of the shards, entire ways of life disappeared without a trace.",
+		"number": "92",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=180613",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/180613.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+		"store_url": "http://store.tcgplayer.com/magic/alara-reborn/maelstrom-pulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/180613"
+	  },
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "John Avon",
+		"multiverse_id": 0,
+		"flavor": "During the collision of the shards, entire ways of life disappeared without a trace.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/maelstrom-pulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "John Avon",
+		"multiverse_id": 370521,
+		"flavor": "During the collision of the shards, entire ways of life disappeared without a trace.",
+		"number": "180",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370521",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370521.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/maelstrom-pulse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370521"
+	  }
+	]
+  },
+  {
+	"name": "Primeval Titan",
+	"id": "primeval-titan",
+	"url": "https://api.deckbrew.com/mtg/cards/primeval-titan",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=primeval-titan",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "giant"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 6,
+	"cost": "{4}{G}{G}",
+	"text": "Trample\nWhenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "banned",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 241832,
+		"flavor": "When nature calls, run.",
+		"number": "188",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=241832",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/241832.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/primeval-titan?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/241832"
+	  },
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Peter Mohrbacher",
+		"multiverse_id": 0,
+		"flavor": "When nature calls, run.",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/primeval-titan?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 397688,
+		"flavor": "When nature calls, run.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/primeval-titan?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397688"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "mythic",
+		"artist": "Aleksi Briclot",
+		"multiverse_id": 205027,
+		"flavor": "When nature calls, run.",
+		"number": "192",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205027",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205027.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/primeval-titan?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205027"
+	  }
+	]
+  },
+  {
+	"name": "Spiritmonger",
+	"id": "spiritmonger",
+	"url": "https://api.deckbrew.com/mtg/cards/spiritmonger",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=spiritmonger",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "beast"
+	],
+	"colors": [
+	  "black",
+	  "green"
+	],
+	"cmc": 5,
+	"cost": "{3}{B}{G}",
+	"text": "Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.\n{G}: Spiritmonger becomes the color of your choice until end of turn.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 382370,
+		"number": "193",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382370",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382370.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/spiritmonger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382370"
+	  },
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/spiritmonger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Vintage Masters",
+		"set_id": "VMA",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 383110,
+		"number": "262",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383110",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383110.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+		"store_url": "http://store.tcgplayer.com/magic/vintage-masters/spiritmonger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383110"
+	  },
+	  {
+		"set": "Apocalypse",
+		"set_id": "APC",
+		"rarity": "rare",
+		"artist": "Glen Angus",
+		"multiverse_id": 28009,
+		"number": "121",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=28009",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/28009.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/APC",
+		"store_url": "http://store.tcgplayer.com/magic/apocalypse/spiritmonger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/28009"
+	  }
+	]
+  },
+  {
+	"name": "Umezawa's Jitte",
+	"id": "umezawas-jitte",
+	"url": "https://api.deckbrew.com/mtg/cards/umezawas-jitte",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=umezawas-jitte",
+	"types": [
+	  "artifact"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "equipment"
+	],
+	"cmc": 2,
+	"cost": "{2}",
+	"text": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "banned",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Grand Prix",
+		"set_id": "pGPX",
+		"rarity": "special",
+		"artist": "Svetlin Velinov",
+		"multiverse_id": 0,
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pGPX",
+		"store_url": "http://store.tcgplayer.com/magic/grand-prix/umezawas-jitte?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Betrayers of Kamigawa",
+		"set_id": "BOK",
+		"rarity": "rare",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 81979,
+		"number": "163",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=81979",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/81979.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BOK",
+		"store_url": "http://store.tcgplayer.com/magic/betrayers-of-kamigawa/umezawas-jitte?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/81979"
+	  }
+	]
+  }
+]

@@ -1,0 +1,1140 @@
+[
+  {
+    "name": "Blood Knight",
+    "id": "blood-knight",
+    "url": "https://api.deckbrew.com/mtg/cards/blood-knight",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=blood-knight",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "human",
+      "knight"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{R}{R}",
+    "text": "First strike, protection from white",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 0,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/blood-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "uncommon",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 130715,
+        "flavor": "His is the fury of the wildfire, the boiling blood of the volcano. He fights you not because you've wronged him, but because you're there.",
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=130715",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/130715.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/blood-knight?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/130715"
+      }
+    ]
+  },
+  {
+    "name": "Bramblewood Paragon",
+    "id": "bramblewood-paragon",
+    "url": "https://api.deckbrew.com/mtg/cards/bramblewood-paragon",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bramblewood-paragon",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "uncommon",
+        "artist": "Jim Murray",
+        "multiverse_id": 153139,
+        "flavor": "Those who seek to escape her blades succeed only in dying on their stomachs.",
+        "number": "115",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=153139",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/153139.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/bramblewood-paragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/153139"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Jim Murray",
+        "multiverse_id": 0,
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/bramblewood-paragon?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Doran, the Siege Tower",
+    "id": "doran-the-siege-tower",
+    "url": "https://api.deckbrew.com/mtg/cards/doran-the-siege-tower",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=doran-the-siege-tower",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "shaman",
+      "treefolk"
+    ],
+    "colors": [
+      "black",
+      "green",
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{B}{G}{W}",
+    "text": "Each creature assigns combat damage equal to its toughness rather than its power.",
+    "power": "0",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "rare",
+        "artist": "Mark Zug",
+        "multiverse_id": 140201,
+        "flavor": "\"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.\"",
+        "number": "247",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=140201",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/140201.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/doran-the-siege-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/140201"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Mark Zug",
+        "multiverse_id": 0,
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/doran-the-siege-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "From the Vault: Legends",
+        "set_id": "V11",
+        "rarity": "mythic",
+        "artist": "Mark Zug",
+        "multiverse_id": 244674,
+        "flavor": "\"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.\"",
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=244674",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/244674.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V11",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-legends/doran-the-siege-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/244674"
+      }
+    ]
+  },
+  {
+    "name": "Electrolyze",
+    "id": "electrolyze",
+    "url": "https://api.deckbrew.com/mtg/cards/electrolyze",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=electrolyze",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{1}{U}{R}",
+    "text": "Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Izzet",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 96829,
+        "flavor": "The Izzet learn something from every lesson they teach.",
+        "number": "111",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96829",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96829.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96829"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 397832,
+        "flavor": "The Izzet learn something from every lesson they teach.",
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397832",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397832.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397832"
+      },
+      {
+        "set": "Media Inserts",
+        "set_id": "pMEI",
+        "rarity": "special",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 0,
+        "number": "42",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pMEI",
+        "store_url": "http://store.tcgplayer.com/magic/media-inserts/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 0,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 247276,
+        "flavor": "The Izzet learn something from every lesson they teach.",
+        "number": "197",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=247276",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/247276.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/247276"
+      },
+      {
+        "set": "Modern Masters",
+        "set_id": "MMA",
+        "watermark": "Izzet",
+        "rarity": "uncommon",
+        "artist": "Zoltan Boros \u0026 Gabor Szikszai",
+        "multiverse_id": 370376,
+        "flavor": "The Izzet learn something from every lesson they teach.",
+        "number": "175",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370376",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370376.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters/electrolyze?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370376"
+      }
+    ]
+  },
+  {
+    "name": "Groundbreaker",
+    "id": "groundbreaker",
+    "url": "https://api.deckbrew.com/mtg/cards/groundbreaker",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=groundbreaker",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{G}{G}{G}",
+    "text": "Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.",
+    "power": "6",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 0,
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/groundbreaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Planar Chaos",
+        "set_id": "PLC",
+        "rarity": "rare",
+        "artist": "Matt Cavotta",
+        "multiverse_id": 122429,
+        "flavor": "The earth's memory is long, its retribution brief.",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=122429",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/122429.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+        "store_url": "http://store.tcgplayer.com/magic/planar-chaos/groundbreaker?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/122429"
+      }
+    ]
+  },
+  {
+    "name": "Imperious Perfect",
+    "id": "imperious-perfect",
+    "url": "https://api.deckbrew.com/mtg/cards/imperious-perfect",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=imperious-perfect",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "elf",
+      "warrior"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{2}{G}",
+    "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 389554,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "202",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389554",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389554.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389554"
+      },
+      {
+        "set": "Duel Decks Anthology, Elves vs. Goblins",
+        "set_id": "DD3_EVG",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 393969,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=393969",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/393969.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DD3_EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-elves-vs-goblins/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/393969"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 413715,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "173",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413715",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413715.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413715"
+      },
+      {
+        "set": "Duel Decks: Elves vs. Goblins",
+        "set_id": "EVG",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 158123,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=158123",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/158123.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EVG",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-elves-vs-goblins/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/158123"
+      },
+      {
+        "set": "Lorwyn",
+        "set_id": "LRW",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 139683,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "220",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=139683",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/139683.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LRW",
+        "store_url": "http://store.tcgplayer.com/magic/lorwyn/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/139683"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 0,
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Duels of the Planeswalkers",
+        "set_id": "DPA",
+        "rarity": "uncommon",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 0,
+        "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/imperious-perfect?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Mutavault",
+    "id": "mutavault",
+    "url": "https://api.deckbrew.com/mtg/cards/mutavault",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mutavault",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Morningtide",
+        "set_id": "MOR",
+        "rarity": "rare",
+        "artist": "Fred Fields",
+        "multiverse_id": 152724,
+        "flavor": "Some changelings born at Velis Vel never return, but their essence never leaves.",
+        "number": "148",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=152724",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/152724.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MOR",
+        "store_url": "http://store.tcgplayer.com/magic/morningtide/mutavault?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/152724"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Fred Fields",
+        "multiverse_id": 0,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/mutavault?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Magic 2014 Core Set",
+        "set_id": "M14",
+        "rarity": "rare",
+        "artist": "Fred Fields",
+        "multiverse_id": 370733,
+        "flavor": "Some worlds possess a hidden core where life's essence constantly surges.",
+        "number": "228",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=370733",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/370733.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M14",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/mutavault?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/370733"
+      }
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, the Firemind",
+    "id": "niv-mizzet-the-firemind",
+    "url": "https://api.deckbrew.com/mtg/cards/niv-mizzet-the-firemind",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=niv-mizzet-the-firemind",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "dragon",
+      "wizard"
+    ],
+    "colors": [
+      "blue",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{2}{U}{U}{R}{R}",
+    "text": "Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.\n{T}: Draw a card.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Duel Decks: Izzet vs. Golgari",
+        "set_id": "DDJ",
+        "rarity": "mythic",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 292738,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=292738",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/292738.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDJ",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-izzet-vs-golgari/niv-mizzet-the-firemind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/292738"
+      },
+      {
+        "set": "From the Vault: Dragons",
+        "set_id": "DRB",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 178023,
+        "flavor": "As brilliant as a cut diamond, and with just as cruel an edge.",
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=178023",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/178023.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/niv-mizzet-the-firemind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/178023"
+      },
+      {
+        "set": "Guildpact",
+        "set_id": "GPT",
+        "watermark": "Izzet",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 96952,
+        "flavor": "\"(Z–\u003e)90° – (E–N²W)90°t = 1\"",
+        "number": "123",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=96952",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/96952.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+        "store_url": "http://store.tcgplayer.com/magic/guildpact/niv-mizzet-the-firemind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/96952"
+      },
+      {
+        "set": "Modern Masters 2015 Edition",
+        "set_id": "MM2",
+        "rarity": "rare",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 397851,
+        "number": "182",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=397851",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/397851.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+        "store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/niv-mizzet-the-firemind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/397851"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Todd Lockwood",
+        "multiverse_id": 0,
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/niv-mizzet-the-firemind?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Rakdos Guildmage",
+    "id": "rakdos-guildmage",
+    "url": "https://api.deckbrew.com/mtg/cards/rakdos-guildmage",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rakdos-guildmage",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "shaman",
+      "zombie"
+    ],
+    "colors": [
+      "black",
+      "red"
+    ],
+    "cmc": 2,
+    "cost": "{B/R}{B/R}",
+    "text": "({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.\n{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Rakdos",
+        "rarity": "uncommon",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 97108,
+        "number": "145",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97108",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97108.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/rakdos-guildmage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97108"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "uncommon",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 220542,
+        "number": "92",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220542",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220542.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/rakdos-guildmage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220542"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Jeremy Jarvis",
+        "multiverse_id": 0,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/rakdos-guildmage?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  },
+  {
+    "name": "Serra Avenger",
+    "id": "serra-avenger",
+    "url": "https://api.deckbrew.com/mtg/cards/serra-avenger",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=serra-avenger",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "angel"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 2,
+    "cost": "{W}{W}",
+    "text": "You can't cast Serra Avenger during your first, second, or third turns of the game.\nFlying\nVigilance (Attacking doesn't cause this creature to tap.)",
+    "power": "3",
+    "toughness": "3",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic 2013",
+        "set_id": "M13",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 288762,
+        "number": "33",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=288762",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/288762.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/M13",
+        "store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/serra-avenger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/288762"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 0,
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/serra-avenger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "rare",
+        "artist": "Scott M. Fischer",
+        "multiverse_id": 113519,
+        "flavor": "\"Those who endure in the face of suffering, those whose faith shines long in evil days, they shall see salvation.\"\n—Song of All, canto 904",
+        "number": "40",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=113519",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/113519.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/serra-avenger?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/113519"
+      }
+    ]
+  },
+  {
+    "name": "Urza's Factory",
+    "id": "urzas-factory",
+    "url": "https://api.deckbrew.com/mtg/cards/urzas-factory",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=urzas-factory",
+    "types": [
+      "land"
+    ],
+    "subtypes": [
+      "urza’s"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add {C} to your mana pool.\n{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Mark Tedin",
+        "multiverse_id": 0,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/urzas-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 376564,
+        "flavor": "\"Though their ideals are leagues apart, Urza's and Mishra's creations have a surprising harmony with one another.\"\n—Tocasia, journal entry",
+        "number": "331",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376564",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376564.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/urzas-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376564"
+      },
+      {
+        "set": "Time Spiral",
+        "set_id": "TSP",
+        "rarity": "uncommon",
+        "artist": "Mark Tedin",
+        "multiverse_id": 116384,
+        "flavor": "\"Though their ideals are leagues apart, Urza's and Mishra's creations have a surprising harmony with one another.\"\n—Tocasia, journal entry",
+        "number": "280",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=116384",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/116384.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+        "store_url": "http://store.tcgplayer.com/magic/time-spiral/urzas-factory?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/116384"
+      }
+    ]
+  },
+  {
+    "name": "Voidslime",
+    "id": "voidslime",
+    "url": "https://api.deckbrew.com/mtg/cards/voidslime",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=voidslime",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{G}{U}{U}",
+    "text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Dissension",
+        "set_id": "DIS",
+        "watermark": "Simic",
+        "rarity": "rare",
+        "artist": "Jim Murray",
+        "multiverse_id": 97096,
+        "flavor": "\"It is technically an ooze, but its lifespan measures only seconds. In that short time, its appetite for magic is extraordinary.\"\n—Simic research notes",
+        "number": "137",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=97096",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/97096.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DIS",
+        "store_url": "http://store.tcgplayer.com/magic/dissension/voidslime?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/97096"
+      },
+      {
+        "set": "Champs and States",
+        "set_id": "pCMP",
+        "rarity": "special",
+        "artist": "Jim Murray",
+        "multiverse_id": 0,
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+        "store_url": "http://store.tcgplayer.com/magic/champs-and-states/voidslime?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      }
+    ]
+  }
+]

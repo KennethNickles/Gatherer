@@ -26,6 +26,11 @@ public class Set implements Parcelable {
         this.mState = state;
     }
 
+    @NonNull
+    public static Builder builder() {
+        return new Builder();
+    }
+
     public String getId() {
         return mState.mId;
     }
@@ -48,11 +53,6 @@ public class Set implements Parcelable {
 
     public String getCardsUrl() {
         return mState.mCardsUrl;
-    }
-
-    @NonNull
-    public static Builder builder() {
-        return new Builder();
     }
 
     @Override

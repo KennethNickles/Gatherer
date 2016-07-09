@@ -1,0 +1,1557 @@
+[
+  {
+    "name": "Chaos Warp",
+    "id": "chaos-warp",
+    "url": "https://api.deckbrew.com/mtg/cards/chaos-warp",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chaos-warp",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2014",
+        "set_id": "C14",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 389462,
+        "number": "174",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=389462",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/389462.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C14",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2014/chaos-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/389462"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 338441,
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338441",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338441.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/chaos-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338441"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 236466,
+        "number": "114",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=236466",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/236466.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/chaos-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/236466"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Trevor Claxton",
+        "multiverse_id": 382883,
+        "number": "154",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382883",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382883.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/chaos-warp?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382883"
+      }
+    ]
+  },
+  {
+    "name": "Command Tower",
+    "id": "command-tower",
+    "url": "https://api.deckbrew.com/mtg/cards/command-tower",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=command-tower",
+    "types": [
+      "land"
+    ],
+    "cmc": 0,
+    "cost": "",
+    "text": "{T}: Add to your mana pool one mana of any color in your commander's color identity.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander 2015",
+        "set_id": "C15",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 405181,
+        "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+        "number": "281",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=405181",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/405181.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C15",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2015/command-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/405181"
+      },
+      {
+        "set": "Judge Gift Program",
+        "set_id": "pJGP",
+        "rarity": "special",
+        "artist": "Ryan Yee",
+        "multiverse_id": 0,
+        "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+        "number": "71",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pJGP",
+        "store_url": "http://store.tcgplayer.com/magic/judge-gift-program/command-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "common",
+        "artist": "Adam Paquette",
+        "multiverse_id": 338442,
+        "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338442",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338442.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/command-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338442"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 237004,
+        "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+        "number": "269",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=237004",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/237004.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/command-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/237004"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "common",
+        "artist": "Ryan Yee",
+        "multiverse_id": 376280,
+        "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+        "number": "281",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376280",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376280.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/command-tower?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376280"
+      }
+    ]
+  },
+  {
+    "name": "Decree of Pain",
+    "id": "decree-of-pain",
+    "url": "https://api.deckbrew.com/mtg/cards/decree-of-pain",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=decree-of-pain",
+    "types": [
+      "sorcery"
+    ],
+    "colors": [
+      "black"
+    ],
+    "cmc": 8,
+    "cost": "{6}{B}{B}",
+    "text": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle Decree of Pain, all creatures get -2/-2 until end of turn.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Scourge",
+        "set_id": "SCG",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 43522,
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=43522",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/43522.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+        "store_url": "http://store.tcgplayer.com/magic/scourge/decree-of-pain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/43522"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Mathias Kollros",
+        "multiverse_id": 338453,
+        "number": "3",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338453",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338453.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/decree-of-pain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338453"
+      },
+      {
+        "set": "Commander 2013 Edition",
+        "set_id": "C13",
+        "rarity": "rare",
+        "artist": "Mathias Kollros",
+        "multiverse_id": 376302,
+        "number": "72",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=376302",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/376302.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/C13",
+        "store_url": "http://store.tcgplayer.com/magic/commander-2013/decree-of-pain?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/376302"
+      }
+    ]
+  },
+  {
+    "name": "Desertion",
+    "id": "desertion",
+    "url": "https://api.deckbrew.com/mtg/cards/desertion",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=desertion",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 5,
+    "cost": "{3}{U}{U}",
+    "text": "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 338454,
+        "flavor": "First the insult, then the injury.",
+        "number": "4",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338454",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338454.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/desertion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338454"
+      },
+      {
+        "set": "Classic Sixth Edition",
+        "set_id": "6ED",
+        "rarity": "rare",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 15370,
+        "flavor": "First the insult, then the injury.",
+        "number": "64",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=15370",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/15370.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+        "store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/desertion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/15370"
+      },
+      {
+        "set": "Visions",
+        "set_id": "VIS",
+        "rarity": "rare",
+        "artist": "Richard Kane Ferguson",
+        "multiverse_id": 3637,
+        "flavor": "First the insult, then the injury.",
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=3637",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/3637.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VIS",
+        "store_url": "http://store.tcgplayer.com/magic/visions/desertion?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/3637"
+      }
+    ]
+  },
+  {
+    "name": "Diaochan, Artful Beauty",
+    "id": "diaochan-artful-beauty",
+    "url": "https://api.deckbrew.com/mtg/cards/diaochan-artful-beauty",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=diaochan-artful-beauty",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "advisor",
+      "human"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 4,
+    "cost": "{3}{R}",
+    "text": "{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "rare",
+        "artist": "Miao Aili",
+        "multiverse_id": 10544,
+        "number": "108",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10544",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10544.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/diaochan-artful-beauty?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10544"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Miao Aili",
+        "multiverse_id": 338449,
+        "number": "5",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338449",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338449.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/diaochan-artful-beauty?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338449"
+      }
+    ]
+  },
+  {
+    "name": "Dragonlair Spider",
+    "id": "dragonlair-spider",
+    "url": "https://api.deckbrew.com/mtg/cards/dragonlair-spider",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dragonlair-spider",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "spider"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{2}{R}{R}{G}{G}",
+    "text": "Reach\nWhenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.",
+    "power": "5",
+    "toughness": "6",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 270726,
+        "flavor": "Swarms thrive in its nest, feeding on leathery bits of discarded wing.",
+        "number": "87",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270726",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270726.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/dragonlair-spider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270726"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Carl Critchlow",
+        "multiverse_id": 338446,
+        "flavor": "Swarms thrive in its nest, feeding on leathery bits of discarded wing.",
+        "number": "6",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338446",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338446.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/dragonlair-spider?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338446"
+      }
+    ]
+  },
+  {
+    "name": "Duplicant",
+    "id": "duplicant",
+    "url": "https://api.deckbrew.com/mtg/cards/duplicant",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=duplicant",
+    "types": [
+      "artifact",
+      "creature"
+    ],
+    "subtypes": [
+      "shapeshifter"
+    ],
+    "cmc": 6,
+    "cost": "{6}",
+    "text": "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",
+    "power": "2",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "rare",
+        "artist": "Marco Nelor",
+        "multiverse_id": 413762,
+        "number": "220",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413762",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413762.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/duplicant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413762"
+      },
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 49439,
+        "number": "165",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=49439",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/49439.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/duplicant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/49439"
+      },
+      {
+        "set": "Archenemy",
+        "set_id": "ARC",
+        "rarity": "rare",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 220526,
+        "number": "106",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=220526",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/220526.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+        "store_url": "http://store.tcgplayer.com/magic/archenemy/duplicant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/220526"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Marco Nelor",
+        "multiverse_id": 338451,
+        "number": "7",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338451",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338451.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/duplicant?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338451"
+      }
+    ]
+  },
+  {
+    "name": "Edric, Spymaster of Trest",
+    "id": "edric-spymaster-of-trest",
+    "url": "https://api.deckbrew.com/mtg/cards/edric-spymaster-of-trest",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=edric-spymaster-of-trest",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "elf",
+      "rogue"
+    ],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "cmc": 3,
+    "cost": "{1}{G}{U}",
+    "text": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 382257,
+        "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+        "number": "187",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382257",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382257.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/edric-spymaster-of-trest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382257"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 338443,
+        "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+        "number": "8",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338443",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338443.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/edric-spymaster-of-trest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338443"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 230000,
+        "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+        "number": "196",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=230000",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/230000.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/edric-spymaster-of-trest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/230000"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 382920,
+        "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+        "number": "251",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382920",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382920.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/edric-spymaster-of-trest?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382920"
+      }
+    ]
+  },
+  {
+    "name": "Kaalia of the Vast",
+    "id": "kaalia-of-the-vast",
+    "url": "https://api.deckbrew.com/mtg/cards/kaalia-of-the-vast",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kaalia-of-the-vast",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "cleric",
+      "human"
+    ],
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "cmc": 4,
+    "cost": "{1}{W}{B}{R}",
+    "text": "Flying\nWhenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.",
+    "power": "2",
+    "toughness": "2",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "mythic",
+        "artist": "Michael Komarck",
+        "multiverse_id": 338444,
+        "flavor": "\"I'll have my revenge if I have to call on every force from above and below.\"",
+        "number": "9",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338444",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338444.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/kaalia-of-the-vast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338444"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "mythic",
+        "artist": "Michael Komarck",
+        "multiverse_id": 236473,
+        "flavor": "\"I'll have my revenge if I have to call on every force from above and below.\"",
+        "number": "206",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=236473",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/236473.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/kaalia-of-the-vast?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/236473"
+      }
+    ]
+  },
+  {
+    "name": "Loyal Retainers",
+    "id": "loyal-retainers",
+    "url": "https://api.deckbrew.com/mtg/cards/loyal-retainers",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=loyal-retainers",
+    "types": [
+      "creature"
+    ],
+    "subtypes": [
+      "advisor",
+      "human"
+    ],
+    "colors": [
+      "white"
+    ],
+    "cmc": 3,
+    "cost": "{2}{W}",
+    "text": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.",
+    "power": "1",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Portal Three Kingdoms",
+        "set_id": "PTK",
+        "rarity": "uncommon",
+        "artist": "Solomon Au Yeung",
+        "multiverse_id": 10491,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=10491",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/10491.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PTK",
+        "store_url": "http://store.tcgplayer.com/magic/portal-three-kingdoms/loyal-retainers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/10491"
+      },
+      {
+        "set": "Masters Edition III",
+        "set_id": "ME3",
+        "rarity": "uncommon",
+        "artist": "Solomon Au Yeung",
+        "multiverse_id": 201136,
+        "number": "20",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=201136",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/201136.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/loyal-retainers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/201136"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "uncommon",
+        "artist": "Solomon Au Yeung",
+        "multiverse_id": 338450,
+        "number": "10",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338450",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338450.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/loyal-retainers?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338450"
+      }
+    ]
+  },
+  {
+    "name": "Maelstrom Wanderer",
+    "id": "maelstrom-wanderer",
+    "url": "https://api.deckbrew.com/mtg/cards/maelstrom-wanderer",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=maelstrom-wanderer",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "elemental"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "red"
+    ],
+    "cmc": 8,
+    "cost": "{5}{U}{R}{G}",
+    "text": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+    "power": "7",
+    "toughness": "5",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "mythic",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 265154,
+        "number": "101",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=265154",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/265154.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/maelstrom-wanderer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/265154"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "mythic",
+        "artist": "Victor Adame Minguez",
+        "multiverse_id": 413746,
+        "number": "204",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413746",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413746.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/maelstrom-wanderer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413746"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "mythic",
+        "artist": "Thomas M. Baxa",
+        "multiverse_id": 338447,
+        "number": "11",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338447",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338447.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/maelstrom-wanderer?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338447"
+      }
+    ]
+  },
+  {
+    "name": "Mind's Eye",
+    "id": "minds-eye",
+    "url": "https://api.deckbrew.com/mtg/cards/minds-eye",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=minds-eye",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 5,
+    "cost": "{5}",
+    "text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Mirrodin",
+        "set_id": "MRD",
+        "rarity": "rare",
+        "artist": "Edward P. Beard, Jr.",
+        "multiverse_id": 48919,
+        "flavor": "\"Ideas drift like petals on the wind. I have only to lift my face to the breeze.\"",
+        "number": "205",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=48919",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/48919.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+        "store_url": "http://store.tcgplayer.com/magic/mirrodin/minds-eye?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/48919"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Karl Kopinski",
+        "multiverse_id": 338452,
+        "flavor": "\"Ideas drift like petals on the wind. I have only to lift my face to the breeze.\"",
+        "number": "13",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338452",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338452.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/minds-eye?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338452"
+      }
+    ]
+  },
+  {
+    "name": "Mirari's Wake",
+    "id": "miraris-wake",
+    "url": "https://api.deckbrew.com/mtg/cards/miraris-wake",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=miraris-wake",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green",
+      "white"
+    ],
+    "cmc": 5,
+    "cost": "{3}{G}{W}",
+    "text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Magic: The Gathering—Conspiracy",
+        "set_id": "CNS",
+        "rarity": "mythic",
+        "artist": "Volkan Baga",
+        "multiverse_id": 382308,
+        "flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+        "number": "189",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=382308",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/382308.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+        "store_url": "http://store.tcgplayer.com/magic/conspiracy/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/382308"
+      },
+      {
+        "set": "Judgment",
+        "set_id": "JUD",
+        "rarity": "rare",
+        "artist": "David Martin",
+        "multiverse_id": 35057,
+        "flavor": "The land drank power from the Mirari as though it had thirsted forever.",
+        "number": "139",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=35057",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/35057.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/JUD",
+        "store_url": "http://store.tcgplayer.com/magic/judgment/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/35057"
+      },
+      {
+        "set": "Pro Tour",
+        "set_id": "pPRO",
+        "rarity": "special",
+        "artist": "Volkan Baga",
+        "multiverse_id": 0,
+        "flavor": "Even after a false god tore magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/pPRO",
+        "store_url": "http://store.tcgplayer.com/magic/pro-tour/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Volkan Baga",
+        "multiverse_id": 338455,
+        "flavor": "Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338455",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338455.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/miraris-wake?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338455"
+      }
+    ]
+  },
+  {
+    "name": "Rhystic Study",
+    "id": "rhystic-study",
+    "url": "https://api.deckbrew.com/mtg/cards/rhystic-study",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rhystic-study",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "cmc": 3,
+    "cost": "{2}{U}",
+    "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Prophecy",
+        "set_id": "PCY",
+        "rarity": "common",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 24589,
+        "flavor": "Friends teach what you want to know. Enemies teach what you need to know.",
+        "number": "45",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=24589",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/24589.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PCY",
+        "store_url": "http://store.tcgplayer.com/magic/prophecy/rhystic-study?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/24589"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "common",
+        "artist": "Terese Nielsen",
+        "multiverse_id": 338457,
+        "flavor": "Friends teach what you want to know. Enemies teach what you need to know.",
+        "number": "15",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338457",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338457.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/rhystic-study?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338457"
+      }
+    ]
+  },
+  {
+    "name": "Scroll Rack",
+    "id": "scroll-rack",
+    "url": "https://api.deckbrew.com/mtg/cards/scroll-rack",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scroll-rack",
+    "types": [
+      "artifact"
+    ],
+    "cmc": 2,
+    "cost": "{2}",
+    "text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tempest",
+        "set_id": "TMP",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 4628,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4628",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4628.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+        "store_url": "http://store.tcgplayer.com/magic/tempest/scroll-rack?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4628"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Heather Hudson",
+        "multiverse_id": 338458,
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338458",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338458.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/scroll-rack?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338458"
+      }
+    ]
+  },
+  {
+    "name": "Sylvan Library",
+    "id": "sylvan-library",
+    "url": "https://api.deckbrew.com/mtg/cards/sylvan-library",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=sylvan-library",
+    "types": [
+      "enchantment"
+    ],
+    "colors": [
+      "green"
+    ],
+    "cmc": 2,
+    "cost": "{1}{G}",
+    "text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Fifth Edition",
+        "set_id": "5ED",
+        "rarity": "rare",
+        "artist": "Harold McNeill",
+        "multiverse_id": 4012,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=4012",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/4012.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+        "store_url": "http://store.tcgplayer.com/magic/fifth-edition/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/4012"
+      },
+      {
+        "set": "Eternal Masters",
+        "set_id": "EMA",
+        "rarity": "rare",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 413729,
+        "number": "187",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=413729",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/413729.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+        "store_url": "http://store.tcgplayer.com/magic/eternal-masters/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/413729"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "rare",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 338456,
+        "number": "17",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338456",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338456.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338456"
+      },
+      {
+        "set": "Legends",
+        "set_id": "LEG",
+        "rarity": "uncommon",
+        "artist": "Harold McNeill",
+        "multiverse_id": 1547,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=1547",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/1547.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+        "store_url": "http://store.tcgplayer.com/magic/legends/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/1547"
+      },
+      {
+        "set": "Masters Edition",
+        "set_id": "MED",
+        "rarity": "rare",
+        "artist": "Harold McNeill",
+        "multiverse_id": 159317,
+        "number": "133",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=159317",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/159317.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/MED",
+        "store_url": "http://store.tcgplayer.com/magic/masters-edition/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/159317"
+      },
+      {
+        "set": "Fourth Edition",
+        "set_id": "4ED",
+        "rarity": "rare",
+        "artist": "Harold McNeill",
+        "multiverse_id": 2240,
+        "number": "",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=2240",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/2240.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+        "store_url": "http://store.tcgplayer.com/magic/fourth-edition/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/2240"
+      },
+      {
+        "set": "Vintage Masters",
+        "set_id": "VMA",
+        "rarity": "rare",
+        "artist": "Yeong-Hao Han",
+        "multiverse_id": 383120,
+        "number": "235",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=383120",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/383120.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/VMA",
+        "store_url": "http://store.tcgplayer.com/magic/vintage-masters/sylvan-library?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/383120"
+      }
+    ]
+  },
+  {
+    "name": "The Mimeoplasm",
+    "id": "the-mimeoplasm",
+    "url": "https://api.deckbrew.com/mtg/cards/the-mimeoplasm",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=the-mimeoplasm",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "ooze"
+    ],
+    "colors": [
+      "black",
+      "blue",
+      "green"
+    ],
+    "cmc": 5,
+    "cost": "{2}{G}{U}{B}",
+    "text": "As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.",
+    "power": "0",
+    "toughness": "0",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "mythic",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 338445,
+        "number": "12",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338445",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338445.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/the-mimeoplasm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338445"
+      },
+      {
+        "set": "Magic: The Gathering-Commander",
+        "set_id": "CMD",
+        "rarity": "mythic",
+        "artist": "Svetlin Velinov",
+        "multiverse_id": 228232,
+        "number": "210",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=228232",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/228232.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+        "store_url": "http://store.tcgplayer.com/magic/commander/the-mimeoplasm?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/228232"
+      }
+    ]
+  },
+  {
+    "name": "Vela the Night-Clad",
+    "id": "vela-the-night-clad",
+    "url": "https://api.deckbrew.com/mtg/cards/vela-the-night-clad",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=vela-the-night-clad",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "human",
+      "wizard"
+    ],
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "cmc": 6,
+    "cost": "{4}{U}{B}",
+    "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther creatures you control have intimidate.\nWhenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.",
+    "power": "4",
+    "toughness": "4",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Planechase 2012 Edition",
+        "set_id": "PC2",
+        "rarity": "mythic",
+        "artist": "Allen Williams",
+        "multiverse_id": 270729,
+        "flavor": "Vela snuffs out every trace of Krond's reign, leaving pure nightfall in her wake.",
+        "number": "107",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=270729",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/270729.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+        "store_url": "http://store.tcgplayer.com/magic/planechase-2012/vela-the-night-clad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/270729"
+      },
+      {
+        "set": "Commander's Arsenal",
+        "set_id": "CM1",
+        "rarity": "mythic",
+        "artist": "Allen Williams",
+        "multiverse_id": 338448,
+        "flavor": "Vela snuffs out every trace of Krond's reign, leaving pure nightfall in her wake.",
+        "number": "18",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=338448",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/338448.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/CM1",
+        "store_url": "http://store.tcgplayer.com/magic/commanders-arsenal/vela-the-night-clad?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/338448"
+      }
+    ]
+  }
+]

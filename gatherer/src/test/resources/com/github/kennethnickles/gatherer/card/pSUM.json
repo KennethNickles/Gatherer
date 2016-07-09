@@ -1,0 +1,251 @@
+[
+  {
+	"name": "Faerie Conclave",
+	"id": "faerie-conclave",
+	"url": "https://api.deckbrew.com/mtg/cards/faerie-conclave",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=faerie-conclave",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Faerie Conclave enters the battlefield tapped.\n{T}: Add {U} to your mana pool.\n{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Summer of Magic",
+		"set_id": "pSUM",
+		"rarity": "special",
+		"artist": "Stephan Martiniere",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUM",
+		"store_url": "http://store.tcgplayer.com/magic/summer-of-magic/faerie-conclave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Legacy",
+		"set_id": "ULG",
+		"rarity": "uncommon",
+		"artist": "Val Mayerik",
+		"multiverse_id": 12495,
+		"number": "139",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12495",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12495.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-legacy/faerie-conclave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12495"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "uncommon",
+		"artist": "Stephan Martiniere",
+		"multiverse_id": 106531,
+		"number": "351",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106531",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106531.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/faerie-conclave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/106531"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "uncommon",
+		"artist": "Stephan Martiniere",
+		"multiverse_id": 376326,
+		"number": "288",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376326",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376326.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/faerie-conclave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376326"
+	  }
+	]
+  },
+  {
+	"name": "Treetop Village",
+	"id": "treetop-village",
+	"url": "https://api.deckbrew.com/mtg/cards/treetop-village",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=treetop-village",
+	"types": [
+	  "land"
+	],
+	"cmc": 0,
+	"cost": "",
+	"text": "Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Summer of Magic",
+		"set_id": "pSUM",
+		"rarity": "special",
+		"artist": "Rob Alexander",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUM",
+		"store_url": "http://store.tcgplayer.com/magic/summer-of-magic/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Legacy",
+		"set_id": "ULG",
+		"rarity": "uncommon",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 12498,
+		"number": "143",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=12498",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/12498.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ULG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-legacy/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/12498"
+	  },
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "uncommon",
+		"artist": "Rob Alexander",
+		"multiverse_id": 243455,
+		"number": "38",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243455"
+	  },
+	  {
+		"set": "Friday Night Magic",
+		"set_id": "pFNM",
+		"rarity": "special",
+		"artist": "Anthony S. Waters",
+		"multiverse_id": 0,
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pFNM",
+		"store_url": "http://store.tcgplayer.com/magic/friday-night-magic/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks: Garruk vs. Liliana",
+		"set_id": "DDD",
+		"rarity": "uncommon",
+		"artist": "Rob Alexander",
+		"multiverse_id": 202279,
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202279",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202279.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-garruk-vs-liliana/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202279"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "uncommon",
+		"artist": "Rob Alexander",
+		"multiverse_id": 106455,
+		"number": "361",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/106455"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Garruk vs. Liliana",
+		"set_id": "DD3_GVL",
+		"rarity": "uncommon",
+		"artist": "Rob Alexander",
+		"multiverse_id": 393931,
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=393931",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/393931.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_GVL",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-garruk-vs-liliana/treetop-village?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/393931"
+	  }
+	]
+  }
+]

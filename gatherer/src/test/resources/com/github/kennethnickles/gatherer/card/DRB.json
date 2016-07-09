@@ -1,0 +1,2034 @@
+[
+  {
+	"name": "Bladewing the Risen",
+	"id": "bladewing-the-risen",
+	"url": "https://api.deckbrew.com/mtg/cards/bladewing-the-risen",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bladewing-the-risen",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon",
+	  "zombie"
+	],
+	"colors": [
+	  "black",
+	  "red"
+	],
+	"cmc": 7,
+	"cost": "{3}{B}{B}{R}{R}",
+	"text": "Flying\nWhen Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.\n{B}{R}: Dragon creatures get +1/+1 until end of turn.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scourge",
+		"set_id": "SCG",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 42024,
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=42024",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/42024.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+		"store_url": "http://store.tcgplayer.com/magic/scourge/bladewing-the-risen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/42024"
+	  },
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 247401,
+		"number": "185",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247401",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247401.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/bladewing-the-risen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247401"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 178014,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178014",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178014.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/bladewing-the-risen?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178014"
+	  }
+	]
+  },
+  {
+	"name": "Bogardan Hellkite",
+	"id": "bogardan-hellkite",
+	"url": "https://api.deckbrew.com/mtg/cards/bogardan-hellkite",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bogardan-hellkite",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 8,
+	"cost": "{6}{R}{R}",
+	"text": "Flash\nFlying\nWhen Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "mythic",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 243464,
+		"number": "47",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/bogardan-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243464"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "mythic",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 191340,
+		"number": "127",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191340",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191340.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/bogardan-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191340"
+	  },
+	  {
+		"set": "Time Spiral",
+		"set_id": "TSP",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 111041,
+		"number": "147",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=111041",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/111041.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSP",
+		"store_url": "http://store.tcgplayer.com/magic/time-spiral/bogardan-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/111041"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 178017,
+		"flavor": "Cleansing the world, one breath at a time.",
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178017",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178017.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/bogardan-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178017"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "mythic",
+		"artist": "Scott M. Fischer",
+		"multiverse_id": 389445,
+		"number": "173",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389445",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389445.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/bogardan-hellkite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389445"
+	  }
+	]
+  },
+  {
+	"name": "Draco",
+	"id": "draco",
+	"url": "https://api.deckbrew.com/mtg/cards/draco",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=draco",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"cmc": 16,
+	"cost": "{16}",
+	"text": "Domain — Draco costs {2} less to cast for each basic land type among lands you control.\nFlying\nDomain — At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.",
+	"power": "9",
+	"toughness": "9",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 178018,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178018",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178018.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/draco?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178018"
+	  },
+	  {
+		"set": "Planeshift",
+		"set_id": "PLS",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 25797,
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25797",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25797.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLS",
+		"store_url": "http://store.tcgplayer.com/magic/planeshift/draco?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25797"
+	  }
+	]
+  },
+  {
+	"name": "Dragonstorm",
+	"id": "dragonstorm",
+	"url": "https://api.deckbrew.com/mtg/cards/dragonstorm",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dragonstorm",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 9,
+	"cost": "{8}{R}",
+	"text": "Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scourge",
+		"set_id": "SCG",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 46426,
+		"number": "90",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=46426",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/46426.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+		"store_url": "http://store.tcgplayer.com/magic/scourge/dragonstorm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/46426"
+	  },
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 370537,
+		"number": "111",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370537",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370537.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/dragonstorm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370537"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Kev Walker",
+		"multiverse_id": 178015,
+		"flavor": "Dragons come not in packs or in herds but in storms.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178015",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178015.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/dragonstorm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178015"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Kev Walker",
+		"multiverse_id": 108843,
+		"number": "60",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108843",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108843.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/dragonstorm?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108843"
+	  }
+	]
+  },
+  {
+	"name": "Dragon Whelp",
+	"id": "dragon-whelp",
+	"url": "https://api.deckbrew.com/mtg/cards/dragon-whelp",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dragon-whelp",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{R}",
+	"text": "Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.",
+	"power": "2",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
+		"rarity": "uncommon",
+		"artist": "Steven Belledin",
+		"multiverse_id": 247314,
+		"number": "120",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247314",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247314.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247314"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 484,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=484",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/484.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/484"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 1284,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1284",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1284.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1284"
+	  },
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "uncommon",
+		"artist": "Steven Belledin",
+		"multiverse_id": 243472,
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243472",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243472.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243472"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 0,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "uncommon",
+		"artist": "Steven Belledin",
+		"multiverse_id": 191060,
+		"number": "133",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191060",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191060.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191060"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Steven Belledin",
+		"multiverse_id": 178019,
+		"flavor": "Dragon whelps face few threats besides their own enthusiasm.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178019",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178019.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178019"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 189,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=189",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/189.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/189"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 0,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 786,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\"\n—Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=786",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/786.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/786"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "uncommon",
+		"artist": "Amy Weber",
+		"multiverse_id": 2269,
+		"flavor": "\"O to be a dragon . . . of silkworm size or immense . . .\" —Marianne Moore, \"O to Be a Dragon\"",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2269",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2269.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2269"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "uncommon",
+		"artist": "Steven Belledin",
+		"multiverse_id": 220477,
+		"number": "35",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220477",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220477.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220477"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Amy Weber",
+		"multiverse_id": 108810,
+		"number": "59",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=108810",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/108810.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/dragon-whelp?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/108810"
+	  }
+	]
+  },
+  {
+	"name": "Ebon Dragon",
+	"id": "ebon-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/ebon-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=ebon-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 7,
+	"cost": "{5}{B}{B}",
+	"text": "Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.",
+	"power": "5",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 4219,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4219",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4219.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/ebon-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4219"
+	  },
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 221547,
+		"number": "80",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=221547",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/221547.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/ebon-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/221547"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 178021,
+		"flavor": "\"The dragon wing of night o'erspreads the earth.\"\n—Troilus and Cressida, William Shakespeare",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178021",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178021.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/ebon-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178021"
+	  }
+	]
+  },
+  {
+	"name": "Form of the Dragon",
+	"id": "form-of-the-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/form-of-the-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=form-of-the-dragon",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 7,
+	"cost": "{4}{R}{R}{R}",
+	"text": "At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.\nAt the beginning of each end step, your life total becomes 5.\nCreatures without flying can't attack you.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scourge",
+		"set_id": "SCG",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 43566,
+		"number": "93",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=43566",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/43566.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SCG",
+		"store_url": "http://store.tcgplayer.com/magic/scourge/form-of-the-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/43566"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 84068,
+		"number": "187",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=84068",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/84068.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/form-of-the-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/84068"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Daarken",
+		"multiverse_id": 178016,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178016",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178016.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/form-of-the-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178016"
+	  }
+	]
+  },
+  {
+	"name": "Hellkite Overlord",
+	"id": "hellkite-overlord",
+	"url": "https://api.deckbrew.com/mtg/cards/hellkite-overlord",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hellkite-overlord",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "black",
+	  "green",
+	  "red"
+	],
+	"cmc": 8,
+	"cost": "{4}{B}{R}{R}{G}",
+	"text": "Flying, trample, haste\n{R}: Hellkite Overlord gets +1/+0 until end of turn.\n{B}{G}: Regenerate Hellkite Overlord.",
+	"power": "8",
+	"toughness": "8",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Shards of Alara",
+		"set_id": "ALA",
+		"rarity": "mythic",
+		"artist": "Justin Sweet",
+		"multiverse_id": 175057,
+		"flavor": "\"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need.\"\n—Sarkhan Vol",
+		"number": "172",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=175057",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/175057.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALA",
+		"store_url": "http://store.tcgplayer.com/magic/shards-of-alara/hellkite-overlord?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/175057"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Justin Sweet",
+		"multiverse_id": 178028,
+		"flavor": "\"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need.\"\n—Sarkhan Vol",
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178028",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178028.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/hellkite-overlord?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178028"
+	  }
+	]
+  },
+  {
+	"name": "Kokusho, the Evening Star",
+	"id": "kokusho-the-evening-star",
+	"url": "https://api.deckbrew.com/mtg/cards/kokusho-the-evening-star",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kokusho-the-evening-star",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon",
+	  "spirit"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{4}{B}{B}",
+	"text": "Flying\nWhen Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Modern Masters",
+		"set_id": "MMA",
+		"rarity": "mythic",
+		"artist": "Tsutomu Kawade",
+		"multiverse_id": 370502,
+		"flavor": "The fall of the evening star never heralds a gentle dawn.",
+		"number": "89",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370502",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370502.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMA",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters/kokusho-the-evening-star?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370502"
+	  },
+	  {
+		"set": "Champions of Kamigawa",
+		"set_id": "CHK",
+		"rarity": "rare",
+		"artist": "Tsutomu Kawade",
+		"multiverse_id": 50445,
+		"number": "122",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=50445",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/50445.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHK",
+		"store_url": "http://store.tcgplayer.com/magic/champions-of-kamigawa/kokusho-the-evening-star?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/50445"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Tsutomu Kawade",
+		"multiverse_id": 178022,
+		"flavor": "The fall of the evening star never heralds a gentle dawn.",
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178022",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178022.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/kokusho-the-evening-star?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178022"
+	  }
+	]
+  },
+  {
+	"name": "Nicol Bolas",
+	"id": "nicol-bolas",
+	"url": "https://api.deckbrew.com/mtg/cards/nicol-bolas",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=nicol-bolas",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon",
+	  "elder"
+	],
+	"colors": [
+	  "black",
+	  "blue",
+	  "red"
+	],
+	"cmc": 8,
+	"cost": "{2}{U}{U}{B}{B}{R}{R}",
+	"text": "Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.\nWhenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.",
+	"power": "7",
+	"toughness": "7",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition III",
+		"set_id": "ME3",
+		"rarity": "rare",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 201213,
+		"number": "163",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=201213",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/201213.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME3",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iii/nicol-bolas?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/201213"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "D. Alexander Gregory",
+		"multiverse_id": 178020,
+		"flavor": "Dominaria's most ancient evil.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178020",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178020.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/nicol-bolas?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178020"
+	  },
+	  {
+		"set": "Legends",
+		"set_id": "LEG",
+		"rarity": "rare",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 1672,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1672",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1672.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEG",
+		"store_url": "http://store.tcgplayer.com/magic/legends/nicol-bolas?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1672"
+	  },
+	  {
+		"set": "Chronicles",
+		"set_id": "CHR",
+		"rarity": "rare",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 2876,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2876",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2876.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CHR",
+		"store_url": "http://store.tcgplayer.com/magic/chronicles/nicol-bolas?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2876"
+	  },
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Edward P. Beard, Jr.",
+		"multiverse_id": 109754,
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109754",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109754.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/nicol-bolas?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/109754"
+	  }
+	]
+  },
+  {
+	"name": "Niv-Mizzet, the Firemind",
+	"id": "niv-mizzet-the-firemind",
+	"url": "https://api.deckbrew.com/mtg/cards/niv-mizzet-the-firemind",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=niv-mizzet-the-firemind",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{2}{U}{U}{R}{R}",
+	"text": "Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.\n{T}: Draw a card.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Guildpact",
+		"set_id": "GPT",
+		"watermark": "Izzet",
+		"rarity": "rare",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 96952,
+		"flavor": "\"(Z–\u003e)90° – (E–N²W)90°t = 1\"",
+		"number": "123",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=96952",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/96952.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GPT",
+		"store_url": "http://store.tcgplayer.com/magic/guildpact/niv-mizzet-the-firemind?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/96952"
+	  },
+	  {
+		"set": "Champs and States",
+		"set_id": "pCMP",
+		"rarity": "special",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pCMP",
+		"store_url": "http://store.tcgplayer.com/magic/champs-and-states/niv-mizzet-the-firemind?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "rare",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 397851,
+		"number": "182",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397851",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397851.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/niv-mizzet-the-firemind?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397851"
+	  },
+	  {
+		"set": "Duel Decks: Izzet vs. Golgari",
+		"set_id": "DDJ",
+		"rarity": "mythic",
+		"artist": "Svetlin Velinov",
+		"multiverse_id": 292738,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=292738",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/292738.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDJ",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-izzet-vs-golgari/niv-mizzet-the-firemind?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/292738"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 178023,
+		"flavor": "As brilliant as a cut diamond, and with just as cruel an edge.",
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178023",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178023.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/niv-mizzet-the-firemind?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178023"
+	  }
+	]
+  },
+  {
+	"name": "Rith, the Awakener",
+	"id": "rith-the-awakener",
+	"url": "https://api.deckbrew.com/mtg/cards/rith-the-awakener",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=rith-the-awakener",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "green",
+	  "red",
+	  "white"
+	],
+	"cmc": 6,
+	"cost": "{3}{R}{G}{W}",
+	"text": "Flying\nWhenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.",
+	"power": "6",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 23209,
+		"number": "267",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=23209",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/23209.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/rith-the-awakener?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/23209"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 178024,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178024",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178024.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/rith-the-awakener?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178024"
+	  },
+	  {
+		"set": "Duel Decks: Phyrexia vs. the Coalition",
+		"set_id": "DDE",
+		"rarity": "rare",
+		"artist": "Carl Critchlow",
+		"multiverse_id": 209118,
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=209118",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/209118.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDE",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-phyrexia-vs-the-coalition/rith-the-awakener?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/209118"
+	  }
+	]
+  },
+  {
+	"name": "Shivan Dragon",
+	"id": "shivan-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/shivan-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=shivan-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{R}{R}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 228264,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=228264",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/228264.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/228264"
+	  },
+	  {
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 413379,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413379",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413379.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413379"
+	  },
+	  {
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 517,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=517",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/517.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/517"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 370825,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "154",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370825",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370825.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370825"
+	  },
+	  {
+		"set": "Revised Edition",
+		"set_id": "3ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 1318,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1318",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1318.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1318"
+	  },
+	  {
+		"set": "Release Events",
+		"set_id": "pREL",
+		"rarity": "special",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pREL",
+		"store_url": "http://store.tcgplayer.com/magic/release-events/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "International Collector's Edition",
+		"set_id": "CEI",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CEI",
+		"store_url": "http://store.tcgplayer.com/magic/international-collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 191320,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191320",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191320.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191320"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 0,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "53",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 26622,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26622",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26622.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26622"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 401464,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "285",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401464",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401464.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401464"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 25688,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "218",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25688",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25688.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25688"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 129730,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "230",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129730",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129730.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129730"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 83259,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "219",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83259",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83259.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83259"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Justin Sweet",
+		"multiverse_id": 178025,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178025",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178025.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178025"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 45388,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45388",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45388.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45388"
+	  },
+	  {
+		"set": "Limited Edition Alpha",
+		"set_id": "LEA",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 222,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=222",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/222.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEA",
+		"store_url": "http://store.tcgplayer.com/magic/alpha-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/222"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 0,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Unlimited Edition",
+		"set_id": "2ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 819,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=819",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/819.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
+		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/819"
+	  },
+	  {
+		"set": "Fourth Edition",
+		"set_id": "4ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 2303,
+		"flavor": "While it's true most Dragons are cruel, the Shivan Dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=2303",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/2303.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/4ED",
+		"store_url": "http://store.tcgplayer.com/magic/fourth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/2303"
+	  },
+	  {
+		"set": "Fifth Edition",
+		"set_id": "5ED",
+		"rarity": "rare",
+		"artist": "Melissa A. Benson",
+		"multiverse_id": 4088,
+		"flavor": "While it's true most dragons are cruel, the Shivan dragon seems to take particular glee in the misery of others, often tormenting its victims much like a cat plays with a mouse before delivering the final blow.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4088",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4088.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/5ED",
+		"store_url": "http://store.tcgplayer.com/magic/fifth-edition/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4088"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Donato Giancola",
+		"multiverse_id": 383172,
+		"flavor": "The undisputed master of the mountains of Shiv.",
+		"number": "281",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383172",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383172.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/shivan-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383172"
+	  }
+	]
+  },
+  {
+	"name": "Thunder Dragon",
+	"id": "thunder-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/thunder-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=thunder-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 7,
+	"cost": "{5}{R}{R}",
+	"text": "Flying\nWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
+		"rarity": "rare",
+		"artist": "Dana Knutson",
+		"multiverse_id": 202544,
+		"number": "138",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202544",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202544.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/thunder-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202544"
+	  },
+	  {
+		"set": "Duel Decks: Knights vs. Dragons",
+		"set_id": "DDG",
+		"rarity": "rare",
+		"artist": "Chris Rahn",
+		"multiverse_id": 243479,
+		"flavor": "Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right.",
+		"number": "61",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=243479",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/243479.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDG",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-knights-vs-dragons/thunder-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/243479"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Chris Rahn",
+		"multiverse_id": 178026,
+		"flavor": "Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right.",
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178026",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178026.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/thunder-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178026"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "rare",
+		"artist": "Dana Knutson",
+		"multiverse_id": 20180,
+		"number": "119",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20180",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20180.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/thunder-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20180"
+	  }
+	]
+  },
+  {
+	"name": "Two-Headed Dragon",
+	"id": "two-headed-dragon",
+	"url": "https://api.deckbrew.com/mtg/cards/two-headed-dragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=two-headed-dragon",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{R}{R}",
+	"text": "Flying\nMenace (This creature can't be blocked except by two or more creatures.)\nTwo-Headed Dragon can block an additional creature each combat.\n{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Super Series",
+		"set_id": "pSUS",
+		"rarity": "special",
+		"artist": "Sam Wood",
+		"multiverse_id": 0,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pSUS",
+		"store_url": "http://store.tcgplayer.com/magic/super-series/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "From the Vault: Dragons",
+		"set_id": "DRB",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 178027,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=178027",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/178027.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DRB",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-dragons/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/178027"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 45389,
+		"number": "229",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45389",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45389.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45389"
+	  },
+	  {
+		"set": "Archenemy",
+		"set_id": "ARC",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 220472,
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220472",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220472.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARC",
+		"store_url": "http://store.tcgplayer.com/magic/archenemy/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220472"
+	  },
+	  {
+		"set": "Mercadian Masques",
+		"set_id": "MMQ",
+		"rarity": "rare",
+		"artist": "Sam Wood",
+		"multiverse_id": 19711,
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=19711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/19711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MMQ",
+		"store_url": "http://store.tcgplayer.com/magic/mercadian-masques/two-headed-dragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/19711"
+	  }
+	]
+  }
+]

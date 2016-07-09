@@ -1,0 +1,147 @@
+[
+  {
+	"name": "Balduvian Horde",
+	"id": "balduvian-horde",
+	"url": "https://api.deckbrew.com/mtg/cards/balduvian-horde",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=balduvian-horde",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "barbarian",
+	  "human"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{R}",
+	"text": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",
+	"power": "5",
+	"toughness": "5",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Alliances",
+		"set_id": "ALL",
+		"rarity": "rare",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 3161,
+		"flavor": "\"Peace will come only when we have taken Varchild's head.\"\n—Lovisa Coldeyes,\nBalduvian Chieftain",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3161",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3161.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+		"store_url": "http://store.tcgplayer.com/magic/alliances/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3161"
+	  },
+	  {
+		"set": "Masters Edition",
+		"set_id": "MED",
+		"rarity": "rare",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 159086,
+		"flavor": "\"Peace will come only when we have taken Varchild's head.\"\n—Lovisa Coldeyes, Balduvian chieftain",
+		"number": "86",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=159086",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/159086.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MED",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/159086"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "rare",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 15423,
+		"number": "167",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15423",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15423.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15423"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "rare",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 26655,
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=26655",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/26655.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/26655"
+	  },
+	  {
+		"set": "Worlds",
+		"set_id": "pWOR",
+		"rarity": "special",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 0,
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pWOR",
+		"store_url": "http://store.tcgplayer.com/magic/worlds/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Deckmasters",
+		"set_id": "DKM",
+		"rarity": "rare",
+		"artist": "Brian Snõddy",
+		"multiverse_id": 0,
+		"flavor": "\"Peace will come only when we have taken Varchild's head.\"\n—Lovisa Coldeyes,\nBalduvian Chieftain",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKM",
+		"store_url": "http://store.tcgplayer.com/magic/deckmasters-garfield-vs-finkel/balduvian-horde?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  }
+]

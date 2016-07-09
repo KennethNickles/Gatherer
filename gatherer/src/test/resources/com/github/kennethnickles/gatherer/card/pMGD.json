@@ -1,0 +1,3794 @@
+[
+  {
+	"name": "Black Sun's Zenith",
+	"id": "black-suns-zenith",
+	"url": "https://api.deckbrew.com/mtg/cards/black-suns-zenith",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=black-suns-zenith",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{X}{B}{B}",
+	"text": "Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Mirrodin Besieged",
+		"set_id": "MBS",
+		"watermark": "Phyrexian",
+		"rarity": "rare",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 214061,
+		"flavor": "\"Under the suns, Mirrodin kneels and begs us for perfection.\"\n—Geth, Lord of the Vault",
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=214061",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/214061.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/black-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/214061"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "James Paick",
+		"multiverse_id": 0,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/black-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "Daniel Ljunggren",
+		"multiverse_id": 389442,
+		"flavor": "\"Under the suns, Mirrodin kneels and begs us for perfection.\"\n—Geth, Lord of the Vault",
+		"number": "136",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389442",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389442.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/black-suns-zenith?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389442"
+	  }
+	]
+  },
+  {
+	"name": "Chief Engineer",
+	"id": "chief-engineer",
+	"url": "https://api.deckbrew.com/mtg/cards/chief-engineer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=chief-engineer",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "artificer",
+	  "vedalken"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature's color.)",
+	"power": "1",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Barger",
+		"multiverse_id": 0,
+		"flavor": "An eye for detail, a mind for numbers, a soul of clockwork.",
+		"number": "40",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/chief-engineer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "rare",
+		"artist": "Steven Belledin",
+		"multiverse_id": 383207,
+		"flavor": "An eye for detail, a mind for numbers, a soul of clockwork.",
+		"number": "47",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383207",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383207.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/chief-engineer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383207"
+	  }
+	]
+  },
+  {
+	"name": "Conclave Naturalists",
+	"id": "conclave-naturalists",
+	"url": "https://api.deckbrew.com/mtg/cards/conclave-naturalists",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=conclave-naturalists",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dryad"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 5,
+	"cost": "{4}{G}",
+	"text": "When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Howard Lyon",
+		"multiverse_id": 0,
+		"flavor": "\"Your swords and wards have no power here.\"",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/conclave-naturalists?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "uncommon",
+		"artist": "Howard Lyon",
+		"multiverse_id": 398419,
+		"flavor": "\"Your swords and wards have no power here.\"",
+		"number": "171",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=398419",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/398419.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/conclave-naturalists?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/398419"
+	  }
+	]
+  },
+  {
+	"name": "Cryptborn Horror",
+	"id": "cryptborn-horror",
+	"url": "https://api.deckbrew.com/mtg/cards/cryptborn-horror",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cryptborn-horror",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "horror"
+	],
+	"colors": [
+	  "black",
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{1}{B/R}{B/R}",
+	"text": "Trample\nCryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.",
+	"power": "0",
+	"toughness": "0",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Nils Hamm",
+		"multiverse_id": 0,
+		"number": "22",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/cryptborn-horror?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Rakdos",
+		"rarity": "rare",
+		"artist": "Richard Wright",
+		"multiverse_id": 265411,
+		"flavor": "Although Cryptwitch Merree vanished after a spat with Rakdos, her playthings lingered.",
+		"number": "212",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=265411",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/265411.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/cryptborn-horror?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/265411"
+	  }
+	]
+  },
+  {
+	"name": "Dictate of Kruphix",
+	"id": "dictate-of-kruphix",
+	"url": "https://api.deckbrew.com/mtg/cards/dictate-of-kruphix",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dictate-of-kruphix",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{1}{U}{U}",
+	"text": "Flash\nAt the beginning of each player's draw step, that player draws an additional card.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Barger",
+		"multiverse_id": 0,
+		"number": "35",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/dictate-of-kruphix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Journey into Nyx",
+		"set_id": "JOU",
+		"rarity": "rare",
+		"artist": "Daarken",
+		"multiverse_id": 380402,
+		"flavor": "\"Knowledge is cruel. It will break your heart and test your allegiances. Are you certain you want this curse?\"",
+		"number": "37",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=380402",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/380402.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+		"store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/dictate-of-kruphix?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/380402"
+	  }
+	]
+  },
+  {
+	"name": "Diregraf Ghoul",
+	"id": "diregraf-ghoul",
+	"url": "https://api.deckbrew.com/mtg/cards/diregraf-ghoul",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=diregraf-ghoul",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "zombie"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 1,
+	"cost": "{B}",
+	"text": "Diregraf Ghoul enters the battlefield tapped.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Duel Decks: Blessed vs. Cursed",
+		"set_id": "DDQ",
+		"rarity": "uncommon",
+		"artist": "Dave Kendall",
+		"multiverse_id": 409630,
+		"flavor": "\"At least this one still has arms and legs. Well, most of its legs.\"\n—Enslow, ghoulcaller of Nephalia",
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=409630",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/409630.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDQ",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-blessed-vs-cursed/diregraf-ghoul?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/409630"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Austin Hsu",
+		"multiverse_id": 0,
+		"number": "12",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/diregraf-ghoul?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "uncommon",
+		"artist": "Dave Kendall",
+		"multiverse_id": 226747,
+		"flavor": "\"At least this one still has arms and legs. Well, most of its legs.\"\n—Enslow, ghoulcaller of Nephalia",
+		"number": "97",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=226747",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/226747.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/diregraf-ghoul?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/226747"
+	  }
+	]
+  },
+  {
+	"name": "Dryad Militant",
+	"id": "dryad-militant",
+	"url": "https://api.deckbrew.com/mtg/cards/dryad-militant",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dryad-militant",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dryad",
+	  "soldier"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 1,
+	"cost": "{G/W}",
+	"text": "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Pancoast",
+		"multiverse_id": 0,
+		"number": "23",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/dryad-militant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Return to Ravnica",
+		"set_id": "RTR",
+		"watermark": "Selesnya",
+		"rarity": "uncommon",
+		"artist": "Terese Nielsen",
+		"multiverse_id": 289226,
+		"flavor": "\"We will defend the Worldsoul from Izzet ‘progress' at any cost.\"",
+		"number": "214",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=289226",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/289226.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RTR",
+		"store_url": "http://store.tcgplayer.com/magic/return-to-ravnica/dryad-militant?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/289226"
+	  }
+	]
+  },
+  {
+	"name": "Dungrove Elder",
+	"id": "dungrove-elder",
+	"url": "https://api.deckbrew.com/mtg/cards/dungrove-elder",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=dungrove-elder",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "treefolk"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nDungrove Elder's power and toughness are each equal to the number of Forests you control.",
+	"power": "*",
+	"toughness": "*",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "rare",
+		"artist": "Matt Stewart",
+		"multiverse_id": 220210,
+		"flavor": "All the trees of the forest are his army, and every leaf his shield.",
+		"number": "171",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220210",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220210.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/dungrove-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220210"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Scott Chou",
+		"multiverse_id": 0,
+		"number": "11",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/dungrove-elder?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Elite Inquisitor",
+	"id": "elite-inquisitor",
+	"url": "https://api.deckbrew.com/mtg/cards/elite-inquisitor",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=elite-inquisitor",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{W}{W}",
+	"text": "First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/elite-inquisitor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Innistrad",
+		"set_id": "ISD",
+		"rarity": "rare",
+		"artist": "Jana Schirmer \u0026 Johannes Voss",
+		"multiverse_id": 246949,
+		"flavor": "\"No matter how many I kill, there are always more to hunt. It makes me smile just to think about it.\"",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=246949",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/246949.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ISD",
+		"store_url": "http://store.tcgplayer.com/magic/innistrad/elite-inquisitor?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/246949"
+	  }
+	]
+  },
+  {
+	"name": "Firemane Avenger",
+	"id": "firemane-avenger",
+	"url": "https://api.deckbrew.com/mtg/cards/firemane-avenger",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=firemane-avenger",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "angel"
+	],
+	"colors": [
+	  "red",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{W}",
+	"text": "Flying\nBattalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Boros",
+		"rarity": "rare",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 366341,
+		"flavor": "Firemane Nevena led the victorious assault on the Barbu Rooftop rebels. Now the Gateless have marked her for death.",
+		"number": "163",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366341",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366341.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/firemane-avenger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366341"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Barger",
+		"multiverse_id": 0,
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/firemane-avenger?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Goblin Diplomats",
+	"id": "goblin-diplomats",
+	"url": "https://api.deckbrew.com/mtg/cards/goblin-diplomats",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=goblin-diplomats",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "goblin"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "{T}: Each creature attacks this turn if able.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "rare",
+		"artist": "Izzy",
+		"multiverse_id": 370674,
+		"flavor": "When you need to convey that special kind of message.",
+		"number": "141",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370674",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370674.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/goblin-diplomats?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370674"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jesper Ejsing",
+		"multiverse_id": 0,
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/goblin-diplomats?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Hall of Triumph",
+	"id": "hall-of-triumph",
+	"url": "https://api.deckbrew.com/mtg/cards/hall-of-triumph",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hall-of-triumph",
+	"types": [
+	  "artifact"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"cmc": 3,
+	"cost": "{3}",
+	"text": "As Hall of Triumph enters the battlefield, choose a color.\nCreatures you control of the chosen color get +1/+1.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Chuck Lukacs",
+		"multiverse_id": 0,
+		"flavor": "Heroes act without thought of glory or reward. Accolades are a consequence, not a goal.",
+		"number": "36",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/hall-of-triumph?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Journey into Nyx",
+		"set_id": "JOU",
+		"rarity": "rare",
+		"artist": "Ryan Yee",
+		"multiverse_id": 380431,
+		"flavor": "Heroes act without thought of glory or reward. Accolades are a consequence, not a goal.",
+		"number": "162",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=380431",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/380431.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+		"store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/hall-of-triumph?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/380431"
+	  }
+	]
+  },
+  {
+	"name": "Heir of the Wilds",
+	"id": "heir-of-the-wilds",
+	"url": "https://api.deckbrew.com/mtg/cards/heir-of-the-wilds",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=heir-of-the-wilds",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "warrior"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{1}{G}",
+	"text": "Deathtouch\nFerocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "David Palumbo",
+		"multiverse_id": 0,
+		"flavor": "In the high caves of the Qal Sisma mountains, young hunters quest to hear the echoes of their fierce ancestors.",
+		"number": "37",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/heir-of-the-wilds?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"watermark": "Temur",
+		"rarity": "uncommon",
+		"artist": "Winona Nelson",
+		"multiverse_id": 386552,
+		"flavor": "In the high caves of the Qal Sisma mountains, young hunters quest to hear the echoes of their fierce ancestors.",
+		"number": "134",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386552",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386552.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/heir-of-the-wilds?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386552"
+	  }
+	]
+  },
+  {
+	"name": "Hive Stirrings",
+	"id": "hive-stirrings",
+	"url": "https://api.deckbrew.com/mtg/cards/hive-stirrings",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=hive-stirrings",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{2}{W}",
+	"text": "Put two 1/1 colorless Sliver creature tokens onto the battlefield.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "common",
+		"artist": "Maciej Kuciara",
+		"multiverse_id": 370817,
+		"flavor": "Sliver young are sorted into clutches according to their potential and their future role. Human scholars can only guess how those are determined.",
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370817",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370817.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/hive-stirrings?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370817"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Johann Bodin",
+		"multiverse_id": 0,
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/hive-stirrings?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Immolating Glare",
+	"id": "immolating-glare",
+	"url": "https://api.deckbrew.com/mtg/cards/immolating-glare",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=immolating-glare",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Destroy target attacking creature.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Alexander Lee",
+		"multiverse_id": 0,
+		"flavor": "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n—Nazra of the Stone Havens",
+		"number": "49",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/immolating-glare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Oath of the Gatewatch",
+		"set_id": "OGW",
+		"rarity": "uncommon",
+		"artist": "Daarken",
+		"multiverse_id": 407530,
+		"flavor": "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n—Nazra of the Stone Havens",
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=407530",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/407530.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+		"store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/immolating-glare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/407530"
+	  }
+	]
+  },
+  {
+	"name": "Jori En, Ruin Diver",
+	"id": "jori-en-ruin-diver",
+	"url": "https://api.deckbrew.com/mtg/cards/jori-en-ruin-diver",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=jori-en-ruin-diver",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "merfolk",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{1}{U}{R}",
+	"text": "Whenever you cast your second spell each turn, draw a card.",
+	"power": "2",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Matt Stewart",
+		"multiverse_id": 0,
+		"flavor": "\"Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation.\"",
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/jori-en-ruin-diver?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Oath of the Gatewatch",
+		"set_id": "OGW",
+		"rarity": "rare",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 407665,
+		"flavor": "\"Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation.\"",
+		"number": "155",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=407665",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/407665.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/OGW",
+		"store_url": "http://store.tcgplayer.com/magic/oath-of-the-gatewatch/jori-en-ruin-diver?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/407665"
+	  }
+	]
+  },
+  {
+	"name": "Killing Wave",
+	"id": "killing-wave",
+	"url": "https://api.deckbrew.com/mtg/cards/killing-wave",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=killing-wave",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 1,
+	"cost": "{X}{B}",
+	"text": "For each creature, its controller sacrifices it unless he or she pays X life.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Michael Komarck",
+		"multiverse_id": 0,
+		"number": "19",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/killing-wave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Avacyn Restored",
+		"set_id": "AVR",
+		"rarity": "rare",
+		"artist": "Steve Argyle",
+		"multiverse_id": 240180,
+		"flavor": "\"I come looking for demons and I find a plane full of angels. I hate angels.\"\n—Liliana Vess",
+		"number": "111",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=240180",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/240180.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/killing-wave?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/240180"
+	  }
+	]
+  },
+  {
+	"name": "Kiora's Follower",
+	"id": "kioras-follower",
+	"url": "https://api.deckbrew.com/mtg/cards/kioras-follower",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kioras-follower",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "merfolk"
+	],
+	"colors": [
+	  "blue",
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{U}",
+	"text": "{T}: Untap another target permanent.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Steve Prescott",
+		"multiverse_id": 0,
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/kioras-follower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Born of the Gods",
+		"set_id": "BNG",
+		"rarity": "uncommon",
+		"artist": "Eric Deschamps",
+		"multiverse_id": 378522,
+		"flavor": "\"She may call herself Kiora but I believe she is Thassa, the embodiment of the sea and empress of the depths.\"",
+		"number": "150",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=378522",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/378522.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+		"store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/kioras-follower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/378522"
+	  },
+	  {
+		"set": "Duel Decks: Elspeth vs. Kiora",
+		"set_id": "DDO",
+		"rarity": "uncommon",
+		"artist": "Eric Deschamps",
+		"multiverse_id": 394381,
+		"flavor": "\"She may call herself Kiora but I believe she is Thassa, the embodiment of the sea and empress of the depths.\"",
+		"number": "52",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394381",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394381.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDO",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-elspeth-vs-kiora/kioras-follower?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394381"
+	  }
+	]
+  },
+  {
+	"name": "Languish",
+	"id": "languish",
+	"url": "https://api.deckbrew.com/mtg/cards/languish",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=languish",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 4,
+	"cost": "{2}{B}{B}",
+	"text": "All creatures get -4/-4 until end of turn.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jeff Simpson",
+		"multiverse_id": 0,
+		"flavor": "Life is such a fragile thing.",
+		"number": "46",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/languish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic Origins",
+		"set_id": "ORI",
+		"rarity": "rare",
+		"artist": "Jeff Simpson",
+		"multiverse_id": 398597,
+		"flavor": "Life is such a fragile thing.",
+		"number": "105",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=398597",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/398597.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/languish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/398597"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Jeff Simpson",
+		"multiverse_id": 0,
+		"flavor": "Life is such a fragile thing.",
+		"number": "221",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/languish?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Latch Seeker",
+	"id": "latch-seeker",
+	"url": "https://api.deckbrew.com/mtg/cards/latch-seeker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=latch-seeker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "spirit"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{1}{U}{U}",
+	"text": "Latch Seeker can't be blocked.",
+	"power": "3",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Eytan Zana",
+		"multiverse_id": 0,
+		"number": "18",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/latch-seeker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Avacyn Restored",
+		"set_id": "AVR",
+		"rarity": "uncommon",
+		"artist": "Vincent Proce",
+		"multiverse_id": 240005,
+		"flavor": "It seeks a tomb that will hold it, a coffin that will give it rest.",
+		"number": "63",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=240005",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/240005.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
+		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/latch-seeker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/240005"
+	  }
+	]
+  },
+  {
+	"name": "Liliana's Specter",
+	"id": "lilianas-specter",
+	"url": "https://api.deckbrew.com/mtg/cards/lilianas-specter",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=lilianas-specter",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "specter"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{1}{B}{B}",
+	"text": "Flying\nWhen Liliana's Specter enters the battlefield, each opponent discards a card.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "common",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 382296,
+		"flavor": "\"The finest minions know what I need without me ever saying a thing.\"\n—Liliana Vess",
+		"number": "116",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382296",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382296.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/lilianas-specter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382296"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jaime Jones",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/lilianas-specter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "common",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 204998,
+		"flavor": "\"The finest minions know what I need without me ever saying a thing.\"\n—Liliana Vess",
+		"number": "104",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=204998",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/204998.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/lilianas-specter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/204998"
+	  },
+	  {
+		"set": "Planechase 2012 Edition",
+		"set_id": "PC2",
+		"rarity": "common",
+		"artist": "Vance Kovacs",
+		"multiverse_id": 271194,
+		"flavor": "\"The finest minions know what I need without me ever saying a thing.\"\n—Liliana Vess",
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=271194",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/271194.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+		"store_url": "http://store.tcgplayer.com/magic/planechase-2012/lilianas-specter?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/271194"
+	  }
+	]
+  },
+  {
+	"name": "Magmaquake",
+	"id": "magmaquake",
+	"url": "https://api.deckbrew.com/mtg/cards/magmaquake",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=magmaquake",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{X}{R}{R}",
+	"text": "Magmaquake deals X damage to each creature without flying and each planeswalker.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Gabor Szikszai",
+		"multiverse_id": 405292,
+		"flavor": "\"Where will you run when I punish you with the very ground you flee on?\"—Nicol Bolas",
+		"number": "162",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405292",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405292.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/magmaquake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405292"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Sam Burley",
+		"multiverse_id": 0,
+		"number": "20",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/magmaquake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "rare",
+		"artist": "Gabor Szikszai",
+		"multiverse_id": 276205,
+		"flavor": "\"Where will you run when I punish you with the very ground you flee on?\"\n—Nicol Bolas",
+		"number": "140",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=276205",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/276205.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/magmaquake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/276205"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "rare",
+		"artist": "Gabor Szikszai",
+		"multiverse_id": 389585,
+		"flavor": "\"Where will you run when I punish you with the very ground you flee on?\"\n—Nicol Bolas",
+		"number": "180",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389585",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389585.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/magmaquake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389585"
+	  }
+	]
+  },
+  {
+	"name": "Mardu Shadowspear",
+	"id": "mardu-shadowspear",
+	"url": "https://api.deckbrew.com/mtg/cards/mardu-shadowspear",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mardu-shadowspear",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "warrior"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 1,
+	"cost": "{B}",
+	"text": "Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Dan Scott",
+		"multiverse_id": 0,
+		"number": "41",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/mardu-shadowspear?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"watermark": "Mardu",
+		"rarity": "uncommon",
+		"artist": "Mark Poole",
+		"multiverse_id": 391875,
+		"number": "74",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391875",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391875.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/mardu-shadowspear?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391875"
+	  }
+	]
+  },
+  {
+	"name": "Melek, Izzet Paragon",
+	"id": "melek-izzet-paragon",
+	"url": "https://api.deckbrew.com/mtg/cards/melek-izzet-paragon",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=melek-izzet-paragon",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "weird",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "red"
+	],
+	"cmc": 6,
+	"cost": "{4}{U}{R}",
+	"text": "Play with the top card of your library revealed.\nYou may cast the top card of your library if it's an instant or sorcery card.\nWhenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.",
+	"power": "2",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Jason Chan",
+		"multiverse_id": 405296,
+		"number": "227",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405296",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405296.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/melek-izzet-paragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405296"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Johann Bodin",
+		"multiverse_id": 0,
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/melek-izzet-paragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dragon's Maze",
+		"set_id": "DGM",
+		"watermark": "Izzet",
+		"rarity": "rare",
+		"artist": "Jason Chan",
+		"multiverse_id": 369062,
+		"number": "84",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=369062",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/369062.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-maze/melek-izzet-paragon?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/369062"
+	  }
+	]
+  },
+  {
+	"name": "Memnite",
+	"id": "memnite",
+	"url": "https://api.deckbrew.com/mtg/cards/memnite",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=memnite",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "construct"
+	],
+	"cmc": 0,
+	"cost": "{0}",
+	"text": "",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scars of Mirrodin",
+		"set_id": "SOM",
+		"watermark": "Mirran",
+		"rarity": "uncommon",
+		"artist": "Svetlin Velinov",
+		"multiverse_id": 194078,
+		"flavor": "Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.",
+		"number": "174",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194078",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194078.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+		"store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/memnite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194078"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 0,
+		"flavor": "Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/memnite?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Mitotic Slime",
+	"id": "mitotic-slime",
+	"url": "https://api.deckbrew.com/mtg/cards/mitotic-slime",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mitotic-slime",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "ooze"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 5,
+	"cost": "{4}{G}",
+	"text": "When Mitotic Slime dies, put two 2/2 green Ooze creature tokens onto the battlefield. They have \"When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield.\"",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ron Spencer",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/mitotic-slime?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2011",
+		"set_id": "M11",
+		"rarity": "rare",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 205032,
+		"number": "185",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=205032",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/205032.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M11",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2011-(m11)/mitotic-slime?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/205032"
+	  },
+	  {
+		"set": "Planechase 2012 Edition",
+		"set_id": "PC2",
+		"rarity": "rare",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 271195,
+		"number": "67",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=271195",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/271195.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PC2",
+		"store_url": "http://store.tcgplayer.com/magic/planechase-2012/mitotic-slime?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/271195"
+	  }
+	]
+  },
+  {
+	"name": "Mwonvuli Beast Tracker",
+	"id": "mwonvuli-beast-tracker",
+	"url": "https://api.deckbrew.com/mtg/cards/mwonvuli-beast-tracker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=mwonvuli-beast-tracker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "scout"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{1}{G}{G}",
+	"text": "When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jason A. Engle",
+		"multiverse_id": 0,
+		"number": "21",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/mwonvuli-beast-tracker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2013",
+		"set_id": "M13",
+		"rarity": "uncommon",
+		"artist": "Zoltan Boros",
+		"multiverse_id": 249699,
+		"flavor": "\"The more dangerous, the better.\"",
+		"number": "177",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=249699",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/249699.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M13",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2013-(m13)/mwonvuli-beast-tracker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/249699"
+	  }
+	]
+  },
+  {
+	"name": "Myr Superion",
+	"id": "myr-superion",
+	"url": "https://api.deckbrew.com/mtg/cards/myr-superion",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=myr-superion",
+	"types": [
+	  "artifact",
+	  "creature"
+	],
+	"subtypes": [
+	  "myr"
+	],
+	"cmc": 2,
+	"cost": "{2}",
+	"text": "Spend only mana produced by creatures to cast Myr Superion.",
+	"power": "5",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "8",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/myr-superion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Mirran",
+		"rarity": "rare",
+		"artist": "Jana Schirmer \u0026 Johannes Voss",
+		"multiverse_id": 194275,
+		"flavor": "Two kinds of myr survive: the powerful and those that stay close by them.",
+		"number": "146",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194275",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194275.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/myr-superion?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194275"
+	  }
+	]
+  },
+  {
+	"name": "Nighthowler",
+	"id": "nighthowler",
+	"url": "https://api.deckbrew.com/mtg/cards/nighthowler",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=nighthowler",
+	"types": [
+	  "creature",
+	  "enchantment"
+	],
+	"subtypes": [
+	  "horror"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{1}{B}{B}",
+	"text": "Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nNighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.",
+	"power": "0",
+	"toughness": "0",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Commander 2015",
+		"set_id": "C15",
+		"rarity": "rare",
+		"artist": "Nils Hamm",
+		"multiverse_id": 405319,
+		"number": "129",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=405319",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/405319.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C15",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2015/nighthowler?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/405319"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Seb McKinnon",
+		"multiverse_id": 0,
+		"number": "31",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/nighthowler?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Theros",
+		"set_id": "THS",
+		"rarity": "rare",
+		"artist": "Nils Hamm",
+		"multiverse_id": 373564,
+		"number": "98",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373564",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373564.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/THS",
+		"store_url": "http://store.tcgplayer.com/magic/theros/nighthowler?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373564"
+	  }
+	]
+  },
+  {
+	"name": "Pain Seer",
+	"id": "pain-seer",
+	"url": "https://api.deckbrew.com/mtg/cards/pain-seer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=pain-seer",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 2,
+	"cost": "{1}{B}",
+	"text": "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Mark Winters",
+		"multiverse_id": 0,
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/pain-seer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Born of the Gods",
+		"set_id": "BNG",
+		"rarity": "rare",
+		"artist": "Tyler Jacobson",
+		"multiverse_id": 378452,
+		"flavor": "Every twitching nerve and pulsing vein carries a message, discernible with the right tools.",
+		"number": "80",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=378452",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/378452.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BNG",
+		"store_url": "http://store.tcgplayer.com/magic/born-of-the-gods/pain-seer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/378452"
+	  }
+	]
+  },
+  {
+	"name": "Phalanx Leader",
+	"id": "phalanx-leader",
+	"url": "https://api.deckbrew.com/mtg/cards/phalanx-leader",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=phalanx-leader",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{W}{W}",
+	"text": "Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 0,
+		"number": "30",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/phalanx-leader?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Theros",
+		"set_id": "THS",
+		"rarity": "uncommon",
+		"artist": "David Palumbo",
+		"multiverse_id": 373592,
+		"flavor": "His soldiers etch his words on the insides of their shields, their inspiration always in sight during battle.",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=373592",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/373592.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/THS",
+		"store_url": "http://store.tcgplayer.com/magic/theros/phalanx-leader?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/373592"
+	  }
+	]
+  },
+  {
+	"name": "Priest of Urabrask",
+	"id": "priest-of-urabrask",
+	"url": "https://api.deckbrew.com/mtg/cards/priest-of-urabrask",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=priest-of-urabrask",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "cleric",
+	  "human"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{2}{R}",
+	"text": "When Priest of Urabrask enters the battlefield, add {R}{R}{R} to your mana pool.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Clint Cearley",
+		"multiverse_id": 0,
+		"number": "9",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/priest-of-urabrask?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Phyrexian",
+		"rarity": "uncommon",
+		"artist": "Kev Walker",
+		"multiverse_id": 218037,
+		"flavor": "Even in New Phyrexia, red mana sparks glimmers of individualism, passion, and freedom.",
+		"number": "90",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=218037",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/218037.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/priest-of-urabrask?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/218037"
+	  }
+	]
+  },
+  {
+	"name": "Pristine Talisman",
+	"id": "pristine-talisman",
+	"url": "https://api.deckbrew.com/mtg/cards/pristine-talisman",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=pristine-talisman",
+	"types": [
+	  "artifact"
+	],
+	"cmc": 3,
+	"cost": "{3}",
+	"text": "{T}: Add {C} to your mana pool. You gain 1 life.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 0,
+		"flavor": "\"Tools and artisans can be destroyed, but the act of creation is inviolate.\"\n—Elspeth Tirel",
+		"number": "17",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/pristine-talisman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Mirran",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 233074,
+		"flavor": "\"Tools and artisans can be destroyed, but the act of creation is inviolate.\"\n—Elspeth Tirel",
+		"number": "151",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=233074",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/233074.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/pristine-talisman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/233074"
+	  },
+	  {
+		"set": "Commander 2013 Edition",
+		"set_id": "C13",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 376458,
+		"flavor": "\"Tools and artisans can be destroyed, but the act of creation is inviolate.\"\n—Elspeth Tirel",
+		"number": "255",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=376458",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/376458.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C13",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2013/pristine-talisman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/376458"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "common",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 389644,
+		"flavor": "\"Tools and artisans can be destroyed, but the act of creation is inviolate.\"\n—Elspeth Tirel",
+		"number": "264",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389644",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389644.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/pristine-talisman?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389644"
+	  }
+	]
+  },
+  {
+	"name": "Radiant Flames",
+	"id": "radiant-flames",
+	"url": "https://api.deckbrew.com/mtg/cards/radiant-flames",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=radiant-flames",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 3,
+	"cost": "{2}{R}",
+	"text": "Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Ryan Barger",
+		"multiverse_id": 0,
+		"flavor": "The fires of Zendikar are always hungry, and there is much on which they can feed.",
+		"number": "48",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/radiant-flames?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Slawomir Maniak",
+		"multiverse_id": 0,
+		"flavor": "The fires of Zendikar are always hungry, and there is much on which they can feed.",
+		"number": "287",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/radiant-flames?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "rare",
+		"artist": "Slawomir Maniak",
+		"multiverse_id": 402002,
+		"flavor": "The fires of Zendikar are always hungry, and there is much on which they can feed.",
+		"number": "151",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=402002",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/402002.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/radiant-flames?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/402002"
+	  }
+	]
+  },
+  {
+	"name": "Reclamation Sage",
+	"id": "reclamation-sage",
+	"url": "https://api.deckbrew.com/mtg/cards/reclamation-sage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reclamation-sage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "shaman"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 3,
+	"cost": "{2}{G}",
+	"text": "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Clint Cearley",
+		"multiverse_id": 0,
+		"flavor": "\"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth.\"",
+		"number": "39",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/reclamation-sage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2015 Core Set",
+		"set_id": "M15",
+		"rarity": "uncommon",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 383359,
+		"flavor": "\"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth.\"",
+		"number": "194",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=383359",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/383359.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M15",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2015-(m15)/reclamation-sage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/383359"
+	  },
+	  {
+		"set": "Commander 2014",
+		"set_id": "C14",
+		"rarity": "uncommon",
+		"artist": "Christopher Moeller",
+		"multiverse_id": 389651,
+		"flavor": "\"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth.\"",
+		"number": "213",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=389651",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/389651.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/C14",
+		"store_url": "http://store.tcgplayer.com/magic/commander-2014/reclamation-sage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/389651"
+	  }
+	]
+  },
+  {
+	"name": "Reya Dawnbringer",
+	"id": "reya-dawnbringer",
+	"url": "https://api.deckbrew.com/mtg/cards/reya-dawnbringer",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=reya-dawnbringer",
+	"types": [
+	  "creature"
+	],
+	"supertypes": [
+	  "legendary"
+	],
+	"subtypes": [
+	  "angel"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 9,
+	"cost": "{6}{W}{W}{W}",
+	"text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+	"power": "4",
+	"toughness": "6",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic: The Gathering—Conspiracy",
+		"set_id": "CNS",
+		"rarity": "rare",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 382347,
+		"flavor": "\"You have not died until I consent.\"",
+		"number": "79",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=382347",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/382347.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CNS",
+		"store_url": "http://store.tcgplayer.com/magic/conspiracy/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/382347"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 0,
+		"flavor": "\"You have not died until I consent.\"",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Invasion",
+		"set_id": "INV",
+		"rarity": "rare",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 22965,
+		"flavor": "A beacon of hope for a battered army.",
+		"number": "33",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=22965",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/22965.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/INV",
+		"store_url": "http://store.tcgplayer.com/magic/invasion/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/22965"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 106384,
+		"flavor": "\"You have not died until I consent.\"",
+		"number": "35",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106384",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106384.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/106384"
+	  },
+	  {
+		"set": "Duel Decks: Divine vs. Demonic",
+		"set_id": "DDC",
+		"rarity": "rare",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 196998,
+		"flavor": "\"You have not died until I consent.\"",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=196998",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/196998.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/196998"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Divine vs. Demonic",
+		"set_id": "DD3_DVD",
+		"rarity": "rare",
+		"artist": "Matthew D. Wilson",
+		"multiverse_id": 394047,
+		"flavor": "\"You have not died until I consent.\"",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394047",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394047.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/reya-dawnbringer?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394047"
+	  }
+	]
+  },
+  {
+	"name": "Scaleguard Sentinels",
+	"id": "scaleguard-sentinels",
+	"url": "https://api.deckbrew.com/mtg/cards/scaleguard-sentinels",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=scaleguard-sentinels",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "soldier"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{G}",
+	"text": "As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.\nScaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels.",
+	"power": "2",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Dragons of Tarkir",
+		"set_id": "DTK",
+		"watermark": "Dromoka",
+		"rarity": "uncommon",
+		"artist": "Matt Stewart",
+		"multiverse_id": 394680,
+		"number": "201",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394680",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394680.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/scaleguard-sentinels?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394680"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "David Gaillet",
+		"multiverse_id": 0,
+		"number": "44",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/scaleguard-sentinels?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Squelching Leeches",
+	"id": "squelching-leeches",
+	"url": "https://api.deckbrew.com/mtg/cards/squelching-leeches",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=squelching-leeches",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "leech"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 4,
+	"cost": "{2}{B}{B}",
+	"text": "Squelching Leeches's power and toughness are each equal to the number of Swamps you control.",
+	"power": "*",
+	"toughness": "*",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Tomasz Jedruszek",
+		"multiverse_id": 0,
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/squelching-leeches?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Journey into Nyx",
+		"set_id": "JOU",
+		"rarity": "uncommon",
+		"artist": "Svetlin Velinov",
+		"multiverse_id": 380507,
+		"flavor": "Leeches are sacred to followers of Pharika for drawing poison from a wound, but feared by everyone else for drawing blood from the flesh.",
+		"number": "84",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=380507",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/380507.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/JOU",
+		"store_url": "http://store.tcgplayer.com/magic/journey-into-nyx/squelching-leeches?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/380507"
+	  }
+	]
+  },
+  {
+	"name": "Stasis Snare",
+	"id": "stasis-snare",
+	"url": "https://api.deckbrew.com/mtg/cards/stasis-snare",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=stasis-snare",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{W}",
+	"text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Slawomir Maniak",
+		"multiverse_id": 0,
+		"number": "47",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/stasis-snare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Battle for Zendikar",
+		"set_id": "BFZ",
+		"rarity": "uncommon",
+		"artist": "Jason Felix",
+		"multiverse_id": 402048,
+		"number": "50",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=402048",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/402048.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BFZ",
+		"store_url": "http://store.tcgplayer.com/magic/battle-for-zendikar/stasis-snare?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/402048"
+	  }
+	]
+  },
+  {
+	"name": "Stormblood Berserker",
+	"id": "stormblood-berserker",
+	"url": "https://api.deckbrew.com/mtg/cards/stormblood-berserker",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=stormblood-berserker",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "berserker",
+	  "human"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 2,
+	"cost": "{1}{R}",
+	"text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nMenace (This creature can't be blocked except by two or more creatures.)",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "uncommon",
+		"artist": "Min Yum",
+		"multiverse_id": 220277,
+		"flavor": "Blood is holy to those whose god is War.",
+		"number": "156",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220277",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220277.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/stormblood-berserker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220277"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/stormblood-berserker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Modern Masters 2015 Edition",
+		"set_id": "MM2",
+		"rarity": "uncommon",
+		"artist": "Min Yum",
+		"multiverse_id": 397712,
+		"flavor": "Blood is holy to those whose god is War.",
+		"number": "130",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397712",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397712.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MM2",
+		"store_url": "http://store.tcgplayer.com/magic/modern-masters-2015-edition/stormblood-berserker?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397712"
+	  }
+	]
+  },
+  {
+	"name": "Strangleroot Geist",
+	"id": "strangleroot-geist",
+	"url": "https://api.deckbrew.com/mtg/cards/strangleroot-geist",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=strangleroot-geist",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "spirit"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{G}",
+	"text": "Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Erica Yang",
+		"multiverse_id": 0,
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/strangleroot-geist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dark Ascension",
+		"set_id": "DKA",
+		"rarity": "uncommon",
+		"artist": "Jason Chan",
+		"multiverse_id": 262671,
+		"flavor": "Geists of the hanged often haunt the tree on which they died.",
+		"number": "127",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=262671",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/262671.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+		"store_url": "http://store.tcgplayer.com/magic/dark-ascension/strangleroot-geist?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/262671"
+	  }
+	]
+  },
+  {
+	"name": "Supplant Form",
+	"id": "supplant-form",
+	"url": "https://api.deckbrew.com/mtg/cards/supplant-form",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=supplant-form",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 6,
+	"cost": "{4}{U}{U}",
+	"text": "Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Mike Bierek",
+		"multiverse_id": 0,
+		"flavor": "\"Ice can be shaped to any form, even the whisper of a memory.\"\n—Mytha, Temur shaman",
+		"number": "42",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/supplant-form?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Adam Paquette",
+		"multiverse_id": 0,
+		"flavor": "\"Ice can be shaped to any form, even the whisper of a memory.\"\n—Mytha, Temur shaman",
+		"number": "152",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/supplant-form?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Fate Reforged",
+		"set_id": "FRF",
+		"rarity": "rare",
+		"artist": "Adam Paquette",
+		"multiverse_id": 391933,
+		"flavor": "\"Ice can be shaped to any form, even the whisper of a memory.\"\n—Mytha, Temur shaman",
+		"number": "54",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=391933",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/391933.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/FRF",
+		"store_url": "http://store.tcgplayer.com/magic/fate-reforged/supplant-form?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/391933"
+	  }
+	]
+  },
+  {
+	"name": "Suture Priest",
+	"id": "suture-priest",
+	"url": "https://api.deckbrew.com/mtg/cards/suture-priest",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=suture-priest",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "cleric"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Whenever another creature enters the battlefield under your control, you may gain 1 life.\nWhenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 0,
+		"number": "16",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/suture-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "New Phyrexia",
+		"set_id": "NPH",
+		"watermark": "Phyrexian",
+		"rarity": "common",
+		"artist": "Igor Kieryluk",
+		"multiverse_id": 217981,
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=217981",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/217981.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/NPH",
+		"store_url": "http://store.tcgplayer.com/magic/new-phyrexia/suture-priest?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/217981"
+	  }
+	]
+  },
+  {
+	"name": "Tempered Steel",
+	"id": "tempered-steel",
+	"url": "https://api.deckbrew.com/mtg/cards/tempered-steel",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=tempered-steel",
+	"types": [
+	  "enchantment"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 3,
+	"cost": "{1}{W}{W}",
+	"text": "Artifact creatures you control get +2/+2.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Scars of Mirrodin",
+		"set_id": "SOM",
+		"watermark": "Mirran",
+		"rarity": "rare",
+		"artist": "Wayne Reynolds",
+		"multiverse_id": 194391,
+		"flavor": "\"Death shall prevail as long as our will falls to rust. May necessity anneal our resolve.\"\n—Ghalma the Shaper",
+		"number": "24",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=194391",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/194391.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/SOM",
+		"store_url": "http://store.tcgplayer.com/magic/scars-of-mirrodin/tempered-steel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/194391"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "jD",
+		"multiverse_id": 0,
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/tempered-steel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Thunderbreak Regent",
+	"id": "thunderbreak-regent",
+	"url": "https://api.deckbrew.com/mtg/cards/thunderbreak-regent",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=thunderbreak-regent",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "dragon"
+	],
+	"colors": [
+	  "red"
+	],
+	"cmc": 4,
+	"cost": "{2}{R}{R}",
+	"text": "Flying\nWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.",
+	"power": "4",
+	"toughness": "4",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "standard": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Dragons of Tarkir",
+		"set_id": "DTK",
+		"watermark": "Kolaghan",
+		"rarity": "rare",
+		"artist": "Ryan Pancoast",
+		"multiverse_id": 394730,
+		"flavor": "Attracting a dragon's attention may be the last mistake you make.",
+		"number": "162",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394730",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394730.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DTK",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-of-tarkir/thunderbreak-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394730"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jason Rainville",
+		"multiverse_id": 0,
+		"flavor": "Attracting a dragon's attention may be the last mistake you make.",
+		"number": "43",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/thunderbreak-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Ryan Pancoast",
+		"multiverse_id": 0,
+		"flavor": "Attracting a dragon's attention may be the last mistake you make.",
+		"number": "195",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/thunderbreak-regent?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Treasure Mage",
+	"id": "treasure-mage",
+	"url": "https://api.deckbrew.com/mtg/cards/treasure-mage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=treasure-mage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "wizard"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 3,
+	"cost": "{2}{U}",
+	"text": "When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Mirrodin Besieged",
+		"set_id": "MBS",
+		"watermark": "Mirran",
+		"rarity": "uncommon",
+		"artist": "Ryan Pancoast",
+		"multiverse_id": 213753,
+		"number": "34",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=213753",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/213753.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MBS",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin-besieged/treasure-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/213753"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Greg Staples",
+		"multiverse_id": 0,
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/treasure-mage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Trostani's Summoner",
+	"id": "trostanis-summoner",
+	"url": "https://api.deckbrew.com/mtg/cards/trostanis-summoner",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=trostanis-summoner",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "shaman"
+	],
+	"colors": [
+	  "green",
+	  "white"
+	],
+	"cmc": 7,
+	"cost": "{5}{G}{W}",
+	"text": "When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Nils Hamm",
+		"multiverse_id": 0,
+		"number": "27",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/trostanis-summoner?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dragon's Maze",
+		"set_id": "DGM",
+		"watermark": "Selesnya",
+		"rarity": "uncommon",
+		"artist": "Howard Lyon",
+		"multiverse_id": 369072,
+		"number": "110",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=369072",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/369072.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DGM",
+		"store_url": "http://store.tcgplayer.com/magic/dragons-maze/trostanis-summoner?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/369072"
+	  }
+	]
+  },
+  {
+	"name": "Utter End",
+	"id": "utter-end",
+	"url": "https://api.deckbrew.com/mtg/cards/utter-end",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=utter-end",
+	"types": [
+	  "instant"
+	],
+	"colors": [
+	  "black",
+	  "white"
+	],
+	"cmc": 4,
+	"cost": "{2}{W}{B}",
+	"text": "Exile target nonland permanent.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Jack Wang",
+		"multiverse_id": 0,
+		"flavor": "\"I came seeking a challenge. All I found was you.\"\n—Zurgo, khan of the Mardu",
+		"number": "38",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/utter-end?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Khans of Tarkir",
+		"set_id": "KTK",
+		"rarity": "rare",
+		"artist": "Mark Winters",
+		"multiverse_id": 386711,
+		"flavor": "\"I came seeking a challenge. All I found was you.\"\n—Zurgo, khan of the Mardu",
+		"number": "210",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=386711",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/386711.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/KTK",
+		"store_url": "http://store.tcgplayer.com/magic/khans-of-tarkir/utter-end?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/386711"
+	  },
+	  {
+		"set": "Prerelease Events",
+		"set_id": "pPRE",
+		"rarity": "special",
+		"artist": "Mark Winters",
+		"multiverse_id": 0,
+		"flavor": "\"I came seeking a challenge. All I found was you.\"\n—Zurgo, khan of the Mardu",
+		"number": "125",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPRE",
+		"store_url": "http://store.tcgplayer.com/magic/prerelease-events/utter-end?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Zameck Guildmage",
+	"id": "zameck-guildmage",
+	"url": "https://api.deckbrew.com/mtg/cards/zameck-guildmage",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zameck-guildmage",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "elf",
+	  "wizard"
+	],
+	"colors": [
+	  "blue",
+	  "green"
+	],
+	"cmc": 2,
+	"cost": "{G}{U}",
+	"text": "{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.\n{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+	"power": "2",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Gatecrash",
+		"set_id": "GTC",
+		"watermark": "Simic",
+		"rarity": "uncommon",
+		"artist": "Chase Stone",
+		"multiverse_id": 366454,
+		"number": "209",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=366454",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/366454.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/GTC",
+		"store_url": "http://store.tcgplayer.com/magic/gatecrash/zameck-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/366454"
+	  },
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Raymond Swanland",
+		"multiverse_id": 0,
+		"number": "25",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/zameck-guildmage?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Zombie Apocalypse",
+	"id": "zombie-apocalypse",
+	"url": "https://api.deckbrew.com/mtg/cards/zombie-apocalypse",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=zombie-apocalypse",
+	"types": [
+	  "sorcery"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 6,
+	"cost": "{3}{B}{B}{B}",
+	"text": "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Magic Game Day",
+		"set_id": "pMGD",
+		"rarity": "special",
+		"artist": "Volkan Baga",
+		"multiverse_id": 0,
+		"number": "14",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pMGD",
+		"store_url": "http://store.tcgplayer.com/magic/magic-game-day/zombie-apocalypse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Dark Ascension",
+		"set_id": "DKA",
+		"rarity": "rare",
+		"artist": "Peter Mohrbacher",
+		"multiverse_id": 262669,
+		"flavor": "\"There will come a day so dark you will pray for death. On that day your prayers will be answered.\"\n—Minaldra, the Vizag Atum",
+		"number": "80",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=262669",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/262669.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DKA",
+		"store_url": "http://store.tcgplayer.com/magic/dark-ascension/zombie-apocalypse?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/262669"
+	  }
+	]
+  }
+]

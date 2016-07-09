@@ -32,8 +32,7 @@ public enum Rarity {
                 return rarity;
             }
         }
-        Log.d("Rarity", "Missing Subtype: " + lookup);
-        return null;
+        throw new IllegalStateException(String.format("Missing Rarity: %s", lookup));
     }
 
     @Nullable

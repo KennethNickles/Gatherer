@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Char",
+    "id": "char",
+    "url": "https://api.deckbrew.com/mtg/cards/char",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=char",
+    "types": [
+      "instant"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 3,
+    "cost": "{2}{R}",
+    "text": "Char deals 4 damage to target creature or player and 2 damage to you.",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "15th Anniversary",
+        "set_id": "p15A",
+        "rarity": "special",
+        "artist": "Dave Dorman",
+        "multiverse_id": 0,
+        "flavor": "If you've never choked on the embers of your own spell, you aren't casting it hard enough.",
+        "number": "1",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/p15A",
+        "store_url": "http://store.tcgplayer.com/magic/15th-anniversary/char?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "From the Vault: Twenty",
+        "set_id": "V13",
+        "rarity": "mythic",
+        "artist": "Adam Rex",
+        "multiverse_id": 373332,
+        "flavor": "Izzet mages often acquire their magic reagents from dubious sources, so the potency of their spells is never predictable.",
+        "number": "14",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373332",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373332.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/V13",
+        "store_url": "http://store.tcgplayer.com/magic/from-the-vault-twenty/char?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373332"
+      },
+      {
+        "set": "Ravnica: City of Guilds",
+        "set_id": "RAV",
+        "rarity": "rare",
+        "artist": "Adam Rex",
+        "multiverse_id": 87942,
+        "flavor": "Izzet mages often acquire their magic reagents from dubious sources, so the potency of their spells is never predictable.",
+        "number": "117",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=87942",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/87942.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+        "store_url": "http://store.tcgplayer.com/magic/ravnica/char?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/87942"
+      }
+    ]
+  },
+  {
+    "name": "Kamahl, Pit Fighter",
+    "id": "kamahl-pit-fighter",
+    "url": "https://api.deckbrew.com/mtg/cards/kamahl-pit-fighter",
+    "store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=kamahl-pit-fighter",
+    "types": [
+      "creature"
+    ],
+    "supertypes": [
+      "legendary"
+    ],
+    "subtypes": [
+      "barbarian",
+      "human"
+    ],
+    "colors": [
+      "red"
+    ],
+    "cmc": 6,
+    "cost": "{4}{R}{R}",
+    "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.",
+    "power": "6",
+    "toughness": "1",
+    "formats": {
+      "commander": "legal",
+      "legacy": "legal",
+      "modern": "legal",
+      "vintage": "legal"
+    },
+    "editions": [
+      {
+        "set": "Tenth Edition",
+        "set_id": "10E",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 106398,
+        "flavor": "In times when freedom seems lost, great souls arise to reclaim it.",
+        "number": "214",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=106398",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/106398.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/10E",
+        "store_url": "http://store.tcgplayer.com/magic/10th-edition/kamahl-pit-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/106398"
+      },
+      {
+        "set": "15th Anniversary",
+        "set_id": "p15A",
+        "rarity": "special",
+        "artist": "Kev Walker",
+        "multiverse_id": 0,
+        "flavor": "In times when freedom seems lost, great souls arise to reclaim it.",
+        "number": "2",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/p15A",
+        "store_url": "http://store.tcgplayer.com/magic/15th-anniversary/kamahl-pit-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Duel Decks: Heroes vs. Monsters",
+        "set_id": "DDL",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 373338,
+        "flavor": "In times when freedom seems lost, great souls arise to reclaim it.",
+        "number": "16",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=373338",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/373338.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DDL",
+        "store_url": "http://store.tcgplayer.com/magic/duel-decks-heroes-vs-monsters/kamahl-pit-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/373338"
+      },
+      {
+        "set": "Duels of the Planeswalkers",
+        "set_id": "DPA",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 0,
+        "flavor": "In times when freedom seems lost, great souls arise to reclaim it.",
+        "number": "49",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+        "store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/kamahl-pit-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/0"
+      },
+      {
+        "set": "Odyssey",
+        "set_id": "ODY",
+        "rarity": "rare",
+        "artist": "Kev Walker",
+        "multiverse_id": 29963,
+        "flavor": "\"I didn't come to play. I came to win.\"",
+        "number": "198",
+        "layout": "normal",
+        "price": {
+          "low": 0,
+          "median": 0,
+          "high": 0
+        },
+        "url": "https://api.deckbrew.com/mtg/cards?multiverseid=29963",
+        "image_url": "https://image.deckbrew.com/mtg/multiverseid/29963.jpg",
+        "set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+        "store_url": "http://store.tcgplayer.com/magic/odyssey/kamahl-pit-fighter?partner=DECKBREW",
+        "html_url": "https://deckbrew.com/mtg/cards/29963"
+      }
+    ]
+  }
+]

@@ -46,8 +46,7 @@ public enum Color {
                 return color;
             }
         }
-        Log.d("Color", "Missing Color: " + lookup);
-        return null;
+        throw new IllegalStateException(String.format("Missing Color: %s", lookup));
     }
 
     public static Set<Color> from(Set<String> lookups) {

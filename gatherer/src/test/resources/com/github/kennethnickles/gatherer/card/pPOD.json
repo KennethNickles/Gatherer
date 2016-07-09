@@ -1,0 +1,924 @@
+[
+  {
+	"name": "Armored Pegasus",
+	"id": "armored-pegasus",
+	"url": "https://api.deckbrew.com/mtg/cards/armored-pegasus",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=armored-pegasus",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "pegasus"
+	],
+	"colors": [
+	  "white"
+	],
+	"cmc": 2,
+	"cost": "{1}{W}",
+	"text": "Flying",
+	"power": "1",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 4374,
+		"flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4374",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4374.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4374"
+	  },
+	  {
+		"set": "Anthologies",
+		"set_id": "ATH",
+		"rarity": "special",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 0,
+		"flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Battle Royale Box Set",
+		"set_id": "BRB",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 21120,
+		"flavor": "\"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits.\"\n—Tahlil en-Dal, bounty hunter",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21120",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21120.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BRB",
+		"store_url": "http://store.tcgplayer.com/magic/battle-royale-box-set/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21120"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 14469,
+		"flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14469",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14469.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14469"
+	  },
+	  {
+		"set": "Tempest",
+		"set_id": "TMP",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 4861,
+		"flavor": "\"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits.\"\n—Tahli en-Dal, bounty hunter",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4861",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4861.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TMP",
+		"store_url": "http://store.tcgplayer.com/magic/tempest/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4861"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 0,
+		"flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Starter 2000",
+		"set_id": "S00",
+		"rarity": "common",
+		"artist": "Andrew Robinson",
+		"multiverse_id": 25498,
+		"flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=25498",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/25498.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S00",
+		"store_url": "http://store.tcgplayer.com/magic/starter-2000/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/25498"
+	  },
+	  {
+		"set": "Tempest Remastered",
+		"set_id": "TPR",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 397411,
+		"flavor": "\"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits.\"\n—Tahli en-Dal, bounty hunter",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=397411",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/397411.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TPR",
+		"store_url": "http://store.tcgplayer.com/magic/tempest-remastered/armored-pegasus?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/397411"
+	  }
+	]
+  },
+  {
+	"name": "Bull Hippo",
+	"id": "bull-hippo",
+	"url": "https://api.deckbrew.com/mtg/cards/bull-hippo",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=bull-hippo",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "hippo"
+	],
+	"colors": [
+	  "green"
+	],
+	"cmc": 4,
+	"cost": "{3}{G}",
+	"text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+	"power": "3",
+	"toughness": "3",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "uncommon",
+		"artist": "Roger Raupp",
+		"multiverse_id": 4290,
+		"flavor": "Stay alert: his lumbering may shake the ground itself, but in water, he glides.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4290",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4290.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/bull-hippo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4290"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Roger Raupp",
+		"multiverse_id": 0,
+		"number": "2",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/bull-hippo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Urza's Saga",
+		"set_id": "USG",
+		"rarity": "uncommon",
+		"artist": "Daren Bader",
+		"multiverse_id": 5577,
+		"flavor": "\"How could you not hear it approach? It's a hippo!\"\n—Argivian commander",
+		"number": "239",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=5577",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/5577.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/USG",
+		"store_url": "http://store.tcgplayer.com/magic/urzas-saga/bull-hippo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/5577"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "uncommon",
+		"artist": "Heather Hudson",
+		"multiverse_id": 13103,
+		"flavor": "The merfolk may rule the waters, but hippos have never had much respect for authority.",
+		"number": "233",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=13103",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/13103.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/bull-hippo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/13103"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "uncommon",
+		"artist": "Daren Bader",
+		"multiverse_id": 20226,
+		"flavor": "Stay alert: his lumbering may shake the ground itself, but in water, he glides.",
+		"number": "126",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20226",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20226.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/bull-hippo?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20226"
+	  }
+	]
+  },
+  {
+	"name": "Cloud Pirates",
+	"id": "cloud-pirates",
+	"url": "https://api.deckbrew.com/mtg/cards/cloud-pirates",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=cloud-pirates",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "human",
+	  "pirate"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 1,
+	"cost": "{U}",
+	"text": "Flying\nCloud Pirates can block only creatures with flying.",
+	"power": "1",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Phil Foglio",
+		"multiverse_id": 4253,
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4253",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4253.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/cloud-pirates?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4253"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Phil Foglio",
+		"multiverse_id": 0,
+		"number": "3",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/cloud-pirates?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  }
+	]
+  },
+  {
+	"name": "Feral Shadow",
+	"id": "feral-shadow",
+	"url": "https://api.deckbrew.com/mtg/cards/feral-shadow",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=feral-shadow",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "nightstalker"
+	],
+	"colors": [
+	  "black"
+	],
+	"cmc": 3,
+	"cost": "{2}{B}",
+	"text": "Flying",
+	"power": "2",
+	"toughness": "1",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 4221,
+		"flavor": "Not all shadows are cast by light—some are cast by darkness.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4221",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4221.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4221"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Cliff Nielsen",
+		"multiverse_id": 15387,
+		"flavor": "Not all shadows are cast by light—some are cast by darkness.",
+		"number": "131",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=15387",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/15387.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/15387"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Colin MacNeil",
+		"multiverse_id": 0,
+		"flavor": "Not all shadows are cast by light—some are cast by darkness.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Cliff Nielsen",
+		"multiverse_id": 27564,
+		"flavor": "\"The nightstalkers are such a minor power in Urborg. Their sad eagerness to elevate themselves makes them willing tools in the plundering of little Femeref.\"\n—Kaervek",
+		"number": "26",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=27564",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/27564.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/27564"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Cliff Nielsen",
+		"multiverse_id": 20373,
+		"flavor": "Not all shadows are cast by light—some are cast by darkness.",
+		"number": "77",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=20373",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/20373.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/20373"
+	  },
+	  {
+		"set": "Mirage",
+		"set_id": "MIR",
+		"rarity": "common",
+		"artist": "Cliff Nielsen",
+		"multiverse_id": 3291,
+		"flavor": "\"The night stalkers are such a minor power in Urborg. Their sad eagerness to elevate themselves makes them willing tools in the plundering of little Femeref.\"\n—Kaervek",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3291",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3291.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MIR",
+		"store_url": "http://store.tcgplayer.com/magic/mirage/feral-shadow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3291"
+	  }
+	]
+  },
+  {
+	"name": "Snapping Drake",
+	"id": "snapping-drake",
+	"url": "https://api.deckbrew.com/mtg/cards/snapping-drake",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=snapping-drake",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "drake"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 4,
+	"cost": "{3}{U}",
+	"text": "Flying",
+	"power": "3",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Ravnica: City of Guilds",
+		"set_id": "RAV",
+		"rarity": "common",
+		"artist": "Dave Dorman",
+		"multiverse_id": 87986,
+		"flavor": "The irritable drakes are solitary nesters. Even brooding females barely contain the urge to attack their own young.",
+		"number": "64",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=87986",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/87986.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/RAV",
+		"store_url": "http://store.tcgplayer.com/magic/ravnica/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/87986"
+	  },
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 4274,
+		"flavor": "Drakes claim to be dragons—until the dragons show up.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4274",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4274.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4274"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Christopher Rush",
+		"multiverse_id": 0,
+		"flavor": "Drakes claim to be dragons—until the dragons show up.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "common",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 190163,
+		"flavor": "Foul-tempered, poorly trained, and mule-stubborn, the drake is the perfect test of the master's will.",
+		"number": "72",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190163",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190163.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190163"
+	  },
+	  {
+		"set": "Duels of the Planeswalkers",
+		"set_id": "DPA",
+		"rarity": "common",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 0,
+		"flavor": "Foul-tempered, poorly trained, and mule-stubborn, the drake is the perfect test of the master's will.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DPA",
+		"store_url": "http://store.tcgplayer.com/magic/duels-of-the-planeswalkers/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Beatdown Box Set",
+		"set_id": "BTD",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 27262,
+		"flavor": "Drakes claim to be dragons—until the dragons show up.",
+		"number": "15",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=27262",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/27262.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/BTD",
+		"store_url": "http://store.tcgplayer.com/magic/beatdown-box-set/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/27262"
+	  },
+	  {
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "common",
+		"artist": "Dave Dorman",
+		"multiverse_id": 129471,
+		"flavor": "The irritable drakes are solitary nesters. Even brooding females barely contain the urge to attack their own young.",
+		"number": "110",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129471",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129471.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129471"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Christopher Rush",
+		"multiverse_id": 21030,
+		"flavor": "Drakes claim to be dragons—until the dragons show up.",
+		"number": "52",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21030",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21030.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/snapping-drake?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21030"
+	  }
+	]
+  },
+  {
+	"name": "Storm Crow",
+	"id": "storm-crow",
+	"url": "https://api.deckbrew.com/mtg/cards/storm-crow",
+	"store_url": "http://store.tcgplayer.com/magic/product/show?partner=DECKBREW\u0026ProductName=storm-crow",
+	"types": [
+	  "creature"
+	],
+	"subtypes": [
+	  "bird"
+	],
+	"colors": [
+	  "blue"
+	],
+	"cmc": 2,
+	"cost": "{1}{U}",
+	"text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+	"power": "1",
+	"toughness": "2",
+	"formats": {
+	  "commander": "legal",
+	  "legacy": "legal",
+	  "modern": "legal",
+	  "vintage": "legal"
+	},
+	"editions": [
+	  {
+		"set": "Portal",
+		"set_id": "POR",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 4276,
+		"flavor": "Storm crow descending, winter unending.  Storm crow departing, summer is starting.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=4276",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/4276.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/POR",
+		"store_url": "http://store.tcgplayer.com/magic/portal/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/4276"
+	  },
+	  {
+		"set": "Alliances",
+		"set_id": "ALL",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 3119,
+		"flavor": "\"It tells you that the worst is coming. Do you listen?\n—Lovisa Coldeyes,\nBalduvian Chieftain",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3119",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3119.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+		"store_url": "http://store.tcgplayer.com/magic/alliances/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3119"
+	  },
+	  {
+		"set": "Alliances",
+		"set_id": "ALL",
+		"rarity": "common",
+		"artist": "Sandra Everingham",
+		"multiverse_id": 3120,
+		"flavor": "\"Watch for it Right on its tailfeathers will be a storm from your nightmares.\"\n—Arna Kennerüd, Skycaptain",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=3120",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/3120.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ALL",
+		"store_url": "http://store.tcgplayer.com/magic/alliances/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/3120"
+	  },
+	  {
+		"set": "Classic Sixth Edition",
+		"set_id": "6ED",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 14753,
+		"flavor": "Storm crow descending, winter unending.\nStorm crow departing, summer is starting.",
+		"number": "101",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=14753",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/14753.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/6ED",
+		"store_url": "http://store.tcgplayer.com/magic/classic-sixth-edition/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/14753"
+	  },
+	  {
+		"set": "Portal Demo Game",
+		"set_id": "pPOD",
+		"rarity": "special",
+		"artist": "Una Fricker",
+		"multiverse_id": 0,
+		"flavor": "Storm crow descending, winter unending. Storm crow departing, summer is starting.",
+		"number": "6",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pPOD",
+		"store_url": "http://store.tcgplayer.com/magic/portal-demo-game/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Seventh Edition",
+		"set_id": "7ED",
+		"rarity": "common",
+		"artist": "John Matson",
+		"multiverse_id": 13172,
+		"flavor": "Storm crow descending, winter unending.\nStorm crow departing, summer is starting.",
+		"number": "100",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=13172",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/13172.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/7ED",
+		"store_url": "http://store.tcgplayer.com/magic/7th-edition/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/13172"
+	  },
+	  {
+		"set": "Ninth Edition",
+		"set_id": "9ED",
+		"rarity": "common",
+		"artist": "John Matson",
+		"multiverse_id": 83282,
+		"flavor": "Storm crow descending, winter unending. Storm crow departing, summer is starting.",
+		"number": "100",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83282",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83282.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83282"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "common",
+		"artist": "John Matson",
+		"multiverse_id": 45227,
+		"flavor": "Storm crow descending, winter unending. Storm crow departing, summer is starting.",
+		"number": "104",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45227",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45227.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45227"
+	  },
+	  {
+		"set": "Starter 1999",
+		"set_id": "S99",
+		"rarity": "common",
+		"artist": "Una Fricker",
+		"multiverse_id": 21028,
+		"flavor": "Storm crow descending, winter unending.\nStorm crow departing, summer is starting.",
+		"number": "53",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=21028",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/21028.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/S99",
+		"store_url": "http://store.tcgplayer.com/magic/starter-1999/storm-crow?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/21028"
+	  }
+	]
+  }
+]

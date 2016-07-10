@@ -1,46 +1,55 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    ext.kotlin_version = '1.0.2'
-    project.ext {
-        android_projects = [':gatherer:gatherer']
-    }
-    configure(android_projects) {
-        repositories {
-            mavenCentral()
-            jcenter()
-        }
-        dependencies {
-            classpath "com.android.tools.build:gradle:$android_plugin_version"
-            classpath "com.jakewharton.sdkmanager:gradle-plugin:$sdk_manager_version"
-            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-            classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
-            classpath "com.neenbedankt.gradle.plugins:android-apt:$android_apt_version"
-        }
-    }
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-    }
+	ext.kotlin_version = '1.0.2'
+	project.ext {
+		android_projects = [':gatherer:gatherer']
+	}
+	configure(android_projects) {
+		repositories {
+			mavenCentral()
+			jcenter()
+		}
+		dependencies {
+			classpath "com.android.tools.build:gradle:$android_plugin_version"
+			classpath "com.jakewharton.sdkmanager:gradle-plugin:$sdk_manager_version"
+			classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+			classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+			classpath "com.neenbedankt.gradle.plugins:android-apt:$android_apt_version"
+		}
+	}
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+	}
 }
 
 allprojects {
-    repositories {
-        mavenCentral()
-    }
+	repositories {
+		mavenCentral()
+	}
 }
 
 task resolveDependencies {
-    doLast {
-        project.rootProject.allprojects.each { subProject ->
-            subProject.buildscript.configurations.each { configuration ->
-                configuration.resolve()
-            }
-            subProject.configurations.each { configuration ->
-                configuration.resolve()
-            }
-        }
-    }
+	doLast {
+		project.rootProject.allprojects.each { subProject ->
+			subProject.buildscript.configurations.each { configuration ->
+				configuration.resolve()
+			}
+			subProject.configurations.each { configuration ->
+				configuration.resolve()
+			}
+		}
+	}
+}
+
+task copyCIArtifacts << {
+	if (System.getenv("CIRCLECI").equals("true")) {
+		copy {
+			from(file('build/libs/').listFiles() + file('build/distributions/').listFiles())
+			into System.getenv('CIRCLE_ARTIFACTS')
+		}
+	}
 }

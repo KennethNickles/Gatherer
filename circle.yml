@@ -10,7 +10,14 @@ dependencies:
     - echo y | android update sdk --no-ui --all --filter "tools,platform-tools,android-23"
     - echo y | android update sdk --no-ui --all --filter "build-tools-23.0.2"
 
-
+general:
+  artifacts:
+	- "build/libs/*.jar"
+	- "build/distributions/*.zip"
 test:
   override:
     - ./gradlew build check
+  post:
+	- mkdir -p $CIRCLE_TEST_REPORTS/junit/
+	- find . -type f -regex ".*/build/test-results/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;
+	- ./gradlew jar javadocJar sourcesJar shadowJar distZip copyCIArtifacts

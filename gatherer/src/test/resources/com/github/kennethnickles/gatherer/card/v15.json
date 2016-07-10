@@ -29,25 +29,6 @@
 	},
 	"editions": [
 	  {
-		"set": "Planar Chaos",
-		"set_id": "PLC",
-		"rarity": "rare",
-		"artist": "Daren Bader",
-		"multiverse_id": 122432,
-		"number": "94",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=122432",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/122432.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
-		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/akroma-angel-of-fury?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/122432"
-	  },
-	  {
 		"set": "Magic: The Gathering-Commander",
 		"set_id": "CMD",
 		"rarity": "rare",
@@ -84,6 +65,25 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/akroma-angel-of-fury?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401628"
+	  },
+	  {
+		"set": "Planar Chaos",
+		"set_id": "PLC",
+		"rarity": "rare",
+		"artist": "Daren Bader",
+		"multiverse_id": 122432,
+		"number": "94",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=122432",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/122432.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/PLC",
+		"store_url": "http://store.tcgplayer.com/magic/planar-chaos/akroma-angel-of-fury?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/122432"
 	  }
 	]
   },
@@ -116,6 +116,46 @@
 	  "vintage": "legal"
 	},
 	"editions": [
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "Ron Spears",
+		"multiverse_id": 106645,
+		"flavor": "\"No rest. No mercy. No matter what.\"",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106645",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106645.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/akroma-angel-of-wrath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/106645"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Divine vs. Demonic",
+		"set_id": "DD3_DVD",
+		"rarity": "mythic",
+		"artist": "Chippy",
+		"multiverse_id": 394005,
+		"flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
+		"number": "1",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394005",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394005.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394005"
+	  },
 	  {
 		"set": "Legions",
 		"set_id": "LGN",
@@ -175,46 +215,6 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
 		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/193871"
-	  },
-	  {
-		"set": "Duel Decks Anthology, Divine vs. Demonic",
-		"set_id": "DD3_DVD",
-		"rarity": "mythic",
-		"artist": "Chippy",
-		"multiverse_id": 394005,
-		"flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
-		"number": "1",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394005",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394005.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
-		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/akroma-angel-of-wrath?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/394005"
-	  },
-	  {
-		"set": "Time Spiral \"Timeshifted\"",
-		"set_id": "TSB",
-		"rarity": "special",
-		"artist": "Ron Spears",
-		"multiverse_id": 106645,
-		"flavor": "\"No rest. No mercy. No matter what.\"",
-		"number": "1",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=106645",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/106645.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
-		"store_url": "http://store.tcgplayer.com/magic/timeshifted/akroma-angel-of-wrath?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/106645"
 	  }
 	]
   },
@@ -386,26 +386,6 @@
 	},
 	"editions": [
 	  {
-		"set": "From the Vault: Angels",
-		"set_id": "V15",
-		"rarity": "mythic",
-		"artist": "Jason Chan",
-		"multiverse_id": 401632,
-		"flavor": "A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.",
-		"number": "5",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401632",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401632.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
-		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/avacyn-angel-of-hope?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/401632"
-	  },
-	  {
 		"set": "Avacyn Restored",
 		"set_id": "AVR",
 		"rarity": "mythic",
@@ -424,6 +404,26 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
 		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/avacyn-angel-of-hope?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/239961"
+	  },
+	  {
+		"set": "From the Vault: Angels",
+		"set_id": "V15",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 401632,
+		"flavor": "A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.",
+		"number": "5",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401632",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401632.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/avacyn-angel-of-hope?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401632"
 	  }
 	]
   },
@@ -453,26 +453,6 @@
 	  "vintage": "legal"
 	},
 	"editions": [
-	  {
-		"set": "Magic 2010",
-		"set_id": "M10",
-		"rarity": "mythic",
-		"artist": "Greg Staples",
-		"multiverse_id": 191065,
-		"flavor": "Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.",
-		"number": "4",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191065",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191065.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
-		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/baneslayer-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/191065"
-	  },
 	  {
 		"set": "Magic 2011",
 		"set_id": "M11",
@@ -512,6 +492,26 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/baneslayer-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401633"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "mythic",
+		"artist": "Greg Staples",
+		"multiverse_id": 191065,
+		"flavor": "Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.",
+		"number": "4",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191065",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191065.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/baneslayer-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191065"
 	  }
 	]
   },
@@ -537,25 +537,6 @@
 	},
 	"editions": [
 	  {
-		"set": "From the Vault: Angels",
-		"set_id": "V15",
-		"rarity": "mythic",
-		"artist": "Todd Lockwood",
-		"multiverse_id": 401634,
-		"number": "7",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401634",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401634.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
-		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/entreat-the-angels?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/401634"
-	  },
-	  {
 		"set": "Avacyn Restored",
 		"set_id": "AVR",
 		"rarity": "mythic",
@@ -573,6 +554,25 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/AVR",
 		"store_url": "http://store.tcgplayer.com/magic/avacyn-restored/entreat-the-angels?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/247426"
+	  },
+	  {
+		"set": "From the Vault: Angels",
+		"set_id": "V15",
+		"rarity": "mythic",
+		"artist": "Todd Lockwood",
+		"multiverse_id": 401634,
+		"number": "7",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401634",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401634.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
+		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/entreat-the-angels?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401634"
 	  }
 	]
   },
@@ -601,6 +601,25 @@
 	  "vintage": "legal"
 	},
 	"editions": [
+	  {
+		"set": "Onslaught",
+		"set_id": "ONS",
+		"rarity": "rare",
+		"artist": "Michael Sutfin",
+		"multiverse_id": 39718,
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39718",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39718.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
+		"store_url": "http://store.tcgplayer.com/magic/onslaught/exalted-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/39718"
+	  },
 	  {
 		"set": "Judge Gift Program",
 		"set_id": "pJGP",
@@ -639,25 +658,6 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/exalted-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401635"
-	  },
-	  {
-		"set": "Onslaught",
-		"set_id": "ONS",
-		"rarity": "rare",
-		"artist": "Michael Sutfin",
-		"multiverse_id": 39718,
-		"number": "28",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=39718",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/39718.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ONS",
-		"store_url": "http://store.tcgplayer.com/magic/onslaught/exalted-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/39718"
 	  }
 	]
   },
@@ -690,6 +690,26 @@
 	  "vintage": "legal"
 	},
 	"editions": [
+	  {
+		"set": "Zendikar",
+		"set_id": "ZEN",
+		"rarity": "mythic",
+		"artist": "Jason Chan",
+		"multiverse_id": 190407,
+		"flavor": "No more shall the righteous cower before evil.",
+		"number": "13",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190407",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190407.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
+		"store_url": "http://store.tcgplayer.com/magic/zendikar/iona-shield-of-emeria?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/190407"
+	  },
 	  {
 		"set": "Modern Masters 2015 Edition",
 		"set_id": "MM2",
@@ -729,26 +749,6 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/iona-shield-of-emeria?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401636"
-	  },
-	  {
-		"set": "Zendikar",
-		"set_id": "ZEN",
-		"rarity": "mythic",
-		"artist": "Jason Chan",
-		"multiverse_id": 190407,
-		"flavor": "No more shall the righteous cower before evil.",
-		"number": "13",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=190407",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/190407.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ZEN",
-		"store_url": "http://store.tcgplayer.com/magic/zendikar/iona-shield-of-emeria?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/190407"
 	  }
 	]
   },
@@ -779,26 +779,6 @@
 	},
 	"editions": [
 	  {
-		"set": "Odyssey",
-		"set_id": "ODY",
-		"rarity": "rare",
-		"artist": "Matt Cavotta",
-		"multiverse_id": 31799,
-		"flavor": "She enraptures all, encompasses all, endures all.",
-		"number": "288",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=31799",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/31799.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ODY",
-		"store_url": "http://store.tcgplayer.com/magic/odyssey/iridescent-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/31799"
-	  },
-	  {
 		"set": "From the Vault: Angels",
 		"set_id": "V15",
 		"rarity": "mythic",
@@ -817,6 +797,26 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/iridescent-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401637"
+	  },
+	  {
+		"set": "Odyssey",
+		"set_id": "ODY",
+		"rarity": "rare",
+		"artist": "Matt Cavotta",
+		"multiverse_id": 31799,
+		"flavor": "She enraptures all, encompasses all, endures all.",
+		"number": "288",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=31799",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/31799.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ODY",
+		"store_url": "http://store.tcgplayer.com/magic/odyssey/iridescent-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/31799"
 	  }
 	]
   },
@@ -852,26 +852,6 @@
 	},
 	"editions": [
 	  {
-		"set": "Alara Reborn",
-		"set_id": "ARB",
-		"rarity": "mythic",
-		"artist": "Chris Rahn",
-		"multiverse_id": 180605,
-		"flavor": "Wounded soldiers looked up, grateful for her appearance. But she passed over them, her eyes firmly on their foe.",
-		"number": "128",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=180605",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/180605.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ARB",
-		"store_url": "http://store.tcgplayer.com/magic/alara-reborn/jenara-asura-of-war?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/180605"
-	  },
-	  {
 		"set": "From the Vault: Angels",
 		"set_id": "V15",
 		"rarity": "mythic",
@@ -890,6 +870,26 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/jenara-asura-of-war?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401638"
+	  },
+	  {
+		"set": "Alara Reborn",
+		"set_id": "ARB",
+		"rarity": "mythic",
+		"artist": "Chris Rahn",
+		"multiverse_id": 180605,
+		"flavor": "Wounded soldiers looked up, grateful for her appearance. But she passed over them, her eyes firmly on their foe.",
+		"number": "128",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=180605",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/180605.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ARB",
+		"store_url": "http://store.tcgplayer.com/magic/alara-reborn/jenara-asura-of-war?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/180605"
 	  }
 	]
   },
@@ -921,6 +921,25 @@
 	  "vintage": "legal"
 	},
 	"editions": [
+	  {
+		"set": "Time Spiral \"Timeshifted\"",
+		"set_id": "TSB",
+		"rarity": "special",
+		"artist": "rk post",
+		"multiverse_id": 109746,
+		"number": "94",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109746",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109746.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
+		"store_url": "http://store.tcgplayer.com/magic/timeshifted/lightning-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/109746"
+	  },
 	  {
 		"set": "Duel Decks: Speed vs. Cunning",
 		"set_id": "DDN",
@@ -979,25 +998,6 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/APC",
 		"store_url": "http://store.tcgplayer.com/magic/apocalypse/lightning-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/27650"
-	  },
-	  {
-		"set": "Time Spiral \"Timeshifted\"",
-		"set_id": "TSB",
-		"rarity": "special",
-		"artist": "rk post",
-		"multiverse_id": 109746,
-		"number": "94",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=109746",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/109746.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/TSB",
-		"store_url": "http://store.tcgplayer.com/magic/timeshifted/lightning-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/109746"
 	  }
 	]
   },
@@ -1025,46 +1025,6 @@
 	  "vintage": "legal"
 	},
 	"editions": [
-	  {
-		"set": "Magic 2010",
-		"set_id": "M10",
-		"rarity": "mythic",
-		"artist": "Brom",
-		"multiverse_id": 191313,
-		"flavor": "In its heart lies the secret of immortality.",
-		"number": "218",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191313",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191313.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
-		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/platinum-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/191313"
-	  },
-	  {
-		"set": "Mirrodin",
-		"set_id": "MRD",
-		"rarity": "rare",
-		"artist": "Brom",
-		"multiverse_id": 48580,
-		"flavor": "In its heart lies the secret of immortality.",
-		"number": "228",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=48580",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/48580.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/MRD",
-		"store_url": "http://store.tcgplayer.com/magic/mirrodin/platinum-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/48580"
-	  },
 	  {
 		"set": "Tenth Edition",
 		"set_id": "10E",
@@ -1124,6 +1084,46 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/V15",
 		"store_url": "http://store.tcgplayer.com/magic/from-the-vault-angels/platinum-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/401640"
+	  },
+	  {
+		"set": "Mirrodin",
+		"set_id": "MRD",
+		"rarity": "rare",
+		"artist": "Brom",
+		"multiverse_id": 48580,
+		"flavor": "In its heart lies the secret of immortality.",
+		"number": "228",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=48580",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/48580.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/MRD",
+		"store_url": "http://store.tcgplayer.com/magic/mirrodin/platinum-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/48580"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "mythic",
+		"artist": "Brom",
+		"multiverse_id": 191313,
+		"flavor": "In its heart lies the secret of immortality.",
+		"number": "218",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=191313",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/191313.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/platinum-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/191313"
 	  }
 	]
   },
@@ -1155,164 +1155,24 @@
 	},
 	"editions": [
 	  {
-		"set": "Masters Edition IV",
-		"set_id": "ME4",
-		"rarity": "uncommon",
-		"artist": "Douglas Shuler",
-		"multiverse_id": 202561,
-		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "25",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202561",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202561.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
-		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/202561"
-	  },
-	  {
-		"set": "Anthologies",
-		"set_id": "ATH",
-		"rarity": "special",
-		"artist": "Douglas Shuler",
-		"multiverse_id": 0,
-		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
-		"store_url": "http://store.tcgplayer.com/magic/anthologies/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/0"
-	  },
-	  {
-		"set": "Magic 2012",
-		"set_id": "M12",
-		"rarity": "uncommon",
+		"set": "Tenth Edition",
+		"set_id": "10E",
+		"rarity": "rare",
 		"artist": "Greg Staples",
-		"multiverse_id": 220176,
-		"flavor": "Follow the light. In its absence, follow her.",
-		"number": "33",
+		"multiverse_id": 129726,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "39",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220176",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220176.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
-		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/220176"
-	  },
-	  {
-		"set": "Magic: The Gathering-Commander",
-		"set_id": "CMD",
-		"rarity": "uncommon",
-		"artist": "Greg Staples",
-		"multiverse_id": 247326,
-		"flavor": "Perfect justice in service of a perfect will.",
-		"number": "30",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247326",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247326.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
-		"store_url": "http://store.tcgplayer.com/magic/commander/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/247326"
-	  },
-	  {
-		"set": "Welcome Deck 2016",
-		"set_id": "W16",
-		"rarity": "uncommon",
-		"artist": "Greg Staples",
-		"multiverse_id": 413369,
-		"flavor": "Follow the light. In its absence, follow her.",
-		"number": "3",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413369",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413369.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
-		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/413369"
-	  },
-	  {
-		"set": "Limited Edition Beta",
-		"set_id": "LEB",
-		"rarity": "uncommon",
-		"artist": "Douglas Shuler",
-		"multiverse_id": 566,
-		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=566",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/566.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
-		"store_url": "http://store.tcgplayer.com/magic/beta-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/566"
-	  },
-	  {
-		"set": "Magic 2014 Core Set",
-		"set_id": "M14",
-		"rarity": "uncommon",
-		"artist": "Greg Staples",
-		"multiverse_id": 370602,
-		"flavor": "Follow the light. In its absence, follow her.",
-		"number": "32",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370602",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370602.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
-		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/370602"
-	  },
-	  {
-		"set": "Revised Edition",
-		"set_id": "3ED",
-		"rarity": "uncommon",
-		"artist": "Douglas Shuler",
-		"multiverse_id": 1366,
-		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1366",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1366.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
-		"store_url": "http://store.tcgplayer.com/magic/revised-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/1366"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129726",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129726.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
+		"store_url": "http://store.tcgplayer.com/magic/10th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/129726"
 	  },
 	  {
 		"set": "International Collector's Edition",
@@ -1335,44 +1195,84 @@
 		"html_url": "https://deckbrew.com/mtg/cards/0"
 	  },
 	  {
-		"set": "Magic 2010",
-		"set_id": "M10",
+		"set": "Revised Edition",
+		"set_id": "3ED",
 		"rarity": "uncommon",
-		"artist": "Greg Staples",
-		"multiverse_id": 193767,
-		"flavor": "Her sword sings more beautifully than any choir.",
-		"number": "29",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 1366,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193767",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193767.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
-		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/193767"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=1366",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/1366.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/3ED",
+		"store_url": "http://store.tcgplayer.com/magic/revised-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/1366"
 	  },
 	  {
-		"set": "Magic Origins",
-		"set_id": "ORI",
+		"set": "Magic: The Gathering-Commander",
+		"set_id": "CMD",
 		"rarity": "uncommon",
 		"artist": "Greg Staples",
-		"multiverse_id": 401455,
-		"flavor": "Follow the light. In its absence, follow her.",
-		"number": "276",
+		"multiverse_id": 247326,
+		"flavor": "Perfect justice in service of a perfect will.",
+		"number": "30",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401455",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401455.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
-		"store_url": "http://store.tcgplayer.com/magic/magic-origins/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/401455"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=247326",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/247326.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CMD",
+		"store_url": "http://store.tcgplayer.com/magic/commander/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/247326"
+	  },
+	  {
+		"set": "Collector's Edition",
+		"set_id": "CED",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
+		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
+	  },
+	  {
+		"set": "Duel Decks Anthology, Divine vs. Demonic",
+		"set_id": "DD3_DVD",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 394051,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394051",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394051.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/394051"
 	  },
 	  {
 		"set": "Seventh Edition",
@@ -1395,26 +1295,6 @@
 		"html_url": "https://deckbrew.com/mtg/cards/25555"
 	  },
 	  {
-		"set": "Tenth Edition",
-		"set_id": "10E",
-		"rarity": "rare",
-		"artist": "Greg Staples",
-		"multiverse_id": 129726,
-		"flavor": "Her sword sings more beautifully than any choir.",
-		"number": "39",
-		"layout": "normal",
-		"price": {
-		  "low": 0,
-		  "median": 0,
-		  "high": 0
-		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=129726",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/129726.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/10E",
-		"store_url": "http://store.tcgplayer.com/magic/10th-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/129726"
-	  },
-	  {
 		"set": "Magic 2011",
 		"set_id": "M11",
 		"rarity": "uncommon",
@@ -1435,53 +1315,73 @@
 		"html_url": "https://deckbrew.com/mtg/cards/205234"
 	  },
 	  {
-		"set": "Eternal Masters",
-		"set_id": "EMA",
+		"set": "Magic Origins",
+		"set_id": "ORI",
 		"rarity": "uncommon",
 		"artist": "Greg Staples",
-		"multiverse_id": 413570,
+		"multiverse_id": 401455,
 		"flavor": "Follow the light. In its absence, follow her.",
-		"number": "28",
+		"number": "276",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413570",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413570.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
-		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/413570"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=401455",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/401455.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ORI",
+		"store_url": "http://store.tcgplayer.com/magic/magic-origins/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/401455"
 	  },
 	  {
-		"set": "Ninth Edition",
-		"set_id": "9ED",
-		"rarity": "rare",
+		"set": "Limited Edition Beta",
+		"set_id": "LEB",
+		"rarity": "uncommon",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 566,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=566",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/566.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/LEB",
+		"store_url": "http://store.tcgplayer.com/magic/beta-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/566"
+	  },
+	  {
+		"set": "Magic 2012",
+		"set_id": "M12",
+		"rarity": "uncommon",
 		"artist": "Greg Staples",
-		"multiverse_id": 83254,
-		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
-		"number": "43",
+		"multiverse_id": 220176,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "33",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83254",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83254.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
-		"store_url": "http://store.tcgplayer.com/magic/9th-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/83254"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=220176",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/220176.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M12",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2012-(m12)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/220176"
 	  },
 	  {
-		"set": "Wizards of the Coast Online Store",
-		"set_id": "pWOS",
+		"set": "Anthologies",
+		"set_id": "ATH",
 		"rarity": "special",
 		"artist": "Douglas Shuler",
 		"multiverse_id": 0,
 		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "1",
+		"number": "",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
@@ -1490,8 +1390,8 @@
 		},
 		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
 		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/pWOS",
-		"store_url": "http://store.tcgplayer.com/magic/wizards-of-the-coast-online-store/serra-angel?partner=DECKBREW",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ATH",
+		"store_url": "http://store.tcgplayer.com/magic/anthologies/serra-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/0"
 	  },
 	  {
@@ -1515,44 +1415,64 @@
 		"html_url": "https://deckbrew.com/mtg/cards/401641"
 	  },
 	  {
-		"set": "Duel Decks: Divine vs. Demonic",
-		"set_id": "DDC",
+		"set": "Ninth Edition",
+		"set_id": "9ED",
 		"rarity": "rare",
 		"artist": "Greg Staples",
-		"multiverse_id": 196999,
-		"flavor": "Her sword sings more beautifully than any choir.",
-		"number": "10",
+		"multiverse_id": 83254,
+		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
+		"number": "43",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=196999",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/196999.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
-		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/196999"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=83254",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/83254.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/9ED",
+		"store_url": "http://store.tcgplayer.com/magic/9th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/83254"
 	  },
 	  {
-		"set": "Eighth Edition",
-		"set_id": "8ED",
-		"rarity": "rare",
-		"artist": "Mark Zug",
-		"multiverse_id": 45212,
-		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
-		"number": "45",
+		"set": "Welcome Deck 2016",
+		"set_id": "W16",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 413369,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "3",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45212",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45212.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
-		"store_url": "http://store.tcgplayer.com/magic/8th-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/45212"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413369",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413369.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/W16",
+		"store_url": "http://store.tcgplayer.com/magic/welcome-deck-2016/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413369"
+	  },
+	  {
+		"set": "Eternal Masters",
+		"set_id": "EMA",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 413570,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "28",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=413570",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/413570.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/EMA",
+		"store_url": "http://store.tcgplayer.com/magic/eternal-masters/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/413570"
 	  },
 	  {
 		"set": "Limited Edition Alpha",
@@ -1575,24 +1495,64 @@
 		"html_url": "https://deckbrew.com/mtg/cards/270"
 	  },
 	  {
-		"set": "Collector's Edition",
-		"set_id": "CED",
+		"set": "Masters Edition IV",
+		"set_id": "ME4",
 		"rarity": "uncommon",
 		"artist": "Douglas Shuler",
-		"multiverse_id": 0,
+		"multiverse_id": 202561,
 		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
-		"number": "",
+		"number": "25",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/CED",
-		"store_url": "http://store.tcgplayer.com/magic/collectors-edition/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/0"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=202561",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/202561.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/ME4",
+		"store_url": "http://store.tcgplayer.com/magic/masters-edition-iv/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/202561"
+	  },
+	  {
+		"set": "Magic 2014 Core Set",
+		"set_id": "M14",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 370602,
+		"flavor": "Follow the light. In its absence, follow her.",
+		"number": "32",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=370602",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/370602.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M14",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2014-(m14)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/370602"
+	  },
+	  {
+		"set": "Eighth Edition",
+		"set_id": "8ED",
+		"rarity": "rare",
+		"artist": "Mark Zug",
+		"multiverse_id": 45212,
+		"flavor": "When she flies above the good, they consider themselves blessed. When she flies above the wicked, they consider themselves dead.",
+		"number": "45",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=45212",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/45212.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/8ED",
+		"store_url": "http://store.tcgplayer.com/magic/8th-edition/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/45212"
 	  },
 	  {
 		"set": "Unlimited Edition",
@@ -1613,6 +1573,46 @@
 		"set_url": "https://api.deckbrew.com/mtg/sets/2ED",
 		"store_url": "http://store.tcgplayer.com/magic/unlimited-edition/serra-angel?partner=DECKBREW",
 		"html_url": "https://deckbrew.com/mtg/cards/868"
+	  },
+	  {
+		"set": "Duel Decks: Divine vs. Demonic",
+		"set_id": "DDC",
+		"rarity": "rare",
+		"artist": "Greg Staples",
+		"multiverse_id": 196999,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "10",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=196999",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/196999.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/DDC",
+		"store_url": "http://store.tcgplayer.com/magic/duel-decks-divine-vs-demonic/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/196999"
+	  },
+	  {
+		"set": "Magic 2010",
+		"set_id": "M10",
+		"rarity": "uncommon",
+		"artist": "Greg Staples",
+		"multiverse_id": 193767,
+		"flavor": "Her sword sings more beautifully than any choir.",
+		"number": "29",
+		"layout": "normal",
+		"price": {
+		  "low": 0,
+		  "median": 0,
+		  "high": 0
+		},
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=193767",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/193767.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/M10",
+		"store_url": "http://store.tcgplayer.com/magic/magic-2010-(m10)/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/193767"
 	  },
 	  {
 		"set": "Fourth Edition",
@@ -1655,24 +1655,24 @@
 		"html_url": "https://deckbrew.com/mtg/cards/383171"
 	  },
 	  {
-		"set": "Duel Decks Anthology, Divine vs. Demonic",
-		"set_id": "DD3_DVD",
-		"rarity": "uncommon",
-		"artist": "Greg Staples",
-		"multiverse_id": 394051,
-		"flavor": "Her sword sings more beautifully than any choir.",
-		"number": "10",
+		"set": "Wizards of the Coast Online Store",
+		"set_id": "pWOS",
+		"rarity": "special",
+		"artist": "Douglas Shuler",
+		"multiverse_id": 0,
+		"flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+		"number": "1",
 		"layout": "normal",
 		"price": {
 		  "low": 0,
 		  "median": 0,
 		  "high": 0
 		},
-		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=394051",
-		"image_url": "https://image.deckbrew.com/mtg/multiverseid/394051.jpg",
-		"set_url": "https://api.deckbrew.com/mtg/sets/DD3_DVD",
-		"store_url": "http://store.tcgplayer.com/magic/duel-decks-anthology-divine-vs-demonic/serra-angel?partner=DECKBREW",
-		"html_url": "https://deckbrew.com/mtg/cards/394051"
+		"url": "https://api.deckbrew.com/mtg/cards?multiverseid=0",
+		"image_url": "https://image.deckbrew.com/mtg/multiverseid/0.jpg",
+		"set_url": "https://api.deckbrew.com/mtg/sets/pWOS",
+		"store_url": "http://store.tcgplayer.com/magic/wizards-of-the-coast-online-store/serra-angel?partner=DECKBREW",
+		"html_url": "https://deckbrew.com/mtg/cards/0"
 	  },
 	  {
 		"set": "Magic 2013",

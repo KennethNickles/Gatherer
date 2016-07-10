@@ -1,6 +1,7 @@
 package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.Nullable;
+import android.util.Log;
 import com.github.kennethnickles.gatherer.card.internal.SymbolLookup;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
@@ -169,7 +170,7 @@ public enum Symbol {
 		// TODO: Add Name support for lookups
 		final Symbol symbol = SymbolLookup.lookup(sanitized);
 		if (symbol == null) {
-			throw new IllegalStateException(String.format("Missing Symbol: %s", lookup));
+			Log.e(Symbol.class.getSimpleName(), String.format("Missing Symbol: %s", lookup));
 		}
 		return symbol;
 	}

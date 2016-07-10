@@ -3,7 +3,6 @@ package com.github.kennethnickles.gatherer.card;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
-
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,50 +12,51 @@ import java.util.Set;
  */
 public enum Color {
 
-    BLACK("BLACK", "B"),
-    BLUE("BLUE", "U"),
-    GREEN("GREEN", "G"),
-    RED("RED", "R"),
-    WHITE("WHITE", "W"),
-    COLORLESS("COLORLESS", "C");
+	BLACK("BLACK", "B"),
+	BLUE("BLUE", "U"),
+	GREEN("GREEN", "G"),
+	RED("RED", "R"),
+	WHITE("WHITE", "W"),
+	COLORLESS("COLORLESS", "C");
 
-    private final String mName;
-    private final String mSymbol;
+	private final String mName;
+	private final String mSymbol;
 
-    Color(String name, String symbol) {
-        this.mName = name;
-        this.mSymbol = symbol;
-    }
+	Color(String name, String symbol) {
+		this.mName = name;
+		this.mSymbol = symbol;
+	}
 
-    public String getSymbol() {
-        return mSymbol;
-    }
+	public String getSymbol() {
+		return mSymbol;
+	}
 
-    public String getName() {
-        return mName;
-    }
+	public String getName() {
+		return mName;
+	}
 
-    @Nullable
-    public static Color from(String lookup) {
-        for (Color color : values()) {
-            if(color.getSymbol().equals(Enums.sanitize(lookup))) {
-                return color;
-            }
-            if (color.getName().equals(Enums.sanitize(lookup))) {
-                return color;
-            }
-        }
-        throw new IllegalStateException(String.format("Missing Color: %s", lookup));
-    }
+	@Nullable
+	public static Color from(String lookup) {
+		for (Color color : values()) {
+			if (color.getSymbol().equals(Enums.sanitize(lookup))) {
+				return color;
+			}
+			if (color.getName().equals(Enums.sanitize(lookup))) {
+				return color;
+			}
+		}
+		Log.e(Color.class.getSimpleName(), String.format("Missing Color: %s", lookup));
+		return null;
+	}
 
-    public static Set<Color> from(Set<String> lookups) {
-        final Set<Color> colors = new HashSet<>();
-        for (String lookup : lookups) {
-            final Color color = Color.from(lookup);
-            if (color != null) {
-                colors.add(color);
-            }
-        }
-        return colors;
-    }
+	public static Set<Color> from(Set<String> lookups) {
+		final Set<Color> colors = new HashSet<>();
+		for (String lookup : lookups) {
+			final Color color = Color.from(lookup);
+			if (color != null) {
+				colors.add(color);
+			}
+		}
+		return colors;
+	}
 }

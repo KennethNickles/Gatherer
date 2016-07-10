@@ -27,42 +27,6 @@ public class CardDeserializerTest {
 	Log log;
 
 	@Test
-	public void colors() throws Exception {
-		final InputStream inputStream = getResourceAsStream("colors.json", this);
-		final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
-		final Gson gson = new CardGsonFactory().createCardGson();
-		final String[] colors = gson.fromJson(jsonReader, String[].class);
-		Assert.assertEquals(5, colors.length);
-	}
-
-	@Test
-	public void subtypes() throws Exception {
-		final InputStream inputStream = getResourceAsStream("subtypes.json", this);
-		final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
-		final Gson gson = new CardGsonFactory().createCardGson();
-		final String[] subtypes = gson.fromJson(jsonReader, String[].class);
-		Assert.assertEquals(304, subtypes.length);
-	}
-
-	@Test
-	public void supertypes() throws Exception {
-		final InputStream inputStream = getResourceAsStream("supertypes.json", this);
-		final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
-		final Gson gson = new CardGsonFactory().createCardGson();
-		final String[] supertypes = gson.fromJson(jsonReader, String[].class);
-		Assert.assertEquals(5, supertypes.length);
-	}
-
-	@Test
-	public void types() throws Exception {
-		final InputStream inputStream = getResourceAsStream("types.json", this);
-		final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));
-		final Gson gson = new CardGsonFactory().createCardGson();
-		final String[] types = gson.fromJson(jsonReader, String[].class);
-		Assert.assertEquals(13, types.length);
-	}
-
-	@Test
 	public void card() throws Exception {
 		final InputStream inputStream = getResourceAsStream("card.json", this);
 		final JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, "UTF-8"));

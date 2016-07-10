@@ -2,10 +2,10 @@ package com.github.kennethnickles.gatherer.card;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
-
 import java.util.List;
 
 /**
@@ -14,39 +14,40 @@ import java.util.List;
  */
 public enum Supertype {
 
-    BASIC,
-    LEGENDARY,
-    ONGOING,
-    SNOW,
-    WORLD;
+	BASIC,
+	LEGENDARY,
+	ONGOING,
+	SNOW,
+	WORLD;
 
-    @NonNull
-    public String getName() {
-        return name();
-    }
+	@NonNull
+	public String getName() {
+		return name();
+	}
 
-    @Nullable
-    public static Supertype from(String lookup) {
-        if (Strings.isNullOrEmpty(lookup)) {
-            return null;
-        }
-        for (Supertype supertype : values()) {
-            if (Enums.sanitize(supertype.name()).equals(Enums.sanitize(lookup))) {
-                return supertype;
-            }
-        }
-        throw new IllegalStateException(String.format("Missing Supertype: %s", lookup));
-    }
+	@Nullable
+	public static Supertype from(String lookup) {
+		if (Strings.isNullOrEmpty(lookup)) {
+			return null;
+		}
+		for (Supertype supertype : values()) {
+			if (Enums.sanitize(supertype.name()).equals(Enums.sanitize(lookup))) {
+				return supertype;
+			}
+		}
+		Log.e(Supertype.class.getSimpleName(), String.format("Missing Supertype: %s", lookup));
+		return null;
+	}
 
-    @Nullable
-    public static List<Supertype> from(List<String> lookups) {
-        if (lookups == null || lookups.isEmpty()) {
-            return Lists.newArrayList();
-        }
-        final List<Supertype> types = Lists.newArrayList();
-        for (String lookup : lookups) {
-            types.add(from(lookup));
-        }
-        return types;
-    }
+	@Nullable
+	public static List<Supertype> from(List<String> lookups) {
+		if (lookups == null || lookups.isEmpty()) {
+			return Lists.newArrayList();
+		}
+		final List<Supertype> types = Lists.newArrayList();
+		for (String lookup : lookups) {
+			types.add(from(lookup));
+		}
+		return types;
+	}
 }

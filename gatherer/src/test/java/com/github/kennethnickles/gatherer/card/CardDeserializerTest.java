@@ -248,6 +248,12 @@ public class CardDeserializerTest {
 	}
 
 	@Test
+	public void duelDecksBlessedVsCursed1() throws Exception {
+		Assert.assertEquals(0, parseCards("BVC.json").length);
+	}
+
+
+	@Test
 	public void commander13() throws Exception {
 		Assert.assertEquals(342, parseCards("C13.json").length);
 	}
@@ -413,7 +419,7 @@ public class CardDeserializerTest {
 	}
 
 	@Test
-	public void duelDecksBlessedVsCursed() throws Exception {
+	public void duelDecksBlessedVsCursed2() throws Exception {
 		Assert.assertEquals(71, parseCards("DDQ.json").length);
 	}
 
@@ -915,6 +921,11 @@ public class CardDeserializerTest {
 	@Test
 	public void riseOfEldrazi() throws Exception {
 		Assert.assertEquals(233, parseCards("ROE.json").length);
+	}
+
+	@Test
+	public void rivalsQuickStartSet() throws Exception {
+		Assert.assertEquals(54, parseCards("RQS.json").length);
 	}
 
 	@Test

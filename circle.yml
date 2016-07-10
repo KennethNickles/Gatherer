@@ -12,12 +12,12 @@ dependencies:
 
 general:
   artifacts:
-	- "build/libs/*.jar"
-	- "build/distributions/*.zip"
+    - "build/libs/*.jar"
+    - "build/distributions/*.zip"
 test:
   override:
     - ./gradlew build check
   post:
-	- mkdir -p $CIRCLE_TEST_REPORTS/junit/
-	- find . -type f -regex ".*/build/test-results/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;
-	- ./gradlew jar javadocJar sourcesJar shadowJar distZip copyCIArtifacts
+    - mkdir -p $CIRCLE_TEST_REPORTS/junit/
+    - find . -type f -regex ".*/build/test-results/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;
+    - ./gradlew jar javadocJar sourcesJar shadowJar distZip copyCIArtifacts

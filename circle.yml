@@ -1,6 +1,5 @@
 machine:
    environment:
-     _JAVA_OPTIONS: "-Xms512m -Xmx1024m"
      ANDROID_HOME: /usr/local/android-sdk-linux
      GRADLE_OPTS: '-Dorg.gradle.jvmargs="-Xmx2048m -XX:MaxPermSize=1024m -XX:+HeapDumpOnOutOfMemoryError"'
    java:

@@ -31,9 +31,9 @@
     public static *** i(...);
 }
 
--keep class **$$ViewInjector { *; }
--keepnames class * { @butterknife.Bind *;}
-
-# Glide
--keepnames class com.workday.workdroidapp.glide.CachingGlideModule
--keep public class * implements com.bumptech.glide.module.GlideModule
+# Retrofit
+-dontwarn retrofit2.**
+-dontwarn okio.**
+-keep class retrofit2.** { *; }
+-keepattributes Signature
+-keepattributes Exceptions

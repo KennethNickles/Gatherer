@@ -16,7 +16,7 @@ general:
     - "build/distributions/*.zip"
 test:
   override:
-    - ./gradlew build check -PdisablePreDex -Pcom.android.build.threadPoolSize=1 -Porg.gradle.parallel=false -Dorg.gradle.jvmargs="-Xms512m -Xmx512m" -Dorg.gradle.daemon=false
+    - ./gradlew build check -PdisablePreDex -Pcom.android.build.threadPoolSize=1 -Porg.gradle.parallel=false -Dorg.gradle.jvmargs="-Xms1024m -Xmx1024m" -Dorg.gradle.daemon=false
   post:
     - mkdir -p $CIRCLE_TEST_REPORTS/junit/
     - find . -type f -regex ".*/build/test-results/.*xml" -exec cp {} $CIRCLE_TEST_REPORTS/junit/ \;

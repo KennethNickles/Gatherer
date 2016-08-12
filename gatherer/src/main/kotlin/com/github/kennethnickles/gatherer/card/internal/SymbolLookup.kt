@@ -62,7 +62,7 @@ class SymbolLookup {
 			map.put("19", Symbol.NINETEEN)
 			map.put("20", Symbol.TWENTY)
 			map.put("s", Symbol.SNOW)
-			map.put("o", Symbol.PHYREXIAN_MANA)
+			map.put("p", Symbol.PHYREXIAN_MANA)
 			map.put("b/p", Symbol.PHYREXIAN_BLACK)
 			map.put("u/p", Symbol.PHYREXIAN_BLUE)
 			map.put("g/p", Symbol.PHYREXIAN_GREEN)

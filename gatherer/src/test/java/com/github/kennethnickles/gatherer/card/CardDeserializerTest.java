@@ -76,16 +76,16 @@ public class CardDeserializerTest {
 		Assert.assertEquals("zombie", subtypes.get(0));
 		Assert.assertEquals("horror", subtypes.get(1));
 
-		final List<Rule> rules = card.getRules();
-		Assert.assertEquals(2, rules.size());
-		final Rule rule0 = rules.get(0);
-		Assert.assertEquals(0, rule0.getSymbols().size());
-		Assert.assertEquals(0, rule0.getConvertedManaCost());
-		Assert.assertEquals("Tap an untapped Cephalid you control: Tap target permanent.", rule0.getRuleText());
-		final Rule rule1 = rules.get(1);
-		Assert.assertEquals(3, rule1.getSymbols().size());
-		Assert.assertEquals(3, rule1.getConvertedManaCost());
-		Assert.assertEquals("{U}{U}{U}: Tap all creatures without flying.", rule1.getRuleText());
+		final List<Oracle> oracleTexts = card.getOracleTexts();
+		Assert.assertEquals(2, oracleTexts.size());
+		final Oracle oracle0 = oracleTexts.get(0);
+		Assert.assertEquals(0, oracle0.getSymbols().size());
+		Assert.assertEquals(0, oracle0.getConvertedManaCost());
+		Assert.assertEquals("Tap an untapped Cephalid you control: Tap target permanent.", oracle0.getOracleText());
+		final Oracle oracle1 = oracleTexts.get(1);
+		Assert.assertEquals(3, oracle1.getSymbols().size());
+		Assert.assertEquals(3, oracle1.getConvertedManaCost());
+		Assert.assertEquals("{U}{U}{U}: Tap all creatures without flying.", oracle1.getOracleText());
 
 		Assert.assertEquals(1, card.getSymbols().size());
 		Assert.assertEquals(Symbol.RED, card.getSymbols().get(0));

@@ -1,28 +1,55 @@
 <resources>
-    <string name="app_name">Gatherer</string>
-    <string name="activity_name">Gatherer</string>
+	<string name="app_name">Gatherer</string>
+	<string name="activity_name">Gatherer</string>
 
-    <!-- Actions -->
-    <string name="action_menu">Menu</string>
-    <string name="action_search">Search</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
-    <string name="action_close">Close</string>
-    <string name="action_done">Done</string>
+	<!-- Actions -->
+	<string name="action_menu">Menu</string>
+	<string name="action_search">Search</string>
+	<string name="action_settings">Settings</string>
+	<string name="action_save">Save</string>
+	<string name="action_cancel">Cancel</string>
+	<string name="action_close">Close</string>
+	<string name="action_done">Done</string>
 
-    <string name="action_supertypes">Supertypes</string>
-    <string name="action_types">Types</string>
-    <string name="action_subtypes">Subtypes</string>
-    <string name="action_colors">Colors</string>
-    <string name="action_sets">Sets</string>
+	// Type
+	<string name="type">Type</string>
+	// Subtype
+	<string name="subtype">Subtype</string>
+	// Supertype
+	<string name="supertype">Supertype</string>
+	// Name
+	<string name="name">Name</string>
+	// Oracle
+	<string name="oracle">Oracle</string>
+	// Rarity
+	<string name="rarity">Rarity</string>
+	// Set
+	<string name="set">Set</string>
+	// Multicolor
+	<string name="multicolor">Multicolor</string>
+	// Color
+	<string name="color">Color</string>
+	// Format
+	<string name="format">Format</string>
+	// Status
+	<string name="status">Status</string>
+	// Page
+	<string name="page">Page</string>
+	// Clear
+	<string name="clear">Clear</string>
 
-    <!-- Search -->
-    <string name="search_hint">Search a for a card</string>
+	<string name="action_supertypes">Supertypes</string>
+	<string name="action_types">Types</string>
+	<string name="action_subtypes">Subtypes</string>
+	<string name="action_colors">Colors</string>
+	<string name="action_sets">Sets</string>
 
-    <!-- Cards -->
-    <string name="card">Card</string>
-    <string name="cards">Cards</string>
-    <string name="no_cards">No Cards Found</string>
-    <string name="details">See Details</string>
+	<!-- Search -->
+	<string name="search_hint">Search a for a card</string>
+
+	<!-- Cards -->
+	<string name="card">Card</string>
+	<string name="cards">Cards</string>
+	<string name="no_cards">No Cards Found</string>
+	<string name="details">See Details</string>
 </resources>

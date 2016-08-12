@@ -21,82 +21,90 @@ import rx.schedulers.Schedulers
  */
 class DeckBrewClient {
 
-    companion object {
-        val TAG: String = DeckBrewClient::class.java.simpleName
-    }
+	companion object {
+		val TAG: String = DeckBrewClient::class.java.simpleName
+	}
 
-    private val mService: DeckBrewService
+	private val mService: DeckBrewService
 
-    constructor() {
-        val interceptor = HttpLoggingInterceptor();
-        interceptor.level = HttpLoggingInterceptor.Level.BODY
-        val client = OkHttpClient.Builder().addInterceptor(interceptor).build();
-        val retrofit = Retrofit.Builder()
-                .baseUrl("https://api.deckbrew.com/")
-                .addConverterFactory(GsonConverterFactory.create(CardGsonFactory().createCardGson()))
-                .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
-                .client(client)
-                .build()
-        mService = retrofit.create(DeckBrewService::class.java)
-    }
+	constructor() {
+		val interceptor = HttpLoggingInterceptor();
+		interceptor.level = HttpLoggingInterceptor.Level.BODY
+		val client = OkHttpClient.Builder().addInterceptor(interceptor).build();
+		val retrofit = Retrofit.Builder()
+				.baseUrl("https://api.deckbrew.com/")
+				.addConverterFactory(GsonConverterFactory.create(CardGsonFactory().createCardGson()))
+				.addCallAdapterFactory(RxJavaCallAdapterFactory.create())
+				.client(client)
+				.build()
+		mService = retrofit.create(DeckBrewService::class.java)
+	}
 
-    fun cards(request: GathererRequest): Observable<List<Card>> {
-        return mService.cards(request.getNames(),
-                              request.getSupertypes(),
-                              request.getTypes(),
-                              request.getSubtypes(),
-                              request.getColors())
-                .doOnRequest { Log.d(TAG, "requesting: " + request.toString()) }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun cards(request: GathererRequest): Observable<List<Card>> {
+		return mService.cards(request.getTypes(),
+							  request.getSubtypes(),
+							  request.getSupertypes(),
+							  request.getNames(),
+							  request.getOracleText(),
+							  request.getSets(),
+							  request.getRarities(),
+							  request.getColors(),
+							  request.getMulticolor(),
+							  request.getFormats(),
+							  request.getStatuses(),
+							  request.getPage())
+				.doOnRequest { Log.d(TAG, "requesting: " + request.toString()) }
+				.doOnError { e -> Log.e(TAG, "failure: " + e.message) }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun card(id: String): Observable<Card> {
-        return mService.card(id)
-                .doOnRequest { Log.d(TAG, "requesting: " + id) }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun card(id: String): Observable<Card> {
+		return mService.card(id)
+				.doOnRequest { Log.d(TAG, "requesting: " + id) }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun typeahead(q: String): Observable<List<Card>> {
-        return mService.typeahead(q)
-                .doOnRequest { Log.d(TAG, "requesting: " + q) }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun typeahead(q: String): Observable<List<Card>> {
+		return mService.typeahead(q)
+				.doOnRequest { Log.d(TAG, "requesting: " + q) }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun sets(): Observable<List<Set>> {
-        return mService.sets()
-                .doOnRequest { Log.d(TAG, "requesting: sets") }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun sets(): Observable<List<Set>> {
+		return mService.sets()
+				.doOnRequest { Log.d(TAG, "requesting: sets") }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun types(): Observable<List<String>> {
-        return mService.types()
-                .doOnRequest { Log.d(TAG, "requesting: types") }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun types(): Observable<List<String>> {
+		return mService.types()
+				.doOnRequest { Log.d(TAG, "requesting: types") }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun supertypes(): Observable<List<String>> {
-        return mService.supertypes()
-                .doOnRequest { Log.d(TAG, "requesting: supertypes") }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun supertypes(): Observable<List<String>> {
+		return mService.supertypes()
+				.doOnRequest { Log.d(TAG, "requesting: supertypes") }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun subtypes(): Observable<List<String>> {
-        return mService.subtypes()
-                .doOnRequest { Log.d(TAG, "requesting: subtypes") }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun subtypes(): Observable<List<String>> {
+		return mService.subtypes()
+				.doOnRequest { Log.d(TAG, "requesting: subtypes") }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 
-    fun colors(): Observable<List<String>> {
-        return mService.colors()
-                .doOnRequest { Log.d(TAG, "requesting: colors") }
-                .subscribeOn(Schedulers.newThread())
-                .observeOn(AndroidSchedulers.mainThread())
-    }
+	fun colors(): Observable<List<String>> {
+		return mService.colors()
+				.doOnRequest { Log.d(TAG, "requesting: colors") }
+				.subscribeOn(Schedulers.newThread())
+				.observeOn(AndroidSchedulers.mainThread())
+	}
 }

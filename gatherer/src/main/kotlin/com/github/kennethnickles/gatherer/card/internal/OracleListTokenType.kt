@@ -1,6 +1,6 @@
 package com.github.kennethnickles.gatherer.card.internal
 
-import com.github.kennethnickles.gatherer.card.Rule
+import com.github.kennethnickles.gatherer.card.Oracle
 import com.google.gson.reflect.TypeToken
 import java.util.ArrayList
 
@@ -8,5 +8,5 @@ import java.util.ArrayList
  * @author kenneth.nickles
  * @since 2016-06-29.
  */
-class RuleListTokenType : TypeToken<ArrayList<Rule>>() {
+class OracleListTokenType : TypeToken<ArrayList<Oracle>>() {
 }

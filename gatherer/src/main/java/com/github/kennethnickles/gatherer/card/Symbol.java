@@ -1,5 +1,6 @@
 package com.github.kennethnickles.gatherer.card;
 
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import com.github.kennethnickles.gatherer.card.internal.SymbolLookup;
@@ -95,8 +96,9 @@ public enum Symbol {
 		return mSymbol;
 	}
 
+	@NonNull
 	public String getName() {
-		return mName;
+		return mName.toLowerCase();
 	}
 
 	public int getCmc() {

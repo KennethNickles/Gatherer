@@ -5,10 +5,10 @@ import com.github.kennethnickles.gatherer.card.Edition
 import com.github.kennethnickles.gatherer.card.Set
 import com.github.kennethnickles.gatherer.card.internal.CardJsonDeserializer
 import com.github.kennethnickles.gatherer.card.internal.EditionJsonDeserializer
-import com.github.kennethnickles.gatherer.card.internal.RuleArrayJsonDeserializer
-import com.github.kennethnickles.gatherer.card.internal.RuleArrayTokenType
-import com.github.kennethnickles.gatherer.card.internal.RuleListJsonDeserializer
-import com.github.kennethnickles.gatherer.card.internal.RuleListTokenType
+import com.github.kennethnickles.gatherer.card.internal.OracleArrayJsonDeserializer
+import com.github.kennethnickles.gatherer.card.internal.OracleArrayTokenType
+import com.github.kennethnickles.gatherer.card.internal.OracleListJsonDeserializer
+import com.github.kennethnickles.gatherer.card.internal.OracleListTokenType
 import com.github.kennethnickles.gatherer.card.internal.SetJsonDeserializer
 import com.github.kennethnickles.gatherer.card.internal.SymbolArrayJsonDeserializer
 import com.github.kennethnickles.gatherer.card.internal.SymbolArrayTokenType
@@ -25,8 +25,8 @@ class CardGsonFactory {
 
 	private val cardDeserializer = CardJsonDeserializer()
 	private val editionDeserializer = EditionJsonDeserializer()
-	private val ruleArrayDeserializer = RuleArrayJsonDeserializer()
-	private val ruleListDeserializer = RuleListJsonDeserializer()
+	private val oracleArrayDeserializer = OracleArrayJsonDeserializer()
+	private val oracleListDeserializer = OracleListJsonDeserializer()
 	private val setsDeserializer = SetJsonDeserializer()
 	private val symbolArrayDeserializer = SymbolArrayJsonDeserializer()
 	private val symbolListDeserializer = SymbolListJsonDeserializer()
@@ -35,8 +35,8 @@ class CardGsonFactory {
 		return GsonBuilder()
 				.registerTypeAdapter(Card::class.java, cardDeserializer)
 				.registerTypeAdapter(Edition::class.java, editionDeserializer)
-				.registerTypeAdapter(RuleArrayTokenType().type, ruleArrayDeserializer)
-				.registerTypeAdapter(RuleListTokenType().type, ruleListDeserializer)
+				.registerTypeAdapter(OracleArrayTokenType().type, oracleArrayDeserializer)
+				.registerTypeAdapter(OracleListTokenType().type, oracleListDeserializer)
 				.registerTypeAdapter(Set::class.java, setsDeserializer)
 				.registerTypeAdapter(SymbolArrayTokenType().type, symbolArrayDeserializer)
 				.registerTypeAdapter(SymbolListTokenType().type, symbolListDeserializer)

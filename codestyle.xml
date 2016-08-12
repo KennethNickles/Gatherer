@@ -100,19 +100,19 @@
             <option name="CONTINUATION_INDENT_SIZE" value="4" />
         </indentOptions>
         <arrangement>
-            <rules>
+            <oracles>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>xmlns:android</NAME>
                                 <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>xmlns:.*</NAME>
@@ -120,10 +120,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:id</NAME>
@@ -131,10 +131,10 @@
                                 </XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:name</NAME>
@@ -142,30 +142,30 @@
                                 </XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>name</NAME>
                                 <XML_NAMESPACE>^$</XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>style</NAME>
                                 <XML_NAMESPACE>^$</XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*</NAME>
@@ -173,10 +173,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:layout_width</NAME>
@@ -184,10 +184,10 @@
                                 </XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:layout_height</NAME>
@@ -195,10 +195,10 @@
                                 </XML_NAMESPACE>
                             </AND>
                         </match>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:layout_.*</NAME>
@@ -207,10 +207,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:width</NAME>
@@ -219,10 +219,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*:height</NAME>
@@ -231,10 +231,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*</NAME>
@@ -243,10 +243,10 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
                 <section>
-                    <rule>
+                    <oracle>
                         <match>
                             <AND>
                                 <NAME>.*</NAME>
@@ -254,9 +254,9 @@
                             </AND>
                         </match>
                         <order>BY_NAME</order>
-                    </rule>
+                    </oracle>
                 </section>
-            </rules>
+            </oracles>
         </arrangement>
     </codeStyleSettings>
 </code_scheme>

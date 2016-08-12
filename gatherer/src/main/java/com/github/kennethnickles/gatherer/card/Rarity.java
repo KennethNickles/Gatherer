@@ -1,10 +1,12 @@
 package com.github.kennethnickles.gatherer.card;
 
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
+
 import java.util.List;
 
 /**
@@ -20,13 +22,18 @@ public enum Rarity {
 	RARE,
 	SPECIAL;
 
+	@NonNull
+	public String getName() {
+		return name().toLowerCase();
+	}
+
 	@Nullable
 	public static Rarity from(String lookup) {
 		if (Strings.isNullOrEmpty(lookup)) {
 			return null;
 		}
 		for (Rarity rarity : values()) {
-			if (rarity.name().equals(Enums.sanitize(lookup))) {
+			if (rarity.getName().equals(Enums.sanitize(lookup))) {
 				return rarity;
 			}
 		}

@@ -33,6 +33,7 @@ android {
 	lintOptions {
 		warning 'InvalidPackage'
 		warning 'MangledCRLF'
+		warning 'ResourceType'
 	}
 	sourceSets {
 		androidTest.java.srcDirs += 'src/androidTest/kotlin'

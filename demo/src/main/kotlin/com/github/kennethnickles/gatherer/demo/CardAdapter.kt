@@ -20,86 +20,91 @@ import com.github.kennethnickles.gatherer.util.Preconditions
  * @since 2016-05-30.
  */
 class CardAdapter(context: Context, cards: MutableList<Card>,
-                  cardSelectionListener: CardSelectionListener) : RecyclerView.Adapter<CardAdapter.CardViewHolder>() {
+				  cardSelectionListener: CardSelectionListener) : RecyclerView.Adapter<CardAdapter.CardViewHolder>() {
 
-    private val mLayoutInflater: LayoutInflater
-    private val mCards: MutableList<Card>
-    private val mCardSelectionListener: CardSelectionListener
+	private val mLayoutInflater: LayoutInflater
+	private val mCards: MutableList<Card>
+	private val mCardSelectionListener: CardSelectionListener
 
-    init {
-        mLayoutInflater = LayoutInflater.from(context)
-        mCards = Preconditions.checkNotNull(cards, "Cards")
-        mCardSelectionListener = Preconditions.checkNotNull(cardSelectionListener, "MatchCreationListener")
-    }
+	init {
+		mLayoutInflater = LayoutInflater.from(context)
+		mCards = Preconditions.checkNotNull(cards, "Cards")
+		mCardSelectionListener = Preconditions.checkNotNull(cardSelectionListener, "MatchCreationListener")
+	}
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardViewHolder {
-        val view = mLayoutInflater.inflate(R.layout.view_card, parent, false)
-        return CardViewHolder(view)
-    }
+	override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardViewHolder {
+		val view = mLayoutInflater.inflate(R.layout.view_card, parent, false)
+		return CardViewHolder(view)
+	}
 
-    override fun onBindViewHolder(holder: CardViewHolder, position: Int) {
-        val card = mCards[position]
-        holder.bind(card)
-        holder.bindListener(mCardSelectionListener)
-    }
+	override fun onBindViewHolder(holder: CardViewHolder, position: Int) {
+		val card = mCards[position]
+		holder.bind(card)
+		holder.bindListener(mCardSelectionListener)
+	}
 
-    override fun getItemId(position: Int): Long {
-        return position.toLong()
-    }
+	override fun getItemId(position: Int): Long {
+		return position.toLong()
+	}
 
-    override fun getItemCount(): Int {
-        return mCards.size
-    }
+	override fun getItemCount(): Int {
+		return mCards.size
+	}
 
-    override fun onViewRecycled(holder: CardViewHolder?) {
-        holder!!.unbind()
-    }
+	override fun onViewRecycled(holder: CardViewHolder?) {
+		holder!!.unbind()
+	}
 
-    fun addCards(@NonNull cards: List<Card>) {
-        mCards.clear()
-        mCards.addAll(cards)
-        notifyDataSetChanged()
-    }
+	fun addCards(@NonNull cards: List<Card>) {
+		mCards.clear()
+		mCards.addAll(cards)
+		notifyDataSetChanged()
+	}
 
-    class CardViewHolder(formatView: View) : RecyclerView.ViewHolder(formatView), Bindable<Card> {
+	fun clearCards() {
+		mCards.clear()
+		notifyDataSetChanged()
+	}
 
-        @BindView(R.id.view_card)
-        lateinit var mViewTarget: CrossfadeViewTarget
+	class CardViewHolder(formatView: View) : RecyclerView.ViewHolder(formatView), Bindable<Card> {
 
-        private var mCardSelectionListener: CardSelectionListener? = null
-        private var mCard: Card? = null
+		@BindView(R.id.view_card)
+		lateinit var mViewTarget: CrossfadeViewTarget
 
-        init {
-            ButterKnife.bind(this, formatView)
-        }
+		private var mCardSelectionListener: CardSelectionListener? = null
+		private var mCard: Card? = null
 
-        override fun bind(card: Card) {
-            mCard = Preconditions.checkNotNull(card, "Card")
-            Glide.with(mViewTarget!!.context).load(scanForUrl(card)).asBitmap().diskCacheStrategy(
-                    DiskCacheStrategy.RESULT).placeholder(R.drawable.card_back_180dp).into(mViewTarget)
-        }
+		init {
+			ButterKnife.bind(this, formatView)
+		}
 
-        override fun unbind() {
-            this.mCardSelectionListener = null
-        }
+		override fun bind(card: Card) {
+			mCard = Preconditions.checkNotNull(card, "Card")
+			Glide.with(mViewTarget!!.context).load(scanForUrl(card)).asBitmap().diskCacheStrategy(
+					DiskCacheStrategy.RESULT).placeholder(R.drawable.card_back_180dp).into(mViewTarget)
+		}
 
-        fun bindListener(cardSelectionListener: CardSelectionListener) {
-            mCardSelectionListener = Preconditions.checkNotNull(cardSelectionListener, "MatchCreationListener")
-        }
+		override fun unbind() {
+			this.mCardSelectionListener = null
+		}
 
-        @OnClick(R.id.view_card)
-        fun onClick() {
-            Preconditions.checkState(mCard != null, "Card never bound, launch failed")
-            mCardSelectionListener!!.onCardSelected(mCard!!)
-        }
+		fun bindListener(cardSelectionListener: CardSelectionListener) {
+			mCardSelectionListener = Preconditions.checkNotNull(cardSelectionListener, "MatchCreationListener")
+		}
 
-        private fun scanForUrl(card: Card): String? {
-            for (edition in card.editions) {
-                if (edition.imageUrl != null && edition.imageUrl != "https://image.deckbrew.com/mtg/multiverseid/0.jpg") {
-                    return edition.imageUrl
-                }
-            }
-            return null
-        }
-    }
+		@OnClick(R.id.view_card)
+		fun onClick() {
+			Preconditions.checkState(mCard != null, "Card never bound, launch failed")
+			mCardSelectionListener!!.onCardSelected(mCard!!)
+		}
+
+		private fun scanForUrl(card: Card): String? {
+			for (edition in card.editions) {
+				if (edition.imageUrl != null && edition.imageUrl != "https://image.deckbrew.com/mtg/multiverseid/0.jpg") {
+					return edition.imageUrl
+				}
+			}
+			return null
+		}
+	}
 }

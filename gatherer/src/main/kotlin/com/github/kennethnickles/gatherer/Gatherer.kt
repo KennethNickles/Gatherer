@@ -19,99 +19,106 @@ import rx.Observer
  */
 object Gatherer {
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun cards(request: GathererRequest, observer: Observer<List<Card>>) {
-        Preconditions.checkArgument(request != null, "request")
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).cards(request.getNames(),
-                                                           request.getSupertypes(),
-                                                           request.getTypes(),
-                                                           request.getSubtypes(),
-                                                           request.getColors()).subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun cards(request: GathererRequest, observer: Observer<List<Card>>) {
+		Preconditions.checkArgument(request != null, "request")
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).cards(request.getTypes(),
+														   request.getSubtypes(),
+														   request.getSupertypes(),
+														   request.getNames(),
+														   request.getOracleText(),
+														   request.getSets(),
+														   request.getRarities(),
+														   request.getColors(),
+														   request.getMulticolor(),
+														   request.getFormats(),
+														   request.getStatuses(),
+														   request.getPage()).subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun card(id: String, observer: Observer<Card>) {
-        Preconditions.checkArgument(id != null, "id")
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).card(id).subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun card(id: String, observer: Observer<Card>) {
+		Preconditions.checkArgument(id != null, "id")
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).card(id).subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun typeahead(query: String, observer: Observer<List<Card>>?) {
-        Preconditions.checkArgument(query != null, "query")
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).typeahead(query).subscribe(observer)
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun typeahead(query: String, observer: Observer<List<Card>>?) {
+		Preconditions.checkArgument(query != null, "query")
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).typeahead(query).subscribe(observer)
 
-    }
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun sets(observer: Observer<List<Set>>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).sets().subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun sets(observer: Observer<List<Set>>) {
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).sets().subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun types(observer: Observer<List<String>>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).types().subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun types(observer: Observer<List<String>>) {
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).types().subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun supertypes(observer: Observer<List<String>>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).supertypes().subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun supertypes(observer: Observer<List<String>>) {
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).supertypes().subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun subtypes(observer: Observer<List<String>>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).subtypes().subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun subtypes(observer: Observer<List<String>>) {
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).subtypes().subscribe(observer)
+	}
 
-    /**
-     * Hits DeckBrew Api
-     */
-    fun colors(observer: Observer<List<String>>) {
-        Preconditions.checkArgument(observer != null, "observer")
-        val gson = CardGsonFactory().createCardGson()
-        val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
-                GsonConverterFactory.create(gson)).build()
-        retrofit.create(DeckBrewService::class.java).colors().subscribe(observer)
-    }
+	/**
+	 * Hits DeckBrew Api
+	 */
+	fun colors(observer: Observer<List<String>>) {
+		Preconditions.checkArgument(observer != null, "observer")
+		val gson = CardGsonFactory().createCardGson()
+		val retrofit = Retrofit.Builder().baseUrl("https://api.deckbrew.com/").addConverterFactory(
+				GsonConverterFactory.create(gson)).build()
+		retrofit.create(DeckBrewService::class.java).colors().subscribe(observer)
+	}
 }

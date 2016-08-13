@@ -19,17 +19,17 @@ import java.util.regex.Pattern;
  * @since 2016-03-07.
  */
 @Parceled
-public class Rule implements Parcelable {
+public class Oracle implements Parcelable {
 
-    public static final Creator<Rule> CREATOR = Postman.getCreator(Rule.class);
+    public static final Creator<Oracle> CREATOR = Postman.getCreator(Oracle.class);
 
     Builder mState;
 
-    Rule() {
+    Oracle() {
         // Postman
     }
 
-    private Rule(Builder builder) {
+    private Oracle(Builder builder) {
         this.mState = builder;
     }
 
@@ -43,8 +43,8 @@ public class Rule implements Parcelable {
     }
 
     @NonNull
-    public String getRuleText() {
-        return mState.mRuleText;
+    public String getOracleText() {
+        return mState.mOracleText;
     }
 
     public static Builder builder() {
@@ -62,11 +62,11 @@ public class Rule implements Parcelable {
     }
 
     @Nullable
-    public static Rule from(String lookup) {
+    public static Oracle from(String lookup) {
         if (lookup == null || lookup.isEmpty()) {
             return null;
         }
-        final Builder builder = builder().withRuleText(lookup);
+        final Builder builder = builder().withOracleText(lookup);
         final String regex = "\\{(.*?)\\}";
         final Pattern pattern = Pattern.compile(regex);
         final Matcher matcher = pattern.matcher(lookup);
@@ -88,7 +88,7 @@ public class Rule implements Parcelable {
 
         ArrayList<Symbol> mSymbols = Lists.newArrayList();
         int mConvertedManaCost;
-        String mRuleText;
+        String mOracleText;
 
         Builder() {
             // Postman
@@ -126,13 +126,13 @@ public class Rule implements Parcelable {
             return this;
         }
 
-        public Builder withRuleText(@NonNull String ruleText) {
-            this.mRuleText = ruleText;
+        public Builder withOracleText(@NonNull String oracleText) {
+            this.mOracleText = oracleText;
             return this;
         }
 
-        public Rule build() {
-            return new Rule(this);
+        public Oracle build() {
+            return new Oracle(this);
         }
 
         @Override

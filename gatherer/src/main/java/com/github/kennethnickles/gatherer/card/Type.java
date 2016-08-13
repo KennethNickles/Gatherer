@@ -1,10 +1,12 @@
 package com.github.kennethnickles.gatherer.card;
 
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
 import com.github.kennethnickles.gatherer.util.Lists;
 import com.github.kennethnickles.gatherer.util.Strings;
+
 import java.util.List;
 
 /**
@@ -31,8 +33,9 @@ public enum Type {
 	ENCHANT,
 	PLAYER;
 
+	@NonNull
 	public String getName() {
-		return name();
+		return name().toLowerCase();
 	}
 
 	@Nullable

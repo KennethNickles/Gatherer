@@ -52,8 +52,8 @@ public class Card implements Parcelable {
         return mState.mStoreUrl;
     }
 
-    public List<Rule> getRules() {
-        return mState.mRules;
+    public List<Oracle> getOracleTexts() {
+        return mState.mOracles;
     }
 
     public List<Supertype> getSupertypes() {
@@ -121,13 +121,13 @@ public class Card implements Parcelable {
         ArrayList<String> mSubtypes = Lists.newArrayList();
         int mConvertedManaCost;
         ArrayList<Symbol> mSymbols = Lists.newArrayList();
-        ArrayList<Rule> mRules = Lists.newArrayList();
+        ArrayList<Oracle> mOracles = Lists.newArrayList();
         String mPower; // *
         String mToughness; // *
         HashMap<Format, Boolean> mFormats = Maps.newHashMap();
         ArrayList<Edition> mEditions = Lists.newArrayList();
 
-        Builder() {
+        protected Builder() {
             // Postman
         }
 
@@ -157,11 +157,11 @@ public class Card implements Parcelable {
 
         @NonNull
         public B withRule(@NonNull ArrayList<Symbol> symbols, int convertedManaCost, @NonNull String ruleText) {
-            this.mRules.add(Rule.builder()
-                                .withSymbols(symbols)
-                                .withConvertedManaCost(convertedManaCost)
-                                .withRuleText(ruleText)
-                                .build());
+            this.mOracles.add(Oracle.builder()
+									.withSymbols(symbols)
+									.withConvertedManaCost(convertedManaCost)
+									.withOracleText(ruleText)
+									.build());
             return getThis();
         }
 
@@ -274,16 +274,16 @@ public class Card implements Parcelable {
         }
 
         @NonNull
-        public B withRules(ArrayList<Rule> rules) {
-            Preconditions.checkArgument(rules != null, "Rules");
-            this.mRules.addAll(rules);
+        public B withOracleTexts(ArrayList<Oracle> oracles) {
+            Preconditions.checkArgument(oracles != null, "Rules");
+            this.mOracles.addAll(oracles);
             return getThis();
         }
 
         @NonNull
-        public B withRule(@NonNull Rule rule) {
-            Preconditions.checkArgument(rule != null, "Rule");
-            this.mRules.add(rule);
+        public B withRule(@NonNull Oracle oracle) {
+            Preconditions.checkArgument(oracle != null, "Oracle");
+            this.mOracles.add(oracle);
             return getThis();
         }
 

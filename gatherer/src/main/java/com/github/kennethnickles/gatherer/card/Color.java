@@ -1,5 +1,6 @@
 package com.github.kennethnickles.gatherer.card;
 
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import com.github.kennethnickles.gatherer.util.Enums;
@@ -27,12 +28,14 @@ public enum Color {
 		this.mSymbol = symbol;
 	}
 
+	@NonNull
 	public String getSymbol() {
 		return mSymbol;
 	}
 
+	@NonNull
 	public String getName() {
-		return mName;
+		return mName.toLowerCase();
 	}
 
 	@Nullable

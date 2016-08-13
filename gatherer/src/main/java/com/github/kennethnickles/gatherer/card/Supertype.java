@@ -22,7 +22,7 @@ public enum Supertype {
 
 	@NonNull
 	public String getName() {
-		return name();
+		return name().toLowerCase();
 	}
 
 	@Nullable
@@ -31,7 +31,7 @@ public enum Supertype {
 			return null;
 		}
 		for (Supertype supertype : values()) {
-			if (Enums.sanitize(supertype.name()).equals(Enums.sanitize(lookup))) {
+			if (Enums.sanitize(supertype.getName()).equals(Enums.sanitize(lookup))) {
 				return supertype;
 			}
 		}

@@ -1,32 +1,189 @@
-<RelativeLayout android:id="@+id/fragment_view"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.github.kennethnickles.gatherer.demo.GathererSearchFragment"
-    tools:showIn="@layout/activity_main">
+<LinearLayout android:id="@+id/fragment_view"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="horizontal"
+	tools:context="com.github.kennethnickles.gatherer.demo.GathererSearchFragment">
 
-    <android.support.v4.widget.ContentLoadingProgressBar
-        android:id="@+id/view_progress_loading"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true" />
+	<ScrollView
+		android:id="@+id/scroll_view_filter"
+		android:layout_width="0dp"
+		android:layout_height="match_parent"
+		android:layout_weight="1"
+		android:padding="@dimen/single_spacing">
 
-    <ScrollView
-        android:id="@+id/scroll_view_error"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="@dimen/single_spacing">
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/text_view_error"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </ScrollView>
+			<TextView
+				android:id="@+id/type"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/type" />
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/recycler_view_cards"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+			<android.support.design.widget.TextInputLayout
+				android:id="@+id/container_subtype"
+				style="@style/Widget.TextInputLayout"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
 
-</RelativeLayout>
+				<android.support.design.widget.TextInputEditText
+					android:id="@+id/subtype"
+					style="@style/Widget.TextInputEditText"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:hint="@string/subtype" />
+
+			</android.support.design.widget.TextInputLayout>
+
+			<TextView
+				android:id="@+id/supertype"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/supertype" />
+
+			<android.support.design.widget.TextInputLayout
+				android:id="@+id/container_name"
+				style="@style/Widget.TextInputLayout"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<android.support.design.widget.TextInputEditText
+					android:id="@+id/name"
+					style="@style/Widget.TextInputEditText"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:hint="@string/name" />
+			</android.support.design.widget.TextInputLayout>
+
+
+			<android.support.design.widget.TextInputLayout
+				android:id="@+id/container_oracle"
+				style="@style/Widget.TextInputLayout"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<android.support.design.widget.TextInputEditText
+					android:id="@+id/oracle"
+					style="@style/Widget.TextInputEditText"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:hint="@string/oracle" />
+
+			</android.support.design.widget.TextInputLayout>
+
+			<TextView
+				android:id="@+id/rarity"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/rarity" />
+
+			<android.support.design.widget.TextInputLayout
+				android:id="@+id/container_set"
+				style="@style/Widget.TextInputLayout"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<android.support.design.widget.TextInputEditText
+					android:id="@+id/set"
+					style="@style/Widget.TextInputEditText"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:hint="@string/set" />
+
+			</android.support.design.widget.TextInputLayout>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/multicolor"
+				style="@style/Widget.SwitchCompat"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/multicolor"
+				android:textIsSelectable="true"
+				android:textOff="True"
+				android:textOn="False" />
+
+			<TextView
+				android:id="@+id/color"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/color" />
+
+			<TextView
+				android:id="@+id/format"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/format" />
+
+			<TextView
+				android:id="@+id/status"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/status" />
+
+			<android.support.design.widget.TextInputLayout
+				android:id="@+id/container_page"
+				style="@style/Widget.TextInputLayout"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content">
+
+				<android.support.design.widget.TextInputEditText
+					android:id="@+id/page"
+					style="@style/Widget.TextInputEditText"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:hint="@string/page"
+					android:inputType="number" />
+
+			</android.support.design.widget.TextInputLayout>
+
+			<TextView
+				android:id="@+id/clear"
+				style="@style/Widget.TextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/clear" />
+		</LinearLayout>
+	</ScrollView>
+
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="match_parent"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<android.support.v4.widget.ContentLoadingProgressBar
+			android:id="@+id/view_progress_loading"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true" />
+
+		<ScrollView
+			android:id="@+id/scroll_view_error"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="@dimen/single_spacing">
+
+			<TextView
+				android:id="@+id/text_view_error"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent" />
+		</ScrollView>
+
+		<android.support.v7.widget.RecyclerView
+			android:id="@+id/recycler_view_cards"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent" />
+	</LinearLayout>
+
+</LinearLayout>

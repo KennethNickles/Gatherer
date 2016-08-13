@@ -91,7 +91,7 @@ afterEvaluate { project ->
 
                 pom.groupId = group_id
                 pom.artifactId = artifact_id
-                pom.version = version_code
+                pom.version = version_name
 
                 repository(url: getReleaseRepositoryUrl()) {
                     authentication(userName: getRepositoryUsername(),
